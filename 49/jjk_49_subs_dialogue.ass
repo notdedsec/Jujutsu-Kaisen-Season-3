@@ -1,0 +1,342 @@
+﻿[Script Info]
+Title: Jujutsu Kaisen - 49 - Once Again
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 1920
+PlayResY: 1080
+LayoutResX: 1920
+LayoutResY: 1080
+YCbCr Matrix: TV.709
+ScaledBorderAndShadow: yes
+
+[Aegisub Project Garbage]
+Video File: jjk_49_premux.mkv
+Audio File: jjk_49_premux.mkv
+Keyframes File: jjk_49_keyframes.txt
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Cabin F,75,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.8,2,128,128,60,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:02:00.42,0:02:01.51,Default,Okkotsu,0,0,0,,I'm sorry,
+Dialogue: 0,0:02:03.34,0:02:04.45,Default,Okkotsu,0,0,0,,Itadori{**-kun}.
+Dialogue: 0,0:02:08.09,0:02:09.52,Default,Sukuna,0,0,0,,Tsk.
+Dialogue: 0,0:02:42.09,0:02:43.17,Default,Choso,0,0,0,,{\i1}He's fast!
+Dialogue: 0,0:02:43.17,0:02:45.60,Default,Choso,0,0,0,,{\i1}I can't figure out the \Ntrick to his technique!
+Dialogue: 0,0:02:45.60,0:02:47.98,Default,Choso,0,0,0,,{\i1}With him overwhelming \Nme this badly already,
+Dialogue: 0,0:02:47.98,0:02:50.23,Default,Choso,0,0,0,,{\i1}he's not likely to reveal his hand, either.
+Dialogue: 0,0:02:50.23,0:02:53.06,Default,Choso,0,0,0,,{\i1}I have no chance to use Convergence!
+Dialogue: 0,0:02:53.37,0:02:56.77,Default,Choso,0,0,0,,{\i1}None of my external Blood \NManipulation is usable here!
+Dialogue: 0,0:03:06.58,0:03:07.96,Default,Naoya,0,0,0,,You're persistent.
+Dialogue: 0,0:03:07.96,0:03:09.87,Default,Naoya,0,0,0,,Seriously, what are you?
+Dialogue: 0,0:03:10.71,0:03:11.66,Default,Choso,0,0,0,,An older brother.
+Dialogue: 0,0:03:12.07,0:03:14.16,Default,Choso,0,0,0,,To nine other siblings.
+Dialogue: 0,0:03:14.79,0:03:17.55,Default,Choso,0,0,0,,{\i1}{\an8}Flowing Red Scale - Stack!
+Dialogue: 0,0:03:17.55,0:03:20.04,Default,Naoya,0,0,0,,That ain't an answer.
+Dialogue: 0,0:03:20.04,0:03:22.26,Default,Naoya,0,0,0,,I was asking about
+Dialogue: 0,0:03:22.26,0:03:24.80,Default,Naoya,0,0,0,,your toughness and that technique...
+Dialogue: 0,0:03:42.82,0:03:44.82,Default,Naoya,0,0,0,,{\i1}He's starting to match me.
+Dialogue: 0,0:03:52.39,0:03:54.15,Default,Naoya,0,0,0,,{\i1}I see.
+Dialogue: 0,0:03:54.15,0:03:56.15,Default,Naoya,0,0,0,,{\i1}Flowing Red Scale, huh?
+Dialogue: 0,0:03:56.15,0:03:58.96,Default,Naoya,0,0,0,,{\i1}He's focusing that power \Non his external eye muscles
+Dialogue: 0,0:03:58.96,0:04:01.17,Default,Naoya,0,0,0,,{\i1}to improve his kinetic vision.
+Dialogue: 0,0:04:02.03,0:04:03.33,Default,Naoya,0,0,0,,Too bad.
+Dialogue: 0,0:04:03.33,0:04:06.38,Default,Naoya,0,0,0,,I'm setting motions on the \Nassumption of a counter.
+Dialogue: 0,0:04:07.50,0:04:10.51,Default,Naoya,0,0,0,,You're persistent, so I \Nwent ahead and used it.
+Dialogue: 0,0:04:10.51,0:04:11.39,Default,Naoya,0,0,0,,My weapon.
+Dialogue: 0,0:04:11.79,0:04:13.12,Default,Naoya,0,0,0,,You've got Blood Manipulation,
+Dialogue: 0,0:04:13.12,0:04:15.05,Default,Naoya,0,0,0,,so staunching blood flow\Nshould be your forte.
+Dialogue: 0,0:04:15.05,0:04:17.42,Default,Naoya,0,0,0,,Let's find out how well you fare against me
+Dialogue: 0,0:04:17.42,0:04:20.07,Default,Naoya,0,0,0,,while distracted with \Nstaunching your bleeding.
+Dialogue: 0,0:04:20.07,0:04:21.69,Default,Choso,0,0,0,,You came well prepared.
+Dialogue: 0,0:04:21.69,0:04:23.25,Default,Naoya,0,0,0,,Keep it a secret.
+Dialogue: 0,0:04:23.25,0:04:25.33,Default,Naoya,0,0,0,,Honestly, I think it's lame.
+Dialogue: 0,0:04:25.33,0:04:27.63,Default,Naoya,0,0,0,,A sorcerer walking around with a weapon?
+Dialogue: 0,0:04:27.63,0:04:30.39,Default,Naoya,0,0,0,,Feels strange if you can't win without it.
+Dialogue: 0,0:04:30.39,0:04:33.70,Default,Naoya,0,0,0,,A surprising number of \Npeople share this idea.
+Dialogue: 0,0:04:33.70,0:04:37.02,Default,Naoya,0,0,0,,My own older brothers are pathetic, \Ncarrying them around.
+Dialogue: 0,0:04:37.02,0:04:40.71,Default,Naoya,0,0,0,,Yet they think they have any right \Nto complain about Toji{**-kun}.
+Dialogue: 0,0:04:40.71,0:04:43.67,Default,Choso,0,0,0,,You hate them, don't you? Your brothers?
+Dialogue: 0,0:04:43.67,0:04:45.10,Default,Naoya,0,0,0,,I do.
+Dialogue: 0,0:04:45.10,0:04:48.76,Default,Naoya,0,0,0,,Older brothers who are less competent \Nthan a younger brother serve no purpose.
+Dialogue: 0,0:04:48.76,0:04:51.13,Default,Naoya,0,0,0,,They deserve to be hung.
+Dialogue: 0,0:04:51.13,0:04:53.55,Default,Choso,0,0,0,,You might be who you are now
+Dialogue: 0,0:04:53.55,0:04:56.27,Default,Choso,0,0,0,,thanks to those older brothers.
+Dialogue: 0,0:04:56.63,0:04:57.50,Default,Naoya,0,0,0,,Huh?
+Dialogue: 0,0:04:57.50,0:05:01.24,Default,Naoya,0,0,0,,Did you just say something super disgusting?
+Dialogue: 0,0:05:01.24,0:05:03.24,Default,Naoya,0,0,0,,I'm grossed out.
+Dialogue: 0,0:05:04.06,0:05:06.41,Default,Choso,0,0,0,,Competent or not, older brothers
+Dialogue: 0,0:05:06.41,0:05:08.79,Default,Choso,0,0,0,,serve as an example to their younger brother.
+Dialogue: 0,0:05:09.24,0:05:11.16,Default,Choso,0,0,0,,If I go down the wrong path,
+Dialogue: 0,0:05:11.16,0:05:13.65,Default,Choso,0,0,0,,then my little brothers \Ncan just avoid that path.
+Dialogue: 0,0:05:13.95,0:05:16.22,Default,Choso,0,0,0,,And if I go down the proper path,
+Dialogue: 0,0:05:16.22,0:05:18.60,Default,Choso,0,0,0,,then my little brothers can follow after me.
+Dialogue: 0,0:05:19.01,0:05:20.61,Default,Choso,0,0,0,,What would you do
+Dialogue: 0,0:05:20.61,0:05:23.69,Default,Choso,0,0,0,,if you were strong because your \Nolder brothers proved weak?
+Dialogue: 0,0:05:24.19,0:05:26.42,Default,Choso,0,0,0,,You asked me why I'm so tough?
+Dialogue: 0,0:05:26.88,0:05:28.46,Default,Choso,0,0,0,,I'll tell you.
+Dialogue: 0,0:05:28.46,0:05:30.32,Default,Choso,0,0,0,,I never had an example.
+Dialogue: 0,0:05:30.32,0:05:32.62,Default,Choso,0,0,0,,I had to make many, many, many mistakes.
+Dialogue: 0,0:05:32.62,0:05:36.76,Default,Choso,0,0,0,,Yet I always had to keep \Nwalking in front of my brothers.
+Dialogue: 0,0:05:36.76,0:05:39.03,Default,Choso,0,0,0,,That's why I'm strong!
+Dialogue: 0,0:05:43.19,0:05:44.96,Default,Naoya,0,0,0,,{\i1}What's he on about?
+Dialogue: 0,0:05:44.96,0:05:47.20,Default,Naoya,0,0,0,,{\i1}How's he still alive after bleeding so much?
+Dialogue: 0,0:05:54.96,0:05:58.79,Default,Narrator,0,0,0,,The Death Paintings are \Na mix of curse and human.
+Dialogue: 0,0:05:58.79,0:06:03.06,Default,Narrator,0,0,0,,They possess the unique ability to \Nconvert cursed energy into blood.
+Dialogue: 0,0:06:03.06,0:06:08.03,Default,Narrator,0,0,0,,Until their cursed energy dries up, \Nthey cannot die from blood loss.
+Dialogue: 0,0:06:34.22,0:06:35.65,Default,Naoya,0,0,0,,{\i1}My legs are heavy?!
+Dialogue: 0,0:06:35.65,0:06:39.17,Default,Naoya,0,0,0,,{\i1}Did he harden the blood that \Nseeped into the fabric?!
+Dialogue: 0,0:06:39.99,0:06:41.54,Default,Choso,0,0,0,,You get it, right?
+Dialogue: 0,0:06:42.66,0:06:44.17,Default,Choso,0,0,0,,It's checkmate.
+Dialogue: 0,0:06:50.50,0:06:52.41,Default,Naoya,0,0,0,,I'm not sure about that.
+Dialogue: 0,0:06:53.53,0:06:56.16,Default,Naoya,0,0,0,,{\i1}My technique traces the motions
+Dialogue: 0,0:06:56.16,0:06:58.72,Default,Naoya,0,0,0,,{\i1}set ahead of time at 24 fps.
+Dialogue: 0,0:06:58.72,0:07:01.77,Default,Naoya,0,0,0,,{\i1}I can still move without issue \Nunder this minor a hindrance.
+Dialogue: 0,0:07:02.77,0:07:04.67,Default,Naoya,0,0,0,,{\i1}Let's try it.
+Dialogue: 0,0:07:08.00,0:07:10.90,Default,Naoya,0,0,0,,{\i1}Why isn't he firing at me?
+Dialogue: 0,0:07:10.90,0:07:12.88,Default,Narrator,0,0,0,,{\an8}This was Choso's original,
+Dialogue: 0,0:07:12.88,0:07:17.67,Default,Narrator,0,0,0,,{\an8}developed after grappling with \Nhis technique for 150 years.
+Dialogue: 0,0:07:42.81,0:07:47.50,Default,Choso,0,0,0,,Sorry, but I can't understand how \Nyou could never love your brothers.
+Dialogue: 0,0:08:10.21,0:08:12.22,Default,Okkotsu,0,0,0,,That looks painful,
+Dialogue: 0,0:08:13.36,0:08:14.47,Default,Okkotsu,0,0,0,,Naoya{**-san}.
+Dialogue: 0,0:08:18.68,0:08:20.45,Default,Naoya,0,0,0,,Don't look down on me!
+Dialogue: 0,0:08:26.43,0:08:28.23,Default,Naoya,0,0,0,,{\i1}What's this?
+Dialogue: 0,0:08:28.23,0:08:29.17,Default,Naoya,0,0,0,,{\i1}Poison?
+Dialogue: 0,0:08:29.52,0:08:32.69,Default,Naoya,0,0,0,,{\i1}Blood Manipulation shouldn't be capable of—
+Dialogue: 0,0:08:32.69,0:08:35.67,Default,Naoya,0,0,0,,{\i1}No! It's not a product of his technique!
+Dialogue: 0,0:08:35.67,0:08:39.46,Default,Naoya,0,0,0,,{\i1}He had that much blood \Nbecause he's not human!
+Dialogue: 0,0:08:39.46,0:08:41.10,Default,Naoya,0,0,0,,{\i1}An incarnation?!
+Dialogue: 0,0:08:41.10,0:08:44.69,Default,Naoya,0,0,0,,{\i1}His inhuman blood got into my \Nbody and is being rejected!
+Dialogue: 0,0:08:44.69,0:08:46.46,Default,Okkotsu,0,0,0,,Shall I heal you?
+Dialogue: 0,0:08:47.62,0:08:51.24,Default,Okkotsu,0,0,0,,My reverse cursed technique \Ncan heal people, too.
+Dialogue: 0,0:08:51.63,0:08:53.04,Default,Okkotsu,0,0,0,,In return,
+Dialogue: 0,0:08:53.63,0:08:56.90,Default,Okkotsu,0,0,0,,could you please report Itadori{**-kun}'s death
+Dialogue: 0,0:08:56.90,0:08:58.99,Default,Okkotsu,0,0,0,,to the top brass, as well?
+Dialogue: 0,0:09:01.77,0:09:02.75,Default,Yuji's Grandfather,0,0,0,,Jin!
+Dialogue: 0,0:09:08.97,0:09:10.93,Default,Jin,0,0,0,,What is it, Dad?
+Dialogue: 0,0:09:11.53,0:09:14.18,Default,Jin,0,0,0,,If you want to talk about \Nher, I'm going home.
+Dialogue: 0,0:09:14.94,0:09:16.04,Default,Yuji's Grandfather,0,0,0,,Jin!
+Dialogue: 0,0:09:16.43,0:09:19.47,Default,Yuji's Grandfather,0,0,0,,You're free to live your \Nlife however you please.
+Dialogue: 0,0:09:20.23,0:09:23.64,Default,Yuji's Grandfather,0,0,0,,But you have to stay away from that woman!
+Dialogue: 0,0:09:23.64,0:09:24.54,Default,Yuji's Grandfather,0,0,0,,You'll die!
+Dialogue: 0,0:09:25.84,0:09:29.34,Default,Jin,0,0,0,,Please stop saying such mean \Nthings in front of Yuji.
+Dialogue: 0,0:09:29.34,0:09:32.61,Default,Jin,0,0,0,,You'd be surprised at how \Nmuch a baby can remember.
+Dialogue: 0,0:09:33.05,0:09:35.80,Default,Yuji's Grandfather,0,0,0,,I know that you've wanted a child,
+Dialogue: 0,0:09:35.80,0:09:39.49,Default,Yuji's Grandfather,0,0,0,,and I know you were never \Nable to do that with Kaori.
+Dialogue: 0,0:09:40.09,0:09:42.29,Default,Yuji's Grandfather,0,0,0,,But Kaori died—
+Dialogue: 0,0:09:42.68,0:09:45.50,Default,Kaori,0,0,0,,Father, what are you talking about?
+Dialogue: 0,0:09:59.73,0:10:01.88,Default,Yuji,0,0,0,,Huh? I'm...
+Dialogue: 0,0:10:19.00,0:10:23.33,Default,Okkotsu,0,0,0,,Th-Thank goodness!
+Dialogue: 0,0:10:24.89,0:10:26.08,Default,Yuji,0,0,0,,Huh?
+Dialogue: 0,0:10:30.49,0:10:32.47,Default,Okkotsu,0,0,0,,Around September, I think?
+Dialogue: 0,0:10:33.08,0:10:35.60,Default,Okkotsu,0,0,0,,{*}Mr. Gojo{*Gojo-sensei} went out of his way to see me.
+Dialogue: 0,0:10:36.19,0:10:38.61,Default,Okkotsu,0,0,0,,He asked me to take care of you.
+Dialogue: 0,0:10:39.37,0:10:43.24,Default,Okkotsu,0,0,0,,So I had no choice but to put on that act.
+Dialogue: 0,0:10:43.56,0:10:44.64,Default,Yuji,0,0,0,,Act?
+Dialogue: 0,0:10:45.53,0:10:48.50,Default,Gojo,0,0,0,,I've got a bit of a bad feeling,
+Dialogue: 0,0:10:48.50,0:10:50.27,Default,Gojo,0,0,0,,so if anything happens to me,
+Dialogue: 0,0:10:50.27,0:10:53.58,Default,Gojo,0,0,0,,I want you to take care of the \Nfirst- and second-years, Yuta.
+Dialogue: 0,0:10:53.58,0:10:55.78,Default,Gojo,0,0,0,,Hakari? Well, he'll be fine.
+Dialogue: 0,0:10:56.46,0:10:57.81,Default,Okkotsu,0,0,0,,If anything happens?
+Dialogue: 0,0:10:58.21,0:11:00.26,Default,Okkotsu,0,0,0,,Troubles with women?
+Dialogue: 0,0:11:01.05,0:11:04.16,Default,Gojo,0,0,0,,You've learned to joke \Naround, haven't you, Yuta?
+Dialogue: 0,0:11:04.16,0:11:08.50,Default,Okkotsu,0,0,0,,No, I just can't imagine anything \Nhappening to you, {*}Mr. Gojo{*Gojo-sensei}.
+Dialogue: 0,0:11:09.76,0:11:12.21,Default,Gojo,0,0,0,,Take special care of Itadori Yuji.
+Dialogue: 0,0:11:12.21,0:11:14.02,Default,Gojo,0,0,0,,He's been sentenced to
+Dialogue: 0,0:11:14.02,0:11:16.50,Default,Gojo,0,0,0,,secret execution, like you were.
+Dialogue: 0,0:11:16.50,0:11:19.24,Default,Gojo,0,0,0,,It'd be a big help if you looked out for him.
+Dialogue: 0,0:11:19.48,0:11:21.51,Default,Gojo,0,0,0,,Oh, how's Miguel?
+Dialogue: 0,0:11:21.51,0:11:23.81,Default,Okkotsu,0,0,0,,He said he didn't want to see you.
+Dialogue: 0,0:11:23.81,0:11:24.93,Default,Gojo,0,0,0,,Oh.
+Dialogue: 0,0:11:25.83,0:11:28.58,Default,Okkotsu,0,0,0,,I decided that putting on \Nthis act was the best option
+Dialogue: 0,0:11:28.58,0:11:31.17,Default,Okkotsu,0,0,0,,to prevent someone else from \Nbeing sent to execute you
+Dialogue: 0,0:11:31.17,0:11:33.90,Default,Okkotsu,0,0,0,,and having information about you cut off.
+Dialogue: 0,0:11:33.90,0:11:36.16,Default,Okkotsu,0,0,0,,Well, they're not idiots, either,
+Dialogue: 0,0:11:36.16,0:11:40.68,Default,Okkotsu,0,0,0,,so before they would approve \Nme as the executioner,
+Dialogue: 0,0:11:40.68,0:11:43.85,Default,Okkotsu,0,0,0,,HQ made me forge a Binding Vow to kill you.
+Dialogue: 0,0:11:43.85,0:11:45.62,Default,Okkotsu,0,0,0,,So I did have to kill you for a second.
+Dialogue: 0,0:11:45.62,0:11:46.99,Default,Okkotsu,0,0,0,,I'm real sorry about that.
+Dialogue: 0,0:11:49.84,0:11:53.27,Default,Yuji,0,0,0,,Wait, then how am I alive?
+Dialogue: 0,0:11:54.16,0:11:55.96,Default,Okkotsu,0,0,0,,The reverse cursed technique.
+Dialogue: 0,0:11:57.25,0:11:59.61,Default,Okkotsu,0,0,0,,I used my reverse cursed technique
+Dialogue: 0,0:11:59.61,0:12:02.36,Default,Okkotsu,0,0,0,,the moment your heart stopped \Nto immediately heal you.
+Dialogue: 0,0:12:03.11,0:12:06.80,Default,Okkotsu,0,0,0,,I figured it would work, \Ngiven what I heard about you before.
+Dialogue: 0,0:12:07.32,0:12:12.06,Default,Okkotsu,0,0,0,,There are few people who know I'm \Ncapable of outputting positive energy.
+Dialogue: 0,0:12:12.49,0:12:13.62,Default,Okkotsu,0,0,0,,That's right.
+Dialogue: 0,0:12:13.85,0:12:17.23,Default,Okkotsu,0,0,0,,This is the second time \Nyou've faked your death.
+Dialogue: 0,0:12:17.78,0:12:21.29,Default,Okkotsu,0,0,0,,They'll probably figure it out soon, \Nbut the situation's still chaotic.
+Dialogue: 0,0:12:21.95,0:12:23.52,Default,Okkotsu,0,0,0,,They should consider
+Dialogue: 0,0:12:23.52,0:12:26.48,Default,Okkotsu,0,0,0,,your death sentence carried out for a while.
+Dialogue: 0,0:12:28.82,0:12:31.63,Default,Yuji,0,0,0,,Why would you go that far?
+Dialogue: 0,0:12:31.97,0:12:34.91,Default,Okkotsu,0,0,0,,Because the people I cherish...
+Dialogue: 0,0:12:35.38,0:12:37.58,Default,Okkotsu,0,0,0,,cherish you.
+Dialogue: 0,0:12:40.17,0:12:41.93,Default,Okkotsu,0,0,0,,I once shouldered
+Dialogue: 0,0:12:41.93,0:12:44.77,Default,Okkotsu,0,0,0,,a power greater than I could bear.
+Dialogue: 0,0:12:44.77,0:12:48.16,Default,Okkotsu,0,0,0,,Though the power I thought \Nwas forced upon me
+Dialogue: 0,0:12:48.16,0:12:50.66,Default,Okkotsu,0,0,0,,turned out to be something \NI brought upon myself.
+Dialogue: 0,0:12:50.66,0:12:51.97,Default,Okkotsu,0,0,0,,I'm not like you.
+Dialogue: 0,0:12:52.36,0:12:55.18,Default,Okkotsu,0,0,0,,The power you shoulder isn't your own power.
+Dialogue: 0,0:12:58.41,0:13:00.18,Default,Okkotsu,0,0,0,,You're not to blame.
+Dialogue: 0,0:13:06.17,0:13:07.27,Default,Yuji,0,0,0,,You're wrong.
+Dialogue: 0,0:13:07.79,0:13:10.19,Default,Yuji,0,0,0,,It's not even a matter of blame.
+Dialogue: 0,0:13:10.65,0:13:13.19,Default,Yuji,0,0,0,,I killed...
+Dialogue: 0,0:13:12.33,0:13:13.40,Default,Fushiguro,0,0,0,,Itadori!
+Dialogue: 0,0:13:18.50,0:13:19.67,Default,Yuji,0,0,0,,Fushiguro.
+Dialogue: 0,0:13:18.92,0:13:20.24,Default,Fushiguro,0,0,0,,What are you doing?!
+Dialogue: 0,0:13:21.18,0:13:22.86,Default,Fushiguro,0,0,0,,We're going back to Jujutsu Tech!
+Dialogue: 0,0:13:23.35,0:13:25.88,Default,Fushiguro,0,0,0,,The barrier around Jujutsu \NHigh is weakened now.
+Dialogue: 0,0:13:25.88,0:13:28.05,Default,Fushiguro,0,0,0,,It's fine for you to return
+Dialogue: 0,0:13:28.05,0:13:29.94,Default,Fushiguro,0,0,0,,as long as no one sees your face directly.
+Dialogue: 0,0:13:30.51,0:13:33.04,Default,Fushiguro,0,0,0,,We'll meet up with the upperclassmen, then—
+Dialogue: 0,0:13:32.05,0:13:33.04,Default,Yuji,0,0,0,,Stop it!
+Dialogue: 0,0:13:34.59,0:13:36.84,Default,Yuji,0,0,0,,Don't accept what happened like it's normal.
+Dialogue: 0,0:13:37.90,0:13:39.80,Default,Yuji,0,0,0,,Don't negate what happened!
+Dialogue: 0,0:13:41.71,0:13:44.60,Default,Yuji,0,0,0,,I killed people.
+Dialogue: 0,0:13:46.24,0:13:49.06,Default,Yuji,0,0,0,,Because of me, so many people died!
+Dialogue: 0,0:13:47.73,0:13:49.06,Default,Fushiguro,0,0,0,,Because of {\i1}us{\i0}.
+Dialogue: 0,0:13:50.87,0:13:53.31,Default,Yuji,0,0,0,,{\i1}Of course you'd say that.
+Dialogue: 0,0:13:53.31,0:13:57.49,Default,Fushiguro,0,0,0,,Don't go giving up by yourself.
+Dialogue: 0,0:14:10.72,0:14:12.71,Default,Fushiguro,0,0,0,,We aren't heroes.
+Dialogue: 0,0:14:13.39,0:14:14.77,Default,Fushiguro,0,0,0,,We're jujutsu sorcerers.
+Dialogue: 0,0:14:15.35,0:14:18.34,Default,Fushiguro,0,0,0,,There's no one who can \Njudge us in a true sense.
+Dialogue: 0,0:14:19.33,0:14:20.59,Default,Fushiguro,0,0,0,,That's all the more reason
+Dialogue: 0,0:14:21.06,0:14:24.10,Default,Fushiguro,0,0,0,,we have to keep proving why we exist.
+Dialogue: 0,0:14:24.97,0:14:27.00,Default,Yuji,0,0,0,,{\i1}You're wrong, Fushiguro.
+Dialogue: 0,0:14:27.00,0:14:30.34,Default,Fushiguro,0,0,0,,We don't have time to worry \Nabout ourselves anymore!
+Dialogue: 0,0:14:29.96,0:14:31.97,Default,Yuji,0,0,0,,{\i1}{\an8}If you say that, you'll...
+Dialogue: 0,0:14:30.93,0:14:33.22,Default,Fushiguro,0,0,0,,We have to keep saving people!
+Dialogue: 0,0:14:33.22,0:14:34.72,Default,Yuji,0,0,0,,{\i1}...end up suffering...
+Dialogue: 0,0:14:34.72,0:14:37.48,Default,Fushiguro,0,0,0,,I thought this was supposed to \Nbe your driving motive, anyway!
+Dialogue: 0,0:14:36.96,0:14:39.01,Default,Yuji,0,0,0,,{\i1}{\an8}...the whole time you remain with me!
+Dialogue: 0,0:14:39.01,0:14:40.23,Default,Fushiguro,0,0,0,,So start by saving me,
+Dialogue: 0,0:14:40.89,0:14:42.44,Default,Fushiguro,0,0,0,,Itadori!
+Dialogue: 0,0:14:44.97,0:14:45.99,Default,Yuji,0,0,0,,Huh?
+Dialogue: 0,0:14:46.47,0:14:48.57,Default,Fushiguro,0,0,0,,Kamo Noritoshi has set up
+Dialogue: 0,0:14:48.80,0:14:51.59,Default,Fushiguro,0,0,0,,a death game between those \Nhe granted cursed techniques.
+Dialogue: 0,0:14:52.09,0:14:53.46,Default,Fushiguro,0,0,0,,The Culling Game.
+Dialogue: 0,0:14:54.89,0:14:57.75,Default,Fushiguro,0,0,0,,Tsumiki has been drawn into this game, too.
+Dialogue: 0,0:14:59.83,0:15:02.34,Default,Fushiguro,0,0,0,,Please, Itadori.
+Dialogue: 0,0:15:08.42,0:15:10.30,Default,Fushiguro,0,0,0,,I need your power.
+Dialogue: 0,0:15:43.00,0:15:45.76,Default,Fushiguro,0,0,0,,{\i1}Please, Itadori.
+Dialogue: 0,0:15:46.27,0:15:48.35,Default,Fushiguro,0,0,0,,{\i1}I need your power.
+Dialogue: 0,0:15:50.22,0:15:51.60,Default,Yuji,0,0,0,,Okkotsu{**-senpai}.
+Dialogue: 0,0:15:52.43,0:15:54.79,Default,Yuji,0,0,0,,Sukuna is plotting something \Nthat uses Fushiguro.
+Dialogue: 0,0:15:56.29,0:15:58.85,Default,Yuji,0,0,0,,He was probably able to take \Nover my body in Shibuya
+Dialogue: 0,0:15:58.85,0:16:02.29,Default,Yuji,0,0,0,,because I was force-fed ten fingers at once.
+Dialogue: 0,0:16:02.29,0:16:05.26,Default,Yuji,0,0,0,,There are now 15 fingers inside me.
+Dialogue: 0,0:16:05.26,0:16:07.89,Default,Yuji,0,0,0,,Even if I'm fed the remaining \Nfive all at once,
+Dialogue: 0,0:16:07.89,0:16:10.01,Default,Yuji,0,0,0,,I don't think he'll be able to take me over.
+Dialogue: 0,0:16:10.01,0:16:11.27,Default,Yuji,0,0,0,,But even so,
+Dialogue: 0,0:16:11.77,0:16:14.36,Default,Yuji,0,0,0,,if Sukuna does manage to take control again,
+Dialogue: 0,0:16:14.36,0:16:15.84,Default,Yuji,0,0,0,,don't hesitate to kill me.
+Dialogue: 0,0:16:16.70,0:16:18.43,Default,Yuji,0,0,0,,I trust you can do that, Senpai.
+Dialogue: 0,0:16:20.28,0:16:21.31,Default,Okkotsu,0,0,0,,All right.
+Dialogue: 0,0:16:22.20,0:16:24.04,Default,Okkotsu,0,0,0,,I'll do my best.
+Dialogue: 0,0:16:24.86,0:16:25.97,Default,Yuji,0,0,0,,Fushiguro.
+Dialogue: 0,0:16:26.46,0:16:27.90,Default,Yuji,0,0,0,,What do I need to do?
+Dialogue: 0,0:16:28.85,0:16:30.79,Default,Fushiguro,0,0,0,,First, we return to Jujutsu Tech
+Dialogue: 0,0:16:30.79,0:16:33.00,Default,Fushiguro,0,0,0,,and contact {*}Master Tengen{*Tengen-sama}.
+Dialogue: 0,0:16:35.77,0:16:37.93,Default,Fushiguro,0,0,0,,How can we release the \Nseal of the Prison Realm?
+Dialogue: 0,0:16:38.72,0:16:41.24,Default,Fushiguro,0,0,0,,What is Kamo Noritoshi's actual goal,
+Dialogue: 0,0:16:41.24,0:16:42.68,Default,Fushiguro,0,0,0,,and what moves will he make?
+Dialogue: 0,0:16:43.17,0:16:45.96,Default,Fushiguro,0,0,0,,The culling game is an unprecedented \Nact of jujutsu terrorism,
+Dialogue: 0,0:16:45.96,0:16:49.55,Default,Fushiguro,0,0,0,,and we need answers to those two \Nquestions to resolve the situation.
+Dialogue: 0,0:16:50.00,0:16:53.43,Default,Fushiguro,0,0,0,,I think {*}Master Tengen{*Tengen-sama}'s the only \None capable of answering them.
+Dialogue: 0,0:16:53.89,0:16:55.39,Default,Yuji,0,0,0,,What about that woman?
+Dialogue: 0,0:16:55.39,0:16:57.30,Default,Yuji,0,0,0,,Wouldn't Tsukumo{**-san} know?
+Dialogue: 0,0:16:57.82,0:17:00.11,Default,Fushiguro,0,0,0,,I've already spoken with Tsukumo{**-san}.
+Dialogue: 0,0:17:00.11,0:17:01.82,Default,Fushiguro,0,0,0,,This was her plan.
+Dialogue: 0,0:17:02.36,0:17:05.35,Default,Fushiguro,0,0,0,,She's also hiding away at Jujutsu Tech.
+Dialogue: 0,0:17:06.62,0:17:08.04,Default,Yuji,0,0,0,,Hiding away?
+Dialogue: 0,0:17:08.04,0:17:10.65,Default,Fushiguro,0,0,0,,Apparently, she doesn't want \Nto deal with the higher-ups.
+Dialogue: 0,0:17:11.08,0:17:15.10,Default,Okkotsu,0,0,0,,The problem is {*}Master Tengen{*Tengen-sama}'s \Nconcealment barriers.
+Dialogue: 0,0:17:15.96,0:17:19.68,Default,Okkotsu,0,0,0,,Out of 1,000 constantly shuffling doors,
+Dialogue: 0,0:17:19.68,0:17:23.99,Default,Okkotsu,0,0,0,,only one leads to the Tombs of the Star \Nwhere {*}Master Tengen{*Tengen-sama} resides.
+Dialogue: 0,0:17:25.51,0:17:27.92,Default,Yuji,0,0,0,,So unless we can pick the right door,
+Dialogue: 0,0:17:27.92,0:17:30.17,Default,Yuji,0,0,0,,we can't meet with {*}Master Tengen{*Tengen-sama}?
+Dialogue: 0,0:17:34.46,0:17:35.80,Default,Yuji,0,0,0,,I'm sorry, Fushiguro.
+Dialogue: 0,0:17:45.23,0:17:46.83,Default,Yuji,0,0,0,,I'm going to ask now anyway.
+Dialogue: 0,0:17:50.83,0:17:52.69,Default,Yuji,0,0,0,,What happened to Kugisaki?
+Dialogue: 0,0:17:59.76,0:18:00.99,Default,Yuji,0,0,0,,I see.
+Dialogue: 0,0:18:04.50,0:18:05.53,Default,Yuji,0,0,0,,All right.
+Dialogue: 0,0:18:13.81,0:18:15.08,Default,Yuji,0,0,0,,All right!
+Dialogue: 0,0:18:16.48,0:18:18.65,Default,Choso,0,0,0,,We might be able to do something
+Dialogue: 0,0:18:18.91,0:18:21.18,Default,Choso,0,0,0,,about the concealment barriers.
+Dialogue: 0,0:18:22.40,0:18:24.10,Default,Okkotsu,0,0,0,,You were listening?
+Dialogue: 0,0:18:25.40,0:18:27.31,Default,Yuji,0,0,0,,What do you mean, Choso?
+Dialogue: 0,0:18:28.04,0:18:29.85,Default,Choso,0,0,0,,You remember when Mahito stole
+Dialogue: 0,0:18:29.85,0:18:32.02,Default,Choso,0,0,0,,Sukuna's fingers and us \NDeath Paintings, right?
+Dialogue: 0,0:18:33.20,0:18:35.52,Default,Choso,0,0,0,,We'll do the same thing.
+Dialogue: 0,0:18:44.33,0:18:47.14,Default,Maki,0,0,0,,It's been... not that long, really.
+Dialogue: 0,0:18:47.42,0:18:48.70,Default,Yuji,0,0,0,,Maki{**-senpai}?!
+Dialogue: 0,0:18:49.89,0:18:50.90,Default,Yuji,0,0,0,,Oh, hello.
+Dialogue: 0,0:18:51.64,0:18:52.92,Default,Okkotsu,0,0,0,,Maki{**-san}!
+Dialogue: 0,0:18:52.92,0:18:54.81,Default,Okkotsu,0,0,0,,Is safe for you to be up and moving already?
+Dialogue: 0,0:18:54.81,0:18:56.75,Default,Maki,0,0,0,,Yeah, it's not an issue.
+Dialogue: 0,0:18:57.14,0:18:59.26,Default,Tsukumo,0,0,0,,Not much I could do about the burns.
+Dialogue: 0,0:18:59.26,0:19:01.95,Default,Tsukumo,0,0,0,,Scars remain, even with the \Nreverse cursed technique.
+Dialogue: 0,0:19:01.95,0:19:05.72,Default,Tsukumo,0,0,0,,Though your Heavenly Binding Vow of \Nphysical prowess is impressive.
+Dialogue: 0,0:19:05.72,0:19:09.97,Default,Tsukumo,0,0,0,,At the very end, your life was saved by \Nthe strength of your body's endurance
+Dialogue: 0,0:19:09.97,0:19:12.13,Default,Tsukumo,0,0,0,,rather than your resistance to curses.
+Dialogue: 0,0:19:12.36,0:19:14.60,Default,Tsukumo,0,0,0,,It's a shame the clan head didn't make it.
+Dialogue: 0,0:19:14.60,0:19:17.19,Default,Maki,0,0,0,,It's not like it was a competition.
+Dialogue: 0,0:19:18.50,0:19:21.68,Default,Maki,0,0,0,,Megumi, how goes it with \N{*}Master Tengen{*Tengen-sama}'s barrier?
+Dialogue: 0,0:19:22.38,0:19:23.56,Default,Fushiguro,0,0,0,,Well...
+Dialogue: 0,0:19:23.97,0:19:25.25,Default,Choso,0,0,0,,I'll explain.
+Dialogue: 0,0:19:25.96,0:19:28.34,Default,Choso,0,0,0,,On the way to the Tombs of the Star
+Dialogue: 0,0:19:28.34,0:19:32.42,Default,Choso,0,0,0,,is the forbidden vault holding Jujutsu Tech's \Ncursed tools and cursed objects, right?
+Dialogue: 0,0:19:32.42,0:19:35.02,Default,Choso,0,0,0,,The remains of my brothers—
+Dialogue: 0,0:19:35.02,0:19:39.15,Default,Choso,0,0,0,,Noranso, Sho-oso, Tanso, \NSanso, Kotsuso, and Shoso—
+Dialogue: 0,0:19:39.15,0:19:41.41,Default,Choso,0,0,0,,are in the forbidden vault.
+Dialogue: 0,0:19:41.41,0:19:43.77,Default,Choso,0,0,0,,Even if it's just their remains,\Nwith all six together,
+Dialogue: 0,0:19:43.77,0:19:45.90,Default,Choso,0,0,0,,I should be able to sense their presence
+Dialogue: 0,0:19:45.90,0:19:48.18,Default,Choso,0,0,0,,using the side effect of my technique.
+Dialogue: 0,0:19:48.78,0:19:50.03,Default,Tsukumo,0,0,0,,Good!
+Dialogue: 0,0:19:50.03,0:19:51.53,Default,Maki,0,0,0,,That's great to hear,
+Dialogue: 0,0:19:52.03,0:19:53.68,Default,Maki,0,0,0,,but who's this?
+Dialogue: 0,0:19:57.25,0:19:58.73,Default,Yuji,0,0,0,,For now, you can say...
+Dialogue: 0,0:19:59.44,0:20:01.50,Default,Yuji,0,0,0,,he's my older brother.
+Dialogue: 0,0:20:01.93,0:20:05.02,Default,Choso,0,0,0,,Yuji!
+Dialogue: 0,0:20:05.41,0:20:06.31,Default,Yuji,0,0,0,,Let's go.
+Dialogue: 0,0:20:09.37,0:20:10.44,Default,Choso,0,0,0,,That one.
+Dialogue: 0,0:20:11.38,0:20:12.91,Default,Choso,0,0,0,,I'm certain.
+Dialogue: 0,0:20:12.91,0:20:15.60,Default,Choso,0,0,0,,My younger brothers are resting beyond here.
+Dialogue: 0,0:20:15.60,0:20:16.56,Default,Choso,0,0,0,,I'm opening it.
+Dialogue: 0,0:20:16.56,0:20:17.41,Default,Yuji,0,0,0,,Yeah.
+Dialogue: 0,0:20:27.45,0:20:28.66,Default,Tsukumo,0,0,0,,Let's head down.
+Dialogue: 0,0:20:30.13,0:20:33.54,Default,Tsukumo,0,0,0,,There's an elevator leading to \Nthe Tombs of the Star further in.
+Dialogue: 0,0:20:35.08,0:20:36.29,Default,Yuji,0,0,0,,Choso.
+Dialogue: 0,0:20:36.91,0:20:38.06,Default,Choso,0,0,0,,I know.
+Dialogue: 0,0:20:39.00,0:20:40.91,Default,Choso,0,0,0,,I'll come back for you later.
+Dialogue: 0,0:20:40.91,0:20:42.96,Default,Choso,0,0,0,,Please wait a little longer.
+Dialogue: 0,0:20:48.71,0:20:50.01,Default,Yuji,0,0,0,,Blood stains?
+Dialogue: 0,0:20:50.01,0:20:51.73,Default,Yuji,0,0,0,,Did something happen?
+Dialogue: 0,0:20:51.73,0:20:54.22,Default,Tsukumo,0,0,0,,It was twelve years ago.
+Dialogue: 0,0:20:54.22,0:20:55.72,Default,Tsukumo,0,0,0,,Thinking back,
+Dialogue: 0,0:20:55.72,0:20:59.62,Default,Tsukumo,0,0,0,,all of the distortions may \Nhave started back then.
+Dialogue: 0,0:21:00.54,0:21:03.64,Default,Tsukumo,0,0,0,,All right, everyone, \Nthe main hall is up ahead.
+Dialogue: 0,0:21:20.26,0:21:21.49,Default,Yuji,0,0,0,,There's nothing here.
+Dialogue: 0,0:21:21.49,0:21:23.28,Default,Fushiguro,0,0,0,,This is the main hall?
+Dialogue: 0,0:21:23.28,0:21:26.48,Default,Tsukumo,0,0,0,,No, he's rejecting us.
+Dialogue: 0,0:21:27.05,0:21:29.80,Default,Tsukumo,0,0,0,,Tengen won't interfere with reality, but...
+Dialogue: 0,0:21:29.80,0:21:32.70,Default,Tsukumo,0,0,0,,I thought it would be \Npossible to reach him now,
+Dialogue: 0,0:21:32.70,0:21:34.64,Default,Tsukumo,0,0,0,,while the Six Eyes are sealed away,
+Dialogue: 0,0:21:34.64,0:21:36.45,Default,Tsukumo,0,0,0,,but my prediction was naïve.
+Dialogue: 0,0:21:38.26,0:21:43.21,Default,Tsukumo,0,0,0,,It's not all of us being \Nrejected... but just me?
+Dialogue: 0,0:21:45.05,0:21:46.45,Default,Okkotsu,0,0,0,,Let's head back.
+Dialogue: 0,0:21:46.45,0:21:48.35,Default,Okkotsu,0,0,0,,Tsumiki{**-san} doesn't have time to spare.
+Dialogue: 0,0:21:51.03,0:21:52.75,Default,Tengen,0,0,0,,You're leaving?
+Dialogue: 0,0:21:54.08,0:21:55.43,Default,Tengen,0,0,0,,Nice to meet you.
+Dialogue: 0,0:21:55.43,0:21:58.82,Default,Tengen,0,0,0,,Child of Zenin, Descendant of Michizane,
+Dialogue: 0,0:21:58.82,0:22:01.11,Default,Tengen,0,0,0,,Cursed Womb Death Painting,
+Dialogue: 0,0:22:03.55,0:22:05.88,Default,Tengen,0,0,0,,and Vessel of Sukuna.
+Dialogue: 0,0:23:40.28,0:23:42.70,Default,Tengen,0,0,0,,I must impose one condition.
+Dialogue: 0,0:23:42.70,0:23:44.99,Default,Okkotsu,0,0,0,,We came here to learn how \Nto open the Prison Realm.
+Dialogue: 0,0:23:44.17,0:23:46.47,Default,Tsukumo,0,0,0,,{\an8}No greeting for me?
+Dialogue: 0,0:23:45.80,0:23:47.12,Default,Fushiguro,0,0,0,,Then why is this Culling Game...
+Dialogue: 0,0:23:47.12,0:23:49.65,Default,Tengen,0,0,0,,...to force the evolution of mankind...
+Dialogue: 0,0:23:48.88,0:23:51.66,Default,Shoko,0,0,0,,{\an8}...it's better for the rules if being \Nstripped means death, too.
+Dialogue: 0,0:23:50.81,0:23:53.55,Default,Yuji,0,0,0,,If Sukuna does take control again,\Ndon't hesitate to kill me.
+Dialogue: 0,0:23:52.93,0:23:54.34,Default,Choso,0,0,0,,{\an8}Don't die out there.

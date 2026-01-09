@@ -1,0 +1,47 @@
+﻿[Script Info]
+Title: Jujutsu Kaisen - 49 - Once Again
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 1920
+PlayResY: 1080
+LayoutResX: 1920
+LayoutResY: 1080
+YCbCr Matrix: TV.709
+ScaledBorderAndShadow: yes
+
+[Aegisub Project Garbage]
+Video File: jjk_49_premux.mkv
+Audio File: jjk_49_premux.mkv
+Keyframes File: jjk_49_keyframes.txt
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Show_Title,Times New Roman,108,&H00000000,&H000019FF,&H008DCECB,&H00000000,-1,0,0,0,100,150,0,0,1,6,0,8,30,30,54,1
+Style: Signs,Times New Roman,72,&H00FFFFFF,&H000019FF,&H00000000,&H3C000000,-1,0,0,0,100,100,0,0,1,0,0,2,30,30,120,1
+Style: Next_Ep_Title,Times New Roman,72,&H00FFFFFF,&H000019FF,&H00000000,&H3C000000,-1,0,0,0,100,100,0,0,1,0,0,2,30,30,180,1
+Style: Sign_Basic,Trebuchet MS,72,&H00FFFFFF,&H000019FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,6,3,2,30,30,54,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:10.49,0:00:11.20,Show_Title,Screen,0,0,0,,{\c&H0017FD&\3c&H000000&}JUJUTSU KAISEN
+Dialogue: 0,0:00:34.46,0:00:38.63,Show_Title,Screen,0,0,0,,{\fad(0,650)\c&H2E2C2C&}JUJUTSU KAISEN\N{\fs36\c&HF3F3F3&\bord0\alpha&HFF&\t(237,736,1 \alpha&H00&)}The Culling Game Part 1
+Dialogue: 0,0:01:56.88,0:01:59.89,Signs,,0,0,0,,Episode 49\N{\fs90}One More Time
+Dialogue: 0,0:03:16.17,0:03:17.55,Sign_Basic,Screen,0,0,0,,{\pos(960,945)\fs48\fnTimes New Roman\b1\bord0\shad0\c&HDCE2E9&}Flowing Red Scale - Stack
+Dialogue: 0,0:07:15.62,0:07:17.66,Sign_Basic,Screen,0,0,0,,{\pos(960,945)\fs48\fnTimes New Roman\b1\bord0\shad0\c&HDCE2E9&}Supernova
+Dialogue: 0,0:15:17.97,0:15:22.56,Sign_Basic,ScreenRighttoLeft,0,0,0,,{\an3\fs42\fnTimes New Roman\b1\shad0\3c&HDA923C&}The Culling Game <General Rules>\N{\fs30}1) After awakening their cursed technique,\Nplayers must go to a colony of their choice within 19 days\Nand pledge their participation in the culling game.\N 2) Players breaching the first rule shall be stripped of their technique.\N 3) Non-players shall become players upon entering a colony,\Nand their entry shall be taken as pledging to participate in the culling game.\N 4) Players will receive points upon ending the life of another player.\N 5) Points shall be designated based on the value that the game master gives their life, \Nand fundamentally a sorcerer will be worth 5 points\Nwhile non-sorcerers will be worth 1 point.\N 6) By spending 100 points,\Nnot counting the initial point value assigned to them, players may negotiate\Nwith the game master to add an additional rule to the culling game.\N 7) The game master must approve any additional rules\Nrequested under Rule 6 above, except when the Rule\Nwould significantly hinder the continuation of the culling game.\N 8) Players who do not show a change in points \Nwithin 19 days of joining or acquiring points\Nshall be stripped of their technique.
+Dialogue: 0,0:15:22.56,0:15:22.98,Sign_Basic,ScreenFlash,0,0,0,,{\an8\fnTimes New Roman\b1\bord0\shad0\pos(960,15)}The Culling Game
+Dialogue: 0,0:15:22.98,0:15:23.36,Sign_Basic,ScreenFlash,0,0,0,,{\an8\fnTimes New Roman\b1\bord0\shad0\pos(960,15)}General Rules
+Dialogue: 0,0:15:23.56,0:15:23.94,Sign_Basic,ScreenFlash,0,0,0,,{\an8\fnTimes New Roman\b1\bord0\shad0\pos(930,15)}Within 19 Days
+Dialogue: 0,0:15:23.94,0:15:24.31,Sign_Basic,ScreenFlash,0,0,0,,{\an8\fnTimes New Roman\b1\bord0\shad0\pos(960,15)}Participate
+Dialogue: 0,0:15:25.27,0:15:25.57,Sign_Basic,ScreenFlash,0,0,0,,{\an8\fnTimes New Roman\b1\bord0\shad0\pos(960,15)}Breach
+Dialogue: 0,0:15:25.57,0:15:25.94,Sign_Basic,ScreenFlash,0,0,0,,{\an8\fnTimes New Roman\b1\bord0\shad0\pos(960,15)}Technique
+Dialogue: 0,0:15:25.94,0:15:26.23,Sign_Basic,ScreenFlash,0,0,0,,{\an8\fnTimes New Roman\b1\bord0\shad0\pos(960,15)}Stripped
+Dialogue: 0,0:15:26.94,0:15:27.36,Sign_Basic,ScreenFlash,0,0,0,,{\an8\fnTimes New Roman\b1\bord0\shad0\pos(960,15)}Entering a Colony
+Dialogue: 0,0:15:27.36,0:15:27.69,Sign_Basic,ScreenFlash,0,0,0,,{\an8\fnTimes New Roman\b1\bord0\shad0\pos(960,15)}Participate
+Dialogue: 0,0:15:28.90,0:15:29.32,Sign_Basic,ScreenFlash,0,0,0,,{\an8\fnTimes New Roman\b1\bord0\shad0\pos(960,15)}Ending
+Dialogue: 0,0:15:29.32,0:15:29.57,Sign_Basic,ScreenFlash,0,0,0,,{\an8\fnTimes New Roman\b1\bord0\shad0\pos(960,15)}the Life
+Dialogue: 0,0:15:30.53,0:15:31.11,Sign_Basic,ScreenFlash,0,0,0,,{\an8\fnTimes New Roman\b1\bord0\shad0\pos(960,15)}Sorcerer 5 Points
+Dialogue: 0,0:15:31.11,0:15:31.61,Sign_Basic,ScreenFlash,0,0,0,,{\an8\fnTimes New Roman\b1\bord0\shad0\pos(960,15)}Non-Sorcerer 1 Point
+Dialogue: 0,0:15:31.61,0:15:37.99,Sign_Basic,ScreenRighttoLeft,0,0,0,,{\an3\fs42\fnTimes New Roman\b1\shad0\3c&HDA923C&}The Culling Game <General Rules>\N{\fs30}1) After awakening their cursed technique,\Nplayers must go to a colony of their choice within 19 days\Nand pledge their participation in the culling game.\N 2) Players breaching the first rule shall be stripped of their technique.\N 3) Non-players shall become players upon entering a colony,\Nand their entry shall be taken as pledging to participate in the culling game.\N 4) Players will receive points upon ending the life of another player.\N 5) Points shall be designated based on the value that the game master gives their life, \Nand fundamentally a sorcerer will be worth 5 points\Nwhile non-sorcerers will be worth 1 point.\N 6) By spending 100 points,\Nnot counting the initial point value assigned to them, players may negotiate\Nwith the game master to add an additional rule to the culling game.\N 7) The game master must approve any additional rules\Nrequested under Rule 6 above, except when the Rule\Nwould significantly hinder the continuation of the culling game.\N 8) Players who do not show a change in points \Nwithin 19 days of joining or acquiring points\Nshall be stripped of their technique.
+Dialogue: 0,0:15:40.66,0:15:43.00,Show_Title,Screen,0,0,0,,{\fad(925,0)\shad3\be9\3c&H5EB5BA&}JUJUTSU KAISEN
+Dialogue: 0,0:23:52.03,0:23:55.06,Next_Ep_Title,Screen,0,0,0,,Next Episode\N{\fs90}About the Culling Game
