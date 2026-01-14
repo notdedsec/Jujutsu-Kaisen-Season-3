@@ -17,12 +17,15 @@ Audio File: jjk_48_premux.mkv
 Video File: jjk_48_premux.mkv
 Keyframes File: jjk_48_keyframes.txt
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
+Video Zoom Percent: 0.750000
+Scroll Position: 179
+Active Line: 181
+Video Position: 24138
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Cabin PL,75,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.8,2,128,128,60,1
-Style: Alt,Cabin PL,75,&H00FFFFFF,&H000000FF,&H003C3900,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.8,2,128,128,60,1
+Style: Default,Cabin F,71,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.8,2,128,128,65,1
+Style: Alt,Cabin F,71,&H00FFFFFF,&H000000FF,&H003C3900,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.8,2,128,128,65,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -60,20 +63,20 @@ Dialogue: 0,0:06:38.09,0:06:40.00,Default,Naoya,0,0,0,,{\an8}Cut him some slack.
 Dialogue: 0,0:06:41.05,0:06:43.13,Default,Furudate,0,0,0,,I see everyone's here.
 Dialogue: 0,0:06:45.34,0:06:51.60,Default,Furudate,0,0,0,,The head of the Zenin Clan, \N{*}Lord Zenin Naobito{*Zenin Naobito-sama}, has just passed away.
 Dialogue: 0,0:06:55.81,0:07:00.19,Default,Furudate,0,0,0,,I, Furudate, am in possession of his will.
-Dialogue: 0,0:07:00.19,0:07:03.82,Default,Furudate,0,0,0,,I shall read this will in accordance with \N{*}Lord Naobito{*Naobito-sama} final wishes.
+Dialogue: 0,0:07:00.19,0:07:03.82,Default,Furudate,0,0,0,,I shall read this will in accordance with \N{*}Lord Naobito{*Naobito-sama}'s final wishes.
 Dialogue: 0,0:07:04.28,0:07:06.03,Default,Furudate,0,0,0,,{*}Lord Zenin Ogi{*Zenin Ogi-sama}.
 Dialogue: 0,0:07:06.45,0:07:08.70,Default,Furudate,0,0,0,,{*}Lord Zenin Jinichi{*Zenin Jinichi-sama}.
 Dialogue: 0,0:07:08.99,0:07:10.99,Default,Furudate,0,0,0,,{*}Lord Zenin Naoya{*Zenin Naoya-sama}.
 Dialogue: 0,0:07:11.41,0:07:16.83,Default,Furudate,0,0,0,,I am to read the will once all three of you are gathered.
 Dialogue: 0,0:07:18.04,0:07:22.00,Default,Furudate,0,0,0,,If there are no objections, \Nthen I shall begin the reading of his will.
 Dialogue: 0,0:07:28.47,0:07:34.52,Default,Furudate,0,0,0,,First, the 27th head of the Zenin Clan \Nshall be Zenin Naoya.
-Dialogue: 0,0:07:35.06,0:07:41.82,Default,Furudate,0,0,0,,Second, all assets and cursed tools held within \Nthe forbidden vaults of Jujutsu Tech and the Zenin Clan
+Dialogue: 0,0:07:35.06,0:07:41.82,Default,Furudate,0,0,0,,Second, all assets and cursed tools held within \Nthe Cursed Warehouses of Jujutsu Tech and the Zenin Clan {we used that last season}
 Dialogue: 0,0:07:41.82,0:07:44.90,Default,Furudate,0,0,0,,shall be inherited by Naoya.
 Dialogue: 0,0:07:45.40,0:07:54.37,Default,Furudate,0,0,0,,Naoya shall require approval from either \NZenin Ogi or Zenin Jinichi to make use of their contents.
-Dialogue: 0,0:07:53.62,0:07:54.37,Alt,Naoya,0,0,0,, Tch.
+Dialogue: 0,0:07:53.62,0:07:54.37,Alt,Naoya,0,0,0,,Tch.
 Dialogue: 0,0:07:56.08,0:07:57.71,Default,Naoya,0,0,0,,Well, that's fine.
 Dialogue: 0,0:07:57.71,0:07:58.42,Default,Furudate,0,0,0,,However,
-Dialogue: 0,0:07:59.29,0:08:06.51,Default,Furudate,0,0,0,,in the event that Gojo Satoru has died, or is otherwise mentally incapacitated,
+Dialogue: 0,0:07:59.29,0:08:06.51,Default,Furudate,0,0,0,,in the event that Gojo Satoru has died, or is otherwise mentally incapacitated, {LOBOTOMIZED?}
 Dialogue: 0,0:08:06.51,0:08:13.31,Default,Furudate,0,0,0,,then the covenant with Fushiguro Toji \Nshall see Fushiguro Megumi be brought into the Zenin Clan,
 Dialogue: 0,0:08:13.31,0:08:19.98,Default,Furudate,0,0,0,,whereupon he shall become the head of the Zenin Clan, \Nand all assets shall pass to him.
 Dialogue: 0,0:08:21.86,0:08:22.57,Default,Naoya,0,0,0,,What?
@@ -91,8 +94,8 @@ Dialogue: 0,0:08:53.80,0:08:55.60,Default,Naoya,0,0,0,,I'll kill 'em both at onc
 Dialogue: 0,0:08:56.64,0:08:58.48,Default,Naoya,0,0,0,,Tokyo is pandemonium right now.
 Dialogue: 0,0:08:59.10,0:09:01.85,Default,Naoya,0,0,0,,Anyone can die there at any time.
 Dialogue: 0,0:09:02.73,0:09:05.98,Default,Naoya,0,0,0,,Once I kill him, the rest will work itself out.
-Dialogue: 0,0:09:09.36,0:09:12.11,Default,Naoya,0,0,0,,I'm the head of the Zenin Clan!
-Dialogue: 0,0:09:21.42,0:09:22.71,Default,Yuji,0,0,172,,{\c&H000000&}I should've died.
+Dialogue: 0,0:09:09.36,0:09:12.11,Default,Naoya,0,0,0,,{\i1}I'm{\i0} the head of the Zenin Clan!
+Dialogue: 0,0:09:21.75,0:09:22.71,Default,Yuji,0,0,172,,{\c&H000000&}I should've died.
 Dialogue: 0,0:09:23.63,0:09:24.88,Default,Yuji,0,0,172,,{\c&H000000&}It should've been me!
 Dialogue: 0,0:09:24.88,0:09:25.71,Default,Yuji,0,0,172,,{\c&H000000&}Just kill yourself!
 Dialogue: 0,0:09:22.88,0:09:24.59,Default,Yuji,0,0,172,,{\an8\c&H000000&}Kugisaki!
@@ -100,23 +103,23 @@ Dialogue: 0,0:09:24.59,0:09:25.34,Default,Nanami,0,0,172,,{\an8\c&H000000&}You'v
 Dialogue: 0,0:09:25.34,0:09:25.96,Default,Kugisaki,0,0,172,,{\an8\c&H000000&}Itadori.
 Dialogue: 0,0:09:26.00,0:09:27.51,Default,Nanami,0,0,172,,{\c&H000000&}Itadori{**-kun}.
 Dialogue: 0,0:09:27.51,0:09:28.55,Default,Tsukumo,0,0,172,,{\c&H000000&}What will you do?
-Dialogue: 1,0:09:21.42,0:09:22.71,Default,Yuji,0,0,172,,{\blur0.8\bord0\c&HD945FF&\pos(958,908)}I should've died.
-Dialogue: 1,0:09:23.63,0:09:24.88,Default,Yuji,0,0,172,,{\blur0.8\bord0\c&HD945FF&\pos(958,908)}It should've been me!
-Dialogue: 1,0:09:24.88,0:09:25.71,Default,Yuji,0,0,172,,{\blur0.8\bord0\c&HD945FF&\pos(958,908)}Just kill yourself!
-Dialogue: 1,0:09:22.88,0:09:24.59,Default,Yuji,0,0,172,,{\an8\blur0.8\bord0\c&HD945FF&\pos(958,172)}Kugisaki!
-Dialogue: 1,0:09:24.59,0:09:25.34,Default,Nanami,0,0,172,,{\an8\blur0.8\bord0\c&HD945FF&\pos(958,172)}You've got it from here.
-Dialogue: 1,0:09:25.34,0:09:25.96,Default,Kugisaki,0,0,172,,{\an8\blur0.8\bord0\c&HD945FF&\pos(958,172)}Itadori.
-Dialogue: 1,0:09:26.00,0:09:27.51,Default,Nanami,0,0,172,,{\blur0.8\bord0\c&HD945FF&\pos(958,908)}Itadori{**-kun}.
-Dialogue: 1,0:09:27.51,0:09:28.55,Default,Tsukumo,0,0,172,,{\blur0.8\bord0\c&HD945FF&\pos(958,908)}What will you do?
-Dialogue: 2,0:09:21.42,0:09:22.71,Default,Yuji,0,0,172,,{\blur0.8\bord0\c&H79FF46&\pos(962,908)}I should've died.
-Dialogue: 2,0:09:23.63,0:09:24.88,Default,Yuji,0,0,172,,{\blur0.8\bord0\c&H79FF46&\pos(962,908)}It should've been me!
-Dialogue: 2,0:09:24.88,0:09:25.71,Default,Yuji,0,0,172,,{\blur0.8\bord0\c&H79FF46&\pos(962,908)}Just kill yourself!
-Dialogue: 2,0:09:22.88,0:09:24.59,Default,Yuji,0,0,172,,{\an8\blur0.8\bord0\c&H79FF46&\pos(962,172)}Kugisaki!
-Dialogue: 2,0:09:24.59,0:09:25.34,Default,Nanami,0,0,172,,{\an8\blur0.8\bord0\c&H79FF46&\pos(962,172)}You've got it from here.
-Dialogue: 2,0:09:25.34,0:09:25.96,Default,Kugisaki,0,0,172,,{\an8\blur0.8\bord0\c&H79FF46&\pos(962,172)}Itadori.
-Dialogue: 2,0:09:26.00,0:09:27.51,Default,Nanami,0,0,172,,{\blur0.8\bord0\c&H79FF46&\pos(962,908)}Itadori{**-kun}.
-Dialogue: 2,0:09:27.51,0:09:28.55,Default,Tsukumo,0,0,172,,{\blur0.8\bord0\c&H79FF46&\pos(962,908)}What will you do?
-Dialogue: 3,0:09:21.42,0:09:22.71,Default,Yuji,0,0,172,,{\blur0.8\bord0\c&HD3E8EA&}I should've died.
+Dialogue: 1,0:09:21.75,0:09:22.71,Default,Yuji,0,0,172,,{\blur0.8\bord0\c&HD945FF&\pos(958.5,908)}I should've died.
+Dialogue: 1,0:09:23.63,0:09:24.88,Default,Yuji,0,0,172,,{\blur0.8\bord0\c&HD945FF&\pos(958.5,908)}It should've been me!
+Dialogue: 1,0:09:24.88,0:09:25.71,Default,Yuji,0,0,172,,{\blur0.8\bord0\c&HD945FF&\pos(958.5,908)}Just kill yourself!
+Dialogue: 1,0:09:22.88,0:09:24.59,Default,Yuji,0,0,172,,{\an8\blur0.8\bord0\c&HD945FF&\pos(958.5,172)}Kugisaki!
+Dialogue: 1,0:09:24.59,0:09:25.34,Default,Nanami,0,0,172,,{\an8\blur0.8\bord0\c&HD945FF&\pos(958.5,172)}You've got it from here.
+Dialogue: 1,0:09:25.34,0:09:25.96,Default,Kugisaki,0,0,172,,{\an8\blur0.8\bord0\c&HD945FF&\pos(958.5,172)}Itadori.
+Dialogue: 1,0:09:26.00,0:09:27.51,Default,Nanami,0,0,172,,{\blur0.8\bord0\c&HD945FF&\pos(958.5,908)}Itadori{**-kun}.
+Dialogue: 1,0:09:27.51,0:09:28.55,Default,Tsukumo,0,0,172,,{\blur0.8\bord0\c&HD945FF&\pos(958.5,908)}What will you do?
+Dialogue: 2,0:09:21.75,0:09:22.71,Default,Yuji,0,0,172,,{\blur0.8\bord0\c&H79FF46&\pos(961.5,908)}I should've died.
+Dialogue: 2,0:09:23.63,0:09:24.88,Default,Yuji,0,0,172,,{\blur0.8\bord0\c&H79FF46&\pos(961.5,908)}It should've been me!
+Dialogue: 2,0:09:24.88,0:09:25.71,Default,Yuji,0,0,172,,{\blur0.8\bord0\c&H79FF46&\pos(961.5,908)}Just kill yourself!
+Dialogue: 2,0:09:22.88,0:09:24.59,Default,Yuji,0,0,172,,{\an8\blur0.8\bord0\c&H79FF46&\pos(961.5,172)}Kugisaki!
+Dialogue: 2,0:09:24.59,0:09:25.34,Default,Nanami,0,0,172,,{\an8\blur0.8\bord0\c&H79FF46&\pos(961.5,172)}You've got it from here.
+Dialogue: 2,0:09:25.34,0:09:25.96,Default,Kugisaki,0,0,172,,{\an8\blur0.8\bord0\c&H79FF46&\pos(961.5,172)}Itadori.
+Dialogue: 2,0:09:26.00,0:09:27.51,Default,Nanami,0,0,172,,{\blur0.8\bord0\c&H79FF46&\pos(961.5,908)}Itadori{**-kun}.
+Dialogue: 2,0:09:27.51,0:09:28.55,Default,Tsukumo,0,0,172,,{\blur0.8\bord0\c&H79FF46&\pos(961.5,908)}What will you do?
+Dialogue: 3,0:09:21.75,0:09:22.71,Default,Yuji,0,0,172,,{\blur0.8\bord0\c&HD3E8EA&}I should've died.
 Dialogue: 3,0:09:23.63,0:09:24.88,Default,Yuji,0,0,172,,{\blur0.8\bord0\c&HD3E8EA&}It should've been me!
 Dialogue: 3,0:09:24.88,0:09:25.71,Default,Yuji,0,0,172,,{\blur0.8\bord0\c&HD3E8EA&}Just kill yourself!
 Dialogue: 3,0:09:22.88,0:09:24.59,Default,Yuji,0,0,172,,{\an8\blur0.8\bord0\c&HD3E8EA&}Kugisaki!
@@ -126,7 +129,7 @@ Dialogue: 3,0:09:26.00,0:09:27.51,Default,Nanami,0,0,172,,{\blur0.8\bord0\c&HD3E
 Dialogue: 3,0:09:27.51,0:09:28.55,Default,Tsukumo,0,0,172,,{\blur0.8\bord0\c&HD3E8EA&}What will you do?
 Dialogue: 0,0:09:53.61,0:09:54.66,Default,Choso,0,0,0,,Yuji.
 Dialogue: 0,0:09:56.12,0:09:57.95,Default,Choso,0,0,0,,How are your injuries?
-Dialogue: 0,0:09:59.20,0:10:03.12,Default,Yuji,0,0,0,,Other than the ones from Black Flash, they're healed.
+Dialogue: 0,0:09:59.20,0:10:03.12,Default,Yuji,0,0,0,,Other than the ones \Nfrom Black Flash, they're healed.
 Dialogue: 0,0:10:04.25,0:10:06.29,Default,Yuji,0,0,0,,It's probably because of Sukuna.
 Dialogue: 0,0:10:06.88,0:10:09.42,Default,Yuji,0,0,0,,I can feel his power growing.
 Dialogue: 0,0:10:10.84,0:10:12.05,Default,Choso,0,0,0,,Yuji.
@@ -134,13 +137,13 @@ Dialogue: 0,0:10:12.05,0:10:13.93,Default,Choso,0,0,0,,Don't worry about me.
 Dialogue: 0,0:10:13.93,0:10:16.01,Default,Choso,0,0,0,,You can return to Jujutsu Tech, you know.
 Dialogue: 0,0:10:16.60,0:10:19.81,Default,Choso,0,0,0,,I'd like to retrieve the remains of \NShoso and the others, too.
 Dialogue: 0,0:10:21.31,0:10:22.73,Default,Yuji,0,0,0,,I'm not worried.
-Dialogue: 0,0:10:23.27,0:10:26.02,Default,Yuji,0,0,0,,This isn't about whether I want to go back or not.
-Dialogue: 0,0:10:26.69,0:10:29.82,Default,Yuji,0,0,0,,Sukuna is plotting something that involves Fushiguro.
-Dialogue: 0,0:10:30.44,0:10:34.24,Default,Yuji,0,0,0,,Besides, I've killed so many people.
-Dialogue: 0,0:10:34.70,0:10:39.16,Default,Fushiguro,0,0,0,,{\an8\1a&H20&\i1}What will you do when someone you saved today \Nkills someone else in the future?
+Dialogue: 0,0:10:23.27,0:10:26.11,Default,Yuji,0,0,0,,This isn't about whether I want to go back or not.
+Dialogue: 0,0:10:26.65,0:10:29.82,Default,Yuji,0,0,0,,Sukuna is plotting something \Nthat involves Fushiguro.
+Dialogue: 0,0:10:30.44,0:10:33.90,Default,Yuji,0,0,0,,Besides, I've killed so many people.
+Dialogue: 0,0:10:34.78,0:10:39.16,Default,Fushiguro,0,0,0,,{\an8\1a&H20&\i1}What will you do when someone you saved today \Nkills someone else in the future?
 Dialogue: 0,0:10:40.08,0:10:43.33,Default,Yuji,0,0,0,,I can't stay with the others anymore.
-Dialogue: 0,0:10:44.08,0:10:45.75,Default,Yuji,0,0,0,,And are you okay with this, Choso?
-Dialogue: 0,0:10:45.75,0:10:48.25,Default,Yuji,0,0,0,,I killed your little brothers, too.
+Dialogue: 0,0:10:44.08,0:10:45.79,Default,Yuji,0,0,0,,And are you okay with this, Choso?
+Dialogue: 0,0:10:45.79,0:10:48.25,Default,Yuji,0,0,0,,I killed your brothers, too.
 Dialogue: 0,0:10:48.25,0:10:50.88,Default,Choso,0,0,0,,It's fine. That was an accident.
 Dialogue: 0,0:10:50.88,0:10:55.26,Default,Choso,0,0,0,,Eso and Kechizu would say the same in my position.
 Dialogue: 0,0:10:55.26,0:10:57.76,Default,Choso,0,0,0,,There was never a question about forgiveness.
@@ -151,7 +154,7 @@ Dialogue: 0,0:12:59.38,0:13:00.13,Default,Yuji,0,0,0,,Choso!
 Dialogue: 0,0:13:07.85,0:13:08.85,Default,Choso,0,0,0,,Yuji.
 Dialogue: 0,0:13:21.20,0:13:22.87,Default,Choso,0,0,0,,{\i1}How terrifying.
 Dialogue: 0,0:13:23.37,0:13:26.66,Default,Choso,0,0,0,,{\i1}I already sensed he was powerful when we fought.
-Dialogue: 0,0:13:26.66,0:13:29.46,Default,Choso,0,0,0,,{\i1}Now he wields it with subtlety.
+Dialogue: 0,0:13:26.66,0:13:29.46,Default,Choso,0,0,0,,{\i1}Now there's a subtlety to it as well.
 Dialogue: 0,0:13:29.46,0:13:31.37,Default,Choso,0,0,0,,{\i1}Unfaltering control of cursed energy.
 Dialogue: 0,0:13:31.37,0:13:33.42,Default,Choso,0,0,0,,{\i1}Exceptional physical strength.
 Dialogue: 0,0:13:36.00,0:13:37.96,Default,Choso,0,0,0,,{\i1}Truly a demon!
@@ -163,8 +166,8 @@ Dialogue: 0,0:13:49.85,0:13:50.98,Default,Choso,0,0,0,,Try to recall.
 Dialogue: 0,0:13:50.98,0:13:52.85,Default,Choso,0,0,0,,They should have been there.
 Dialogue: 0,0:13:55.94,0:13:59.61,Default,Choso,0,0,0,,Your father should have had \N\hstitches on his forehead, too.
 Dialogue: 0,0:14:01.86,0:14:03.61,Default,Naoya,0,0,0,,Megumi{**-kun} ain't here.
-Dialogue: 0,0:14:04.07,0:14:05.53,Default,Naoya,0,0,0,,I'm the first one here?
-Dialogue: 0,0:14:05.53,0:14:07.95,Default,Naoya,0,0,0,,Really now? He's that slow?
+Dialogue: 0,0:14:04.07,0:14:05.57,Default,Naoya,0,0,0,,I'm the first to arrive?
+Dialogue: 0,0:14:05.57,0:14:07.95,Default,Naoya,0,0,0,,Really now? He's that slow?
 Dialogue: 0,0:14:08.83,0:14:10.50,Default,Yuji,0,0,0,,{\i1}Who's this guy?
 Dialogue: 0,0:14:10.50,0:14:12.50,Default,Yuji,0,0,0,,{\i1}Did he just mention Fushiguro?
 Dialogue: 0,0:14:12.87,0:14:14.58,Default,Naoya,0,0,0,,What're y'all doing, anyway?
@@ -172,7 +175,7 @@ Dialogue: 0,0:14:14.58,0:14:16.04,Default,Naoya,0,0,0,,You stand out too much.
 Dialogue: 0,0:14:16.04,0:14:17.38,Default,Naoya,0,0,0,,Not gonna run?
 Dialogue: 0,0:14:17.96,0:14:19.21,Default,Yuji,0,0,0,,Why would I?
 Dialogue: 0,0:14:19.21,0:14:20.92,Default,Naoya,0,0,0,,What, you don't know?
-Dialogue: 0,0:14:21.34,0:14:26.39,Default,Naoya,0,0,0,,You've been sentenced to death, \Nnow that Satoru{**-kun}'s protection is gone.
+Dialogue: 0,0:14:21.34,0:14:26.39,Default,Naoya,0,0,0,,You're marked for execution, \Nnow that Satoru{**-kun}'s protection is gone.
 Dialogue: 0,0:14:29.22,0:14:34.48,Default,Ino,0,0,172,,{\i1}His whims and influence have saved many a sorcerer!
 Dialogue: 0,0:14:34.48,0:14:40.15,Default,Naoya,0,0,0,,My business is with Megumi{**-kun}, so to be blunt, \NI couldn't care less if you live or die.
 Dialogue: 0,0:14:40.15,0:14:45.11,Default,Naoya,0,0,0,,Don't want you running around willy-nilly, though, \Nso I'm gonna break your legs for now.
@@ -192,7 +195,7 @@ Dialogue: 0,0:15:51.01,0:15:53.93,Default,Okkotsu,0,0,0,,Oh? He's not alone.
 Dialogue: 0,0:15:59.94,0:16:00.56,Default,Yuji,0,0,0,,Who are you?
 Dialogue: 0,0:16:00.56,0:16:02.82,Default,Choso,0,0,0,,{\i1}Whoever he is, \Nhis target appears to be...
 Dialogue: 0,0:16:03.28,0:16:05.82,Default,Okkotsu,0,0,0,,What are each of you to Itadori{**-kun}?
-Dialogue: 0,0:16:06.78,0:16:09.57,Default,Choso,0,0,0,,{\i1}So he is here to execute Yuji.
+Dialogue: 0,0:16:06.78,0:16:09.57,Default,Choso,0,0,0,,{\i1}So he's here to carry out Yuji's execution.
 Dialogue: 0,0:16:18.04,0:16:20.21,Default,Naoya,0,0,0,,Hold up. I'm on your side.
 Dialogue: 0,0:16:20.88,0:16:22.59,Default,Naoya,0,0,0,,You're Okkotsu{**-kun}, yeah?
 Dialogue: 0,0:16:22.59,0:16:24.21,Default,Yuji,0,0,0,,{\i1}Okkotsu!
@@ -204,7 +207,7 @@ Dialogue: 0,0:16:32.39,0:16:34.31,Default,Naoya,0,0,0,,Maki{**-chan}'s cousin.
 Dialogue: 0,0:16:34.31,0:16:38.19,Default,Naoya,0,0,0,,I've been told to kill Itadori{**-kun}, like you were.
 Dialogue: 0,0:16:37.02,0:16:38.19,Alt,Choso,0,0,0,,You need to run, Yuji.
 Dialogue: 0,0:16:38.19,0:16:41.23,Default,Naoya,0,0,0,,So relax. I'll stay outta your way.
-Dialogue: 0,0:16:38.85,0:16:39.81,Alt,Choso,0,0,0,,What?
+Dialogue: 0,0:16:39.10,0:16:39.81,Alt,Choso,0,0,0,,What?
 Dialogue: 0,0:16:41.23,0:16:44.07,Default,Choso,0,0,0,,The blond one's a speed type \Nwith some kind of trick.
 Dialogue: 0,0:16:44.07,0:16:46.53,Default,Choso,0,0,0,,Playing chase with him is not a good idea.
 Dialogue: 0,0:16:46.53,0:16:47.99,Default,Choso,0,0,0,,I'll stall him.
@@ -230,12 +233,12 @@ Dialogue: 0,0:17:36.79,0:17:37.74,Default,Okkotsu,0,0,0,,{\i1}He's fast.
 Dialogue: 0,0:17:37.74,0:17:40.04,Default,Okkotsu,0,0,0,,{\i1}I expected to take him out in the initial rush.
 Dialogue: 0,0:17:40.04,0:17:41.12,Default,Choso,0,0,0,,{\i1}Tch!
 Dialogue: 0,0:17:41.12,0:17:44.63,Default,Choso,0,0,0,,{\i1}I was trying to block Okkotsu's path, \Nbut he read my intentions!
-Dialogue: 0,0:17:44.63,0:17:46.84,Default,Naoya,0,0,0,,I was watching earlier.
-Dialogue: 0,0:17:46.84,0:17:49.09,Default,Naoya,0,0,0,,That's Blood Manipulation, yeah?
+Dialogue: 0,0:17:44.63,0:17:46.88,Default,Naoya,0,0,0,,I was watching earlier.
+Dialogue: 0,0:17:46.88,0:17:49.09,Default,Naoya,0,0,0,,That's Blood Manipulation, yeah?
 Dialogue: 0,0:17:49.09,0:17:52.38,Default,Naoya,0,0,0,,Dunno why you have it, though.
 Dialogue: 0,0:17:52.38,0:17:55.18,Default,Naoya,0,0,0,,Still, aside from Piercing Blood, \Nit's nothing too scary.
 Dialogue: 0,0:17:55.18,0:17:57.89,Default,Naoya,0,0,0,,And Piercing Blood takes Convergence.
-Dialogue: 0,0:17:57.89,0:17:59.35,Default,Naoya,0,0,0,,That's a long build-up.
+Dialogue: 0,0:17:57.89,0:17:59.35,Default,Naoya,0,0,0,,That's a {\i1}long{\i0} build-up.
 Dialogue: 0,0:17:59.35,0:18:01.73,Default,Naoya,0,0,0,,Need I say more?
 Dialogue: 0,0:18:01.73,0:18:04.10,Default,Naoya,0,0,0,,It's checkmate. You're gonna die.
 Dialogue: 0,0:18:04.52,0:18:06.19,Default,Choso,0,0,0,,Worry about yourself.
@@ -256,15 +259,15 @@ Dialogue: 0,0:19:28.27,0:19:32.86,Default,Okkotsu,0,0,0,,so he wastes practicall
 Dialogue: 0,0:19:33.61,0:19:36.78,Default,Okkotsu,0,0,0,,He's the best there is when it comes to efficiency.
 Dialogue: 0,0:19:36.78,0:19:40.70,Default,Okkotsu,0,0,0,,I can run out of cursed energy, but not him.
 Dialogue: 0,0:19:41.87,0:19:43.79,Default,Okkotsu,0,0,0,,And now, I'm done talking.
-Dialogue: 1,0:19:49.50,0:19:50.34,Default,Yuji,0,0,0,,{\i1}Shit!
+Dialogue: 1,0:19:49.50,0:19:50.34,Default,Yuji,0,0,0,,{\fade(0,200)\i1}Shit!
 Dialogue: 0,0:19:50.21,0:19:54.26,Default,Todo,0,0,172,,{\fade(1000,0)\i1}The flow of cursed energy \Nof an elite sorcerer is difficult to read, {update s1}
 Dialogue: 0,0:19:54.26,0:19:56.17,Default,Todo,0,0,172,,{\i1}but for different reasons than yours.
 Dialogue: 0,0:19:56.17,0:19:59.68,Default,Yuji,0,0,0,,{\i1}{\an8}That's because an elite sorcerer \Ncan manipulate cursed energy more precisely.
 Dialogue: 0,0:19:59.68,0:20:02.93,Default,Yuji,0,0,0,,{\i1}{\an8}Meaning you can't predict their attacks\N until the last second.
 Dialogue: 0,0:20:04.81,0:20:06.18,Default,Yuji,0,0,0,,{\i1}But this guy...
 Dialogue: 0,0:20:06.18,0:20:10.44,Default,Yuji,0,0,0,,{\i1}His entire body, even his sword, is bursting with cursed energy!
-Dialogue: 0,0:20:10.44,0:20:13.57,Default,Yuji,0,0,0,,{\i1}It's not even a question of reading his movements.
-Dialogue: 0,0:20:13.57,0:20:16.19,Default,Yuji,0,0,0,,{\i1}Any of his attacks can be fatal!
+Dialogue: 0,0:20:10.44,0:20:13.23,Default,Yuji,0,0,0,,{\i1}Reading his movements is out of the question!
+Dialogue: 0,0:20:13.65,0:20:16.19,Default,Yuji,0,0,0,,{\i1}Any of his attacks can be fatal!
 Dialogue: 0,0:20:16.19,0:20:19.45,Default,Yuji,0,0,0,,{\i1}And he can minimize any damage he takes, too.
 Dialogue: 0,0:20:19.87,0:20:21.20,Default,Nanami,0,0,172,,You've got it from here.
 Dialogue: 1,0:20:19.87,0:20:21.20,Default,Nanami,0,0,172,,{\blur0.8\bord0\c&HD945FF&\pos(958.5,908)}You've got it from here.
@@ -294,11 +297,11 @@ Dialogue: 0,0:21:41.24,0:21:42.28,Default,Yuji,0,0,0,,{\i1}I can't move!
 Dialogue: 0,0:21:44.74,0:21:46.54,Default,Yuji,0,0,0,,{\i1}It's too strong!
 Dialogue: 0,0:21:53.88,0:21:55.13,Default,Okkotsu,0,0,0,,I'm sorry,
 Dialogue: 0,0:22:01.93,0:22:03.47,Default,Okkotsu,0,0,0,,Itadori{**-kun}.
-Comment: 0,0:23:40.44,0:23:42.94,Default,Naoya,0,0,0,,{\an8}Older brothers who are less competent\Nthan a younger brother serve no purpose.
-Comment: 0,0:23:42.94,0:23:45.61,Default,Choso,0,0,0,,{\an8}...I can't understand how you\Ncould never love your brothers.
-Comment: 0,0:23:45.61,0:23:46.74,Default,Okkotsu,0,0,0,,{\an8}...please report Itadori{**-kun}'s death...
-Comment: 0,0:23:46.74,0:23:49.45,Default,Tsukumo,0,0,0,,{\an8}...all of the distortions may have started back then.
-Comment: 0,0:23:49.45,0:23:50.45,Default,Naoya,0,0,0,,{\an8}Don't look down on me!
-Comment: 0,0:23:50.45,0:23:51.41,Default,Fushiguro,0,0,0,,{\an8}So start by saving me...
-Comment: 0,0:23:51.41,0:23:52.08,Default,Choso,0,0,0,,{\an8}It's checkmate.
-Comment: 0,0:23:52.08,0:23:54.58,Default,Fushiguro,0,0,0,,{\an8}Tsumiki has been drawn into this game, too.
+Dialogue: 0,0:23:40.44,0:23:42.94,Default,Naoya,0,0,0,,{\an8}Older brothers inferior to their younger brother\Nhave no reason to exist.
+Dialogue: 0,0:23:42.94,0:23:45.70,Default,Choso,0,0,0,,{\an8}I can't understand \Nhow you could never love your brothers.
+Dialogue: 0,0:23:45.70,0:23:46.74,Default,Okkotsu,0,0,0,,{\an8}...could you please report Itadori{**-kun}'s death...
+Dialogue: 0,0:23:46.74,0:23:49.45,Default,Tsukumo,0,0,0,,{\an8}...that might've been when \Neverything started to go wrong.
+Dialogue: 0,0:23:49.45,0:23:50.45,Default,Naoya,0,0,0,,{\an8}Don't look down on me!
+Dialogue: 0,0:23:50.45,0:23:51.62,Default,Fushiguro,0,0,0,,{\an8}So start by saving me...
+Dialogue: 0,0:23:51.62,0:23:52.16,Default,Choso,0,0,0,,{\an8}It's checkmate.
+Dialogue: 0,0:23:52.16,0:23:54.70,Default,Fushiguro,0,0,0,,{\an8}Tsumiki has been ensnared in this game.
