@@ -2,7 +2,7 @@ import runpy
 import subprocess
 import sys
 
-from muxtools import Premux, Setup, SubFile, mux
+from muxtools import Chapters, Premux, Setup, SubFile, mux
 from muxtools.subtitle import _Line
 from vsmuxtools.utils.source import FileInfo, generate_keyframes
 
@@ -85,10 +85,10 @@ def run_mux(ep: str):
     main_subs = SubFile(sorted(episode.folder.glob(f'{config.show}_{episode.number}_subs*.ass')))
 
     if episode.OP:
-        main_subs.merge(episode.OP.subs, 'opsync')
+        main_subs.merge(episode.OP.subs, 'opsync', 'sync')
 
     if episode.ED:
-        main_subs.merge(episode.ED.subs, 'edsync')
+        main_subs.merge(episode.ED.subs, 'edsync', 'sync')
 
     # if episode.EC:
     #     main_subs.merge(episode.EC.subs, 'ecsync')
@@ -97,11 +97,14 @@ def run_mux(ep: str):
 
     fonts = main_subs.collect_fonts()
 
+    chapters = Chapters.from_sub(main_subs, episode.encode, 1000, use_actor_field=True, _print=False)
+
     muxfile = mux(
         Premux(episode.encode),
         main_subs.to_track(f'{config.group_tag}', 'en'),
         weeb_subs.to_track(f'{config.group_tag} (Honorifics)', 'enm'),
         *fonts,
+        chapters,
     )
 
     set_mkv_title(muxfile, title=f'{config.show_name} - {episode.number} - {episode.title}')
