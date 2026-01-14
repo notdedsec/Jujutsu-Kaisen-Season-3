@@ -69,7 +69,7 @@ def run_demux(ep: str):
         top_styles=None,
     )
 
-    subs.restyle(styles)
+    subs.restyle(styles, clean_after=False)
 
     dialogue = subs.copy().separate_signs(inverse=True)
     typesets = subs.copy().separate_signs()
