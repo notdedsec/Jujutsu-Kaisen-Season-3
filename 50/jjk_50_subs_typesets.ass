@@ -1,0 +1,312 @@
+﻿[Script Info]
+Title: Jujutsu Kaisen - 50 - About the Culling Game
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 1920
+PlayResY: 1080
+LayoutResX: 1920
+LayoutResY: 1080
+YCbCr Matrix: TV.709
+ScaledBorderAndShadow: yes
+
+[Aegisub Project Garbage]
+Video File: jjk_50_premux.mkv
+Audio File: jjk_50_premux.mkv
+Keyframes File: jjk_50_keyframes.txt
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Show_Title,Times New Roman,108,&H00000000,&H000000FF,&H0090D3CB,&H00000000,-1,0,0,0,100,150,0,0,1,6,0,8,30,30,54,1
+Style: Signs,Times New Roman,72,&H00FFFFFF,&H000000FF,&H00000000,&H3C000000,-1,0,0,0,100,100,0,0,1,0,0,2,30,30,120,1
+Style: Next_Ep_Title,Times New Roman,72,&H0AFFFFFF,&H000000FF,&H00000000,&H3C000000,-1,0,0,0,100,100,0,0,1,6,0,2,30,30,180,1
+Style: Sign_Basic,Trebuchet MS,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,6,3,2,30,30,54,1
+Style: Onscreen1,Times New Roman,48,&H00000000,&H000000FF,&H60FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,9,0,2,30,30,30,1
+Style: Onscreen2,Times New Roman,48,&H00FFFFFF,&H000000FF,&H80000000,&H00000000,-1,0,0,0,100,100,0,0,1,9,0,2,30,30,30,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:10.49,0:00:11.20,Show_Title,Screen,0,0,0,,{\c&H0200E9&\3c&H000000&}JUJUTSU KAISEN
+Dialogue: 0,0:00:34.46,0:00:38.63,Show_Title,Screen,0,0,0,,{\fad(0,650)\c&H2E2C2C&}JUJUTSU KAISEN\N{\fs36\c&HF3F3F3&\bord0\alpha&HFF&\t(237,736,1 \alpha&H00&)}The Culling Game Part 1
+Dialogue: 0,0:02:29.59,0:02:30.80,Sign_Basic,Screen,0,0,0,,{\pos(546,180)\fad(425,0)\fnTimes New Roman\b1\fs48\bord0\shad0\c&H3A267C&}Seriously?
+Dialogue: 0,0:03:44.91,0:03:51.38,Onscreen1,Screen,0,0,0,,{\pos(960,414)\fad(475,2175)}Kenjaku's Objective
+Dialogue: 0,0:03:51.38,0:03:54.42,Onscreen1,Screen,0,0,0,,{\pos(960,492)\fad(425,0)}The Evolution of Mankind Throughout All Japan
+Dialogue: 0,0:04:03.22,0:04:08.44,Onscreen1,Screen,0,0,0,,{\pos(960,228)\fad(475,0)\fs66}Idle Transfiguration
+Dialogue: 0,0:04:08.48,0:04:19.07,Onscreen1,Screen,0,0,0,,{\pos(960,114)\fad(800,0)}Idle Transfiguration
+Dialogue: 0,0:04:08.48,0:04:13.44,Onscreen1,Screen,0,0,0,,{\pos(960,846)\fad(800,825)\fs36}The Evolution of Mankind Throughout All Japan
+Dialogue: 0,0:04:14.69,0:04:19.07,Onscreen1,Screen,0,0,0,,{\pos(1422,474)\fad(550,0)\fs42}Insufficient Cursed Energy
+Dialogue: 0,0:04:19.07,0:04:28.12,Onscreen1,Screen,0,0,0,,{\pos(692.001,188.001)\fs36\frx4\fry12\frz353.9}Kenjaku's Objective
+Dialogue: 0,0:04:19.07,0:04:28.12,Onscreen1,Screen,0,0,0,,{\pos(770.001,330)\fs36\frx4\fry12\frz354.5}The Evolution of Mankind Throughout All Japan
+Dialogue: 0,0:04:23.70,0:04:28.12,Onscreen1,Screen,0,0,0,,{\pos(465.999,408)\fad(250,0)\fs30\frx4\fry12\frz353.9}How?
+Dialogue: 0,0:04:23.70,0:04:28.12,Onscreen1,Screen,0,0,0,,{\pos(456,518.001)\fad(250,0)\fs36\frx4\fry12\frz355.1}Assimilate Mankind With Tengen
+Dialogue: 0,0:04:23.70,0:04:28.12,Onscreen1,Screen,0,0,0,,{\pos(1604.001,506.001)\fad(250,0)\fs30\frx4\fry12\frz353.9}Why?
+Dialogue: 0,0:04:23.70,0:04:28.12,Onscreen1,Screen,0,0,0,,{\pos(1610.001,606)\fad(250,0)\fs36\frx4\fry12\frz355.1}Unknown
+Dialogue: 0,0:04:28.12,0:04:30.75,Onscreen1,Screen,0,0,0,,{\fax.1\frz345.8\frx22\fry18\pos(896.001,350.001)}How?
+Dialogue: 0,0:04:28.12,0:04:30.75,Onscreen1,Screen,0,0,0,,{\fax.1\pos(906,496.002)\frz345.8\frx22\fry18\t(23,981,1 \c&HFEE309&)}Assimilate Mankind With {}Tengen
+Dialogue: 0,0:04:36.76,0:04:40.26,Onscreen1,Screen,0,0,0,,{\pos(960,198)}Tengen
+Dialogue: 0,0:04:36.76,0:04:40.26,Onscreen1,Screen,0,0,0,,{\pos(462,762)}Star Plasma Vessel
+Dialogue: 0,0:04:36.76,0:04:40.26,Onscreen1,Screen,0,0,0,,{\pos(1494,762)\t(2252,727,1\c&H4A4549&\3c&H929393&)}Ordinary Person
+Dialogue: 0,0:04:38.30,0:04:40.26,Onscreen1,Screen,0,0,0,,{\pos(630,480)}Assimilation Possible
+Dialogue: 0,0:04:38.30,0:04:40.26,Onscreen1,Screen,0,0,0,,{\pos(1290,480)\t(688,727,1\c&H4A4549&\3c&H929393&)}Assimilation Impossible
+Dialogue: 0,0:04:42.22,0:04:43.39,Onscreen2,Screen,0,0,0,,{\pos(960,458.001)}Star Plasma Vessel's Death
+Dialogue: 0,0:04:43.39,0:04:45.06,Onscreen2,Screen,0,0,0,,{\pos(960,444)\fad(0,675)}Assimilation With the Star Plasma Vessel Prevented
+Dialogue: 0,0:04:45.06,0:04:46.64,Onscreen2,Screen,0,0,0,,{\pos(966,456)\fad(950,0)}Tengen
+Dialogue: 0,0:04:46.64,0:04:47.35,Onscreen2,Screen,0,0,0,,{\pos(966,456)}Tengen's Evolution
+Dialogue: 0,0:04:47.35,0:04:53.57,Onscreen1,Screen,0,0,0,,{\pos(960,402)\fs90\t(\fs42)}Tengen's Evolution
+Dialogue: 0,0:04:53.56,0:04:55.97,Onscreen1,Screen,0,0,0,,{\pos(960,375)\fad(250,0)\fs72}Assimilate Mankind With Tengen
+Dialogue: 0,0:05:34.11,0:05:35.57,Onscreen1,Screen,0,0,0,,{\fad(250,0)\c&H6057F4&\fs60\pos(960,267.999)}Out of Control
+Dialogue: 0,0:05:39.99,0:05:42.74,Onscreen1,Screen,0,0,0,,{\pos(960,222)\c&H6057F4&}Out of Control
+Dialogue: 0,0:05:52.87,0:05:56.30,Onscreen2,Screen,0,0,0,,{\pos(960,135)\fs30}Kenjaku's Objective
+Dialogue: 0,0:05:52.87,0:05:56.30,Onscreen2,Screen,0,0,0,,{\pos(960,324)\fs30}The Evolution of Mankind Throughout All Japan
+Dialogue: 0,0:05:52.87,0:05:56.30,Onscreen2,Screen,0,0,0,,{\pos(426,618)\fs30}How?
+Dialogue: 0,0:05:52.87,0:05:56.30,Onscreen2,Screen,0,0,0,,{\pos(1542,618)\fs30}Why?
+Dialogue: 0,0:05:52.87,0:05:56.30,Onscreen2,Screen,0,0,0,,{\pos(426,720)\fs42}Assimilate Mankind With Tengen
+Dialogue: 0,0:05:52.87,0:05:56.30,Onscreen2,Screen,0,0,0,,{\pos(1542,720)\fs42}Unknown
+Dialogue: 0,0:05:56.38,0:05:57.84,Onscreen2,Screen,0,0,0,,{\fad(950,0)\fs30\frx16\fry4\pos(528,126)\frz350.5}Kenjaku's Objective
+Dialogue: 0,0:05:56.38,0:05:57.84,Onscreen2,Screen,0,0,0,,{\fad(950,0)\fs30\frx16\fry4\pos(612,315)\frz351.9}The Evolution of Mankind Throughout All Japan
+Dialogue: 0,0:05:56.38,0:05:57.84,Onscreen2,Screen,0,0,0,,{\fad(950,0)\fs36\frx16\fry2\frz353.8\pos(474,513.999)}How?
+Dialogue: 0,0:05:56.38,0:05:57.84,Onscreen2,Screen,0,0,0,,{\fad(950,0)\fs30\pos(1500,627)\frx6\fry2\frz353}Why?
+Dialogue: 0,0:05:56.38,0:05:57.84,Onscreen2,Screen,0,0,0,,{\fad(950,0)\fs36\frx16\fry2\frz353.8\pos(456,615)}Assimilate Mankind With Tengen
+Dialogue: 0,0:05:56.38,0:05:57.84,Onscreen2,Screen,0,0,0,,{\fad(950,0)\fs36\frz353.8\pos(1500,722.001)\frx2\fry2}Unknown
+Dialogue: 0,0:05:58.13,0:06:00.38,Onscreen2,Screen,0,0,0,,{\fad(1300,0)\fs54\pos(960,129)}Why?
+Dialogue: 0,0:05:58.13,0:06:00.38,Onscreen2,Screen,0,0,0,,{\fad(1300,0)\fs90\pos(966,378)}Unknown
+Dialogue: 0,0:06:11.60,0:06:12.98,Onscreen1,Screen,0,0,0,,{\pos(936,336)\fad(250,0)}Geto Suguru's Death
+Dialogue: 0,0:06:11.93,0:06:12.98,Onscreen1,Screen,0,0,0,,{\pos(938.001,465.999)}Obtained Cursed Spirit Manipulation
+Dialogue: 0,0:06:12.02,0:06:12.98,Onscreen1,Screen,0,0,0,,{\fad(200,0)\pos(534,780)\fs36}Obtained Idle Transfiguration
+Dialogue: 0,0:06:12.02,0:06:12.98,Onscreen1,Screen,0,0,0,,{\fad(250,0)\pos(1530,780)\fs36}Star Plasma Vessel's Death
+Dialogue: 0,0:06:12.06,0:06:12.98,Onscreen1,Screen,0,0,0,,{\fad(250,0)\pos(1530,968.001)\fs36}Tengen's Evolution
+Dialogue: 0,0:06:14.02,0:06:20.15,Onscreen1,Screen,0,0,0,,{\pos(864,494.001)\fad(1425,250)\fs72\t(2774,3272,1 \alpha&HBB&)}Obtain Tengen
+Dialogue: 0,0:06:47.22,0:06:52.97,Onscreen1,Screen,0,0,0,,{\frx30\move(960,6,960,120)}Assimilation With Star Plasma Vessel Prevented
+Dialogue: 0,0:06:49.39,0:06:52.98,Onscreen1,Screen,0,0,0,,{\fad(175,0)\frx30\move(960,306,960,372)}Tengen's Evolution
+Dialogue: 0,0:06:52.27,0:06:52.97,Onscreen1,Screen,0,0,0,,{\fad(250,0)\fs90\frx30\move(966,576,966,588)}Obtain Tengen
+Dialogue: 0,0:06:54.13,0:07:00.85,Onscreen1,Screen,0,0,0,,{\fs36\frx30\move(960,138,960,270)}Assimilation With Star Plasma Vessel Prevented
+Dialogue: 0,0:06:54.13,0:07:00.85,Onscreen1,Screen,0,0,0,,{\move(960,396,960,528)\frx30}Tengen's Evolution
+Dialogue: 0,0:06:54.13,0:07:00.85,Onscreen1,Screen,0,0,0,,{\move(960,606,960,738)\fs90\frx30}Obtain Tengen
+Dialogue: 0,0:07:03.65,0:07:12.04,Onscreen2,Screen,0,0,0,,{\pos(960,165)\fad(175,0)}Tengen
+Dialogue: 0,0:07:04.31,0:07:12.04,Onscreen2,Screen,0,0,0,,{\pos(420,585)\fad(250,0)}Star Plasma Vessel
+Dialogue: 0,0:07:05.11,0:07:12.04,Onscreen2,Screen,0,0,0,,{\pos(1530,585)\fad(150,0)}Six Eyes
+Dialogue: 0,0:07:12.04,0:07:17.62,Onscreen1,Screen,0,0,0,,{\move(846,132,894,102)\frx340\fry332\frz346\fs72\t(\frx350\fry305)}Kenjaku's Objective
+Dialogue: 0,0:07:12.04,0:07:17.62,Onscreen1,Screen,0,0,0,,{\move(858,753,870,708)\frx334\fry314\frz328.3\t(\frx344\fry305\frz322)}Stop Tengen's Assimilation
+Dialogue: 0,0:07:17.62,0:07:23.49,Onscreen1,Screen,0,0,0,,{\move(1002,246,1014,237)\frx26\fry56\frz330\t(\frz337\fry50)}Kenjaku's Objective
+Dialogue: 0,0:07:17.62,0:07:23.49,Onscreen1,Screen,0,0,0,,{\move(978,726,990,729)\fs60\frx16\fry36\frz344.3\t(\frz348\fry30)}Stop Tengen's Assimilation
+Dialogue: 0,0:07:40.55,0:07:43.32,Onscreen1,Screen,0,0,0,,{\pos(968.001,360)\fad(0,2300)\fs60}Kenjaku's Objective
+Dialogue: 0,0:07:44.99,0:07:46.07,Onscreen1,Screen,0,0,0,,{\pos(1272,744)\fad(500,0)\fs54}Unpredicted Event
+Dialogue: 0,0:07:46.07,0:07:55.25,Onscreen1,Screen,0,0,0,,{\pos(1272,648)\fad(500,0)\fs54}Toji Zenin Intervenes
+Dialogue: 0,0:07:57.00,0:07:58.42,Onscreen1,Screen,0,0,0,,{\pos(1050,711.999)\frx64\fry354\frz191.2}Kenjaku's Objective
+Dialogue: 0,0:07:58.37,0:08:00.21,Onscreen1,Screen,0,0,0,,{\pos(906,510)\fad(425,0)\fs48\frz2.565}Zenin Toji Intervenes
+Dialogue: 0,0:08:01.84,0:08:05.34,Onscreen1,Screen,0,0,0,,{\pos(1016.001,452.001)\fad(450,0)\fs30\frz0}Star Plasma Vessel's Death
+Dialogue: 0,0:08:05.34,0:08:20.52,Onscreen2,Screen,0,0,0,,{\pos(960,495)\bord0}Star Plasma Vessel's Death
+Dialogue: 0,0:08:07.09,0:08:20.52,Onscreen2,Screen,0,0,0,,{\pos(345.999,402)\fad(675,0)\bord0}Cursed Spirit Manipulation
+Dialogue: 0,0:08:17.02,0:08:20.52,Onscreen2,Screen,0,0,0,,{\pos(1592.001,660)\bord0\fad(700,0)}Prison Realm
+Dialogue: 0,0:08:20.52,0:08:24.94,Onscreen1,Screen,0,0,0,,{\pos(960,60)\fs90\an8\bord0}The Culling Game
+Dialogue: 0,0:08:27.31,0:08:36.45,Onscreen1,Screen,0,0,0,,{\pos(960,72)}Mankind
+Dialogue: 0,0:08:27.31,0:08:36.45,Onscreen1,Screen,0,0,0,,{\pos(960,836.001)}Tengen
+Dialogue: 0,0:08:29.61,0:08:33.16,Onscreen1,Screen,0,0,0,,{\pos(960,489.999)\fad(125,0)}Assimilation
+Dialogue: 0,0:08:33.16,0:08:36.45,Onscreen1,Screen,0,0,0,,{\pos(960,435.999)\fad(325,0)\fs60}Incomplete
+Dialogue: 0,0:08:36.45,0:08:42.46,Sign_Basic,Screen,0,0,0,,{\an8\pos(960,129.999)\fnTimes New Roman\b1\bord0\shad0\c&H000000&\fs90}The Culling Game
+Dialogue: 0,0:08:42.46,0:08:51.47,Onscreen1,Screen,0,0,0,,{\pos(960,60)}Mankind
+Dialogue: 0,0:08:42.46,0:08:51.47,Onscreen1,Screen,0,0,0,,{\pos(960,912)}Tengen
+Dialogue: 0,0:08:42.46,0:08:51.47,Onscreen1,Screen,0,0,0,,{\pos(483.999,270)\bord0\fs30}The Culling Game
+Dialogue: 0,0:08:44.59,0:08:51.47,Onscreen1,Screen,0,0,0,,{\pos(960,348)\fad(300,0)\fs36}Warm-Up
+Dialogue: 0,0:08:47.26,0:08:48.14,Onscreen1,Screen,0,0,0,,{\pos(966,584.001)\fad(250,375)}Success
+Dialogue: 0,0:08:46.39,0:08:47.39,Onscreen1,Screen,0,0,0,,{\pos(960,633.999)\fad(300,0)\fs36}Assimilation
+Dialogue: 0,0:08:48.14,0:08:51.47,Onscreen1,Screen,0,0,0,,{\pos(960,534)}The Evolution of Mankind Throughout All Japan
+Dialogue: 0,0:08:51.47,0:08:54.14,Onscreen1,Screen,0,0,0,,{\pos(486,356.001)\bord0\fs30}The Culling Game
+Dialogue: 0,0:08:51.47,0:08:54.14,Onscreen1,Screen,0,0,0,,{\pos(960,200.001)}Mankind
+Dialogue: 0,0:08:51.47,0:08:54.14,Onscreen1,Screen,0,0,0,,{\pos(960,417.999)}The Evolution of Mankind Throughout All Japan
+Dialogue: 0,0:08:51.47,0:08:54.14,Onscreen1,Screen,0,0,0,,{\pos(960,768)}Tengen
+Dialogue: 0,0:08:54.14,0:08:56.85,Onscreen1,Screen,0,0,0,,{\pos(960,270)\fad(2625,0)\bord0\fs90}The Culling Game
+Dialogue: 0,0:08:56.85,0:08:58.27,Onscreen2,Screen,0,0,0,,{\pos(960,270)\bord0\fs90}The Culling Game
+Dialogue: 0,0:08:56.85,0:08:58.27,Onscreen2,Screen,0,0,0,,{\an8\pos(978,536.001)\bord0}Details
+Dialogue: 0,0:09:00.64,0:09:02.10,Onscreen2,Screen,0,0,0,,{\an8\3a&H00&}7: The Game Master must approve any additional rules\Nrequested under Rule 6 above, except when\Nthe Rule would significantly hinder\Nthe continuation of the Culling Game.
+Dialogue: 0,0:09:02.10,0:09:15.12,Onscreen2,Screen,0,0,0,,{\an7\3a&H00&\pos(90,225)}7: The Game Master must approve any additional rules\Nrequested under Rule 6 above, except when
+Dialogue: 0,0:09:02.10,0:09:15.12,Onscreen2,Screen,0,0,0,,{\an7\3a&H00&\pos(90,480)}the Rule would significantly hinder\Nthe continuation of the Culling Game.
+Dialogue: 0,0:09:15.33,0:09:15.71,Onscreen2,Screen,0,0,0,,{\an8\fs60}Player
+Dialogue: 0,0:09:15.71,0:09:17.29,Onscreen2,Screen,0,0,0,,{\an8\3c&H39309F&\fs60}Dead
+Dialogue: 0,0:09:17.29,0:09:18.00,Onscreen2,Screen,0,0,0,,{\an8\fs60}Player
+Dialogue: 0,0:09:18.00,0:09:19.33,Onscreen2,Screen,0,0,0,,{\an8\3c&HB3493C&\fs60}Refuse to Participate
+Dialogue: 0,0:09:19.33,0:09:21.00,Onscreen2,Screen,0,0,0,,{\an8\3c&H39309F&\fs60}Dead
+Dialogue: 0,0:09:21.00,0:09:26.17,Onscreen2,Screen,0,0,0,,{\fs72\pos(960,210)}7: The Game Master must
+Dialogue: 0,0:09:26.17,0:09:30.80,Onscreen2,Screen,0,0,0,,{\fs72\pos(960,210)}hinder the continuation
+Dialogue: 0,0:09:33.72,0:09:35.22,Onscreen2,Screen,0,0,0,,{\an8\fad(700,0)\3a&H00&\c&HFFFFFF&}6: By spending 100 points, not counting\Nthe initial point value assigned to them,\NPlayers may negotiate with the Game Master\Nto add an additional Rule to the Culling Game.
+Dialogue: 0,0:09:35.22,0:09:38.22,Onscreen2,Screen,0,0,0,,{\an7\3a&H00&\c&HFFFFFF&\pos(78,204)}6: By spending 100 points, not counting the initial point value assigned to them,\NPlayers may negotiate with the Game Master to add an additional Rule to the Culling Game.
+Dialogue: 0,0:09:38.97,0:09:40.73,Onscreen2,Screen,0,0,0,,{\fs72\pos(960,210)}By spending 100 points
+Dialogue: 0,0:09:40.73,0:09:42.73,Onscreen2,Screen,0,0,0,,{\fs72\pos(960,210)}add an additional Rule
+Dialogue: 0,0:09:51.37,0:09:55.62,Onscreen2,Screen,0,0,0,,{\an8}Itadori's Friends' Objective
+Dialogue: 0,0:09:52.49,0:09:55.62,Onscreen2,Screen,0,0,0,,{\pos(560.001,435)}Create a Rule to Escape the Culling Game
+Dialogue: 0,0:09:52.49,0:09:55.62,Onscreen2,Screen,0,0,0,,{\pos(1448.001,435)}Free Gojo Satoru
+Dialogue: 0,0:09:55.78,0:10:00.12,Sign_Basic,Screen,0,0,0,,{\pos(1272,264)\fad(800,0)\c&H88708D&\bord0\shad0\fs60}Tell us.
+Dialogue: 0,0:10:42.66,0:10:43.66,Onscreen2,Screen,0,0,0,,{\an8\fs90}Prison Realm Back
+Dialogue: 0,0:10:57.18,0:11:07.69,Onscreen2,Screen,0,0,0,,{\move(978,672,537,672,5988,8906)}Prison Realm
+Dialogue: 0,0:11:00.22,0:11:07.69,Onscreen2,Screen,0,0,0,,{\pos(990,210)\fad(250,0)\fs36}Gojo Satoru
+Dialogue: 0,0:11:03.19,0:11:07.69,Onscreen2,Screen,0,0,0,,{\fad(2825,0)\move(978,669,1428,669,20,2854)}Prison Realm Back
+Dialogue: 0,0:11:18.41,0:11:28.38,Onscreen2,Screen,0,0,0,,{\pos(960,192)\fs30}Prison Realm Back
+Dialogue: 0,0:11:21.49,0:11:28.38,Onscreen2,Screen,0,0,0,,{\pos(398.001,468)\fad(350,0)\frz351.1\frx348\fry338\fs42}Inverted Spear of Heaven
+Dialogue: 0,0:11:27.00,0:11:28.38,Onscreen2,Screen,0,0,0,,{\fad(325,0)\pos(1524,492)\frx328\fry10\frz10.19}Black Rope
+Dialogue: 0,0:11:30.13,0:11:37.63,Onscreen2,Screen,0,0,0,,{\fs54\an5\fay.065\move(1011,360,840,435)\t(\frx0\fry-40\fay-.29\fs39)}Inverted Spear of Heaven
+Dialogue: 0,0:11:39.39,0:11:43.85,Onscreen2,Screen,0,0,0,,{\bord6\fs72\an5\fay-.12\move(906,390,993,360)\3c&H180640&\t(\fay.08)}Black Rope
+Dialogue: 0,0:11:58.70,0:12:01.03,Sign_Basic,Screen,0,0,0,,{\pos(998.001,267.999)\fad(925,0)\fs42\shad0\c&H3E3B3E&\3c&HF3EEEE&}They said it's all gone.
+Dialogue: 0,0:12:07.83,0:12:12.29,Onscreen2,Screen,0,0,0,,{\pos(948,192)\fs30}Prison Realm Back
+Dialogue: 0,0:12:07.83,0:12:12.29,Onscreen2,Screen,0,0,0,,{\pos(295.998,468)\frz350\frx332\fry332}Inverted Spear of Heaven
+Dialogue: 0,0:12:07.83,0:12:12.29,Onscreen2,Screen,0,0,0,,{\pos(1640.001,495.999)\frz7.125\frx326\fry22}Black Rope
+Dialogue: 0,0:12:09.17,0:12:12.29,Onscreen2,Screen,0,0,0,,{\fad(550,0)\pos(954,642)}Angel
+Dialogue: 0,0:12:12.29,0:12:24.97,Onscreen2,Screen,0,0,0,,{\pos(972,456)\bord0\fs66\c&H0700A1&)}Angel
+Dialogue: 0,0:12:24.97,0:12:27.97,Onscreen2,Screen,0,0,0,,{\pos(960,408)\fs84\c&H0600AC&}Kurusu Hana
+Dialogue: 0,0:12:27.97,0:12:30.97,Signs,Sign,0,0,0,,Episode 50\N{\fs90}About the Culling Game
+Dialogue: 0,0:12:30.97,0:12:32.85,Onscreen2,Screen,0,0,0,,{\fs30\c&H0A0ECB&\pos(960,165)}Gojo Satoru
+Dialogue: 0,0:12:30.97,0:12:32.85,Onscreen2,Screen,0,0,0,,{\fs36\c&H0A0ECB&\pos(348,434.001)}Prison Realm
+Dialogue: 0,0:12:30.97,0:12:32.85,Onscreen2,Screen,0,0,0,,{\fs36\c&H0A0ECB&\pos(1560,426)}Prison Realm Back
+Dialogue: 0,0:12:30.97,0:12:32.85,Onscreen2,Screen,0,0,0,,{\fs60\c&H0A0ECB&\pos(960,776.001)}Angel
+Dialogue: 0,0:13:09.45,0:13:17.85,Onscreen2,Screen,0,0,0,,{\fad(917,0)\bord0\pos(798,300)\fs36}Yasohachi Bridge's River
+Dialogue: 0,0:13:09.45,0:13:17.85,Onscreen2,Screen,0,0,0,,{\fad(917,0)\bord0\fs36\pos(1248,300)}Other Side
+Dialogue: 0,0:13:09.45,0:13:17.85,Onscreen2,Screen,0,0,0,,{\fad(917,0)\bord0\fs36\pos(1692,300)}Colonies' Barriers
+Dialogue: 0,0:13:41.59,0:13:44.09,Sign_Basic,Sign,0,0,0,,{\fs36\pos(1839,519)\an3\bord0}*"The Challenging Land"\NThe catchphrase issued in '99 by \Nthe Hokkaido Government Office.
+Dialogue: 0,0:13:44.09,0:13:51.06,Onscreen2,Screen,0,0,0,,{\fad(0,1425)\c&H140A9E&\move(966,312,966,105)\clip(0,132,1920,948)}The Culling Game
+Dialogue: 0,0:13:44.09,0:13:53.35,Onscreen2,Screen,0,0,0,,{\c&H140A9E&\move(966,558,966,273)}Warm-Up
+Dialogue: 0,0:13:44.09,0:13:53.35,Onscreen2,Screen,0,0,0,,{\c&H140A9E&\move(966,828,966,549)}Assimilate Mankind With Tengen
+Dialogue: 0,0:13:44.09,0:13:53.35,Onscreen2,Screen,0,0,0,,{\c&H140A9E&\move(966,1149,966,870)\clip(0,132,1920,948)}The Evolution of Mankind Throughout All Japan
+Dialogue: 0,0:13:58.19,0:14:00.19,Onscreen2,Screen,0,0,0,,{\pos(960,285)\fad(700,200)\fs60\c&H27129E&\bord0}Warm-Up Complete
+Dialogue: 0,0:14:00.19,0:14:03.86,Onscreen1,Screen,0,0,0,,{\pos(960,303.999)\fad(250,0)\fs60}The Culling Game
+Dialogue: 0,0:14:09.11,0:14:11.24,Onscreen2,Screen,0,0,0,,{\an8\fad(550,0)\3a&H00&}1: After awakening their Cursed Technique,\Nplayers must go to a Colony of their choice within 19 days\Nand pledge their participation in the Culling Game.
+Dialogue: 0,0:14:11.24,0:14:20.63,Onscreen2,Screen,0,0,0,,{\an7\pos(72,30)}1: After awakening their Cursed Technique,\Nplayers must go to a Colony of their choice within 19 days\Nand pledge their participation in the Culling Game.
+Dialogue: 0,0:14:26.13,0:14:28.09,Sign_Basic,Screen,0,0,0,,{\an8\fnGeorgia\c&H0800E3&}Remaining Time Until Tsumiki\NMust Enter the Culling Game
+Dialogue: 0,0:14:28.09,0:14:30.80,Sign_Basic,Screen,0,0,0,,{\an8\fnGeorgia\fs48\bord6\c&H0800E3&\b1\pos(936,174)}Remaining Time Until Tsumiki\NMust Enter the Culling Game
+Dialogue: 0,0:14:28.09,0:14:30.80,Sign_Basic,Screen,0,0,0,,{\an8\fnGeorgia\fs48\bord6\c&H0800E3&\pos(873.999,771.999)\b1}Obtain 100 points and add a rule\Nallowing people to escape.
+Dialogue: 0,0:14:31.68,0:14:33.18,Onscreen2,Screen,0,0,0,,{\an8\fad(550,0)\3a&H00&}2: Players breaching the first rule shall be\Nstripped of their technique.
+Dialogue: 0,0:14:33.18,0:14:37.48,Onscreen2,Screen,0,0,0,,{\an7\pos(180,129.999)}2: Players breaching the first rule shall be\Nstripped of their technique.
+Dialogue: 0,0:14:37.48,0:14:39.19,Onscreen2,Screen,0,0,0,,{\pos(933.999,236.001)\fs90}stripped of their technique.
+Dialogue: 0,0:15:20.23,0:15:21.81,Onscreen2,Screen,0,0,0,,{\an8\fad(550,0)\3a&H00&}3: Non-Players shall become Players upon\Nentering a Colony, and their entry shall be taken\Nas pledging to participate in the Culling Game.
+Dialogue: 0,0:15:27.86,0:15:31.74,Onscreen2,Screen,0,0,0,,{\an7\pos(192,54)\3a&H00&}3: Non-Players shall become Players upon\Nentering a Colony, and their entry shall be taken
+Dialogue: 0,0:15:27.86,0:15:31.74,Onscreen2,Screen,0,0,0,,{\an7\3a&H00&\pos(192,285)}as pledging to participate in the Culling Game.
+Dialogue: 0,0:15:43.25,0:15:48.38,Onscreen2,Screen,0,0,0,,{\an8\pos(960,48)\fs90}upon entering
+Dialogue: 0,0:15:59.85,0:16:01.39,Onscreen2,Screen,0,0,0,,{\an8\fad(550,0)\3a&H00&}4: Players will receive points upon\Nending the life of another Player.
+Dialogue: 0,0:16:01.39,0:16:04.23,Onscreen2,Screen,0,0,0,,{\an7\pos(165,255)\3a&H00&}4: Players will receive points upon\Nending the life of another Player.
+Dialogue: 0,0:16:04.23,0:16:05.40,Onscreen2,Screen,0,0,0,,{\an8\pos(960,48)\fs90}ending the life
+Dialogue: 0,0:16:08.02,0:16:09.61,Onscreen2,Screen,0,0,0,,{\an8\fad(550,0)\3a&H00&}5: Points shall be designated based on the value\Nthat the Game Master gives their life,\Nand fundamentally, a sorcerer will be worth\N5 points while non-sorcerers will be worth 1 point.
+Dialogue: 0,0:16:09.61,0:16:12.95,Onscreen2,Screen,0,0,0,,{\an7\pos(72,186)\3a&H00&}5: Points shall be designated based on the value\Nthat the Game Master gives their life,
+Dialogue: 0,0:16:09.61,0:16:12.95,Onscreen2,Screen,0,0,0,,{\an7\pos(72,468)\3a&H00&}and fundamentally, a sorcerer will be worth\N5 points while non-sorcerers will be worth 1 point.
+Dialogue: 0,0:16:12.95,0:16:16.32,Onscreen2,Screen,0,0,0,,{\an7\pos(72,75)\3a&H00&}fundamentally\N a sorcerer will be worth 5 points\N non-sorcerers will be worth 1 point.
+Dialogue: 0,0:16:16.32,0:16:21.59,Onscreen2,Sign,0,0,0,,{\c&H0700E1&\pos(960,183.999)}Game Master
+Dialogue: 0,0:16:21.58,0:16:24.67,Onscreen2,Screen,0,0,0,,{\fad(0,550)\c&H2213E6&\pos(960,546)\fs60}Game Master
+Dialogue: 0,0:16:25.46,0:16:37.72,Onscreen2,Screen,0,0,0,,{\pos(960,570)\fad(300,0)\c&H2213E6&}Kogane\N{\fs30}Not the Game Master
+Dialogue: 0,0:16:37.72,0:16:39.64,Onscreen2,Screen,0,0,0,,{\an7\pos(72,186)\3a&H00&}5: Points shall be designated based on the value\Nthat the Game Master gives their life,
+Dialogue: 0,0:16:37.72,0:16:39.64,Onscreen2,Screen,0,0,0,,{\an7\pos(72,468)\3a&H00&}and fundamentally, a sorcerer will be worth\N5 points while non-sorcerers will be worth 1 point.
+Dialogue: 0,0:16:40.52,0:16:42.02,Onscreen2,Screen,0,0,0,,{\an8\fad(550,0)\3a&H00&}6: By spending 100 points, not counting\Nthe initial point value assigned to them,\NPlayers may negotiate with the Game Master\Nto add an additional Rule to the Culling Game.
+Dialogue: 0,0:16:42.02,0:16:44.06,Onscreen2,Screen,0,0,0,,{\an7\pos(72,186)\3a&H00&}6: By spending 100 points, not counting\Nthe initial point value assigned to them,
+Dialogue: 0,0:16:42.02,0:16:44.06,Onscreen2,Screen,0,0,0,,{\an7\pos(72,468)\3a&H00&}Players may negotiate with the Game Master\Nto add an additional Rule to the Culling Game.
+Dialogue: 0,0:16:44.06,0:16:46.06,Onscreen2,Screen,0,0,0,,{\an8\pos(960,48)\fs90}100 points
+Dialogue: 0,0:16:46.06,0:16:48.06,Onscreen2,Screen,0,0,0,,{\an8\pos(960,48)\fs90}add an additional Rule
+Dialogue: 0,0:16:48.06,0:16:52.15,Onscreen2,Screen,0,0,0,,{\an7\pos(72,186)\3a&H00&}6: By spending 100 points, not counting\Nthe initial point value assigned to them,
+Dialogue: 0,0:16:48.06,0:16:52.15,Onscreen2,Screen,0,0,0,,{\an7\pos(72,468)\3a&H00&}Players may negotiate with the Game Master\Nto add an additional Rule to the culling game.
+Dialogue: 0,0:16:52.94,0:16:54.49,Onscreen2,Screen,0,0,0,,{\an8\fad(550,0)\3a&H00&}7: The Game Master must approve any additional rules\Nrequested under Rule 6 above, except when\Nthe Rule would significantly hinder\Nthe continuation of the Culling Game.
+Dialogue: 0,0:16:54.49,0:17:01.04,Onscreen2,Screen,0,0,0,,{\an7\pos(156,186)\3a&H00&}7: The Game Master must approve any additional rules\Nrequested under Rule 6 above, except when
+Dialogue: 0,0:16:54.49,0:17:01.04,Onscreen2,Screen,0,0,0,,{\an7\pos(156,468)\3a&H00&}the Rule would significantly hinder\Nthe continuation of the Culling Game.
+Dialogue: 0,0:17:01.04,0:17:14.35,Onscreen2,Screen,0,0,0,,{\an7\3a&H00&\frz0.5471\frx0\fry2\pos(166.002,260.001)}7: The Game Master must approve any additional rules\Nrequested under Rule 6 above, except when
+Dialogue: 0,0:17:01.04,0:17:14.35,Onscreen2,Screen,0,0,0,,{\an7\3a&H00&\pos(170.001,492)\frx4\fry2\frz0.9753}the Rule would significantly hinder\Nthe continuation of the culling game.
+Dialogue: 0,0:17:15.17,0:17:16.76,Onscreen2,Screen,0,0,0,,{\an8\fad(550,0)\3a&H00&}8: Players who do not show a\Nchange in points within 19 days of\Njoining or acquiring points\Nshall be stripped of their technique.
+Dialogue: 0,0:17:16.76,0:17:19.64,Onscreen2,Screen,0,0,0,,{\an4\pos(141.999,315.999)\frx358\fry10\frz2.195}8: Players who do not show a\Nchange in points within 19 days of
+Dialogue: 0,0:17:16.76,0:17:19.64,Onscreen2,Screen,0,0,0,,{\an4\pos(152.001,554.001)\frx358\fry10\frz4.03}joining or acquiring points\Nshall be stripped of their technique.
+Dialogue: 0,0:17:19.64,0:17:20.89,Onscreen2,Screen,0,0,0,,{\pos(434.001,210)\fs84}do not show
+Dialogue: 0,0:17:20.89,0:17:23.60,Onscreen2,Screen,0,0,0,,{\pos(518.001,324)\fs84\frx4\fry8\frz2.996}a change
+Dialogue: 0,0:17:23.60,0:17:24.73,Onscreen2,Screen,0,0,0,,{\an4\pos(141.999,315.999)\frx358\fry10\frz2.195}8: Players who do not show a\Nchange in points within 19 days of
+Dialogue: 0,0:17:23.60,0:17:24.73,Onscreen2,Screen,0,0,0,,{\an4\pos(152.001,554.001)\frx358\fry10\frz4.03}joining or acquiring points\Nshall be stripped of their technique.
+Dialogue: 0,0:17:24.73,0:17:28.52,Onscreen2,Screen,0,0,0,,{\pos(936,426)\fad(0,1825)\c&H0600E1&}The Culling Game
+Dialogue: 0,0:17:30.90,0:17:33.07,Onscreen1,Screen,0,0,0,,{\pos(960,444)\fad(550,0)\fs84\frx30}Future Actions
+Dialogue: 0,0:17:33.07,0:17:38.32,Onscreen1,Screen,0,0,0,,{\pos(720,315)\fs36}Choso
+Dialogue: 0,0:17:33.07,0:17:38.32,Onscreen1,Screen,0,0,0,,{\pos(1233,315)\fs36}Tsukumo Yuki
+Dialogue: 0,0:17:35.70,0:17:38.32,Onscreen1,Screen,0,0,0,,{\pos(960,540)\fad(1675,0)}Guard Tengen
+Dialogue: 0,0:17:38.32,0:17:43.29,Onscreen1,Screen,0,0,0,,{\pos(368.001,453.999)}Maki Zenin
+Dialogue: 0,0:17:41.37,0:17:43.29,Onscreen1,Screen,0,0,0,,{\pos(1520.001,450)\fad(1450,0)\fs36}Retrieve Cursed Tools from the Zenin Clan
+Dialogue: 0,0:18:02.60,0:18:14.57,Onscreen1,Screen,0,0,0,,{\pos(960,141.999)}Maki Zenin
+Dialogue: 0,0:18:02.60,0:18:14.57,Onscreen1,Screen,0,0,0,,{\pos(960,776.001)\fs42}Retrieve Cursed Tools from the Zenin Clan
+Dialogue: 0,0:18:04.77,0:18:14.57,Onscreen1,Screen,0,0,0,,{\pos(960,438)\fad(575,0)}Juzo Kumiya's Atelier
+Dialogue: 0,0:18:14.57,0:18:25.24,Onscreen1,Screenright,0,0,0,,{\pos(1614,102)\fs36}Maki Zenin
+Dialogue: 0,0:18:14.57,0:18:25.24,Onscreen1,Screenright,0,0,0,,{\pos(1614,303.999)\fs36}Juzo Kumiya's Atelier
+Dialogue: 0,0:18:14.57,0:18:25.24,Onscreen1,Screenright,0,0,0,,{\pos(1614,477.999)\fs27}Retrieve Cursed Tools From the Zenin Clan
+Dialogue: 0,0:18:14.57,0:18:25.24,Onscreen1,ScreenLeft,0,0,0,,{\pos(270,104.001)\fs42}Okkotsu
+Dialogue: 0,0:18:18.45,0:18:25.24,Onscreen1,ScreenLeft,0,0,0,,{\pos(276,582)\fad(250,0)\fs30}Participate in the Culling Game
+Dialogue: 0,0:18:18.45,0:18:25.24,Onscreen1,ScreenRight,0,0,0,,{\pos(1614,698.001)\fs30}Meet Up With Panda
+Dialogue: 0,0:18:21.45,0:18:25.24,Onscreen1,Screenright,0,0,0,,{\pos(1616.001,918)\fad(250,0)\fs36}Participate in the Culling Game
+Dialogue: 0,0:18:50.01,0:18:52.65,Sign_Basic,Screen,0,0,0,,{\an7\pos(45,105)\fs42\c&H100D04&\bord0\shad0}They're thinking that having Okkotsu near\NItadori would keep Fushiguro safe, but it\Nwould be a more efficient use of their\Nforces for Okkotsu to act alone.
+Dialogue: 0,0:19:04.78,0:19:10.50,Onscreen1,Screen,0,0,0,,{\pos(612,126)\fs42}Fushiguro Megumi
+Dialogue: 0,0:19:04.78,0:19:10.50,Onscreen1,Screen,0,0,0,,{\pos(1272,126)\fs42}Itadori Yuji
+Dialogue: 0,0:19:07.33,0:19:10.50,Onscreen1,Screen,0,0,0,,{\pos(930,332.001)\fad(1500,0)\fs72}Meet Up With Hakari Kinji
+Dialogue: 0,0:19:10.50,0:19:27.85,Onscreen1,Screen,0,0,0,,{\pos(960,453.999)\fs60}Hakari Kinji
+Dialogue: 0,0:19:30.10,0:19:36.73,Onscreen1,Screen,0,0,0,,{\fs36\3a&H00&\move(972,48,972,-564)}Kenjaku's Objective (Road Map)
+Dialogue: 0,0:19:30.10,0:19:36.73,Onscreen1,Screen,0,0,0,,{\fs24\move(510,396,510,-216)\3a&H00&}1 Year Ago\NSuguru Geto's Death
+Dialogue: 0,0:19:30.10,0:19:36.73,Onscreen1,Screen,0,0,0,,{\fs24\3a&H00&\move(498,522,498,-90)}Obtained Cursed Spirit Manipulation
+Dialogue: 0,0:19:30.10,0:19:36.73,Onscreen1,Screen,0,0,0,,{\fs24\3a&H00&\move(486,654,486,42)}Absorbed Mahito
+Dialogue: 0,0:19:30.10,0:19:36.73,Onscreen1,Screen,0,0,0,,{\fs24\3a&H00&\move(474,804,474,192)}Obtained Idle Transfiguration
+Dialogue: 0,0:19:30.10,0:19:36.73,Onscreen1,Screen,0,0,0,,{\fs24\3a&H00&\move(462,972,462,360)\s1}Turn Mankind Throughout All Japan\NInto Sorcerers With Idle Transfiguration
+Dialogue: 0,0:19:30.10,0:19:36.73,Onscreen1,Screen,0,0,0,,{\fs24\move(438,1182,438,570)\3a&H00&}Insufficient Cursed Energy
+Dialogue: 0,0:19:30.10,0:19:36.73,Onscreen1,Screen,0,0,0,,{\fs24\3a&H00&\move(1140,174,1140,-438)}12 Years Ago\NToji Zenin Intervenes
+Dialogue: 0,0:19:30.10,0:19:36.73,Onscreen1,Screen,0,0,0,,{\fs24\3a&H00&\move(1140,264,1140,-348)}Amanai Riko Murdered
+Dialogue: 0,0:19:30.10,0:19:36.73,Onscreen1,Screen,0,0,0,,{\fs24\3a&H00&\move(948,342,948,-270)}6 Years Ago\NObtained Prison Realm
+Dialogue: 0,0:19:30.10,0:19:36.73,Onscreen1,Screen,0,0,0,,{\fs24\3a&H00&\move(1344,330,1344,-282)}Assimilate
+Dialogue: 0,0:19:30.10,0:19:36.73,Onscreen1,Screen,0,0,0,,{\fs18\3a&H00&\move(1146,342,1146,-270)\s1}Star Plasma\NVessel
+Dialogue: 0,0:19:30.10,0:19:36.73,Onscreen1,Screen,0,0,0,,{\fs24\3a&H00&\move(1548,342,1548,-270)}Tengen
+Dialogue: 0,0:19:30.10,0:19:36.73,Onscreen1,Screen,0,0,0,,{\fs24\3a&H00&\move(948,456,948,-156)}October 31st\NSatoru Gojo Sealed
+Dialogue: 0,0:19:30.10,0:19:36.73,Onscreen1,Screen,0,0,0,,{\fs24\3a&H00&\move(1190.001,402,1190.001,-210)}Guard   Fate
+Dialogue: 0,0:19:30.10,0:19:36.73,Onscreen1,Screen,0,0,0,,{\fs24\3a&H00&\move(1260,456,1260,-156)\s1}Six Eyes
+Dialogue: 0,0:19:30.10,0:19:36.73,Onscreen1,Screen,0,0,0,,{\fs24\3a&H00&\move(1470,480,1470,-132)}Assimilation Failed
+Dialogue: 0,0:19:30.10,0:19:36.73,Onscreen1,Screen,0,0,0,,{\fs24\3a&H00&\move(1248,600,1248,-12)}Tengen's Evolution
+Dialogue: 0,0:19:30.10,0:19:36.73,Onscreen1,Screen,0,0,0,,{\fs24\3a&H00&\move(1038,684,1038,72)}Becomes a Target for\NCursed Spirit Manipulation
+Dialogue: 0,0:19:30.10,0:19:36.73,Onscreen1,Screen,0,0,0,,{\fs24\3a&H00&\move(1440,684,1440,72)}Assimilation With People Aside from\Nthe Star Plasma Vessel Becomes Possible
+Dialogue: 0,0:19:30.10,0:19:36.73,Onscreen1,Screen,0,0,0,,{\fs24\3a&H00&\move(1548,954,1548,342)}Goal: Warm-Up for Assimilation
+Dialogue: 0,0:19:30.10,0:19:36.73,Onscreen1,Screen,0,0,0,,{\fs24\3a&H00&\move(1002,996,1002,384)}Absorb Tengen With Cursed Spirit Manipulation
+Dialogue: 0,0:19:30.10,0:19:36.73,Onscreen1,Screen,0,0,0,,{\fs24\3a&H00&\move(1398,906,1398,294)}The Culling Game
+Dialogue: 0,0:19:30.10,0:19:36.73,Onscreen1,Screen,0,0,0,,{\fs24\3a&H00&\move(1518,1050,1518,438)}Make Modern Sorcerers and Sorcerers Awakened\Nor Incarnated Through Idle Transfiguration Fight
+Dialogue: 0,0:19:30.10,0:19:36.73,Onscreen1,Screen,0,0,0,,{\fs24\3a&H00&\move(1068,1248,1068,636)}Assimilate Mankind With Tengen
+Dialogue: 0,0:19:30.10,0:19:36.73,Onscreen1,Screen,0,0,0,,{\fs42\3a&H00&\move(1080,1464,1080,852)}The Evolution of Mankind Throughout All Japan
+Dialogue: 0,0:19:36.73,0:19:42.95,Onscreen1,Screen,0,0,0,,{\fs36\move(960,48,960,-747)\3a&H00&}The Culling Game's Objective
+Dialogue: 0,0:19:36.73,0:19:42.95,Onscreen1,Screen,0,0,0,,{\fs24\3a&H00&\move(966,168,966,-627)}Colony
+Dialogue: 0,0:19:36.73,0:19:42.95,Onscreen1,Screen,0,0,0,,{\fs24\3a&H00&\move(1278,144,1278,-651)}Idle Transfiguration
+Dialogue: 0,0:19:36.73,0:19:42.95,Onscreen1,Screen,0,0,0,,{\fs24\3a&H00&\move(660,222,660,-573)}Modern Sorcerers
+Dialogue: 0,0:19:36.73,0:19:42.95,Onscreen1,Screen,0,0,0,,{\fs24\3a&H00&\move(966,222,966,-573)}Incarnated Sorcerers
+Dialogue: 0,0:19:36.73,0:19:42.95,Onscreen1,Screen,0,0,0,,{\fs24\3a&H00&\move(1278,222,1278,-573)}Those Whose Cursed\NTechniques Awakened
+Dialogue: 0,0:19:36.73,0:19:42.95,Onscreen1,Screen,0,0,0,,{\fs24\3a&H00&\move(966,282,966,-513)}Fight
+Dialogue: 0,0:19:36.73,0:19:42.95,Onscreen1,Screen,0,0,0,,{\fs24\3a&H00&\move(1284,288,1284,-507)}The Culling Game: Rules
+Dialogue: 0,0:19:36.73,0:19:42.95,Onscreen1,Screen,0,0,0,,{\fs24\3a&H00&\move(966,348,966,-447)}Stock Up Cursed Energy
+Dialogue: 0,0:19:36.73,0:19:42.95,Onscreen1,Screen,0,0,0,,{\fs24\3a&H00&\move(1290,348,1290,-447)}Rule Forcing Them to Fight
+Dialogue: 0,0:19:36.73,0:19:42.95,Onscreen1,Screen,0,0,0,,{\fs24\3a&H00&\move(336,606,336,-189)}Use Stocked-Up\NCursed Energy
+Dialogue: 0,0:19:36.73,0:19:42.95,Onscreen1,Screen,0,0,0,,{\fs24\3a&H00&\move(306,942,306,147)}to Move the Barriers \NDesigned to Ferry \Nthe People of Japan \Nto the Other Side
+Dialogue: 0,0:19:36.73,0:19:42.95,Onscreen1,Screen,0,0,0,,{\fs24\3a&H00&\move(966,432,966,-363)}10 Colonies Throughout Japan
+Dialogue: 0,0:19:36.73,0:19:42.95,Onscreen1,Screen,0,0,0,,{\fs24\3a&H00&\move(960,1311,960,516)}Forced to Cross to the Other Side (= Cursed)
+Dialogue: 0,0:19:36.73,0:19:42.95,Onscreen1,Screen,0,0,0,,{\fs24\move(960,1401,960,606)}Warm-Up
+Dialogue: 0,0:19:36.73,0:19:42.95,Onscreen1,Screen,0,0,0,,{\fs30\move(960,1563,960,768)}Assimilate Mankind With Tengen
+Dialogue: 0,0:19:42.95,0:19:48.83,Onscreen1,Screen,0,0,0,,{\move(960,132,960,-672)\fs30\3a&H00&}Itadori's Friends' Mission
+Dialogue: 0,0:19:42.95,0:19:48.83,Onscreen1,Screen,0,0,0,,{\fs30\3a&H00&\move(612,234,612,-570)}1. Free Gojo Satoru
+Dialogue: 0,0:19:42.95,0:19:48.83,Onscreen1,Screen,0,0,0,,{\fs24\3a&H00&\move(621,387,621,-417)}Tengen Possesses\NOpen Prison Realm Back
+Dialogue: 0,0:19:42.95,0:19:48.83,Onscreen1,Screen,0,0,0,,{\fs24\3a&H00&\move(369,390,369,-414)}Obtain Prison Realm
+Dialogue: 0,0:19:42.95,0:19:48.83,Onscreen1,Screen,0,0,0,,{\fs30\3a&H00&\move(348,552,348,-252)\s1}Kenjaku Possess
+Dialogue: 0,0:19:42.95,0:19:48.83,Onscreen1,Screen,0,0,0,,{\fs30\3a&H00&\move(594,549,594,-255)}Can't Do Without\Nthe Front Gate
+Dialogue: 0,0:19:42.95,0:19:48.83,Onscreen1,Screen,0,0,0,,{\fs30\3a&H00&\move(576,726,576,-78)}To Force It Open...
+Dialogue: 0,0:19:42.95,0:19:48.83,Onscreen1,Screen,0,0,0,,{\fs30\3a&H00&\move(291,951,291,147)\s1}Inverted Spear\Nof Heaven
+Dialogue: 0,0:19:42.95,0:19:48.83,Onscreen1,Screen,0,0,0,,{\fs30\3a&H00&\s1\move(564,951,564,147)}Black Rope
+Dialogue: 0,0:19:42.95,0:19:48.83,Onscreen1,Screen,0,0,0,,{\fs30\3a&H00&\move(840,951,840,147)}Angel
+Dialogue: 0,0:19:42.95,0:19:48.83,Onscreen1,Screen,0,0,0,,{\fs18\3a&H00&\move(972,972,972,168)}Culling Game Player
+Dialogue: 0,0:19:42.95,0:19:48.83,Onscreen1,Screen,0,0,0,,{\move(276,1248,276,444)\fs24\3a&H00&}Gojo Satoru Destroyed
+Dialogue: 0,0:19:42.95,0:19:48.83,Onscreen1,Screen,0,0,0,,{\move(558,1248,558,444)\fs24\3a&H00&}Miguel and Okkotsu Failed to Find
+Dialogue: 0,0:19:42.95,0:19:48.83,Onscreen1,Screen,0,0,0,,{\move(945,1248,945,444)\fs24\3a&H00&}Technique That Extinguishes\NAll Cursed Techniques
+Dialogue: 0,0:19:42.95,0:19:48.83,Onscreen1,Screen,0,0,0,,{\fs33\3a&H00&\move(828,1557,828,753)}In the Colony on the East Side of Tokyo
+Dialogue: 0,0:19:42.95,0:19:48.83,Onscreen1,Screen,0,0,0,,{\fs30\3a&H00&\move(1386,228,1386,-576)}2. Rescue Tsumiki and\NReluctant Players
+Dialogue: 0,0:19:42.95,0:19:48.83,Onscreen1,Screen,0,0,0,,{\fs24\3a&H00&\move(1260,519,1260,-285)}Consume 100 Points (Per Rules 6 and 7) to Add a Rule
+Dialogue: 0,0:19:42.95,0:19:48.83,Onscreen1,Screen,0,0,0,,{\fs24\3a&H00&\move(1413,615,1413,-189)}7. ~Add a Rule Allowing Escape from the Culling Game
+Dialogue: 0,0:19:42.95,0:19:48.83,Onscreen1,Screen,0,0,0,,{\fs24\3a&H00&\move(1440,852,1440,48)}Persuade Players With 100 Points\Nand No Intention of Adding a Rule
+Dialogue: 0,0:19:48.83,0:19:53.17,Onscreen1,Screen,0,0,0,,{\fs36\3a&H00&\move(960,48,960,-759)}Each Person's Actions
+Dialogue: 0,0:19:48.83,0:19:53.17,Onscreen1,Screen,0,0,0,,{\fs36\3a&H00&\move(480,237,480,-570)}Maki
+Dialogue: 0,0:19:48.83,0:19:53.17,Onscreen1,Screen,0,0,0,,{\fs24\3a&H00&\move(456,510,456,-297)}Go Retrieve Juzo Kumiya's Cursed Tools
+Dialogue: 0,0:19:48.83,0:19:53.17,Onscreen1,Screen,0,0,0,,{\fs24\an1\3a&H00&\move(453,675,453,-132)}Fushiguro Has Become\Nthe Head of the Zenin Clan
+Dialogue: 0,0:19:48.83,0:19:53.17,Onscreen1,Screen,0,0,0,,{\fs24\3a&H00&\move(426,819,426,12)}Go to the Zenin Clan's Forbidden Vault
+Dialogue: 0,0:19:48.83,0:19:53.17,Onscreen1,Screen,0,0,0,,{\fs30\3a&H00&\move(399,1101,399,294)}Meet Up With Panda
+Dialogue: 0,0:19:48.83,0:19:53.17,Onscreen1,Screen,0,0,0,,{\fs36\3a&H00&\move(762,237,762,-570)}Okkotsu
+Dialogue: 0,0:19:48.83,0:19:53.17,Onscreen1,Screen,0,0,0,,{\fs24\an1\3a&H00&\move(759,562.5,759,-244.5)}Go On\NAhead Alone
+Dialogue: 0,0:19:48.83,0:19:53.17,Onscreen1,Screen,0,0,0,,{\fs24\3a&H00&\move(798,1038,798,231)}Gather Information
+Dialogue: 0,0:19:48.83,0:19:53.17,Onscreen1,Screen,0,0,0,,{\fs36\3a&H00&\move(1056,237,1056,-570)}Itadori    Fushiguro
+Dialogue: 0,0:19:48.83,0:19:53.17,Onscreen1,Screen,0,0,0,,{\fs24\3a&H00&\move(1128,654,1128,-153)}Recruit Help
+Dialogue: 0,0:19:48.83,0:19:53.17,Onscreen1,Screen,0,0,0,,{\fs30\3a&H00&\move(1074,1101,1074,294)}Recruit Hakari Kinji
+Dialogue: 0,0:19:48.83,0:19:53.17,Onscreen1,Screen,0,0,0,,{\fs36\3a&H00&\move(1452,237,1452,-570)}Tsukumo      Choso
+Dialogue: 0,0:19:48.83,0:19:53.17,Onscreen1,Screen,0,0,0,,{\fs24\3a&H00&\move(1584,762,1584,-45)}Guard Tengen
+Dialogue: 0,0:19:48.83,0:19:53.17,Onscreen1,Screen,0,0,0,,{\fs36\3a&H00&\move(711,1494,711,687)}Participate in the Culling Game
+Dialogue: 0,0:19:48.83,0:19:53.17,Onscreen1,Screen,0,0,0,,{\fs36\3a&H00&\move(1503,1494,1503,687)}Remain in the Tombs of the Star
+Dialogue: 0,0:22:03.88,0:22:09.97,Onscreen2,Screen,0,0,0,,{\c&H0B009C&\bord0\pos(960,480)}Culling Game Player\N{\fs60}Takaba Fumihiko
+Dialogue: 0,0:23:51.99,0:23:55.02,Next_Ep_Title,Sign,0,0,0,,{\be6}Next Episode\N{\fs90}Perfect Preparation

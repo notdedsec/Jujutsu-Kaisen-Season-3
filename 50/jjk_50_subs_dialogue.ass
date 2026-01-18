@@ -1,0 +1,389 @@
+﻿[Script Info]
+Title: Jujutsu Kaisen - 50 - About the Culling Game
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 1920
+PlayResY: 1080
+LayoutResX: 1920
+LayoutResY: 1080
+YCbCr Matrix: TV.709
+ScaledBorderAndShadow: yes
+
+[Aegisub Project Garbage]
+Video File: jjk_50_premux.mkv
+Audio File: jjk_50_premux.mkv
+Keyframes File: jjk_50_keyframes.txt
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Cabin F,71,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.8,2,128,128,60,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:31.51,0:01:32.84,Default,Tengen,0,0,0,,Nice to meet you.
+Dialogue: 0,0:01:32.84,0:01:36.87,Default,Tengen,0,0,0,,Child of Zenin, Descendant of Michizane, \NCursed Womb Death Painting,
+Dialogue: 0,0:01:36.87,0:01:40.07,Default,Tengen,0,0,0,,and Vessel of Sukuna.
+Dialogue: 0,0:01:40.07,0:01:43.71,Default,Tukumo,0,0,0,,No greeting for me, Tengen?
+Dialogue: 0,0:01:43.71,0:01:44.20,Default,Yuji,0,0,0,,{\i1}So this...
+Dialogue: 0,0:01:44.20,0:01:44.70,Default,Fushiguro,0,0,0,,{\i1}So this thing...
+Dialogue: 0,0:01:44.70,0:01:45.37,Default,Okkotsu,0,0,0,,{\i1}So this person...
+Dialogue: 0,0:01:45.37,0:01:46.07,Default,Choso,0,0,0,,{\i1}Person?
+Dialogue: 0,0:01:46.07,0:01:47.11,Default,Maki,0,0,0,,{\i1}...is Tengen?!
+Dialogue: 0,0:01:47.70,0:01:50.08,Default,Tengen,0,0,0,,It's not our first time meeting,
+Dialogue: 0,0:01:50.30,0:01:51.95,Default,Tengen,0,0,0,,Tsukumo Yuki.
+Dialogue: 0,0:01:51.95,0:01:54.50,Default,Tsukumo,0,0,0,,Why did you close the Tombs of the Star?
+Dialogue: 0,0:01:55.28,0:01:59.11,Default,Tengen,0,0,0,,I was wary of you being \Naligned with Kenjaku.
+Dialogue: 0,0:01:59.11,0:02:02.97,Default,Tengen,0,0,0,,I can't tell what's going on \Nin people's hearts, after all.
+Dialogue: 0,0:02:02.97,0:02:04.38,Default,Tsukumo,0,0,0,,Kenjaku?
+Dialogue: 0,0:02:05.44,0:02:07.68,Default,Tengen,0,0,0,,What was once Kamo Noritoshi.
+Dialogue: 0,0:02:07.68,0:02:11.39,Default,Tengen,0,0,0,,The sorcerer currently inhabiting \NSuguru Geto's body.
+Dialogue: 0,0:02:11.39,0:02:14.78,Default,Tsukumo,0,0,0,,A net of compassion and \Na rope of salvation, huh?
+Dialogue: 0,0:02:14.78,0:02:16.88,Default,Tsukumo,0,0,0,,He didn't even try for \Nsarcasm with that name.
+Dialogue: 0,0:02:17.88,0:02:20.21,Default,Yuji,0,0,0,,Why are you like that, {*}Master Tengen{*Tengen-sama}?
+Dialogue: 0,0:02:20.21,0:02:23.17,Default,Fushiguro,0,0,0,,{\i1}Ballsy of him to insert himself \Ninto the conversation there...
+Dialogue: 0,0:02:23.87,0:02:26.88,Default,Tengen,0,0,0,,I'm immortal, but not ageless.
+Dialogue: 0,0:02:26.88,0:02:29.66,Default,Tengen,0,0,0,,You'd look like this, too, \Nif you were 500 years old.
+Dialogue: 0,0:02:29.66,0:02:30.79,Default,Yuji,0,0,0,,Seriously?
+Dialogue: 0,0:02:31.80,0:02:33.96,Default,Tengen,0,0,0,,Since I failed to assimilate
+Dialogue: 0,0:02:33.96,0:02:38.40,Default,Tengen,0,0,0,,with the Star Plasma Vessel twelve \Nyears ago, my aging has accelerated,
+Dialogue: 0,0:02:38.40,0:02:41.26,Default,Tengen,0,0,0,,and my identity as an \Nindividual has vanished,
+Dialogue: 0,0:02:41.26,0:02:44.43,Default,Tengen,0,0,0,,so the world itself is who I am now.
+Dialogue: 0,0:02:45.24,0:02:49.25,Default,Tsukumo,0,0,0,,So there wasn't actually another \NStar Plasma Vessel back then?
+Dialogue: 0,0:02:49.91,0:02:52.67,Default,Tsukumo,0,0,0,,That explains why there isn't a new voice.
+Dialogue: 0,0:02:53.15,0:02:54.60,Default,Fushiguro,0,0,0,,Excuse me.
+Dialogue: 0,0:02:54.60,0:03:00.08,Default,Okkotsu,0,0,0,,We came here to learn Kenjaku's goal \Nand how to open the Prison Realm.
+Dialogue: 0,0:03:00.08,0:03:02.20,Default,Okkotsu,0,0,0,,Could you tell us what you know?
+Dialogue: 0,0:03:04.20,0:03:05.70,Default,Tengen,0,0,0,,Of course.
+Dialogue: 0,0:03:05.70,0:03:10.23,Default,Tengen,0,0,0,,Or so I'd like to say, but I \Nmust impose one condition.
+Dialogue: 0,0:03:10.23,0:03:11.69,Default,Tengen,0,0,0,,Okkotsu Yuta.
+Dialogue: 0,0:03:11.69,0:03:12.86,Default,Tengen,0,0,0,,Tsukumo Yuki.
+Dialogue: 0,0:03:12.86,0:03:14.33,Default,Tengen,0,0,0,,Cursed Womb Death Painting.
+Dialogue: 0,0:03:14.90,0:03:18.22,Default,Tengen,0,0,0,,I'll need two of you three to remain here
+Dialogue: 0,0:03:18.62,0:03:20.67,Default,Tengen,0,0,0,,and guard me.
+Dialogue: 0,0:03:21.15,0:03:23.72,Default,Okkotsu,0,0,0,,Guard you? But you're immortal, right?
+Dialogue: 0,0:03:24.06,0:03:26.44,Default,Maki,0,0,0,,Are you afraid of being sealed or something?
+Dialogue: 0,0:03:26.44,0:03:27.98,Default,Tsukumo,0,0,0,,That isn't fair.
+Dialogue: 0,0:03:28.37,0:03:31.27,Default,Tsukumo,0,0,0,,You won't tell us why or \Nhow long we're guarding you?
+Dialogue: 0,0:03:38.70,0:03:40.06,Default,Tengen,0,0,0,,In that case,
+Dialogue: 0,0:03:43.28,0:03:45.94,Default,Tengen,0,0,0,,let me speak of Kenjaku.
+Dialogue: 0,0:03:46.73,0:03:48.66,Default,Tengen,0,0,0,,That man's objective
+Dialogue: 0,0:03:48.66,0:03:53.11,Default,Tengen,0,0,0,,is to force the evolution of \Nmankind throughout all of Japan.
+Dialogue: 0,0:03:54.42,0:03:55.98,Default,Fushiguro,0,0,0,,I heard about that.
+Dialogue: 0,0:03:56.53,0:03:59.30,Default,Fushiguro,0,0,0,,But how does he actually intend to do it?
+Dialogue: 0,0:03:59.30,0:04:01.29,Default,Fushiguro,0,0,0,,Why didn't Kenjaku use your barriers
+Dialogue: 0,0:04:01.29,0:04:03.84,Default,Fushiguro,0,0,0,,to turn everyone in Japan \Ninto jujutsu sorcerers
+Dialogue: 0,0:04:03.84,0:04:08.08,Default,Fushiguro,0,0,0,,with Idle Transfiguration back then?
+Dialogue: 0,0:04:10.00,0:04:14.14,Default,Tengen,0,0,0,,Because he simply lacked the \Ncursed energy to do that.
+Dialogue: 0,0:04:14.66,0:04:18.62,Default,Tengen,0,0,0,,The cursed energy refined through \NMaelstrom can't return to the sorcerer.
+Dialogue: 0,0:04:19.06,0:04:23.72,Default,Tengen,0,0,0,,Also, evolving people one person at a time \Nwith a cursed technique is far too inefficient.
+Dialogue: 0,0:04:23.72,0:04:26.61,Default,Tengen,0,0,0,,So the method of evolution \Nthat Kenjaku has chosen
+Dialogue: 0,0:04:26.61,0:04:29.48,Default,Tengen,0,0,0,,is to assimilate mankind with me.
+Dialogue: 0,0:04:33.62,0:04:36.02,Default,Yuji,0,0,0,,Huh? But your assimilation...
+Dialogue: 0,0:04:36.02,0:04:38.28,Default,Fushiguro,0,0,0,,...should only be possible with \Nthe Star Plasma Vessel.
+Dialogue: 0,0:04:40.26,0:04:42.22,Default,Tengen,0,0,0,,Previously, that was true.
+Dialogue: 0,0:04:43.95,0:04:47.35,Default,Tengen,0,0,0,,But since I started evolving\Ntwelve years ago,
+Dialogue: 0,0:04:49.91,0:04:54.54,Default,Tengen,0,0,0,,assimilation with someone other than \Nthe Star Plasma Vessel is possible.
+Dialogue: 0,0:04:55.97,0:04:57.98,Default,Choso,0,0,0,,But you're just one person, right?
+Dialogue: 0,0:04:58.44,0:05:01.48,Default,Choso,0,0,0,,How would you assimilate \Nwith multiple people?
+Dialogue: 0,0:05:01.72,0:05:06.23,Default,Tengen,0,0,0,,What you see before you right \Nnow isn't my real self.
+Dialogue: 0,0:05:06.23,0:05:10.19,Default,Tengen,0,0,0,,Now that I've evolved, \Nmy soul is everywhere.
+Dialogue: 0,0:05:10.53,0:05:11.72,Default,Tengen,0,0,0,,I told you, didn't I?
+Dialogue: 0,0:05:11.72,0:05:14.07,Default,Tengen,0,0,0,,The world itself is who I am now.
+Dialogue: 0,0:05:14.07,0:05:18.25,Default,Tengen,0,0,0,,People who assimilated with me now would \Nbecome something more than a sorcerer.
+Dialogue: 0,0:05:18.25,0:05:22.46,Default,Tengen,0,0,0,,They would become a new being \Nthat's both there and not there.
+Dialogue: 0,0:05:22.46,0:05:25.18,Default,Tengen,0,0,0,,I'm able to retain my shape and reason
+Dialogue: 0,0:05:25.18,0:05:28.63,Default,Tengen,0,0,0,,after evolving because of \Nmy barrier techniques.
+Dialogue: 0,0:05:28.63,0:05:30.83,Default,Tengen,0,0,0,,However, if mankind were to evolve,
+Dialogue: 0,0:05:30.83,0:05:34.44,Default,Tengen,0,0,0,,then if even one of them \Nwent out of control,
+Dialogue: 0,0:05:35.35,0:05:36.56,Default,Tengen,0,0,0,,the world would end.
+Dialogue: 0,0:05:36.56,0:05:37.57,Default,Tsukumo,0,0,0,,Why?
+Dialogue: 0,0:05:37.55,0:05:39.98,Default,Tengen,0,0,0,,There would be no boundaries \Nbetween individuals,
+Dialogue: 0,0:05:39.98,0:05:42.73,Default,Tengen,0,0,0,,so evil would spread to all instantly.
+Dialogue: 0,0:05:42.74,0:05:46.10,Default,Tengen,0,0,0,,The impurities of a hundred million \Npeople would flood the world.
+Dialogue: 0,0:05:46.10,0:05:50.21,Default,Tengen,0,0,0,,What happened in Tokyo would be \Nrecreated on a worldwide scale.
+Dialogue: 0,0:05:50.62,0:05:52.87,Default,Yuji,0,0,0,,Why would he do such a thing?
+Dialogue: 0,0:05:53.37,0:05:54.45,Default,Tengen,0,0,0,,I don't know.
+Dialogue: 0,0:05:54.45,0:05:56.12,Default,Tengen,0,0,0,,I told you that, too.
+Dialogue: 0,0:05:56.12,0:05:59.71,Default,Tengen,0,0,0,,I can't tell what's going \Non in people's hearts.
+Dialogue: 0,0:06:00.65,0:06:05.54,Default,Maki,0,0,0,,But wouldn't everything be fine as long \Nas you rejected the assimilation?
+Dialogue: 0,0:06:05.54,0:06:07.92,Default,Tengen,0,0,0,,That's the issue.
+Dialogue: 1,0:06:07.92,0:06:14.13,Default,Tengen,0,0,0,,Now that I've evolved, my nature is closer to \Nthat of a Cursed Spirit than a human.
+Dialogue: 0,0:06:14.58,0:06:16.09,Default,Tengen,0,0,0,,So I can be
+Dialogue: 0,0:06:16.91,0:06:19.86,Default,Tengen,0,0,0,,targeted by Cursed Spirit Manipulation.
+Dialogue: 0,0:06:21.40,0:06:25.09,Default,Tengen,0,0,0,,Considering Kenjaku's \Nstrength as a sorcerer,
+Dialogue: 0,0:06:25.09,0:06:28.55,Default,Tengen,0,0,0,,I would likely be absorbed \Nthe moment he made contact.
+Dialogue: 0,0:06:28.55,0:06:30.95,Default,Tengen,0,0,0,,That's why my main body is rejecting
+Dialogue: 0,0:06:30.95,0:06:33.92,Default,Tengen,0,0,0,,everything in the\NTombs of the Star right now.
+Dialogue: 0,0:06:34.12,0:06:36.02,Default,Okkotsu,0,0,0,,That's why you want us to guard you?
+Dialogue: 0,0:06:36.53,0:06:37.57,Default,Tengen,0,0,0,,Yes.
+Dialogue: 0,0:06:37.57,0:06:40.91,Default,Tengen,0,0,0,,Kenjaku is second only to me in \Nhis skill with barrier techniques.
+Dialogue: 0,0:06:40.91,0:06:44.59,Default,Tengen,0,0,0,,I don't know when he'll manage to break \Nthe seal on the Tombs of the Star.
+Dialogue: 0,0:06:45.03,0:06:46.60,Default,Tsukumo,0,0,0,,Why now?
+Dialogue: 0,0:06:46.60,0:06:49.07,Default,Tsukumo,0,0,0,,You were stopped from assimilating \Nwith the Star Plasma Vessel.
+Dialogue: 0,0:06:49.07,0:06:50.86,Default,Tsukumo,0,0,0,,Now you've been forced to evolve,
+Dialogue: 0,0:06:50.86,0:06:54.13,Default,Tsukumo,0,0,0,,and he seeks to absorb you with \NCursed Energy Manipulation.
+Dialogue: 1,0:06:54.13,0:06:57.79,Default,Tsukumo,0,0,0,,Kenjaku also seems to have \Nconnections to Sukuna.
+Dialogue: 1,0:06:57.79,0:07:00.85,Default,Tsukumo,0,0,0,,So he's been a sorcerer \Nfor at least 1,000 years.
+Dialogue: 0,0:07:00.85,0:07:03.31,Default,Tsukumo,0,0,0,,So why now?!
+Dialogue: 0,0:07:03.74,0:07:07.30,Default,Tengen,0,0,0,,Because I, the Star Plasma \NVessel, and the Six Eyes
+Dialogue: 0,0:07:07.95,0:07:11.38,Default,Tengen,0,0,0,,are all connected by fate.
+Dialogue: 1,0:07:12.40,0:07:16.41,Default,Tengen,0,0,0,,Twice in the past, Kenjaku was stopped \Nby the sorcerer with the Six Eyes.
+Dialogue: 1,0:07:16.41,0:07:18.90,Default,Tengen,0,0,0,,The second time, Kenjaku was thorough.
+Dialogue: 1,0:07:18.90,0:07:21.15,Default,Tengen,0,0,0,,He killed both the Star \NPlasma Vessel and the bearer
+Dialogue: 1,0:07:21.15,0:07:23.50,Default,Tengen,0,0,0,,of the Six Eyes within \Na month of their birth.
+Dialogue: 0,0:07:23.76,0:07:26.00,Default,Tengen,0,0,0,,Despite that, the Six Eyes \Nand the Star Plasma Vessel
+Dialogue: 0,0:07:26.00,0:07:28.33,Default,Tengen,0,0,0,,still appeared by the \Nday of my assimilation.
+Dialogue: 0,0:07:28.33,0:07:32.05,Default,Tengen,0,0,0,,After that, Kenjaku altered his \Nstrategy to focus on sealing
+Dialogue: 0,0:07:32.05,0:07:33.91,Default,Tengen,0,0,0,,the Six Eyes instead of killing him,
+Dialogue: 0,0:07:33.91,0:07:36.55,Default,Tengen,0,0,0,,and he began searching\Nfor the Prison Realm,
+Dialogue: 0,0:07:36.89,0:07:40.55,Default,Tengen,0,0,0,,because there can't be two people \Nwith the Six Eyes at the same time.
+Dialogue: 0,0:07:40.55,0:07:44.11,Default,Tengen,0,0,0,,However, twelve years ago, \Nsomething unpredictable happened.
+Dialogue: 0,0:07:44.11,0:07:46.64,Default,Tengen,0,0,0,,Toji Zenin intervened.
+Dialogue: 0,0:07:47.52,0:07:50.43,Default,Tengen,0,0,0,,He was physically gifted \Nthrough a Heavenly Binding Vow.
+Dialogue: 0,0:07:50.43,0:07:52.17,Default,Tengen,0,0,0,,And he was unique among them
+Dialogue: 0,0:07:52.17,0:07:55.24,Default,Tengen,0,0,0,,for being completely \Nfree from cursed energy.
+Dialogue: 0,0:07:57.52,0:08:00.99,Default,Tengen,0,0,0,,Since his Heavenly Binding Vow \Nplaced him outside of fate,
+Dialogue: 0,0:08:00.99,0:08:04.53,Default,Tengen,0,0,0,,he destroyed the fate connecting us.
+Dialogue: 0,0:08:05.32,0:08:09.49,Default,Tengen,0,0,0,,Then a young man with power of \NCursed Spirit Manipulation appeared.
+Dialogue: 0,0:08:09.98,0:08:11.05,Default,Tengen,0,0,0,,Without even trying,
+Dialogue: 0,0:08:11.05,0:08:14.34,Default,Tengen,0,0,0,,he now had all the necessary pieces\Nother than the Prison Realm.
+Dialogue: 0,0:08:14.34,0:08:16.29,Default,Tengen,0,0,0,,Then, six years ago,
+Dialogue: 0,0:08:16.29,0:08:20.51,Default,Tengen,0,0,0,,the Prison Realm made its way \Ninto Kenjaku's hands, as well.
+Dialogue: 0,0:08:20.76,0:08:24.47,Default,Fushiguro,0,0,0,,Then why is this\NCulling Game being hosted?
+Dialogue: 0,0:08:24.93,0:08:27.66,Default,Tengen,0,0,0,,It's a warm-up before assimilation.
+Dialogue: 0,0:08:28.38,0:08:31.69,Default,Tengen,0,0,0,,My assimilation with people other \Nthan the Star Plasma Vessel is possible,
+Dialogue: 0,0:08:31.69,0:08:33.94,Default,Tengen,0,0,0,,but at the moment, \Nthere's a high probability
+Dialogue: 0,0:08:33.94,0:08:35.86,Default,Tengen,0,0,0,,it will result in something incomplete.
+Dialogue: 0,0:08:36.54,0:08:39.73,Default,Tengen,0,0,0,,The Culling Game uses the \Ncursed energy of the Players
+Dialogue: 0,0:08:39.73,0:08:42.78,Default,Tengen,0,0,0,,and the boundaries formed \Nbetween the Colonies
+Dialogue: 1,0:08:42.78,0:08:46.35,Default,Tengen,0,0,0,,in a ritual to send this nation's \Npeople to the other side.
+Dialogue: 0,0:08:46.35,0:08:49.13,Default,Tengen,0,0,0,,He probably plans to use that as a warm-up
+Dialogue: 0,0:08:49.13,0:08:50.87,Default,Tengen,0,0,0,,to start their assimilation with me.
+Dialogue: 0,0:08:52.17,0:08:55.43,Default,Tengen,0,0,0,,However, in order to establish that ritual,
+Dialogue: 0,0:08:55.43,0:08:58.42,Default,Tengen,0,0,0,,Kenjaku should have been forced \Nto accept several pacts.
+Dialogue: 0,0:09:02.10,0:09:07.61,Default,Tengen,0,0,0,,One of them is that Kenjaku cannot be the \NGame Master of the Culling Game himself.
+Dialogue: 0,0:09:07.61,0:09:10.65,Default,Tengen,0,0,0,,However, that still serves as \Na disadvantage to you all,
+Dialogue: 0,0:09:10.65,0:09:14.61,Default,Tengen,0,0,0,,because it means that killing Kenjaku \Nwon't end the Culling Game.
+Dialogue: 0,0:09:15.43,0:09:17.97,Default,Tengen,0,0,0,,Either all of the Players must die,
+Dialogue: 0,0:09:17.97,0:09:21.55,Default,Tengen,0,0,0,,or the Players must all refuse \Nto participate and die.
+Dialogue: 0,0:09:21.55,0:09:23.91,Default,Tengen,0,0,0,,The Culling Game won't end until then.
+Dialogue: 0,0:09:23.91,0:09:27.07,Default,Tengen,0,0,0,,The "continuation" mentioned \Nin the Culling Game's rules
+Dialogue: 0,0:09:27.07,0:09:30.80,Default,Tengen,0,0,0,,is insurance to prevent the \Nritual from being stopped.
+Dialogue: 0,0:09:30.80,0:09:32.20,Default,Fushiguro,0,0,0,,In that case...
+Dialogue: 0,0:09:32.20,0:09:33.18,Default,Okkotsu,0,0,0,,Yeah.
+Dialogue: 0,0:09:35.54,0:09:38.22,Default,Okkotsu,0,0,0,,We'll need to participate \Nin the Culling Game,
+Dialogue: 0,0:09:38.22,0:09:41.25,Default,Okkotsu,0,0,0,,and add a rule that creates \Na way out of the game
+Dialogue: 0,0:09:41.25,0:09:43.92,Default,Okkotsu,0,0,0,,for Tsumiki{**-san} and those \Nreluctant to participate.
+Dialogue: 0,0:09:45.19,0:09:48.16,Default,Fushiguro,0,0,0,,We also need to free {*}Mr. Gojo{*Gojo-sensei} \Nat the same time.
+Dialogue: 0,0:09:48.16,0:09:51.04,Default,Fushiguro,0,0,0,,That man could resolve \Neverything on his own.
+Dialogue: 0,0:09:55.61,0:09:57.16,Default,Yuji,0,0,0,,{*}Master Tengen{*Tengen-sama}.
+Dialogue: 0,0:09:57.16,0:10:00.11,Default,Tengen,0,0,0,,First, please decide who will stay.
+Dialogue: 0,0:10:00.83,0:10:03.49,Default,Choso,0,0,0,,I will stay.
+Dialogue: 0,0:10:00.83,0:10:03.49,Default,Tsukumo,0,0,0,,I will stay.
+Dialogue: 0,0:10:04.67,0:10:08.79,Default,Choso,0,0,0,,Yuji, you will absolutely need the \Nhelp of Okkotsu or that woman.
+Dialogue: 0,0:10:08.79,0:10:10.58,Default,Choso,0,0,0,,Kamo Noritoshi...
+Dialogue: 0,0:10:10.58,0:10:14.11,Default,Choso,0,0,0,,If Kenjaku is coming after Tengen, \Nthat's all the more reason for me to stay.
+Dialogue: 0,0:10:14.77,0:10:18.63,Default,Choso,0,0,0,,Because slaying him will \Nsave my younger brothers.
+Dialogue: 0,0:10:18.63,0:10:21.94,Default,Tsukumo,0,0,0,,I'm still not finished\Ntalking with Tengen.
+Dialogue: 0,0:10:21.94,0:10:23.97,Default,Tsukumo,0,0,0,,Is that okay, Okkotsu{**-kun}?
+Dialogue: 0,0:10:23.97,0:10:24.92,Default,Okkotsu,0,0,0,,Yes!
+Dialogue: 0,0:10:24.92,0:10:27.40,Default,Okkotsu,0,0,0,,I don't want to be separated \Nfrom everyone anymore, either!
+Dialogue: 0,0:10:30.43,0:10:31.91,Default,Tengen,0,0,0,,Thank you.
+Dialogue: 0,0:10:32.83,0:10:33.82,Default,Tengen,0,0,0,,This...
+Dialogue: 0,0:10:36.78,0:10:39.39,Default,Tengen,0,0,0,,is the "Back" of the Prison Realm
+Dialogue: 0,0:10:39.39,0:10:43.66,Default,Tengen,0,0,0,,that you'll need in order \Nto free Gojo Satoru.
+Dialogue: 0,0:10:43.66,0:10:44.70,Default,Fushiguro,0,0,0,,Back?!
+Dialogue: 0,0:10:45.20,0:10:46.78,Default,Tsukumo,0,0,0,,First I've heard of it.
+Dialogue: 0,0:10:46.78,0:10:48.41,Default,Yuji,0,0,0,,You mean like a back door?
+Dialogue: 0,0:10:48.41,0:10:50.09,Default,Tengen,0,0,0,,That's right.
+Dialogue: 0,0:10:50.09,0:10:52.11,Default,Tengen,0,0,0,,Before Kenjaku found it,
+Dialogue: 0,0:10:52.11,0:10:54.77,Default,Tengen,0,0,0,,the Prison Realm was \Noutside of my barriers.
+Dialogue: 0,0:10:54.77,0:10:57.17,Default,Tengen,0,0,0,,Probably somewhere abroad.
+Dialogue: 0,0:10:57.53,0:10:59.89,Default,Tengen,0,0,0,,By keeping this Back sealed,
+Dialogue: 0,0:10:59.89,0:11:01.82,Default,Tengen,0,0,0,,I concealed the presence of the Front,
+Dialogue: 0,0:11:01.82,0:11:03.63,Default,Tengen,0,0,0,,but it didn't work.
+Dialogue: 0,0:11:03.63,0:11:07.69,Default,Tengen,0,0,0,,Gojo Satoru is also sealed \Naway within this back gate.
+Dialogue: 0,0:11:07.69,0:11:10.18,Default,Yuji,0,0,0,,Huh?! Then if we open it...
+Dialogue: 0,0:11:10.42,0:11:15.96,Default,Tengen,0,0,0,,No, the authority to open the gates rests \Nwith the owner of the Front—Kenjaku.
+Dialogue: 0,0:11:16.35,0:11:18.41,Default,Tengen,0,0,0,,In order to break this one open,
+Dialogue: 0,0:11:18.41,0:11:21.44,Default,Tengen,0,0,0,,you need either the Inverted \NSpear of Heaven that can force
+Dialogue: 0,0:11:21.44,0:11:23.42,Default,Tengen,0,0,0,,the cancellation of cursed techniques,
+Dialogue: 0,0:11:23.42,0:11:27.56,Default,Tengen,0,0,0,,or the Black Rope that can \Ndisrupt and cancel out the effects
+Dialogue: 0,0:11:27.56,0:11:30.12,Default,Tengen,0,0,0,,of a cursed technique.
+Dialogue: 0,0:11:30.46,0:11:33.32,Default,Tengen,0,0,0,,However, twelve years ago,
+Dialogue: 0,0:11:33.32,0:11:37.63,Default,Tengen,0,0,0,,Gojo Satoru either sealed the Inverted \NSpear of Heaven abroad or destroyed it.
+Dialogue: 0,0:11:37.63,0:11:39.38,Default,Yuji,0,0,0,,Why'd you do that, {*}Teach{*Sensei}?!
+Dialogue: 0,0:11:39.77,0:11:43.86,Default,Tengen,0,0,0,,The Black Rope was also completely \Nexpended against Gojo Satoru last year.
+Dialogue: 0,0:11:43.86,0:11:45.93,Default,Fushiguro,0,0,0,,What was that man thinking?!
+Dialogue: 0,0:11:45.93,0:11:46.77,Default,Okkotsu,0,0,0,,Oh.
+Dialogue: 0,0:11:47.77,0:11:52.79,Default,Okkotsu,0,0,0,,Miguel{**-san} and I were searching \NAfrica for more of that Black Rope.
+Dialogue: 0,0:11:52.79,0:11:55.78,Default,Fushiguro,0,0,0,,So that's why you were abroad.
+Dialogue: 0,0:11:56.22,0:11:58.39,Default,Okkotsu,0,0,0,,It was a complete waste of effort, though.
+Dialogue: 0,0:11:58.39,0:11:59.83,Default,Miguel,0,0,0,,They said it's all gone.
+Dialogue: 0,0:11:59.83,0:12:01.03,Default,Okkotsu,0,0,0,,Huh?!
+Dialogue: 0,0:12:01.03,0:12:02.84,Default,Tsukumo,0,0,0,,There's still some way, right?
+Dialogue: 0,0:12:02.84,0:12:03.67,Default,Tengen,0,0,0,,Yes.
+Dialogue: 0,0:12:04.55,0:12:08.25,Default,Tengen,0,0,0,,Among the Players participating \Nin the Culling Game,
+Dialogue: 0,0:12:08.25,0:12:12.28,Default,Tengen,0,0,0,,there's a sorcerer from 1,000 years \Nago who calls herself "Angel."
+Dialogue: 0,0:12:19.47,0:12:23.87,Default,Tengen,0,0,0,,Her cursed technique can extinguish \Nany other cursed technique.
+Dialogue: 0,0:12:31.57,0:12:34.27,Default,Fushiguro,0,0,0,,Extinguish any cursed technique?
+Dialogue: 0,0:12:34.68,0:12:35.43,Default,Tengen,0,0,0,,Yes.
+Dialogue: 0,0:12:35.74,0:12:40.11,Default,Tengen,0,0,0,,The Angel's cursed technique can \Nopen the Back of the Prison Realm.
+Dialogue: 0,0:12:40.74,0:12:43.24,Default,Fushiguro,0,0,0,,Do you know where she is right now?
+Dialogue: 0,0:12:43.24,0:12:46.35,Default,Tengen,0,0,0,,She's in the Colony on \Nthe east side of Tokyo.
+Dialogue: 0,0:12:46.35,0:12:48.85,Default,Tengen,0,0,0,,The Culling Game's barriers reject me,
+Dialogue: 0,0:12:48.85,0:12:51.23,Default,Tengen,0,0,0,,so I don't have more\Ninformation than that.
+Dialogue: 0,0:12:56.80,0:12:59.57,Default,Tengen,0,0,0,,Let's start going over things from there.
+Dialogue: 0,0:12:59.96,0:13:02.04,Default,Tengen,0,0,0,,There are ten Colonies across Japan.
+Dialogue: 0,0:13:02.04,0:13:04.76,Default,Tengen,0,0,0,,They are linked by barriers designed to
+Dialogue: 0,0:13:04.76,0:13:07.88,Default,Tengen,0,0,0,,ferry the people of \NJapan to the other side.
+Dialogue: 0,0:13:07.88,0:13:09.93,Default,Akari,0,0,0,,{\i1}Crossing a river or other border—
+Dialogue: 0,0:13:09.93,0:13:11.79,Default,Akari,0,0,0,,{\i1}acts that symbolize crossing \Nto the afterlife—
+Dialogue: 0,0:13:11.79,0:13:14.55,Default,Akari,0,0,0,,{\i1}carry important meaning in sorcery.
+Dialogue: 0,0:13:14.55,0:13:16.96,Default,Yuji,0,0,0,,Oh, it's like with Yasohachi Bridge!
+Dialogue: 0,0:13:32.13,0:13:36.20,Default,Tsukumo,0,0,0,,Is Hokkaido excluded because of \Nthe Jujutsu Society's barrier?
+Dialogue: 0,0:13:36.20,0:13:37.41,Default,Tengen,0,0,0,,That's right.
+Dialogue: 0,0:13:37.41,0:13:41.54,Default,Tengen,0,0,0,,That land is already established \Nas a vast sacred ground.
+Dialogue: 0,0:13:41.54,0:13:43.72,Default,Yuji,0,0,0,,That's "the challenging land" for you.
+Dialogue: 1,0:13:44.46,0:13:47.48,Default,Tengen,0,0,0,,"Ferry them to the other side" \Nmay sound dramatic,
+Dialogue: 1,0:13:47.48,0:13:53.35,Default,Tengen,0,0,0,,but everyone in Japan was cursed in \Npreparation for the assimilation.
+Dialogue: 0,0:14:00.42,0:14:03.41,Default,Fushiguro,0,0,0,,How long will this ritual take to complete?
+Dialogue: 0,0:14:03.86,0:14:05.81,Default,Tengen,0,0,0,,That depends on the Culling Game,
+Dialogue: 0,0:14:05.81,0:14:07.82,Default,Tengen,0,0,0,,but it'll probably be \Nover within two months.
+Dialogue: 0,0:14:11.38,0:14:14.41,Default,Maki,0,0,0,,It's currently 9 AM on November 9th.
+Dialogue: 0,0:14:14.89,0:14:20.21,Default,Okkotsu,0,0,0,,The Players awakened as sorcerers \Naround midnight on October 31st.
+Dialogue: 0,0:14:20.62,0:14:26.37,Default,Fushiguro,0,0,0,,We have about ten days and fifteen hours \Nbefore Tsumiki's forced to participate.
+Dialogue: 0,0:14:33.17,0:14:34.93,Default,Fushiguro,0,0,0,,{*}Master Tengen{*Tengen-sama}, you said earlier
+Dialogue: 0,0:14:34.93,0:14:37.48,Default,Fushiguro,0,0,0,,that people would die if \Nthey refused to participate.
+Dialogue: 0,0:14:37.76,0:14:38.69,Default,Tengen,0,0,0,,Yes.
+Dialogue: 0,0:14:39.17,0:14:41.52,Default,Shoko,0,0,0,,Stripped of their technique?
+Dialogue: 0,0:14:41.52,0:14:45.19,Default,Shoko,0,0,0,,That rule also applies to sorcerers \Njoining in later, right?
+Dialogue: 0,0:14:46.36,0:14:50.52,Default,Shoko,0,0,0,,Then the stripping isn't being \Ndone by Idle Transfiguration.
+Dialogue: 0,0:14:51.07,0:14:55.13,Default,Shoko,0,0,0,,It says "stripped," not "prohibited \Nfrom using," so it's not a Binding Vow, either.
+Dialogue: 0,0:14:56.74,0:15:00.60,Default,Shoko,0,0,0,,That means it'll be doing something \Nto the brain by force,
+Dialogue: 0,0:15:01.00,0:15:04.27,Default,Shoko,0,0,0,,and it's better for the rules if \Nbeing stripped means death, too.
+Dialogue: 0,0:15:04.27,0:15:06.95,Default,Shoko,0,0,0,,Otherwise, everyone would \Nrefuse to participate.
+Dialogue: 0,0:15:07.38,0:15:09.93,Default,Maki,0,0,0,,It's just as Shoko{**-san} anticipated,
+Dialogue: 0,0:15:09.93,0:15:12.00,Default,Maki,0,0,0,,but that also means there's no risk
+Dialogue: 0,0:15:12.00,0:15:14.77,Default,Maki,0,0,0,,to sorcerers without any \Ncursed technique, like me.
+Dialogue: 0,0:15:15.34,0:15:17.60,Default,Maki,0,0,0,,And what'll happen to Panda?
+Dialogue: 0,0:15:17.60,0:15:19.36,Default,Maki,0,0,0,,Does he even have a brain?
+Dialogue: 0,0:15:22.72,0:15:27.86,Default,Yuji,0,0,0,,What does this rule mean for the ordinary \Npeople who were in the Colony from the start?
+Dialogue: 0,0:15:27.86,0:15:31.74,Default,Tengen,0,0,0,,It means they're granted at \Nleast one chance to leave.
+Dialogue: 0,0:15:31.97,0:15:33.11,Default,Yuji,0,0,0,,For real?
+Dialogue: 0,0:15:33.11,0:15:35.47,Default,Fushiguro,0,0,0,,That's awfully generous.
+Dialogue: 0,0:15:35.47,0:15:40.11,Default,Tengen,0,0,0,,There are no stipulations in the rules \Nabout leaving or entering Colonies.
+Dialogue: 0,0:15:40.11,0:15:45.13,Default,Tengen,0,0,0,,They were probably aiming to stimulate the \NCulling Game by giving Players a clear,
+Dialogue: 0,0:15:45.13,0:15:47.95,Default,Tengen,0,0,0,,initial goal of leaving the Colony.
+Dialogue: 0,0:15:48.72,0:15:50.76,Default,Tengen,0,0,0,,In order to keep the Players inside,
+Dialogue: 0,0:15:50.76,0:15:55.61,Default,Tengen,0,0,0,,the premise that Players "entered of \Ntheir own free will" is important.
+Dialogue: 0,0:15:56.22,0:15:58.97,Default,Yuji,0,0,0,,The thing about adjusting the barrier \Nstrength that Ino{**-san} mentioned?
+Dialogue: 0,0:16:10.86,0:16:14.23,Default,Yuji,0,0,0,,Using "fundamentally" within a rule? \NWay to make things confusing.
+Dialogue: 0,0:16:14.93,0:16:16.04,Default,Yuji,0,0,0,,Fushiguro?
+Dialogue: 0,0:16:16.62,0:16:17.79,Default,Fushiguro,0,0,0,,It's nothing.
+Dialogue: 0,0:16:17.79,0:16:21.20,Default,Fushiguro,0,0,0,,{*}Master Tengen{*Tengen-sama}, who is this Game Master?
+Dialogue: 0,0:16:21.97,0:16:26.19,Default,Tengen,0,0,0,,Every individual Player is given \Na shikigami called "Kogane."
+Dialogue: 0,0:16:26.66,0:16:31.82,Default,Tengen,0,0,0,,To be precise, Kogane isn't the \NGame Master—it's an interface.
+Dialogue: 0,0:16:32.64,0:16:37.72,Default,Tengen,0,0,0,,It's best to think of the Culling Game \Nsystem itself as the Game Master.
+Dialogue: 0,0:16:37.71,0:16:39.18,Default,Yuji,0,0,0,,I see...
+Dialogue: 0,0:16:42.03,0:16:44.06,Default,Tsukumo,0,0,0,,"Add," huh?
+Dialogue: 0,0:16:44.33,0:16:47.03,Default,Tsukumo,0,0,0,,So no eliminating any existing rules.
+Dialogue: 0,0:16:48.46,0:16:51.42,Default,Fushiguro,0,0,0,,We might be able to refute \Nthem in a roundabout way.
+Dialogue: 0,0:16:55.14,0:16:56.61,Default,Choso,0,0,0,,Is this allowed?
+Dialogue: 0,0:16:57.30,0:16:58.80,Default,Maki,0,0,0,,Right?
+Dialogue: 0,0:16:58.80,0:17:01.03,Default,Maki,0,0,0,,It leans too heavily on their judgment.
+Dialogue: 0,0:17:01.44,0:17:05.91,Default,Tengen,0,0,0,,No, you should be able to \Nexpect a fair decision here.
+Dialogue: 0,0:17:05.91,0:17:09.46,Default,Tengen,0,0,0,,They're already imposing such \Nstrong rules on the Players.
+Dialogue: 0,0:17:09.46,0:17:14.35,Default,Tengen,0,0,0,,Jujutsu sorcery wouldn't allow them \Nto favor Kenjaku any further.
+Dialogue: 0,0:17:16.76,0:17:19.90,Default,Yuji,0,0,0,,So I'll kill people again?
+Dialogue: 0,0:17:20.42,0:17:23.60,Default,Fushiguro,0,0,0,,No, I have a few ideas.
+Dialogue: 0,0:17:26.72,0:17:29.42,Default,Maki,0,0,0,,We've managed to organize \Nour information for now.
+Dialogue: 0,0:17:29.42,0:17:31.55,Default,Maki,0,0,0,,That just leaves the roles for each of us.
+Dialogue: 0,0:17:33.47,0:17:37.43,Default,Maki,0,0,0,,Yuki{**-san} and Choso will remain \Nhere to guard {*}Master Tengen{*Tengen-sama}.
+Dialogue: 0,0:17:38.91,0:17:42.82,Default,Maki,0,0,0,,I need to return to the Zenin house \Nand retrieve their cursed tools.
+Dialogue: 0,0:17:43.93,0:17:45.79,Default,Maki,0,0,0,,Shortly after Satoru was sealed,
+Dialogue: 0,0:17:46.13,0:17:47.92,Default,Maki,0,0,0,,the Kamo and Zenin Clans \Nboth took their cursed tools
+Dialogue: 0,0:17:47.92,0:17:50.38,Default,Maki,0,0,0,,out of Jujutsu Tech's \Nforbidden vault, so it's empty.
+Dialogue: 0,0:17:50.38,0:17:53.05,Default,Maki,0,0,0,,However, Megumi's now the \Nhead of the Zenin Clan.
+Dialogue: 0,0:17:53.05,0:17:54.11,Default,Yuji,0,0,0,,Oh?!
+Dialogue: 0,0:17:54.11,0:17:55.89,Default,Fushiguro,0,0,0,,I'll explain later.
+Dialogue: 0,0:17:56.21,0:17:59.41,Default,Maki,0,0,0,,Thanks to that, we're free to rummage \Nthrough the Zenin Clan's forbidden vault.
+Dialogue: 0,0:17:59.41,0:18:02.60,Default,Maki,0,0,0,,But before that, {*}Master Tengen{*Tengen-sama}...
+Dialogue: 0,0:18:02.88,0:18:04.31,Default,Tengen,0,0,0,,I know.
+Dialogue: 0,0:18:04.31,0:18:07.13,Default,Tengen,0,0,0,,Juzo Kumiya's atelier, right?
+Dialogue: 0,0:18:07.13,0:18:08.47,Default,Maki,0,0,0,,Thank you.
+Dialogue: 0,0:18:08.47,0:18:10.96,Default,Maki,0,0,0,,Once I'm finished, I'll look for Panda
+Dialogue: 0,0:18:10.96,0:18:12.92,Default,Maki,0,0,0,,and help deal with the Culling Game.
+Dialogue: 0,0:18:13.37,0:18:14.57,Default,Maki,0,0,0,,And you, Yuta?
+Dialogue: 0,0:18:15.09,0:18:19.13,Default,Okkotsu,0,0,0,,I'll enter a Colony and participate \Nin the Culling Game right away.
+Dialogue: 0,0:18:19.13,0:18:21.08,Default,Okkotsu,0,0,0,,I'd like to gather as much \Ninformation as possible
+Dialogue: 0,0:18:21.08,0:18:22.97,Default,Okkotsu,0,0,0,,before Tsumiki{**-san} and Fushiguro{**-kun}
+Dialogue: 1,0:18:22.97,0:18:24.71,Default,Okkotsu,0,0,0,,participate in the Culling Game.
+Dialogue: 0,0:18:25.46,0:18:26.60,Default,Fushiguro,0,0,0,,Thank you.
+Dialogue: 0,0:18:27.30,0:18:29.87,Default,Okkotsu,0,0,0,,It'll mean acting on my own again,
+Dialogue: 0,0:18:29.87,0:18:33.54,Default,Okkotsu,0,0,0,,but to prevent us from \Nclashing with each other,
+Dialogue: 0,0:18:33.54,0:18:36.62,Default,Okkotsu,0,0,0,,and to avoid running into her if \Nsomething does happen to Tsumiki{**-san},
+Dialogue: 0,0:18:36.62,0:18:38.53,Default,Okkotsu,0,0,0,,I'll stay away from the nearby Colonies.
+Dialogue: 0,0:18:39.46,0:18:42.43,Default,Okkotsu,0,0,0,,The Colonies might cut off reception,
+Dialogue: 0,0:18:42.43,0:18:44.75,Default,Okkotsu,0,0,0,,so I might be out of \Ncontact for a while...
+Dialogue: 0,0:18:46.09,0:18:48.67,Default,Yuji,0,0,0,,If Sukuna does manage \Nto take control again,
+Dialogue: 0,0:18:48.67,0:18:50.01,Default,Yuji,0,0,0,,don't hesitate to kill me.
+Dialogue: 0,0:18:52.65,0:18:54.36,Default,Fushiguro,0,0,0,,Is this the time to worry about that?
+Dialogue: 0,0:18:54.98,0:18:56.32,Default,Fushiguro,0,0,0,,It'll be fine.
+Dialogue: 0,0:18:56.32,0:19:00.19,Default,Fushiguro,0,0,0,,If that happens, you can \Nhave him kill you after I die.
+Dialogue: 0,0:19:00.19,0:19:02.86,Default,Yuji,0,0,0,,No, I'm trying to prevent that.
+Dialogue: 0,0:19:03.54,0:19:04.77,Default,Fushiguro,0,0,0,,Senpai.
+Dialogue: 0,0:19:05.07,0:19:06.14,Default,Maki,0,0,0,,Yeah.
+Dialogue: 0,0:19:06.14,0:19:08.72,Default,Maki,0,0,0,,You two go to see Kinji like we planned.
+Dialogue: 0,0:19:09.11,0:19:10.49,Default,Yuji,0,0,0,,Kinji?
+Dialogue: 0,0:19:10.49,0:19:12.25,Default,Okkotsu,0,0,0,,Hakari Kinji.
+Dialogue: 0,0:19:12.25,0:19:14.10,Default,Okkotsu,0,0,0,,The suspended third-year.
+Dialogue: 0,0:19:14.62,0:19:17.40,Default,Maki,0,0,0,,We're shorthanded right now.
+Dialogue: 0,0:19:17.40,0:19:19.22,Default,Maki,0,0,0,,Do whatever it takes to recruit him.
+Dialogue: 0,0:19:19.57,0:19:21.13,Default,Yuji,0,0,0,,Is he strong?
+Dialogue: 0,0:19:21.60,0:19:23.33,Default,Okkotsu,0,0,0,,He's a bit capricious,
+Dialogue: 0,0:19:23.33,0:19:25.93,Default,Okkotsu,0,0,0,,but when he gets into it, \Nhe's stronger than me.
+Dialogue: 0,0:19:25.93,0:19:27.50,Default,Maki,0,0,0,,That's impossible.
+Dialogue: 0,0:20:06.80,0:20:07.81,Default,Yuji,0,0,0,,Choso!
+Dialogue: 0,0:20:08.54,0:20:10.43,Default,Yuji,0,0,0,,Thank you. You've been a big help.
+Dialogue: 0,0:20:11.51,0:20:12.98,Default,Choso,0,0,0,,Don't die out there.
+Dialogue: 0,0:20:19.82,0:20:21.17,Default,Tsukumo,0,0,0,,Are you crying?
+Dialogue: 0,0:20:21.17,0:20:22.21,Default,Choso,0,0,0,,Shush.
+Dialogue: 0,0:20:32.68,0:20:35.55,Default,Takaba,0,0,0,,Th-Thanks for tonight!
+Dialogue: 0,0:20:36.89,0:20:38.32,Default,Entertainer,0,0,0,,Takaba!
+Dialogue: 0,0:20:38.97,0:20:41.13,Default,Entertainer,0,0,0,,How long are ya gonna\Nkeep doin' that crap?!
+Dialogue: 0,0:20:41.13,0:20:42.67,Default,Entertainer,0,0,0,,Cut it out!
+Dialogue: 0,0:20:42.67,0:20:44.88,Default,Entertainer,0,0,0,,You're making me depressed, too!
+Dialogue: 0,0:20:45.60,0:20:46.27,Default,Takaba,0,0,0,,Yeah.
+Dialogue: 0,0:20:47.61,0:20:49.35,Default,Entertainer,0,0,0,,How old are ya now?
+Dialogue: 0,0:20:49.86,0:20:51.27,Default,Takaba,0,0,0,,Thirty-five!
+Dialogue: 0,0:20:51.27,0:20:53.40,Default,Entertainer,0,0,0,,Then give it up already.
+Dialogue: 0,0:20:53.40,0:21:00.12,Default,Entertainer,0,0,0,,Our industry's full o' late-bloomers who \Nsuddenly make it big for no good reason,
+Dialogue: 0,0:21:00.12,0:21:02.95,Default,Entertainer,0,0,0,,but none of 'em suddenly got funnier.
+Dialogue: 0,0:21:02.95,0:21:06.27,Default,Entertainer,0,0,0,,They were just funny people \Nwaiting to be discovered.
+Dialogue: 0,0:21:07.13,0:21:09.01,Default,Entertainer,0,0,0,,And that ain't the case for you!
+Dialogue: 0,0:21:09.43,0:21:11.43,Default,Entertainer,0,0,0,,Look what happened to Tokyo.
+Dialogue: 0,0:21:11.43,0:21:12.78,Default,Entertainer,0,0,0,,No one's gonna think ill of you.
+Dialogue: 0,0:21:12.78,0:21:15.23,Default,Entertainer,0,0,0,,Go do something you're actually suited for.
+Dialogue: 0,0:21:18.50,0:21:21.91,Default,Ken,0,0,0,,I never disliked your comedy, Takaba.
+Dialogue: 0,0:21:23.83,0:21:25.00,Default,Takaba,0,0,0,,Ken{**-san}?
+Dialogue: 0,0:21:25.00,0:21:27.41,Default,Ken,0,0,0,,Both you and him have the wrong idea.
+Dialogue: 0,0:21:28.25,0:21:31.21,Default,Ken,0,0,0,,There's still people who ain't \Nfunny that make it big.
+Dialogue: 0,0:21:35.22,0:21:37.12,Default,Takaba,0,0,0,,You mean those with one stock gag?
+Dialogue: 0,0:21:37.12,0:21:38.03,Default,Ken,0,0,0,,Nah.
+Dialogue: 0,0:21:38.03,0:21:40.68,Default,Ken,0,0,0,,There are two types of comedians \Nthat manage to stay big.
+Dialogue: 0,0:21:42.12,0:21:44.16,Default,Ken,0,0,0,,Comedians who are always funny,
+Dialogue: 0,0:21:44.16,0:21:47.18,Default,Ken,0,0,0,,and comedians who can always delude \Nthemselves into believing they're funny.
+Dialogue: 0,0:21:54.20,0:21:56.00,Default,Ken,0,0,0,,Which one are you?
+Dialogue: 0,0:21:57.72,0:22:00.40,Default,Takaba,0,0,0,,I'd say it's 50-50, \Nbut it's actually 70-30...
+Dialogue: 0,0:22:00.40,0:22:01.63,Default,Takaba,0,0,0,,50-50...
+Dialogue: 0,0:22:01.63,0:22:03.88,Default,Takaba,0,0,0,,I'd say it's 50-50,
+Dialogue: 0,0:22:04.19,0:22:06.71,Default,Takaba,0,0,0,,but it's actually 70-30!
+Dialogue: 0,0:23:41.00,0:23:42.44,Default,Maki,0,0,0,,Mai, I'll get started.
+Dialogue: 0,0:23:42.44,0:23:43.82,Default,Mai,0,0,0,,Why did you come here?
+Dialogue: 0,0:23:43.82,0:23:45.74,Default,Naoya,0,0,0,,Shall I bully you like I used to?
+Dialogue: 0,0:23:45.74,0:23:47.41,Default,Fushiguro,0,0,0,,Then, please, you do it, Maki{**-san}.
+Dialogue: 0,0:23:46.66,0:23:49.30,Default,Mai,0,0,0,,You are me, and I am you.
+Dialogue: 0,0:23:49.30,0:23:50.74,Default,Mother,0,0,0,,Make me happy I gave birth to you.
+Dialogue: 0,0:23:50.74,0:23:52.32,Default,Ougi,0,0,0,,Absolutely ridiculous.
+Dialogue: 0,0:23:51.61,0:23:53.82,Default,Mai,0,0,0,,Destroy it all.
