@@ -1,0 +1,43 @@
+﻿[Script Info]
+Title: Jujutsu Kaisen - 51 - Perfect Preparation
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 1920
+PlayResY: 1080
+LayoutResX: 1920
+LayoutResY: 1080
+YCbCr Matrix: TV.709
+ScaledBorderAndShadow: yes
+
+[Aegisub Project Garbage]
+Video File: jjk_51_premux.mkv
+Audio File: jjk_51_premux.mkv
+Keyframes File: jjk_51_keyframes.txt
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Show_Title,Times New Roman,108,&H00000000,&H000000FF,&H0090D3CB,&H00000000,-1,0,0,0,100,150,0,0,1,6,0,8,30,30,54,1
+Style: Signs,Times New Roman,72,&H00FFFFFF,&H000000FF,&H00000000,&H3C000000,-1,0,0,0,100,100,0,0,1,0,0,2,30,30,120,1
+Style: Next_Ep_Title,Times New Roman,72,&H0AFFFFFF,&H000000FF,&H00000000,&H3C000000,-1,0,0,0,100,100,0,0,1,0,0,2,30,30,180,1
+Style: Sign_Basic,Trebuchet MS,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,6,3,2,30,30,54,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:10.48,0:00:11.19,Show_Title,Screen,0,0,0,,{\c&H0200E9&\3c&H000000&}JUJUTSU KAISEN
+Dialogue: 0,0:00:34.47,0:00:38.68,Show_Title,Screen,0,0,0,,{\fad(0,650)\c&H2E2C2C&}JUJUTSU KAISEN\N{\fs36\c&HF3F3F3&\bord0\alpha&HFF&\t(237,736,1\alpha&H00&)}The Culling Game Part 1
+Dialogue: 0,0:01:39.32,0:01:50.46,Show_Title,Screen,0,0,0,,{\an8\c&H0DFFF7&\3c&H000000&}JUJUTSU KAISEN
+Dialogue: 0,0:06:10.22,0:06:14.31,Sign_Basic,Screen,0,0,0,,{\pos(960,930)\fnTimes New Roman\b1\bord0\shad0\fs60\1a&H33&}Juzo Kumiya's Masterpiece,\NThe Cursed Tool "Dragon Bone"
+Dialogue: 0,0:06:17.89,0:06:20.69,Sign_Basic,Screen,0,0,0,,{\pos(960,930)\fnTimes New Roman\b1\bord0\shad0\fs60\1a&H33&}Secret Art: Falling Blossom Emotion
+Dialogue: 0,0:13:01.67,0:13:03.55,Sign_Basic,Screen,0,0,0,,{\fad(0,425)\pos(960,930)\fnTimes New Roman\b1\bord0\shad0\fs60\1a&H33&}Technique Release - Blazing Courage
+Dialogue: 0,0:13:36.83,0:13:39.96,Signs,Screen,0,0,0,,Episode 51\N{\fs90}Perfect Preparation
+Dialogue: 0,0:13:42.63,0:13:44.96,Show_Title,Screen,0,0,0,,{\pos(960,54)\fad(925,0)\3c&H164B6B&\bord9\be12}JUJUTSU KAISEN
+Dialogue: 1,0:13:42.63,0:13:44.96,Show_Title,Screen,0,0,0,,{\pos(960,54)\fad(925,0)}JUJUTSU KAISEN
+Dialogue: 0,0:14:13.99,0:14:17.38,Sign_Basic,Screen,0,0,0,,{\pos(960,900)\fnTimes New Roman\b1\bord0\shad0\fs60}Kukuru Unit Captain, Nobuaki Zenin
+Dialogue: 0,0:14:16.75,0:14:17.37,Sign_Basic,Screen,0,0,0,,{\pos(1362,522)\fad(250,0)\fs39\fnComic Sans MS\bord0\shad0\c&H000000&\frz4.709}Are you listening?
+Dialogue: 0,0:18:06.68,0:18:13.77,Sign_Basic,Screen,0,0,0,,{\pos(969,900)\fnTimes New Roman\b1\bord0\shad0\fs60}"Hei"
+Dialogue: 0,0:20:28.07,0:20:31.54,Sign_Basic,Screen,0,0,0,,{\pos(969,900)\fnTimes New Roman\b1\bord0\shad0\fs60}Head of the Hei, Naoya Zenin
+Dialogue: 0,0:25:51.98,0:25:58.74,Sign_Basic,Screen,0,0,0,,{\an8\fs42\c&H242425&\3c&H959496&\shad0\fnGeorgia}The six members of the Hei,\Nthe nine members of the Akashi,\Nand the 21 members of the Kukuru Unit \Nwho were absent from the Zenin Clan's\Nhome that day all met untimely deaths.
+Dialogue: 0,0:25:58.74,0:26:04.87,Sign_Basic,ScreenTop,0,0,0,,{\an9\pos(1014,138)\fs42\c&H242425&\3c&H959496&\shad0\fnGeorgia}At present, no residuals have\Nbeen detected,
+Dialogue: 0,0:25:58.74,0:26:04.87,Sign_Basic,ScreenTop,0,0,0,,{\an7\pos(1050,528)\fs42\c&H242425&\3c&H959496&\shad0\fnGeorgia}and autopsies revealed faint traces of\Ncursed energy in the corpses' wounds\Nthat are believed to come from the\Ncursed tool used as the murder weapon.
+Dialogue: 0,0:26:04.87,0:26:10.88,Sign_Basic,Screen,0,0,0,,{\an7\pos(1260,225)\fs42\c&H242425&\3c&H959496&\shad0\fnGeorgia}Several days later,\N both the Gojo Clan and Kamo Clan\N motioned for headquarters\N to remove the Zenin Clan\N from the big three families.\N Headquarters has tabled this motion.
+Dialogue: 0,0:28:01.99,0:28:05.02,Next_Ep_Title,Screen,0,0,0,,Next Episode\N{\fs90}Passion
