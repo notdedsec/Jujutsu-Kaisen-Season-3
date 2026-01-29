@@ -1,0 +1,48 @@
+﻿[Script Info]
+Title: Jujutsu Kaisen - 52 -
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 1920
+PlayResY: 1080
+LayoutResX: 1920
+LayoutResY: 1080
+YCbCr Matrix: TV.709
+ScaledBorderAndShadow: yes
+
+[Aegisub Project Garbage]
+Video File: jjk_52_premux.mkv
+Audio File: jjk_52_premux.mkv
+Keyframes File: jjk_52_keyframes.txt
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Show_Title,Times New Roman,108,&H00000000,&H000000FF,&H0090D3CB,&H00000000,-1,0,0,0,100,150,0,0,1,6,0,8,30,30,54,1
+Style: Signs,Times New Roman,72,&H00FFFFFF,&H000000FF,&H00000000,&H3C000000,-1,0,0,0,100,100,0,0,1,0,0,2,30,30,120,1
+Style: Next_Ep_Title,Times New Roman,72,&H0AFFFFFF,&H000000FF,&H00000000,&H3C000000,-1,0,0,0,100,100,0,0,1,0,0,2,30,30,180,1
+Style: Sign_Basic,Trebuchet MS,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,6,3,2,30,30,54,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:06:30.45,0:06:31.16,Show_Title,Screen,0,0,0,,{\c&H0200E9&\3c&H000000&}JUJUTSU KAISEN
+Dialogue: 0,0:06:54.43,0:06:58.64,Show_Title,Screen,0,0,0,,{\fad(0,650)\c&H2E2C2C&}JUJUTSU KAISEN\N{\fs36\c&HF3F3F3&\bord0\alpha&HFF&\t(237,736,1 \alpha&H00&)}The Culling Game Part 1
+Dialogue: 0,0:08:09.00,0:08:10.59,Sign_Basic,Screen,0,0,0,,{\an8\c&H222627&\3c&H708287&\shad0\fnTimes New Roman\b1\fs42}ARTICLE 8 - SECRECY: SORCERERS MUST NOT\NREVEAL THE EXISTENCE OF SORCERY, CURSES,\NAND CURSED OBJECTS TO NON-SORCERERS.\NHOWEVER, THIS SHALL NOT APPLY WHEN\NIT IS NECESSARY TO FULFILL\NTHE DUTIES OF THE PREVIOUS ARTICLE.
+Dialogue: 0,0:08:10.59,0:08:12.97,Sign_Basic,Screen,0,0,0,,{\an8\c&H222627&\3c&H708287&\shad0\fnTimes New Roman\b1}SECRECY
+Dialogue: 0,0:10:07.16,0:10:09.17,Sign_Basic,Screen,0,0,0,,{\pos(876,150)\an8\frz6.764\fs60\bord0\shad0}Boss
+Dialogue: 0,0:13:21.82,0:13:24.99,Sign_Basic,Screen,0,0,0,,{\pos(972,198)\an8\b1\fs54\c&H1F2620&\3c&H637357&\shad0}Fighting Arena
+Dialogue: 0,0:13:21.82,0:13:24.99,Sign_Basic,Screen,0,0,0,,{\fs48\c&H1F2620&\3c&H7C7D50&\shad0\pos(969,900)}2nd Floor {\b1}CH 6
+Dialogue: 0,0:13:48.68,0:13:50.98,Sign_Basic,Screen,0,0,0,,{\pos(972,138)\an8\b1\fs54\c&H1F2620&\3c&H607861&\shad0}Fighting Arena
+Dialogue: 0,0:13:48.68,0:13:50.98,Sign_Basic,Screen,0,0,0,,{\fs48\c&H1F2620&\3c&H7C7D50&\shad0\pos(969,960)}2nd Floor {\b1}CH 6
+Dialogue: 0,0:13:57.81,0:13:58.52,Sign_Basic,Screen,0,0,0,,{\fad(225,0)\pos(1356,390)\c&H7D7F7F&\3c&HEAEDEC&\shad0\fs60}Tap
+Dialogue: 0,0:14:06.20,0:14:07.28,Sign_Basic,Screen,0,0,0,,{\fad(75,0)\c&H333333&\3c&HEAEDEC&\shad0\fs60\an8\pos(960,60)}Tap Tap Tap Tap
+Dialogue: 0,0:14:07.86,0:14:09.11,Sign_Basic,Screen,0,0,0,,{\fad(175,0)\c&H333333&\3c&HFFFFFF&\shad0\an8\pos(960,60)}Roooar
+Dialogue: 0,0:14:09.11,0:14:10.45,Sign_Basic,Screen,0,0,0,,{\c&H344247&\3c&HECF1F3&\shad0\b1\pos(1470,210)\frz335.7}Roooar
+Dialogue: 0,0:14:50.86,0:14:51.61,Sign_Basic,Screen,0,0,0,,{\c&H333333&\3c&HEAEDEC&\shad0\fs60\pos(1179.999,819.999)}Tap
+Dialogue: 0,0:14:53.41,0:14:53.71,Sign_Basic,Screen,0,0,0,,{\c&H333333&\3c&HEAEDEC&\shad0\b1\pos(717.999,489.999)\frz32.32}Tap
+Dialogue: 0,0:14:55.70,0:14:56.24,Sign_Basic,Screen,0,0,0,,{\c&H333333&\3c&HE2EBEB&\shad0\fs60\pos(410.001,692.001)\frz341.9}Tap
+Dialogue: 0,0:14:57.33,0:15:00.00,Sign_Basic,Screen,0,0,0,,{\c&H333333&\3c&HEAEDEC&\shad0\fs60\an8\pos(960,60)}Tap Tap Tap
+Dialogue: 0,0:15:04.38,0:15:04.88,Sign_Basic,Screen,0,0,0,,{\fad(50,0)\c&H333333&\3c&HEAEDEC&\shad0\fs60\pos(1449.999,159.999)\frz351.4}Tap
+Dialogue: 0,0:15:23.22,0:15:24.60,Sign_Basic,Screen,0,0,0,,{\c&H0C0C0C&\3c&HEAEDEC&\shad0\fs60\frz25.2\pos(1695.999,415.998)}Your acting sucks.
+Dialogue: 0,0:16:04.98,0:16:06.94,Sign_Basic,ScreenTop,0,0,0,,{\fnTimes New Roman\b1\bord0\shad0\fs48\an9\1a&H44&\pos(1818,126)}Jujutsu Tech Third-Year, Hakari Kinji
+Dialogue: 0,0:16:04.98,0:16:06.94,Sign_Basic,ScreenBottom,0,0,0,,{\fnTimes New Roman\b1\bord0\shad0\fs48\an1\1a&H44&\pos(114,957.999)}Jujutsu Tech Third-Year,  Hoshi Kirara
+Dialogue: 0,0:22:06.97,0:22:09.97,Signs,Screen,0,0,0,,Episode 52\N{\fs90}Passion
+Dialogue: 0,0:23:51.99,0:23:55.02,Next_Ep_Title,screen,0,0,0,,Next Episode\N{\fs90}Cog
