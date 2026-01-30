@@ -84,6 +84,8 @@ def run_mux(ep: str):
 
     main_subs = SubFile(sorted(episode.folder.glob(f'{config.show}_{episode.number}_subs*.ass')))
 
+    main_subs.change_layers()
+
     if episode.OP:
         main_subs.merge(episode.OP.subs, 'opsync', 'sync')
 
