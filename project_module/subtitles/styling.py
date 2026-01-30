@@ -10,7 +10,7 @@ main_style = Style(
     shadow=1.8,
     margin_l=128,
     margin_r=128,
-    margin_v=60,
+    margin_v=65,
     **default_style_args,
 )
 
