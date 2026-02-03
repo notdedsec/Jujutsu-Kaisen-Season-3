@@ -1,7 +1,3 @@
-#temp#
-
-######
-
 *.mkv
 *.mka
 *.mp4
@@ -12,13 +8,14 @@
 *.265
 *.lwi
 *.lnk
-*.txt
 *.csv
+*.bat
 *.index
 *.ffindex
 *.torrent
 *.webm
 *.m2ts
+*.vm
 
 private.properties
 
@@ -36,6 +33,9 @@ _binaries
 .vscode
 vspackages3.json
 *test.py
+*cc.ass
+*test.ass
+*dialogue.txt
 
 fonts
 results
