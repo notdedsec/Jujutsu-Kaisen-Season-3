@@ -17,81 +17,80 @@ Audio File: jjk_50_premux.mkv
 Video File: jjk_50_premux.mkv
 Keyframes File: jjk_50_keyframes.txt
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 18
-Active Line: 702
-Video Position: 24481
+Video Zoom Percent: 0.625000
+Active Line: 3
+Video Position: 3612
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Signs,Cabin PL,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,0,0,0,1
-Style: f0ld3r-invisible,Cabin PL,0,&HFFFFFFFF,&HFFFFFFFF,&HFFFFFFFF,&HFFFFFFFF,0,0,0,0,0,0,0,0,1,0,0,9,0,0,0,1
+Style: Signs,Cabin F,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,0,0,0,1
 Style: jjk3-EpTitle,KizaKinryou Std JJK B Strp,50,&H00F4F4F4,&HFFFFFFFF,&H00000000,&H00E2E2E2,-1,0,0,0,100,100,0,0,1,0,0,5,0,0,0,1
+Style: f0ld3r-invisible,Cabin F,0,&HFFFFFFFF,&HFFFFFFFF,&HFFFFFFFF,&HFFFFFFFF,0,0,0,0,0,0,0,0,1,0,0,9,0,0,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.00,0:00:00.00,f0ld3r-invisible,,0,0,0,,>Typesetting
-Dialogue: 0,0:02:29.59,0:02:30.80,f0ld3r-invisible,,0,0,0,,{=0}--SFX: Seriously?
+Dialogue: 0,0:02:29.59,0:02:30.80,f0ld3r-invisible,,0,0,0,,{=327}--SFX: Seriously?
 Comment: 0,0:02:29.55,0:02:30.76,Signs,,0,0,0,,{\fnAlegreya\c&H4A2B8B&\bord1.2\blur0.7\fs55\b0\frz21.61\3c&H5924C3&\fad(480,0)\pos(629.2,499.4)}Seriously?
-Dialogue: 0,0:02:29.55,0:02:29.59,Signs,,0,0,0,,{\blur0.7\bord1.2\fnAlegreya\fs55\frz21.61\c&H5924C3&\3c&H5924C3&\alpha&HFF&\1a&HFF&\pos(602.2,511.4)\b0}Seriously?
-Dialogue: 0,0:02:29.59,0:02:29.63,Signs,,0,0,0,,{\blur0.7\bord1.2\fnAlegreya\fs55\frz21.61\c&H5924C3&\3c&H5924C3&\alpha&HEA&\1a&HFF&\pos(602.2,511.4)\b0}Seriously?
-Dialogue: 0,0:02:29.63,0:02:29.67,Signs,,0,0,0,,{\blur0.7\bord1.2\fnAlegreya\fs55\frz21.61\c&H5924C3&\3c&H5924C3&\alpha&HCF&\1a&HFF&\pos(602.79,511.09)\b0}Seriously?
-Dialogue: 0,0:02:29.67,0:02:29.71,Signs,,0,0,0,,{\blur0.7\bord1.2\fnAlegreya\fs55\frz21.61\c&H5924C3&\3c&H5924C3&\alpha&HBA&\1a&HFF&\pos(603.6,510.82)\b0}Seriously?
-Dialogue: 0,0:02:29.71,0:02:29.75,Signs,,0,0,0,,{\blur0.7\bord1.2\fnAlegreya\fs55\frz21.61\c&H5924C3&\3c&H5924C3&\alpha&HA5&\1a&HFF&\pos(604.18,510.42)\b0}Seriously?
-Dialogue: 0,0:02:29.75,0:02:29.80,Signs,,0,0,0,,{\blur0.7\bord1.2\fnAlegreya\fs55\frz21.61\c&H5924C3&\3c&H5924C3&\alpha&H8F&\1a&HFF&\pos(605.02,509.92)\b0}Seriously?
-Dialogue: 0,0:02:29.80,0:02:29.84,Signs,,0,0,0,,{\blur0.7\bord1.2\fnAlegreya\fs55\frz21.61\c&H5924C3&\3c&H5924C3&\alpha&H7A&\1a&HFF&\pos(605.73,509.49)\b0}Seriously?
-Dialogue: 0,0:02:29.84,0:02:29.88,Signs,,0,0,0,,{\blur0.7\bord1.2\fnAlegreya\fs55\frz21.61\c&H5924C3&\3c&H5924C3&\alpha&H65&\1a&HFF&\pos(606.45,509.06)\b0}Seriously?
-Dialogue: 0,0:02:29.88,0:02:29.92,Signs,,0,0,0,,{\blur0.7\bord1.2\fnAlegreya\fs55\frz21.61\c&H5924C3&\3c&H5924C3&\alpha&H4A&\1a&HFF&\pos(607.18,508.54)\b0}Seriously?
-Dialogue: 0,0:02:29.92,0:02:29.96,Signs,,0,0,0,,{\blur0.7\bord1.2\fnAlegreya\fs55\frz21.61\c&H5924C3&\3c&H5924C3&\alpha&H35&\1a&HFF&\pos(607.92,508.18)\b0}Seriously?
-Dialogue: 0,0:02:29.96,0:02:30.00,Signs,,0,0,0,,{\blur0.7\bord1.2\fnAlegreya\fs55\frz21.61\c&H5924C3&\3c&H5924C3&\alpha&H20&\1a&HCD&\pos(608.72,507.71)\b0}Seriously?
-Dialogue: 0,0:02:30.00,0:02:30.05,Signs,,0,0,0,,{\blur0.7\bord1.2\fnAlegreya\fs55\frz21.61\c&H5924C3&\3c&H5924C3&\alpha&H0B&\1a&H0B&\pos(609.38,507.22)\b0}Seriously?
-Dialogue: 0,0:02:30.05,0:02:30.09,Signs,,0,0,0,,{\blur0.7\bord1.2\fnAlegreya\fs55\frz21.61\c&H5924C3&\3c&H5924C3&\alpha&H00&\1a&H00&\pos(610.16,506.83)\b0}Seriously?
-Dialogue: 0,0:02:30.09,0:02:30.13,Signs,,0,0,0,,{\blur0.7\bord1.2\fnAlegreya\fs55\frz21.61\c&H5924C3&\3c&H5924C3&\alpha&H00&\1a&H00&\pos(610.86,506.32)\b0}Seriously?
-Dialogue: 0,0:02:30.13,0:02:30.17,Signs,,0,0,0,,{\blur0.7\bord1.2\fnAlegreya\fs55\frz21.61\c&H5924C3&\3c&H5924C3&\alpha&H00&\1a&H00&\pos(611.59,505.85)\b0}Seriously?
-Dialogue: 0,0:02:30.17,0:02:30.21,Signs,,0,0,0,,{\blur0.7\bord1.2\fnAlegreya\fs55\frz21.61\c&H5924C3&\3c&H5924C3&\alpha&H00&\1a&H00&\pos(612.36,505.46)\b0}Seriously?
-Dialogue: 0,0:02:30.21,0:02:30.25,Signs,,0,0,0,,{\blur0.7\bord1.2\fnAlegreya\fs55\frz21.61\c&H5924C3&\3c&H5924C3&\alpha&H00&\1a&H00&\pos(613.06,504.89)\b0}Seriously?
-Dialogue: 0,0:02:30.25,0:02:30.30,Signs,,0,0,0,,{\blur0.7\bord1.2\fnAlegreya\fs55\frz21.61\c&H5924C3&\3c&H5924C3&\alpha&H00&\1a&H00&\pos(613.86,504.54)\b0}Seriously?
-Dialogue: 0,0:02:30.30,0:02:30.34,Signs,,0,0,0,,{\blur0.7\bord1.2\fnAlegreya\fs55\frz21.61\c&H5924C3&\3c&H5924C3&\alpha&H00&\1a&H00&\pos(614.51,504.09)\b0}Seriously?
-Dialogue: 0,0:02:30.34,0:02:30.38,Signs,,0,0,0,,{\blur0.7\bord1.2\fnAlegreya\fs55\frz21.61\c&H5924C3&\3c&H5924C3&\alpha&H00&\1a&H00&\pos(615.29,503.54)\b0}Seriously?
-Dialogue: 0,0:02:30.38,0:02:30.42,Signs,,0,0,0,,{\blur0.7\bord1.2\fnAlegreya\fs55\frz21.61\c&H5924C3&\3c&H5924C3&\alpha&H00&\1a&H00&\pos(616.02,503.2)\b0}Seriously?
-Dialogue: 0,0:02:30.42,0:02:30.46,Signs,,0,0,0,,{\blur0.7\bord1.2\fnAlegreya\fs55\frz21.61\c&H5924C3&\3c&H5924C3&\alpha&H00&\1a&H00&\pos(616.71,502.71)\b0}Seriously?
-Dialogue: 0,0:02:30.46,0:02:30.51,Signs,,0,0,0,,{\blur0.7\bord1.2\fnAlegreya\fs55\frz21.61\c&H5924C3&\3c&H5924C3&\alpha&H00&\1a&H00&\pos(617.48,502.18)\b0}Seriously?
-Dialogue: 0,0:02:30.51,0:02:30.55,Signs,,0,0,0,,{\blur0.7\bord1.2\fnAlegreya\fs55\frz21.61\c&H5924C3&\3c&H5924C3&\alpha&H00&\1a&H00&\pos(618.12,501.82)\b0}Seriously?
-Dialogue: 0,0:02:30.55,0:02:30.59,Signs,,0,0,0,,{\blur0.7\bord1.2\fnAlegreya\fs55\frz21.61\c&H5924C3&\3c&H5924C3&\alpha&H00&\1a&H00&\pos(619,501.32)\b0}Seriously?
-Dialogue: 0,0:02:30.59,0:02:30.63,Signs,,0,0,0,,{\blur0.7\bord1.2\fnAlegreya\fs55\frz21.61\c&H5924C3&\3c&H5924C3&\alpha&H00&\1a&H00&\pos(619.62,500.82)\b0}Seriously?
-Dialogue: 0,0:02:30.63,0:02:30.67,Signs,,0,0,0,,{\blur0.7\bord1.2\fnAlegreya\fs55\frz21.61\c&H5924C3&\3c&H5924C3&\alpha&H00&\1a&H00&\pos(620.4,500.49)\b0}Seriously?
-Dialogue: 0,0:02:30.67,0:02:30.71,Signs,,0,0,0,,{\blur0.7\bord1.2\fnAlegreya\fs55\frz21.61\c&H5924C3&\3c&H5924C3&\alpha&H00&\1a&H00&\pos(621.12,499.92)\b0}Seriously?
-Dialogue: 0,0:02:30.71,0:02:30.76,Signs,,0,0,0,,{\blur0.7\bord1.2\fnAlegreya\fs55\frz21.61\c&H5924C3&\3c&H5924C3&\alpha&H00&\1a&H00&\pos(621.84,499.49)\b0}Seriously?
-Dialogue: 1,0:02:29.55,0:02:29.59,Signs,,0,0,0,,{\blur0.7\bord0\fnAlegreya\fs55\frz21.61\c&H4A2B8B&\alpha&HFF&\4a&HFF&\pos(602.2,511.4)\b0}Seriously?
-Dialogue: 1,0:02:29.59,0:02:29.63,Signs,,0,0,0,,{\blur0.7\bord0\fnAlegreya\fs55\frz21.61\c&H4A2B8B&\alpha&HEA&\4a&HFF&\pos(602.2,511.4)\b0}Seriously?
-Dialogue: 1,0:02:29.63,0:02:29.67,Signs,,0,0,0,,{\blur0.7\bord0\fnAlegreya\fs55\frz21.61\c&H4A2B8B&\alpha&HCF&\4a&HFF&\pos(602.79,511.09)\b0}Seriously?
-Dialogue: 1,0:02:29.67,0:02:29.71,Signs,,0,0,0,,{\blur0.7\bord0\fnAlegreya\fs55\frz21.61\c&H4A2B8B&\alpha&HBA&\4a&HFF&\pos(603.6,510.82)\b0}Seriously?
-Dialogue: 1,0:02:29.71,0:02:29.75,Signs,,0,0,0,,{\blur0.7\bord0\fnAlegreya\fs55\frz21.61\c&H4A2B8B&\alpha&HA5&\4a&HFF&\pos(604.18,510.42)\b0}Seriously?
-Dialogue: 1,0:02:29.75,0:02:29.80,Signs,,0,0,0,,{\blur0.7\bord0\fnAlegreya\fs55\frz21.61\c&H4A2B8B&\alpha&H8F&\4a&HFF&\pos(605.02,509.92)\b0}Seriously?
-Dialogue: 1,0:02:29.80,0:02:29.84,Signs,,0,0,0,,{\blur0.7\bord0\fnAlegreya\fs55\frz21.61\c&H4A2B8B&\alpha&H7A&\4a&HFF&\pos(605.73,509.49)\b0}Seriously?
-Dialogue: 1,0:02:29.84,0:02:29.88,Signs,,0,0,0,,{\blur0.7\bord0\fnAlegreya\fs55\frz21.61\c&H4A2B8B&\alpha&H65&\4a&HFF&\pos(606.45,509.06)\b0}Seriously?
-Dialogue: 1,0:02:29.88,0:02:29.92,Signs,,0,0,0,,{\blur0.7\bord0\fnAlegreya\fs55\frz21.61\c&H4A2B8B&\alpha&H4A&\4a&HFF&\pos(607.18,508.54)\b0}Seriously?
-Dialogue: 1,0:02:29.92,0:02:29.96,Signs,,0,0,0,,{\blur0.7\bord0\fnAlegreya\fs55\frz21.61\c&H4A2B8B&\alpha&H35&\4a&HFF&\pos(607.92,508.18)\b0}Seriously?
-Dialogue: 1,0:02:29.96,0:02:30.00,Signs,,0,0,0,,{\blur0.7\bord0\fnAlegreya\fs55\frz21.61\c&H4A2B8B&\alpha&H20&\4a&HFF&\pos(608.72,507.71)\b0}Seriously?
-Dialogue: 1,0:02:30.00,0:02:30.05,Signs,,0,0,0,,{\blur0.7\bord0\fnAlegreya\fs55\frz21.61\c&H4A2B8B&\alpha&H0B&\4a&HFF&\pos(609.38,507.22)\b0}Seriously?
-Dialogue: 1,0:02:30.05,0:02:30.09,Signs,,0,0,0,,{\blur0.7\bord0\fnAlegreya\fs55\frz21.61\c&H4A2B8B&\alpha&H00&\4a&HFF&\pos(610.16,506.83)\b0}Seriously?
-Dialogue: 1,0:02:30.09,0:02:30.13,Signs,,0,0,0,,{\blur0.7\bord0\fnAlegreya\fs55\frz21.61\c&H4A2B8B&\alpha&H00&\4a&HFF&\pos(610.86,506.32)\b0}Seriously?
-Dialogue: 1,0:02:30.13,0:02:30.17,Signs,,0,0,0,,{\blur0.7\bord0\fnAlegreya\fs55\frz21.61\c&H4A2B8B&\alpha&H00&\4a&HFF&\pos(611.59,505.85)\b0}Seriously?
-Dialogue: 1,0:02:30.17,0:02:30.21,Signs,,0,0,0,,{\blur0.7\bord0\fnAlegreya\fs55\frz21.61\c&H4A2B8B&\alpha&H00&\4a&HFF&\pos(612.36,505.46)\b0}Seriously?
-Dialogue: 1,0:02:30.21,0:02:30.25,Signs,,0,0,0,,{\blur0.7\bord0\fnAlegreya\fs55\frz21.61\c&H4A2B8B&\alpha&H00&\4a&HFF&\pos(613.06,504.89)\b0}Seriously?
-Dialogue: 1,0:02:30.25,0:02:30.30,Signs,,0,0,0,,{\blur0.7\bord0\fnAlegreya\fs55\frz21.61\c&H4A2B8B&\alpha&H00&\4a&HFF&\pos(613.86,504.54)\b0}Seriously?
-Dialogue: 1,0:02:30.30,0:02:30.34,Signs,,0,0,0,,{\blur0.7\bord0\fnAlegreya\fs55\frz21.61\c&H4A2B8B&\alpha&H00&\4a&HFF&\pos(614.51,504.09)\b0}Seriously?
-Dialogue: 1,0:02:30.34,0:02:30.38,Signs,,0,0,0,,{\blur0.7\bord0\fnAlegreya\fs55\frz21.61\c&H4A2B8B&\alpha&H00&\4a&HFF&\pos(615.29,503.54)\b0}Seriously?
-Dialogue: 1,0:02:30.38,0:02:30.42,Signs,,0,0,0,,{\blur0.7\bord0\fnAlegreya\fs55\frz21.61\c&H4A2B8B&\alpha&H00&\4a&HFF&\pos(616.02,503.2)\b0}Seriously?
-Dialogue: 1,0:02:30.42,0:02:30.46,Signs,,0,0,0,,{\blur0.7\bord0\fnAlegreya\fs55\frz21.61\c&H4A2B8B&\alpha&H00&\4a&HFF&\pos(616.71,502.71)\b0}Seriously?
-Dialogue: 1,0:02:30.46,0:02:30.51,Signs,,0,0,0,,{\blur0.7\bord0\fnAlegreya\fs55\frz21.61\c&H4A2B8B&\alpha&H00&\4a&HFF&\pos(617.48,502.18)\b0}Seriously?
-Dialogue: 1,0:02:30.51,0:02:30.55,Signs,,0,0,0,,{\blur0.7\bord0\fnAlegreya\fs55\frz21.61\c&H4A2B8B&\alpha&H00&\4a&HFF&\pos(618.12,501.82)\b0}Seriously?
-Dialogue: 1,0:02:30.55,0:02:30.59,Signs,,0,0,0,,{\blur0.7\bord0\fnAlegreya\fs55\frz21.61\c&H4A2B8B&\alpha&H00&\4a&HFF&\pos(619,501.32)\b0}Seriously?
-Dialogue: 1,0:02:30.59,0:02:30.63,Signs,,0,0,0,,{\blur0.7\bord0\fnAlegreya\fs55\frz21.61\c&H4A2B8B&\alpha&H00&\4a&HFF&\pos(619.62,500.82)\b0}Seriously?
-Dialogue: 1,0:02:30.63,0:02:30.67,Signs,,0,0,0,,{\blur0.7\bord0\fnAlegreya\fs55\frz21.61\c&H4A2B8B&\alpha&H00&\4a&HFF&\pos(620.4,500.49)\b0}Seriously?
-Dialogue: 1,0:02:30.67,0:02:30.71,Signs,,0,0,0,,{\blur0.7\bord0\fnAlegreya\fs55\frz21.61\c&H4A2B8B&\alpha&H00&\4a&HFF&\pos(621.12,499.92)\b0}Seriously?
-Dialogue: 1,0:02:30.71,0:02:30.76,Signs,,0,0,0,,{\blur0.7\bord0\fnAlegreya\fs55\frz21.61\c&H4A2B8B&\alpha&H00&\4a&HFF&\pos(621.84,499.49)\b0}Seriously?
-Dialogue: 0,0:02:29.59,0:02:30.80,f0ld3r-invisible,,0,0,0,,{=1}
+Dialogue: 0,0:02:29.59,0:02:29.63,Signs,,0,0,0,,{\blur0.7\bord1.2\fnAlegreya\fs55\frz21.61\c&H4A2B8B&\3c&H5924C3&\alpha&HFF&\1a&HF4&\pos(602.2,511.4)\b0\3a&HF4&}Seriously?
+Dialogue: 0,0:02:29.63,0:02:29.67,Signs,,0,0,0,,{\blur0.7\bord1.2\fnAlegreya\fs55\frz21.61\c&H4A2B8B&\3c&H5924C3&\alpha&HEA&\1a&HE2&\pos(602.2,511.4)\b0\3a&HE4&}Seriously?
+Dialogue: 0,0:02:29.67,0:02:29.71,Signs,,0,0,0,,{\blur0.7\bord1.2\fnAlegreya\fs55\frz21.61\c&H4A2B8B&\3c&H5924C3&\alpha&HCF&\1a&HC8&\pos(602.79,511.09)\b0}Seriously?
+Dialogue: 0,0:02:29.71,0:02:29.75,Signs,,0,0,0,,{\blur0.7\bord1.2\fnAlegreya\fs55\frz21.61\c&H5924C3&\3c&H5924C3&\alpha&HBA&\1a&HFF&\pos(603.6,510.82)\b0}Seriously?
+Dialogue: 0,0:02:29.75,0:02:29.80,Signs,,0,0,0,,{\blur0.7\bord1.2\fnAlegreya\fs55\frz21.61\c&H5924C3&\3c&H5924C3&\alpha&HA5&\1a&HFF&\pos(604.18,510.42)\b0}Seriously?
+Dialogue: 0,0:02:29.80,0:02:29.84,Signs,,0,0,0,,{\blur0.7\bord1.2\fnAlegreya\fs55\frz21.61\c&H5924C3&\3c&H5924C3&\alpha&H8F&\1a&HFF&\pos(605.02,509.92)\b0}Seriously?
+Dialogue: 0,0:02:29.84,0:02:29.88,Signs,,0,0,0,,{\blur0.7\bord1.2\fnAlegreya\fs55\frz21.61\c&H5924C3&\3c&H5924C3&\alpha&H7A&\1a&HFF&\pos(605.73,509.49)\b0}Seriously?
+Dialogue: 0,0:02:29.88,0:02:29.92,Signs,,0,0,0,,{\blur0.7\bord1.2\fnAlegreya\fs55\frz21.61\c&H5924C3&\3c&H5924C3&\alpha&H65&\1a&HFF&\pos(606.45,509.06)\b0}Seriously?
+Dialogue: 0,0:02:29.92,0:02:29.96,Signs,,0,0,0,,{\blur0.7\bord1.2\fnAlegreya\fs55\frz21.61\c&H5924C3&\3c&H5924C3&\alpha&H4A&\1a&HFF&\pos(607.18,508.54)\b0}Seriously?
+Dialogue: 0,0:02:29.96,0:02:30.00,Signs,,0,0,0,,{\blur0.7\bord1.2\fnAlegreya\fs55\frz21.61\c&H5924C3&\3c&H5924C3&\alpha&H35&\1a&HFF&\pos(607.92,508.18)\b0}Seriously?
+Dialogue: 0,0:02:30.00,0:02:30.05,Signs,,0,0,0,,{\blur0.7\bord1.2\fnAlegreya\fs55\frz21.61\c&H5924C3&\3c&H5924C3&\alpha&H20&\1a&HCD&\pos(608.72,507.71)\b0}Seriously?
+Dialogue: 0,0:02:30.05,0:02:30.09,Signs,,0,0,0,,{\blur0.7\bord1.2\fnAlegreya\fs55\frz21.61\c&H5924C3&\3c&H5924C3&\alpha&H0B&\1a&H0B&\pos(609.38,507.22)\b0}Seriously?
+Dialogue: 0,0:02:30.09,0:02:30.13,Signs,,0,0,0,,{\blur0.7\bord1.2\fnAlegreya\fs55\frz21.61\c&H5924C3&\3c&H5924C3&\alpha&H00&\1a&H00&\pos(610.16,506.83)\b0}Seriously?
+Dialogue: 0,0:02:30.13,0:02:30.17,Signs,,0,0,0,,{\blur0.7\bord1.2\fnAlegreya\fs55\frz21.61\c&H5924C3&\3c&H5924C3&\alpha&H00&\1a&H00&\pos(610.86,506.32)\b0}Seriously?
+Dialogue: 0,0:02:30.17,0:02:30.21,Signs,,0,0,0,,{\blur0.7\bord1.2\fnAlegreya\fs55\frz21.61\c&H5924C3&\3c&H5924C3&\alpha&H00&\1a&H00&\pos(611.59,505.85)\b0}Seriously?
+Dialogue: 0,0:02:30.21,0:02:30.25,Signs,,0,0,0,,{\blur0.7\bord1.2\fnAlegreya\fs55\frz21.61\c&H5924C3&\3c&H5924C3&\alpha&H00&\1a&H00&\pos(612.36,505.46)\b0}Seriously?
+Dialogue: 0,0:02:30.25,0:02:30.30,Signs,,0,0,0,,{\blur0.7\bord1.2\fnAlegreya\fs55\frz21.61\c&H5924C3&\3c&H5924C3&\alpha&H00&\1a&H00&\pos(613.06,504.89)\b0}Seriously?
+Dialogue: 0,0:02:30.30,0:02:30.34,Signs,,0,0,0,,{\blur0.7\bord1.2\fnAlegreya\fs55\frz21.61\c&H5924C3&\3c&H5924C3&\alpha&H00&\1a&H00&\pos(613.86,504.54)\b0}Seriously?
+Dialogue: 0,0:02:30.34,0:02:30.38,Signs,,0,0,0,,{\blur0.7\bord1.2\fnAlegreya\fs55\frz21.61\c&H5924C3&\3c&H5924C3&\alpha&H00&\1a&H00&\pos(614.51,504.09)\b0}Seriously?
+Dialogue: 0,0:02:30.38,0:02:30.42,Signs,,0,0,0,,{\blur0.7\bord1.2\fnAlegreya\fs55\frz21.61\c&H5924C3&\3c&H5924C3&\alpha&H00&\1a&H00&\pos(615.29,503.54)\b0}Seriously?
+Dialogue: 0,0:02:30.42,0:02:30.46,Signs,,0,0,0,,{\blur0.7\bord1.2\fnAlegreya\fs55\frz21.61\c&H5924C3&\3c&H5924C3&\alpha&H00&\1a&H00&\pos(616.02,503.2)\b0}Seriously?
+Dialogue: 0,0:02:30.46,0:02:30.51,Signs,,0,0,0,,{\blur0.7\bord1.2\fnAlegreya\fs55\frz21.61\c&H5924C3&\3c&H5924C3&\alpha&H00&\1a&H00&\pos(616.71,502.71)\b0}Seriously?
+Dialogue: 0,0:02:30.51,0:02:30.55,Signs,,0,0,0,,{\blur0.7\bord1.2\fnAlegreya\fs55\frz21.61\c&H5924C3&\3c&H5924C3&\alpha&H00&\1a&H00&\pos(617.48,502.18)\b0}Seriously?
+Dialogue: 0,0:02:30.55,0:02:30.59,Signs,,0,0,0,,{\blur0.7\bord1.2\fnAlegreya\fs55\frz21.61\c&H5924C3&\3c&H5924C3&\alpha&H00&\1a&H00&\pos(618.12,501.82)\b0}Seriously?
+Dialogue: 0,0:02:30.59,0:02:30.63,Signs,,0,0,0,,{\blur0.7\bord1.2\fnAlegreya\fs55\frz21.61\c&H5924C3&\3c&H5924C3&\alpha&H00&\1a&H00&\pos(619,501.32)\b0}Seriously?
+Dialogue: 0,0:02:30.63,0:02:30.67,Signs,,0,0,0,,{\blur0.7\bord1.2\fnAlegreya\fs55\frz21.61\c&H5924C3&\3c&H5924C3&\alpha&H00&\1a&H00&\pos(619.62,500.82)\b0}Seriously?
+Dialogue: 0,0:02:30.67,0:02:30.71,Signs,,0,0,0,,{\blur0.7\bord1.2\fnAlegreya\fs55\frz21.61\c&H5924C3&\3c&H5924C3&\alpha&H00&\1a&H00&\pos(620.4,500.49)\b0}Seriously?
+Dialogue: 0,0:02:30.71,0:02:30.76,Signs,,0,0,0,,{\blur0.7\bord1.2\fnAlegreya\fs55\frz21.61\c&H5924C3&\3c&H5924C3&\alpha&H00&\1a&H00&\pos(621.12,499.92)\b0}Seriously?
+Dialogue: 0,0:02:30.76,0:02:30.80,Signs,,0,0,0,,{\blur0.7\bord1.2\fnAlegreya\fs55\frz21.61\c&H5924C3&\3c&H5924C3&\alpha&H00&\1a&H00&\pos(621.84,499.49)\b0}Seriously?
+Dialogue: 1,0:02:29.59,0:02:29.63,Signs,,0,0,0,,{\blur0.7\bord0\fnAlegreya\fs55\frz21.61\c&H4A2B8B&\alpha&HFF&\4a&HFF&\pos(602.2,511.4)\b0}Seriously?
+Comment: 1,0:02:29.63,0:02:29.67,Signs,,0,0,0,,{\blur0.7\bord0\fnAlegreya\fs55\frz21.61\c&H4A2B8B&\alpha&HEA&\4a&HFF&\pos(602.2,511.4)\b0}Seriously?
+Comment: 1,0:02:29.67,0:02:29.71,Signs,,0,0,0,,{\blur0.7\bord0\fnAlegreya\fs55\frz21.61\c&H4A2B8B&\alpha&HCF&\4a&HFF&\pos(602.79,511.09)\b0}Seriously?
+Dialogue: 1,0:02:29.71,0:02:29.75,Signs,,0,0,0,,{\blur0.7\bord0\fnAlegreya\fs55\frz21.61\c&H4A2B8B&\alpha&HBA&\4a&HFF&\pos(603.6,510.82)\b0}Seriously?
+Dialogue: 1,0:02:29.75,0:02:29.80,Signs,,0,0,0,,{\blur0.7\bord0\fnAlegreya\fs55\frz21.61\c&H4A2B8B&\alpha&HA5&\4a&HFF&\pos(604.18,510.42)\b0}Seriously?
+Dialogue: 1,0:02:29.80,0:02:29.84,Signs,,0,0,0,,{\blur0.7\bord0\fnAlegreya\fs55\frz21.61\c&H4A2B8B&\alpha&H8F&\4a&HFF&\pos(605.02,509.92)\b0}Seriously?
+Dialogue: 1,0:02:29.84,0:02:29.88,Signs,,0,0,0,,{\blur0.7\bord0\fnAlegreya\fs55\frz21.61\c&H4A2B8B&\alpha&H7A&\4a&HFF&\pos(605.73,509.49)\b0}Seriously?
+Dialogue: 1,0:02:29.88,0:02:29.92,Signs,,0,0,0,,{\blur0.7\bord0\fnAlegreya\fs55\frz21.61\c&H4A2B8B&\alpha&H65&\4a&HFF&\pos(606.45,509.06)\b0}Seriously?
+Dialogue: 1,0:02:29.92,0:02:29.96,Signs,,0,0,0,,{\blur0.7\bord0\fnAlegreya\fs55\frz21.61\c&H4A2B8B&\alpha&H4A&\4a&HFF&\pos(607.18,508.54)\b0}Seriously?
+Dialogue: 1,0:02:29.96,0:02:30.00,Signs,,0,0,0,,{\blur0.7\bord0\fnAlegreya\fs55\frz21.61\c&H4A2B8B&\alpha&H35&\4a&HFF&\pos(607.92,508.18)\b0}Seriously?
+Dialogue: 1,0:02:30.00,0:02:30.05,Signs,,0,0,0,,{\blur0.7\bord0\fnAlegreya\fs55\frz21.61\c&H4A2B8B&\alpha&H20&\4a&HFF&\pos(608.72,507.71)\b0}Seriously?
+Dialogue: 1,0:02:30.05,0:02:30.09,Signs,,0,0,0,,{\blur0.7\bord0\fnAlegreya\fs55\frz21.61\c&H4A2B8B&\alpha&H0B&\4a&HFF&\pos(609.38,507.22)\b0}Seriously?
+Dialogue: 1,0:02:30.09,0:02:30.13,Signs,,0,0,0,,{\blur0.7\bord0\fnAlegreya\fs55\frz21.61\c&H4A2B8B&\alpha&H00&\4a&HFF&\pos(610.16,506.83)\b0}Seriously?
+Dialogue: 1,0:02:30.13,0:02:30.17,Signs,,0,0,0,,{\blur0.7\bord0\fnAlegreya\fs55\frz21.61\c&H4A2B8B&\alpha&H00&\4a&HFF&\pos(610.86,506.32)\b0}Seriously?
+Dialogue: 1,0:02:30.17,0:02:30.21,Signs,,0,0,0,,{\blur0.7\bord0\fnAlegreya\fs55\frz21.61\c&H4A2B8B&\alpha&H00&\4a&HFF&\pos(611.59,505.85)\b0}Seriously?
+Dialogue: 1,0:02:30.21,0:02:30.25,Signs,,0,0,0,,{\blur0.7\bord0\fnAlegreya\fs55\frz21.61\c&H4A2B8B&\alpha&H00&\4a&HFF&\pos(612.36,505.46)\b0}Seriously?
+Dialogue: 1,0:02:30.25,0:02:30.30,Signs,,0,0,0,,{\blur0.7\bord0\fnAlegreya\fs55\frz21.61\c&H4A2B8B&\alpha&H00&\4a&HFF&\pos(613.06,504.89)\b0}Seriously?
+Dialogue: 1,0:02:30.30,0:02:30.34,Signs,,0,0,0,,{\blur0.7\bord0\fnAlegreya\fs55\frz21.61\c&H4A2B8B&\alpha&H00&\4a&HFF&\pos(613.86,504.54)\b0}Seriously?
+Dialogue: 1,0:02:30.34,0:02:30.38,Signs,,0,0,0,,{\blur0.7\bord0\fnAlegreya\fs55\frz21.61\c&H4A2B8B&\alpha&H00&\4a&HFF&\pos(614.51,504.09)\b0}Seriously?
+Dialogue: 1,0:02:30.38,0:02:30.42,Signs,,0,0,0,,{\blur0.7\bord0\fnAlegreya\fs55\frz21.61\c&H4A2B8B&\alpha&H00&\4a&HFF&\pos(615.29,503.54)\b0}Seriously?
+Dialogue: 1,0:02:30.42,0:02:30.46,Signs,,0,0,0,,{\blur0.7\bord0\fnAlegreya\fs55\frz21.61\c&H4A2B8B&\alpha&H00&\4a&HFF&\pos(616.02,503.2)\b0}Seriously?
+Dialogue: 1,0:02:30.46,0:02:30.51,Signs,,0,0,0,,{\blur0.7\bord0\fnAlegreya\fs55\frz21.61\c&H4A2B8B&\alpha&H00&\4a&HFF&\pos(616.71,502.71)\b0}Seriously?
+Dialogue: 1,0:02:30.51,0:02:30.55,Signs,,0,0,0,,{\blur0.7\bord0\fnAlegreya\fs55\frz21.61\c&H4A2B8B&\alpha&H00&\4a&HFF&\pos(617.48,502.18)\b0}Seriously?
+Dialogue: 1,0:02:30.55,0:02:30.59,Signs,,0,0,0,,{\blur0.7\bord0\fnAlegreya\fs55\frz21.61\c&H4A2B8B&\alpha&H00&\4a&HFF&\pos(618.12,501.82)\b0}Seriously?
+Dialogue: 1,0:02:30.59,0:02:30.63,Signs,,0,0,0,,{\blur0.7\bord0\fnAlegreya\fs55\frz21.61\c&H4A2B8B&\alpha&H00&\4a&HFF&\pos(619,501.32)\b0}Seriously?
+Dialogue: 1,0:02:30.63,0:02:30.67,Signs,,0,0,0,,{\blur0.7\bord0\fnAlegreya\fs55\frz21.61\c&H4A2B8B&\alpha&H00&\4a&HFF&\pos(619.62,500.82)\b0}Seriously?
+Dialogue: 1,0:02:30.67,0:02:30.71,Signs,,0,0,0,,{\blur0.7\bord0\fnAlegreya\fs55\frz21.61\c&H4A2B8B&\alpha&H00&\4a&HFF&\pos(620.4,500.49)\b0}Seriously?
+Dialogue: 1,0:02:30.71,0:02:30.76,Signs,,0,0,0,,{\blur0.7\bord0\fnAlegreya\fs55\frz21.61\c&H4A2B8B&\alpha&H00&\4a&HFF&\pos(621.12,499.92)\b0}Seriously?
+Dialogue: 1,0:02:30.76,0:02:30.80,Signs,,0,0,0,,{\blur0.7\bord0\fnAlegreya\fs55\frz21.61\c&H4A2B8B&\alpha&H00&\4a&HFF&\pos(621.84,499.49)\b0}Seriously?
+Dialogue: 0,0:02:29.59,0:02:30.80,f0ld3r-invisible,,0,0,0,,{=328}
 Dialogue: 0,0:09:55.62,0:09:55.66,f0ld3r-invisible,,0,0,0,,{=2}--SFX: Tell us, please
 Comment: 0,0:09:55.62,0:10:00.08,Signs,,0,0,0,,{\fad(1185,0)\fnwhere stars shine the brightest\fsp1.5\fs96\frz10.27\c&HBD7DAA&\blur0.6\pos(1223.2,232.41)}Tell us, please
 Dialogue: 0,0:09:55.62,0:09:55.66,Signs,,0,0,0,,{\blur0.6\fnwhere stars shine the brightest\fs96\fsp1.5\fscx99.93\fscy99.93\c&HBD7DAA&\alpha&HF6&\pos(1225.03,232.76)\frz8.207}Tell us, please
@@ -265,52 +264,52 @@ Dialogue: 3,0:20:32.71,0:20:32.75,Signs,,0,0,0,,{\pos(980.595,359.583)\org(981.0
 Dialogue: 3,0:20:32.75,0:20:32.79,Signs,,0,0,0,,{\pos(980.77,359.357)\org(981.11,359.47)\fscx100.23\fscy98.138\frz22.611\fry6.678\frx-14.246\fax0.017\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.4}Is that a
 Dialogue: 3,0:20:32.79,0:20:32.84,Signs,,0,0,0,,{\pos(980.767,359.352)\org(981.11,359.46)\fscx100.23\fscy98.089\frz22.612\fry6.692\frx-14.253\fax0.017\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.4}Is that a
 Dialogue: 3,0:20:32.84,0:20:32.88,Signs,,0,0,0,,{\pos(980.762,359.35)\org(981.1,359.45)\fscx100.234\fscy98.007\frz22.608\fry6.649\frx-14.217\fax0.017\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.4}Is that a
-Dialogue: 3,0:20:32.88,0:20:32.92,Signs,,0,0,0,,{\pos(980.527,358.964)\org(980.89,359.1)\fscx99.509\fscy93.779\frz21.854\fry1.657\frx-7.492\fax0.016\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.29}Is that a
-Dialogue: 3,0:20:32.92,0:20:32.96,Signs,,0,0,0,,{\pos(980.527,358.964)\org(980.89,359.1)\fscx99.509\fscy93.779\frz21.854\fry1.657\frx-7.492\fax0.016\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.29}Is that a
-Dialogue: 3,0:20:32.96,0:20:33.00,Signs,,0,0,0,,{\pos(980.527,358.964)\org(980.89,359.1)\fscx99.509\fscy93.779\frz21.854\fry1.657\frx-7.492\fax0.016\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.29}Is that a
-Dialogue: 3,0:20:33.00,0:20:33.04,Signs,,0,0,0,,{\pos(980.527,358.964)\org(980.89,359.1)\fscx99.509\fscy93.779\frz21.854\fry1.657\frx-7.492\fax0.016\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.29}Is that a
-Dialogue: 3,0:20:33.04,0:20:33.09,Signs,,0,0,0,,{\pos(980.527,358.964)\org(980.89,359.1)\fscx99.509\fscy93.779\frz21.854\fry1.657\frx-7.492\fax0.016\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.29}Is that a
-Dialogue: 3,0:20:33.09,0:20:33.13,Signs,,0,0,0,,{\pos(980.527,358.964)\org(980.89,359.1)\fscx99.509\fscy93.779\frz21.854\fry1.657\frx-7.492\fax0.016\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.29}Is that a
-Dialogue: 3,0:20:33.13,0:20:33.17,Signs,,0,0,0,,{\pos(980.527,358.964)\org(980.89,359.1)\fscx99.509\fscy93.779\frz21.854\fry1.657\frx-7.492\fax0.016\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.29}Is that a
-Dialogue: 3,0:20:33.17,0:20:33.21,Signs,,0,0,0,,{\pos(980.527,358.964)\org(980.89,359.1)\fscx99.509\fscy93.779\frz21.854\fry1.657\frx-7.492\fax0.016\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.29}Is that a
-Dialogue: 3,0:20:33.21,0:20:33.25,Signs,,0,0,0,,{\pos(980.527,358.964)\org(980.89,359.1)\fscx99.509\fscy93.779\frz21.854\fry1.657\frx-7.492\fax0.016\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.29}Is that a
-Dialogue: 3,0:20:33.25,0:20:33.30,Signs,,0,0,0,,{\pos(980.527,358.964)\org(980.89,359.1)\fscx99.509\fscy93.779\frz21.854\fry1.657\frx-7.492\fax0.016\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.29}Is that a
-Dialogue: 3,0:20:33.30,0:20:33.34,Signs,,0,0,0,,{\pos(980.527,358.964)\org(980.89,359.1)\fscx99.509\fscy93.779\frz21.854\fry1.657\frx-7.492\fax0.016\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.29}Is that a
-Dialogue: 3,0:20:33.34,0:20:33.38,Signs,,0,0,0,,{\pos(980.527,358.964)\org(980.89,359.1)\fscx99.509\fscy93.779\frz21.854\fry1.657\frx-7.492\fax0.016\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.29}Is that a
-Dialogue: 3,0:20:33.38,0:20:33.42,Signs,,0,0,0,,{\pos(980.527,358.964)\org(980.89,359.1)\fscx99.509\fscy93.779\frz21.854\fry1.657\frx-7.492\fax0.016\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.29}Is that a
-Dialogue: 3,0:20:33.42,0:20:33.46,Signs,,0,0,0,,{\pos(980.527,358.964)\org(980.89,359.1)\fscx99.509\fscy93.779\frz21.854\fry1.657\frx-7.492\fax0.016\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.29}Is that a
-Dialogue: 3,0:20:33.46,0:20:33.50,Signs,,0,0,0,,{\pos(980.527,358.964)\org(980.89,359.1)\fscx99.509\fscy93.779\frz21.854\fry1.657\frx-7.492\fax0.016\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.29}Is that a
-Dialogue: 3,0:20:33.50,0:20:33.55,Signs,,0,0,0,,{\pos(980.527,358.964)\org(980.89,359.1)\fscx99.509\fscy93.779\frz21.854\fry1.657\frx-7.492\fax0.016\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.29}Is that a
-Dialogue: 3,0:20:33.55,0:20:33.59,Signs,,0,0,0,,{\pos(980.527,358.964)\org(980.89,359.1)\fscx99.509\fscy93.779\frz21.854\fry1.657\frx-7.492\fax0.016\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.29}Is that a
-Dialogue: 3,0:20:33.59,0:20:33.63,Signs,,0,0,0,,{\pos(980.527,358.964)\org(980.89,359.1)\fscx99.509\fscy93.779\frz21.854\fry1.657\frx-7.492\fax0.016\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.29}Is that a
-Dialogue: 3,0:20:33.63,0:20:33.67,Signs,,0,0,0,,{\pos(980.527,358.964)\org(980.89,359.1)\fscx99.509\fscy93.779\frz21.854\fry1.657\frx-7.492\fax0.016\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.29}Is that a
-Dialogue: 3,0:20:33.67,0:20:33.71,Signs,,0,0,0,,{\pos(980.527,358.964)\org(980.89,359.1)\fscx99.509\fscy93.779\frz21.854\fry1.657\frx-7.492\fax0.016\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.29}Is that a
-Dialogue: 3,0:20:33.71,0:20:33.75,Signs,,0,0,0,,{\pos(980.527,358.964)\org(980.89,359.1)\fscx99.509\fscy93.779\frz21.854\fry1.657\frx-7.492\fax0.016\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.29}Is that a
-Dialogue: 3,0:20:33.75,0:20:33.80,Signs,,0,0,0,,{\pos(980.527,358.964)\org(980.89,359.1)\fscx99.509\fscy93.779\frz21.854\fry1.657\frx-7.492\fax0.016\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.29}Is that a
-Dialogue: 3,0:20:33.80,0:20:33.84,Signs,,0,0,0,,{\pos(980.527,358.964)\org(980.89,359.1)\fscx99.509\fscy93.779\frz21.854\fry1.657\frx-7.492\fax0.016\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.29}Is that a
-Dialogue: 3,0:20:33.84,0:20:33.88,Signs,,0,0,0,,{\pos(980.527,358.964)\org(980.89,359.1)\fscx99.509\fscy93.779\frz21.854\fry1.657\frx-7.492\fax0.016\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.29}Is that a
-Dialogue: 3,0:20:33.88,0:20:33.92,Signs,,0,0,0,,{\pos(980.527,358.964)\org(980.89,359.1)\fscx99.509\fscy93.779\frz21.854\fry1.657\frx-7.492\fax0.016\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.29}Is that a
-Dialogue: 3,0:20:33.92,0:20:33.96,Signs,,0,0,0,,{\pos(980.527,358.964)\org(980.89,359.1)\fscx99.509\fscy93.779\frz21.854\fry1.657\frx-7.492\fax0.016\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.29}Is that a
-Dialogue: 3,0:20:33.96,0:20:34.00,Signs,,0,0,0,,{\pos(980.527,358.964)\org(980.89,359.1)\fscx99.509\fscy93.779\frz21.854\fry1.657\frx-7.492\fax0.016\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.29}Is that a
-Dialogue: 3,0:20:34.00,0:20:34.05,Signs,,0,0,0,,{\pos(980.527,358.964)\org(980.89,359.1)\fscx99.509\fscy93.779\frz21.854\fry1.657\frx-7.492\fax0.016\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.29}Is that a
-Dialogue: 3,0:20:34.05,0:20:34.09,Signs,,0,0,0,,{\pos(980.527,358.964)\org(980.89,359.1)\fscx99.509\fscy93.779\frz21.854\fry1.657\frx-7.492\fax0.016\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.29}Is that a
-Dialogue: 3,0:20:34.09,0:20:34.13,Signs,,0,0,0,,{\pos(980.527,358.964)\org(980.89,359.1)\fscx99.509\fscy93.779\frz21.854\fry1.657\frx-7.492\fax0.016\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.29}Is that a
+Dialogue: 3,0:20:32.88,0:20:32.92,Signs,,0,0,0,,{\pos(980.527,358.964)\org(980.89,359.1)\fscx99.509\fscy93.779\frz21.854\fry1.657\frx-7.492\fax0.016\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.39}Is that a
+Dialogue: 3,0:20:32.92,0:20:32.96,Signs,,0,0,0,,{\pos(980.527,358.964)\org(980.89,359.1)\fscx99.509\fscy93.779\frz21.854\fry1.657\frx-7.492\fax0.016\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.39}Is that a
+Dialogue: 3,0:20:32.96,0:20:33.00,Signs,,0,0,0,,{\pos(980.527,358.964)\org(980.89,359.1)\fscx99.509\fscy93.779\frz21.854\fry1.657\frx-7.492\fax0.016\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.39}Is that a
+Dialogue: 3,0:20:33.00,0:20:33.04,Signs,,0,0,0,,{\pos(980.527,358.964)\org(980.89,359.1)\fscx99.509\fscy93.779\frz21.854\fry1.657\frx-7.492\fax0.016\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.39}Is that a
+Dialogue: 3,0:20:33.04,0:20:33.09,Signs,,0,0,0,,{\pos(980.527,358.964)\org(980.89,359.1)\fscx99.509\fscy93.779\frz21.854\fry1.657\frx-7.492\fax0.016\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.39}Is that a
+Dialogue: 3,0:20:33.09,0:20:33.13,Signs,,0,0,0,,{\pos(980.527,358.964)\org(980.89,359.1)\fscx99.509\fscy93.779\frz21.854\fry1.657\frx-7.492\fax0.016\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.39}Is that a
+Dialogue: 3,0:20:33.13,0:20:33.17,Signs,,0,0,0,,{\pos(980.527,358.964)\org(980.89,359.1)\fscx99.509\fscy93.779\frz21.854\fry1.657\frx-7.492\fax0.016\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.39}Is that a
+Dialogue: 3,0:20:33.17,0:20:33.21,Signs,,0,0,0,,{\pos(980.527,358.964)\org(980.89,359.1)\fscx99.509\fscy93.779\frz21.854\fry1.657\frx-7.492\fax0.016\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.39}Is that a
+Dialogue: 3,0:20:33.21,0:20:33.25,Signs,,0,0,0,,{\pos(980.527,358.964)\org(980.89,359.1)\fscx99.509\fscy93.779\frz21.854\fry1.657\frx-7.492\fax0.016\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.39}Is that a
+Dialogue: 3,0:20:33.25,0:20:33.30,Signs,,0,0,0,,{\pos(980.527,358.964)\org(980.89,359.1)\fscx99.509\fscy93.779\frz21.854\fry1.657\frx-7.492\fax0.016\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.39}Is that a
+Dialogue: 3,0:20:33.30,0:20:33.34,Signs,,0,0,0,,{\pos(980.527,358.964)\org(980.89,359.1)\fscx99.509\fscy93.779\frz21.854\fry1.657\frx-7.492\fax0.016\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.39}Is that a
+Dialogue: 3,0:20:33.34,0:20:33.38,Signs,,0,0,0,,{\pos(980.527,358.964)\org(980.89,359.1)\fscx99.509\fscy93.779\frz21.854\fry1.657\frx-7.492\fax0.016\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.39}Is that a
+Dialogue: 3,0:20:33.38,0:20:33.42,Signs,,0,0,0,,{\pos(980.527,358.964)\org(980.89,359.1)\fscx99.509\fscy93.779\frz21.854\fry1.657\frx-7.492\fax0.016\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.39}Is that a
+Dialogue: 3,0:20:33.42,0:20:33.46,Signs,,0,0,0,,{\pos(980.527,358.964)\org(980.89,359.1)\fscx99.509\fscy93.779\frz21.854\fry1.657\frx-7.492\fax0.016\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.39}Is that a
+Dialogue: 3,0:20:33.46,0:20:33.50,Signs,,0,0,0,,{\pos(980.527,358.964)\org(980.89,359.1)\fscx99.509\fscy93.779\frz21.854\fry1.657\frx-7.492\fax0.016\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.39}Is that a
+Dialogue: 3,0:20:33.50,0:20:33.55,Signs,,0,0,0,,{\pos(980.527,358.964)\org(980.89,359.1)\fscx99.509\fscy93.779\frz21.854\fry1.657\frx-7.492\fax0.016\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.39}Is that a
+Dialogue: 3,0:20:33.55,0:20:33.59,Signs,,0,0,0,,{\pos(980.527,358.964)\org(980.89,359.1)\fscx99.509\fscy93.779\frz21.854\fry1.657\frx-7.492\fax0.016\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.39}Is that a
+Dialogue: 3,0:20:33.59,0:20:33.63,Signs,,0,0,0,,{\pos(980.527,358.964)\org(980.89,359.1)\fscx99.509\fscy93.779\frz21.854\fry1.657\frx-7.492\fax0.016\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.39}Is that a
+Dialogue: 3,0:20:33.63,0:20:33.67,Signs,,0,0,0,,{\pos(980.527,358.964)\org(980.89,359.1)\fscx99.509\fscy93.779\frz21.854\fry1.657\frx-7.492\fax0.016\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.39}Is that a
+Dialogue: 3,0:20:33.67,0:20:33.71,Signs,,0,0,0,,{\pos(980.527,358.964)\org(980.89,359.1)\fscx99.509\fscy93.779\frz21.854\fry1.657\frx-7.492\fax0.016\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.39}Is that a
+Dialogue: 3,0:20:33.71,0:20:33.75,Signs,,0,0,0,,{\pos(980.527,358.964)\org(980.89,359.1)\fscx99.509\fscy93.779\frz21.854\fry1.657\frx-7.492\fax0.016\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.39}Is that a
+Dialogue: 3,0:20:33.75,0:20:33.80,Signs,,0,0,0,,{\pos(980.527,358.964)\org(980.89,359.1)\fscx99.509\fscy93.779\frz21.854\fry1.657\frx-7.492\fax0.016\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.39}Is that a
+Dialogue: 3,0:20:33.80,0:20:33.84,Signs,,0,0,0,,{\pos(980.527,358.964)\org(980.89,359.1)\fscx99.509\fscy93.779\frz21.854\fry1.657\frx-7.492\fax0.016\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.39}Is that a
+Dialogue: 3,0:20:33.84,0:20:33.88,Signs,,0,0,0,,{\pos(980.527,358.964)\org(980.89,359.1)\fscx99.509\fscy93.779\frz21.854\fry1.657\frx-7.492\fax0.016\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.39}Is that a
+Dialogue: 3,0:20:33.88,0:20:33.92,Signs,,0,0,0,,{\pos(980.527,358.964)\org(980.89,359.1)\fscx99.509\fscy93.779\frz21.854\fry1.657\frx-7.492\fax0.016\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.39}Is that a
+Dialogue: 3,0:20:33.92,0:20:33.96,Signs,,0,0,0,,{\pos(980.527,358.964)\org(980.89,359.1)\fscx99.509\fscy93.779\frz21.854\fry1.657\frx-7.492\fax0.016\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.39}Is that a
+Dialogue: 3,0:20:33.96,0:20:34.00,Signs,,0,0,0,,{\pos(980.527,358.964)\org(980.89,359.1)\fscx99.509\fscy93.779\frz21.854\fry1.657\frx-7.492\fax0.016\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.39}Is that a
+Dialogue: 3,0:20:34.00,0:20:34.05,Signs,,0,0,0,,{\pos(980.527,358.964)\org(980.89,359.1)\fscx99.509\fscy93.779\frz21.854\fry1.657\frx-7.492\fax0.016\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.39}Is that a
+Dialogue: 3,0:20:34.05,0:20:34.09,Signs,,0,0,0,,{\pos(980.527,358.964)\org(980.89,359.1)\fscx99.509\fscy93.779\frz21.854\fry1.657\frx-7.492\fax0.016\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.39}Is that a
+Dialogue: 3,0:20:34.09,0:20:34.13,Signs,,0,0,0,,{\pos(980.527,358.964)\org(980.89,359.1)\fscx99.509\fscy93.779\frz21.854\fry1.657\frx-7.492\fax0.016\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.39}Is that a
 Dialogue: 3,0:20:34.13,0:20:34.17,Signs,,0,0,0,,{\pos(979.775,361.166)\org(980.52,360.17)\fscx101.775\fscy106.766\frz25.404\fry11.935\frx-30.394\fax0.024\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.4}Is that a
 Dialogue: 3,0:20:34.17,0:20:34.21,Signs,,0,0,0,,{\pos(979.775,361.166)\org(980.52,360.17)\fscx101.775\fscy106.766\frz25.404\fry11.935\frx-30.394\fax0.024\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.4}Is that a
 Dialogue: 3,0:20:34.21,0:20:34.25,Signs,,0,0,0,,{\pos(979.775,361.166)\org(980.52,360.17)\fscx101.775\fscy106.766\frz25.404\fry11.935\frx-30.394\fax0.024\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.4}Is that a
-Dialogue: 3,0:20:34.25,0:20:34.30,Signs,,0,0,0,,{\pos(980.046,362.637)\org(980.51,360.18)\fscx101.836\fscy123.237\frz29.52\fry20.019\frx-43.383\fax0.016\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.29}Is that a
-Dialogue: 3,0:20:34.30,0:20:34.34,Signs,,0,0,0,,{\pos(980.046,362.637)\org(980.51,360.18)\fscx101.836\fscy123.237\frz29.52\fry20.019\frx-43.383\fax0.016\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.29}Is that a
-Dialogue: 3,0:20:34.34,0:20:34.38,Signs,,0,0,0,,{\pos(980.046,362.637)\org(980.51,360.18)\fscx101.836\fscy123.237\frz29.52\fry20.019\frx-43.383\fax0.016\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.29}Is that a
-Dialogue: 3,0:20:34.38,0:20:34.42,Signs,,0,0,0,,{\pos(980.816,369.753)\org(980.14,361.55)\fscx107.966\fscy175.285\frz47.955\fry31.022\frx-61.645\fax-0.306\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.28}Is that a
-Dialogue: 3,0:20:34.42,0:20:34.46,Signs,,0,0,0,,{\pos(980.816,369.753)\org(980.14,361.55)\fscx107.966\fscy175.285\frz47.955\fry31.022\frx-61.645\fax-0.306\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.28}Is that a
-Dialogue: 3,0:20:34.46,0:20:34.50,Signs,,0,0,0,,{\pos(980.816,369.753)\org(980.14,361.55)\fscx107.966\fscy175.285\frz47.955\fry31.022\frx-61.645\fax-0.306\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.28}Is that a
-Dialogue: 3,0:20:34.50,0:20:34.55,Signs,,0,0,0,,{\pos(982.656,392.026)\org(982.44,378.19)\fscx98.431\fscy180.728\frz36.571\fry46.548\frx-62.165\fax0.442\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.26}Is that a
-Dialogue: 3,0:20:34.55,0:20:34.59,Signs,,0,0,0,,{\pos(982.656,392.026)\org(982.44,378.19)\fscx98.431\fscy180.728\frz36.571\fry46.548\frx-62.165\fax0.442\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.26}Is that a
-Dialogue: 3,0:20:34.59,0:20:34.63,Signs,,0,0,0,,{\pos(982.656,392.026)\org(982.44,378.19)\fscx98.431\fscy180.728\frz36.571\fry46.548\frx-62.165\fax0.442\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.26}Is that a
-Dialogue: 3,0:20:34.63,0:20:34.67,Signs,,0,0,0,,{\pos(981.368,404.402)\org(981.27,386.08)\fscx99.526\fscy180.947\frz49.851\fry41.108\frx-67.979\fax-0.17\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.25}Is that a
-Dialogue: 3,0:20:34.67,0:20:34.71,Signs,,0,0,0,,{\pos(981.368,404.402)\org(981.27,386.08)\fscx99.526\fscy180.947\frz49.851\fry41.108\frx-67.979\fax-0.17\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.25}Is that a
-Dialogue: 3,0:20:34.71,0:20:34.75,Signs,,0,0,0,,{\pos(980.623,417.977)\org(979.68,392.98)\fscx99.509\fscy144.647\frz43.679\fry43.546\frx-68.18\fax0.093\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.24}Is that a
-Dialogue: 3,0:20:34.75,0:20:34.80,Signs,,0,0,0,,{\pos(980.623,417.977)\org(979.68,392.98)\fscx99.509\fscy144.647\frz43.679\fry43.546\frx-68.18\fax0.093\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.24}Is that a
+Dialogue: 3,0:20:34.25,0:20:34.30,Signs,,0,0,0,,{\pos(980.046,362.637)\org(980.51,360.18)\fscx101.836\fscy123.237\frz29.52\fry20.019\frx-43.383\fax0.016\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.39}Is that a
+Dialogue: 3,0:20:34.30,0:20:34.34,Signs,,0,0,0,,{\pos(980.046,362.637)\org(980.51,360.18)\fscx101.836\fscy123.237\frz29.52\fry20.019\frx-43.383\fax0.016\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.39}Is that a
+Dialogue: 3,0:20:34.34,0:20:34.38,Signs,,0,0,0,,{\pos(980.046,362.637)\org(980.51,360.18)\fscx101.836\fscy123.237\frz29.52\fry20.019\frx-43.383\fax0.016\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.39}Is that a
+Dialogue: 3,0:20:34.38,0:20:34.42,Signs,,0,0,0,,{\pos(980.816,369.753)\org(980.14,361.55)\fscx107.966\fscy175.285\frz47.955\fry31.022\frx-61.645\fax-0.306\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.38}Is that a
+Dialogue: 3,0:20:34.42,0:20:34.46,Signs,,0,0,0,,{\pos(980.816,369.753)\org(980.14,361.55)\fscx107.966\fscy175.285\frz47.955\fry31.022\frx-61.645\fax-0.306\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.38}Is that a
+Dialogue: 3,0:20:34.46,0:20:34.50,Signs,,0,0,0,,{\pos(980.816,369.753)\org(980.14,361.55)\fscx107.966\fscy175.285\frz47.955\fry31.022\frx-61.645\fax-0.306\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.38}Is that a
+Dialogue: 3,0:20:34.50,0:20:34.55,Signs,,0,0,0,,{\pos(982.656,392.026)\org(982.44,378.19)\fscx98.431\fscy180.728\frz36.571\fry46.548\frx-62.165\fax0.442\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.36}Is that a
+Dialogue: 3,0:20:34.55,0:20:34.59,Signs,,0,0,0,,{\pos(982.656,392.026)\org(982.44,378.19)\fscx98.431\fscy180.728\frz36.571\fry46.548\frx-62.165\fax0.442\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.36}Is that a
+Dialogue: 3,0:20:34.59,0:20:34.63,Signs,,0,0,0,,{\pos(982.656,392.026)\org(982.44,378.19)\fscx98.431\fscy180.728\frz36.571\fry46.548\frx-62.165\fax0.442\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.36}Is that a
+Dialogue: 3,0:20:34.63,0:20:34.67,Signs,,0,0,0,,{\pos(981.368,404.402)\org(981.27,386.08)\fscx99.526\fscy180.947\frz49.851\fry41.108\frx-67.979\fax-0.17\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.35}Is that a
+Dialogue: 3,0:20:34.67,0:20:34.71,Signs,,0,0,0,,{\pos(981.368,404.402)\org(981.27,386.08)\fscx99.526\fscy180.947\frz49.851\fry41.108\frx-67.979\fax-0.17\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.35}Is that a
+Dialogue: 3,0:20:34.71,0:20:34.75,Signs,,0,0,0,,{\pos(980.623,417.977)\org(979.68,392.98)\fscx99.509\fscy144.647\frz43.679\fry43.546\frx-68.18\fax0.093\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.34}Is that a
+Dialogue: 3,0:20:34.75,0:20:34.80,Signs,,0,0,0,,{\pos(980.623,417.977)\org(979.68,392.98)\fscx99.509\fscy144.647\frz43.679\fry43.546\frx-68.18\fax0.093\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.34}Is that a
 Dialogue: 3,0:20:31.29,0:20:31.33,Signs,,0,0,0,,{\pos(986.998,372.51)\org(987.53,372.51)\frz20.52\fry13.551\frx-14.113\fax0.071\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.4}banana in
 Dialogue: 3,0:20:31.33,0:20:31.38,Signs,,0,0,0,,{\pos(986.998,372.51)\org(987.53,372.51)\frz20.52\fry13.551\frx-14.113\fax0.071\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.4}banana in
 Dialogue: 3,0:20:31.38,0:20:31.42,Signs,,0,0,0,,{\pos(986.998,372.51)\org(987.53,372.51)\frz20.52\fry13.551\frx-14.113\fax0.071\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.4}banana in
@@ -349,52 +348,52 @@ Dialogue: 3,0:20:32.71,0:20:32.75,Signs,,0,0,0,,{\pos(985.591,371.001)\org(985.8
 Dialogue: 3,0:20:32.75,0:20:32.79,Signs,,0,0,0,,{\pos(985.812,370.925)\org(985.95,370.94)\fscx100.466\fscy98.458\frz22.66\fry6.753\frx-14.398\fax0.016\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.4}banana in
 Dialogue: 3,0:20:32.79,0:20:32.84,Signs,,0,0,0,,{\pos(985.808,370.917)\org(985.94,370.93)\fscx100.466\fscy98.408\frz22.661\fry6.767\frx-14.406\fax0.016\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.4}banana in
 Dialogue: 3,0:20:32.84,0:20:32.88,Signs,,0,0,0,,{\pos(985.801,370.903)\org(985.94,370.91)\fscx100.473\fscy98.333\frz22.655\fry6.723\frx-14.368\fax0.016\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.4}banana in
-Dialogue: 3,0:20:32.88,0:20:32.92,Signs,,0,0,0,,{\pos(985.526,370.415)\org(985.67,370.43)\fscx100.35\fscy95.155\frz21.806\fry1.666\frx-7.53\fax0.017\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.29}banana in
-Dialogue: 3,0:20:32.92,0:20:32.96,Signs,,0,0,0,,{\pos(985.526,370.415)\org(985.67,370.43)\fscx100.35\fscy95.155\frz21.806\fry1.666\frx-7.53\fax0.017\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.29}banana in
-Dialogue: 3,0:20:32.96,0:20:33.00,Signs,,0,0,0,,{\pos(985.526,370.415)\org(985.67,370.43)\fscx100.35\fscy95.155\frz21.806\fry1.666\frx-7.53\fax0.017\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.29}banana in
-Dialogue: 3,0:20:33.00,0:20:33.04,Signs,,0,0,0,,{\pos(985.526,370.415)\org(985.67,370.43)\fscx100.35\fscy95.155\frz21.806\fry1.666\frx-7.53\fax0.017\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.29}banana in
-Dialogue: 3,0:20:33.04,0:20:33.09,Signs,,0,0,0,,{\pos(985.526,370.415)\org(985.67,370.43)\fscx100.35\fscy95.155\frz21.806\fry1.666\frx-7.53\fax0.017\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.29}banana in
-Dialogue: 3,0:20:33.09,0:20:33.13,Signs,,0,0,0,,{\pos(985.526,370.415)\org(985.67,370.43)\fscx100.35\fscy95.155\frz21.806\fry1.666\frx-7.53\fax0.017\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.29}banana in
-Dialogue: 3,0:20:33.13,0:20:33.17,Signs,,0,0,0,,{\pos(985.526,370.415)\org(985.67,370.43)\fscx100.35\fscy95.155\frz21.806\fry1.666\frx-7.53\fax0.017\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.29}banana in
-Dialogue: 3,0:20:33.17,0:20:33.21,Signs,,0,0,0,,{\pos(985.526,370.415)\org(985.67,370.43)\fscx100.35\fscy95.155\frz21.806\fry1.666\frx-7.53\fax0.017\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.29}banana in
-Dialogue: 3,0:20:33.21,0:20:33.25,Signs,,0,0,0,,{\pos(985.526,370.415)\org(985.67,370.43)\fscx100.35\fscy95.155\frz21.806\fry1.666\frx-7.53\fax0.017\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.29}banana in
-Dialogue: 3,0:20:33.25,0:20:33.30,Signs,,0,0,0,,{\pos(985.526,370.415)\org(985.67,370.43)\fscx100.35\fscy95.155\frz21.806\fry1.666\frx-7.53\fax0.017\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.29}banana in
-Dialogue: 3,0:20:33.30,0:20:33.34,Signs,,0,0,0,,{\pos(985.526,370.415)\org(985.67,370.43)\fscx100.35\fscy95.155\frz21.806\fry1.666\frx-7.53\fax0.017\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.29}banana in
-Dialogue: 3,0:20:33.34,0:20:33.38,Signs,,0,0,0,,{\pos(985.526,370.415)\org(985.67,370.43)\fscx100.35\fscy95.155\frz21.806\fry1.666\frx-7.53\fax0.017\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.29}banana in
-Dialogue: 3,0:20:33.38,0:20:33.42,Signs,,0,0,0,,{\pos(985.526,370.415)\org(985.67,370.43)\fscx100.35\fscy95.155\frz21.806\fry1.666\frx-7.53\fax0.017\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.29}banana in
-Dialogue: 3,0:20:33.42,0:20:33.46,Signs,,0,0,0,,{\pos(985.526,370.415)\org(985.67,370.43)\fscx100.35\fscy95.155\frz21.806\fry1.666\frx-7.53\fax0.017\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.29}banana in
-Dialogue: 3,0:20:33.46,0:20:33.50,Signs,,0,0,0,,{\pos(985.526,370.415)\org(985.67,370.43)\fscx100.35\fscy95.155\frz21.806\fry1.666\frx-7.53\fax0.017\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.29}banana in
-Dialogue: 3,0:20:33.50,0:20:33.55,Signs,,0,0,0,,{\pos(985.526,370.415)\org(985.67,370.43)\fscx100.35\fscy95.155\frz21.806\fry1.666\frx-7.53\fax0.017\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.29}banana in
-Dialogue: 3,0:20:33.55,0:20:33.59,Signs,,0,0,0,,{\pos(985.526,370.415)\org(985.67,370.43)\fscx100.35\fscy95.155\frz21.806\fry1.666\frx-7.53\fax0.017\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.29}banana in
-Dialogue: 3,0:20:33.59,0:20:33.63,Signs,,0,0,0,,{\pos(985.526,370.415)\org(985.67,370.43)\fscx100.35\fscy95.155\frz21.806\fry1.666\frx-7.53\fax0.017\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.29}banana in
-Dialogue: 3,0:20:33.63,0:20:33.67,Signs,,0,0,0,,{\pos(985.526,370.415)\org(985.67,370.43)\fscx100.35\fscy95.155\frz21.806\fry1.666\frx-7.53\fax0.017\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.29}banana in
-Dialogue: 3,0:20:33.67,0:20:33.71,Signs,,0,0,0,,{\pos(985.526,370.415)\org(985.67,370.43)\fscx100.35\fscy95.155\frz21.806\fry1.666\frx-7.53\fax0.017\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.29}banana in
-Dialogue: 3,0:20:33.71,0:20:33.75,Signs,,0,0,0,,{\pos(985.526,370.415)\org(985.67,370.43)\fscx100.35\fscy95.155\frz21.806\fry1.666\frx-7.53\fax0.017\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.29}banana in
-Dialogue: 3,0:20:33.75,0:20:33.80,Signs,,0,0,0,,{\pos(985.526,370.415)\org(985.67,370.43)\fscx100.35\fscy95.155\frz21.806\fry1.666\frx-7.53\fax0.017\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.29}banana in
-Dialogue: 3,0:20:33.80,0:20:33.84,Signs,,0,0,0,,{\pos(985.526,370.415)\org(985.67,370.43)\fscx100.35\fscy95.155\frz21.806\fry1.666\frx-7.53\fax0.017\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.29}banana in
-Dialogue: 3,0:20:33.84,0:20:33.88,Signs,,0,0,0,,{\pos(985.526,370.415)\org(985.67,370.43)\fscx100.35\fscy95.155\frz21.806\fry1.666\frx-7.53\fax0.017\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.29}banana in
-Dialogue: 3,0:20:33.88,0:20:33.92,Signs,,0,0,0,,{\pos(985.526,370.415)\org(985.67,370.43)\fscx100.35\fscy95.155\frz21.806\fry1.666\frx-7.53\fax0.017\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.29}banana in
-Dialogue: 3,0:20:33.92,0:20:33.96,Signs,,0,0,0,,{\pos(985.526,370.415)\org(985.67,370.43)\fscx100.35\fscy95.155\frz21.806\fry1.666\frx-7.53\fax0.017\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.29}banana in
-Dialogue: 3,0:20:33.96,0:20:34.00,Signs,,0,0,0,,{\pos(985.526,370.415)\org(985.67,370.43)\fscx100.35\fscy95.155\frz21.806\fry1.666\frx-7.53\fax0.017\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.29}banana in
-Dialogue: 3,0:20:34.00,0:20:34.05,Signs,,0,0,0,,{\pos(985.526,370.415)\org(985.67,370.43)\fscx100.35\fscy95.155\frz21.806\fry1.666\frx-7.53\fax0.017\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.29}banana in
-Dialogue: 3,0:20:34.05,0:20:34.09,Signs,,0,0,0,,{\pos(985.526,370.415)\org(985.67,370.43)\fscx100.35\fscy95.155\frz21.806\fry1.666\frx-7.53\fax0.017\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.29}banana in
-Dialogue: 3,0:20:34.09,0:20:34.13,Signs,,0,0,0,,{\pos(985.526,370.415)\org(985.67,370.43)\fscx100.35\fscy95.155\frz21.806\fry1.666\frx-7.53\fax0.017\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.29}banana in
+Dialogue: 3,0:20:32.88,0:20:32.92,Signs,,0,0,0,,{\pos(985.526,370.415)\org(985.67,370.43)\fscx100.35\fscy95.155\frz21.806\fry1.666\frx-7.53\fax0.017\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.39}banana in
+Dialogue: 3,0:20:32.92,0:20:32.96,Signs,,0,0,0,,{\pos(985.526,370.415)\org(985.67,370.43)\fscx100.35\fscy95.155\frz21.806\fry1.666\frx-7.53\fax0.017\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.39}banana in
+Dialogue: 3,0:20:32.96,0:20:33.00,Signs,,0,0,0,,{\pos(985.526,370.415)\org(985.67,370.43)\fscx100.35\fscy95.155\frz21.806\fry1.666\frx-7.53\fax0.017\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.39}banana in
+Dialogue: 3,0:20:33.00,0:20:33.04,Signs,,0,0,0,,{\pos(985.526,370.415)\org(985.67,370.43)\fscx100.35\fscy95.155\frz21.806\fry1.666\frx-7.53\fax0.017\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.39}banana in
+Dialogue: 3,0:20:33.04,0:20:33.09,Signs,,0,0,0,,{\pos(985.526,370.415)\org(985.67,370.43)\fscx100.35\fscy95.155\frz21.806\fry1.666\frx-7.53\fax0.017\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.39}banana in
+Dialogue: 3,0:20:33.09,0:20:33.13,Signs,,0,0,0,,{\pos(985.526,370.415)\org(985.67,370.43)\fscx100.35\fscy95.155\frz21.806\fry1.666\frx-7.53\fax0.017\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.39}banana in
+Dialogue: 3,0:20:33.13,0:20:33.17,Signs,,0,0,0,,{\pos(985.526,370.415)\org(985.67,370.43)\fscx100.35\fscy95.155\frz21.806\fry1.666\frx-7.53\fax0.017\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.39}banana in
+Dialogue: 3,0:20:33.17,0:20:33.21,Signs,,0,0,0,,{\pos(985.526,370.415)\org(985.67,370.43)\fscx100.35\fscy95.155\frz21.806\fry1.666\frx-7.53\fax0.017\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.39}banana in
+Dialogue: 3,0:20:33.21,0:20:33.25,Signs,,0,0,0,,{\pos(985.526,370.415)\org(985.67,370.43)\fscx100.35\fscy95.155\frz21.806\fry1.666\frx-7.53\fax0.017\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.39}banana in
+Dialogue: 3,0:20:33.25,0:20:33.30,Signs,,0,0,0,,{\pos(985.526,370.415)\org(985.67,370.43)\fscx100.35\fscy95.155\frz21.806\fry1.666\frx-7.53\fax0.017\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.39}banana in
+Dialogue: 3,0:20:33.30,0:20:33.34,Signs,,0,0,0,,{\pos(985.526,370.415)\org(985.67,370.43)\fscx100.35\fscy95.155\frz21.806\fry1.666\frx-7.53\fax0.017\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.39}banana in
+Dialogue: 3,0:20:33.34,0:20:33.38,Signs,,0,0,0,,{\pos(985.526,370.415)\org(985.67,370.43)\fscx100.35\fscy95.155\frz21.806\fry1.666\frx-7.53\fax0.017\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.39}banana in
+Dialogue: 3,0:20:33.38,0:20:33.42,Signs,,0,0,0,,{\pos(985.526,370.415)\org(985.67,370.43)\fscx100.35\fscy95.155\frz21.806\fry1.666\frx-7.53\fax0.017\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.39}banana in
+Dialogue: 3,0:20:33.42,0:20:33.46,Signs,,0,0,0,,{\pos(985.526,370.415)\org(985.67,370.43)\fscx100.35\fscy95.155\frz21.806\fry1.666\frx-7.53\fax0.017\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.39}banana in
+Dialogue: 3,0:20:33.46,0:20:33.50,Signs,,0,0,0,,{\pos(985.526,370.415)\org(985.67,370.43)\fscx100.35\fscy95.155\frz21.806\fry1.666\frx-7.53\fax0.017\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.39}banana in
+Dialogue: 3,0:20:33.50,0:20:33.55,Signs,,0,0,0,,{\pos(985.526,370.415)\org(985.67,370.43)\fscx100.35\fscy95.155\frz21.806\fry1.666\frx-7.53\fax0.017\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.39}banana in
+Dialogue: 3,0:20:33.55,0:20:33.59,Signs,,0,0,0,,{\pos(985.526,370.415)\org(985.67,370.43)\fscx100.35\fscy95.155\frz21.806\fry1.666\frx-7.53\fax0.017\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.39}banana in
+Dialogue: 3,0:20:33.59,0:20:33.63,Signs,,0,0,0,,{\pos(985.526,370.415)\org(985.67,370.43)\fscx100.35\fscy95.155\frz21.806\fry1.666\frx-7.53\fax0.017\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.39}banana in
+Dialogue: 3,0:20:33.63,0:20:33.67,Signs,,0,0,0,,{\pos(985.526,370.415)\org(985.67,370.43)\fscx100.35\fscy95.155\frz21.806\fry1.666\frx-7.53\fax0.017\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.39}banana in
+Dialogue: 3,0:20:33.67,0:20:33.71,Signs,,0,0,0,,{\pos(985.526,370.415)\org(985.67,370.43)\fscx100.35\fscy95.155\frz21.806\fry1.666\frx-7.53\fax0.017\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.39}banana in
+Dialogue: 3,0:20:33.71,0:20:33.75,Signs,,0,0,0,,{\pos(985.526,370.415)\org(985.67,370.43)\fscx100.35\fscy95.155\frz21.806\fry1.666\frx-7.53\fax0.017\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.39}banana in
+Dialogue: 3,0:20:33.75,0:20:33.80,Signs,,0,0,0,,{\pos(985.526,370.415)\org(985.67,370.43)\fscx100.35\fscy95.155\frz21.806\fry1.666\frx-7.53\fax0.017\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.39}banana in
+Dialogue: 3,0:20:33.80,0:20:33.84,Signs,,0,0,0,,{\pos(985.526,370.415)\org(985.67,370.43)\fscx100.35\fscy95.155\frz21.806\fry1.666\frx-7.53\fax0.017\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.39}banana in
+Dialogue: 3,0:20:33.84,0:20:33.88,Signs,,0,0,0,,{\pos(985.526,370.415)\org(985.67,370.43)\fscx100.35\fscy95.155\frz21.806\fry1.666\frx-7.53\fax0.017\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.39}banana in
+Dialogue: 3,0:20:33.88,0:20:33.92,Signs,,0,0,0,,{\pos(985.526,370.415)\org(985.67,370.43)\fscx100.35\fscy95.155\frz21.806\fry1.666\frx-7.53\fax0.017\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.39}banana in
+Dialogue: 3,0:20:33.92,0:20:33.96,Signs,,0,0,0,,{\pos(985.526,370.415)\org(985.67,370.43)\fscx100.35\fscy95.155\frz21.806\fry1.666\frx-7.53\fax0.017\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.39}banana in
+Dialogue: 3,0:20:33.96,0:20:34.00,Signs,,0,0,0,,{\pos(985.526,370.415)\org(985.67,370.43)\fscx100.35\fscy95.155\frz21.806\fry1.666\frx-7.53\fax0.017\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.39}banana in
+Dialogue: 3,0:20:34.00,0:20:34.05,Signs,,0,0,0,,{\pos(985.526,370.415)\org(985.67,370.43)\fscx100.35\fscy95.155\frz21.806\fry1.666\frx-7.53\fax0.017\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.39}banana in
+Dialogue: 3,0:20:34.05,0:20:34.09,Signs,,0,0,0,,{\pos(985.526,370.415)\org(985.67,370.43)\fscx100.35\fscy95.155\frz21.806\fry1.666\frx-7.53\fax0.017\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.39}banana in
+Dialogue: 3,0:20:34.09,0:20:34.13,Signs,,0,0,0,,{\pos(985.526,370.415)\org(985.67,370.43)\fscx100.35\fscy95.155\frz21.806\fry1.666\frx-7.53\fax0.017\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.39}banana in
 Dialogue: 3,0:20:34.13,0:20:34.17,Signs,,0,0,0,,{\pos(985.171,371.809)\org(985.39,371.73)\fscx100.545\fscy104.744\frz25.509\fry12.237\frx-31.015\fax0.025\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.4}banana in
 Dialogue: 3,0:20:34.17,0:20:34.21,Signs,,0,0,0,,{\pos(985.171,371.809)\org(985.39,371.73)\fscx100.545\fscy104.744\frz25.509\fry12.237\frx-31.015\fax0.025\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.4}banana in
 Dialogue: 3,0:20:34.21,0:20:34.25,Signs,,0,0,0,,{\pos(985.171,371.809)\org(985.39,371.73)\fscx100.545\fscy104.744\frz25.509\fry12.237\frx-31.015\fax0.025\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.4}banana in
-Dialogue: 3,0:20:34.25,0:20:34.30,Signs,,0,0,0,,{\pos(985.156,371.708)\org(985.29,371.52)\fscx98.891\fscy118.682\frz30.048\fry20.824\frx-44.464\fax0.016\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.29}banana in
-Dialogue: 3,0:20:34.30,0:20:34.34,Signs,,0,0,0,,{\pos(985.156,371.708)\org(985.29,371.52)\fscx98.891\fscy118.682\frz30.048\fry20.824\frx-44.464\fax0.016\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.29}banana in
-Dialogue: 3,0:20:34.34,0:20:34.38,Signs,,0,0,0,,{\pos(985.156,371.708)\org(985.29,371.52)\fscx98.891\fscy118.682\frz30.048\fry20.824\frx-44.464\fax0.016\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.29}banana in
-Dialogue: 3,0:20:34.38,0:20:34.42,Signs,,0,0,0,,{\pos(986.904,373.093)\org(984.74,372.47)\fscx100.235\fscy162.28\frz49.781\fry33.298\frx-63.132\fax-0.305\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.28}banana in
-Dialogue: 3,0:20:34.42,0:20:34.46,Signs,,0,0,0,,{\pos(986.904,373.093)\org(984.74,372.47)\fscx100.235\fscy162.28\frz49.781\fry33.298\frx-63.132\fax-0.305\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.28}banana in
-Dialogue: 3,0:20:34.46,0:20:34.50,Signs,,0,0,0,,{\pos(986.904,373.093)\org(984.74,372.47)\fscx100.235\fscy162.28\frz49.781\fry33.298\frx-63.132\fax-0.305\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.28}banana in
-Dialogue: 3,0:20:34.50,0:20:34.55,Signs,,0,0,0,,{\pos(984.027,389.322)\org(986.7,388.3)\fscx89.384\fscy164.559\frz39.464\fry49.657\frx-63.302\fax0.437\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.26}banana in
-Dialogue: 3,0:20:34.55,0:20:34.59,Signs,,0,0,0,,{\pos(984.027,389.322)\org(986.7,388.3)\fscx89.384\fscy164.559\frz39.464\fry49.657\frx-63.302\fax0.437\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.26}banana in
-Dialogue: 3,0:20:34.59,0:20:34.63,Signs,,0,0,0,,{\pos(984.027,389.322)\org(986.7,388.3)\fscx89.384\fscy164.559\frz39.464\fry49.657\frx-63.302\fax0.437\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.26}banana in
-Dialogue: 3,0:20:34.63,0:20:34.67,Signs,,0,0,0,,{\pos(986.415,397.025)\org(985.32,395.69)\fscx89.604\fscy163.234\frz52.957\fry44.506\frx-69.225\fax-0.176\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.25}banana in
-Dialogue: 3,0:20:34.67,0:20:34.71,Signs,,0,0,0,,{\pos(986.415,397.025)\org(985.32,395.69)\fscx89.604\fscy163.234\frz52.957\fry44.506\frx-69.225\fax-0.176\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.25}banana in
-Dialogue: 3,0:20:34.71,0:20:34.75,Signs,,0,0,0,,{\pos(983.176,404.125)\org(983.65,402.39)\fscx89.176\fscy130.097\frz46.98\fry47.071\frx-69.357\fax0.087\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.24}banana in
-Dialogue: 3,0:20:34.75,0:20:34.80,Signs,,0,0,0,,{\pos(983.176,404.125)\org(983.65,402.39)\fscx89.176\fscy130.097\frz46.98\fry47.071\frx-69.357\fax0.087\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.24}banana in
+Dialogue: 3,0:20:34.25,0:20:34.30,Signs,,0,0,0,,{\pos(985.156,371.708)\org(985.29,371.52)\fscx98.891\fscy118.682\frz30.048\fry20.824\frx-44.464\fax0.016\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.39}banana in
+Dialogue: 3,0:20:34.30,0:20:34.34,Signs,,0,0,0,,{\pos(985.156,371.708)\org(985.29,371.52)\fscx98.891\fscy118.682\frz30.048\fry20.824\frx-44.464\fax0.016\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.39}banana in
+Dialogue: 3,0:20:34.34,0:20:34.38,Signs,,0,0,0,,{\pos(985.156,371.708)\org(985.29,371.52)\fscx98.891\fscy118.682\frz30.048\fry20.824\frx-44.464\fax0.016\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.39}banana in
+Dialogue: 3,0:20:34.38,0:20:34.42,Signs,,0,0,0,,{\pos(986.904,373.093)\org(984.74,372.47)\fscx100.235\fscy162.28\frz49.781\fry33.298\frx-63.132\fax-0.305\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.38}banana in
+Dialogue: 3,0:20:34.42,0:20:34.46,Signs,,0,0,0,,{\pos(986.904,373.093)\org(984.74,372.47)\fscx100.235\fscy162.28\frz49.781\fry33.298\frx-63.132\fax-0.305\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.38}banana in
+Dialogue: 3,0:20:34.46,0:20:34.50,Signs,,0,0,0,,{\pos(986.904,373.093)\org(984.74,372.47)\fscx100.235\fscy162.28\frz49.781\fry33.298\frx-63.132\fax-0.305\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.38}banana in
+Dialogue: 3,0:20:34.50,0:20:34.55,Signs,,0,0,0,,{\pos(984.027,389.322)\org(986.7,388.3)\fscx89.384\fscy164.559\frz39.464\fry49.657\frx-63.302\fax0.437\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.36}banana in
+Dialogue: 3,0:20:34.55,0:20:34.59,Signs,,0,0,0,,{\pos(984.027,389.322)\org(986.7,388.3)\fscx89.384\fscy164.559\frz39.464\fry49.657\frx-63.302\fax0.437\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.36}banana in
+Dialogue: 3,0:20:34.59,0:20:34.63,Signs,,0,0,0,,{\pos(984.027,389.322)\org(986.7,388.3)\fscx89.384\fscy164.559\frz39.464\fry49.657\frx-63.302\fax0.437\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.36}banana in
+Dialogue: 3,0:20:34.63,0:20:34.67,Signs,,0,0,0,,{\pos(986.415,397.025)\org(985.32,395.69)\fscx89.604\fscy163.234\frz52.957\fry44.506\frx-69.225\fax-0.176\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.35}banana in
+Dialogue: 3,0:20:34.67,0:20:34.71,Signs,,0,0,0,,{\pos(986.415,397.025)\org(985.32,395.69)\fscx89.604\fscy163.234\frz52.957\fry44.506\frx-69.225\fax-0.176\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.35}banana in
+Dialogue: 3,0:20:34.71,0:20:34.75,Signs,,0,0,0,,{\pos(983.176,404.125)\org(983.65,402.39)\fscx89.176\fscy130.097\frz46.98\fry47.071\frx-69.357\fax0.087\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.34}banana in
+Dialogue: 3,0:20:34.75,0:20:34.80,Signs,,0,0,0,,{\pos(983.176,404.125)\org(983.65,402.39)\fscx89.176\fscy130.097\frz46.98\fry47.071\frx-69.357\fax0.087\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.34}banana in
 Dialogue: 3,0:20:31.29,0:20:31.33,Signs,,0,0,0,,{\pos(991.432,383.98)\org(991.93,383.98)\frz20.853\fry13.721\frx-14.28\fax0.066\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.4}your pocket?
 Dialogue: 3,0:20:31.33,0:20:31.38,Signs,,0,0,0,,{\pos(991.432,383.98)\org(991.93,383.98)\frz20.853\fry13.721\frx-14.28\fax0.066\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.4}your pocket?
 Dialogue: 3,0:20:31.38,0:20:31.42,Signs,,0,0,0,,{\pos(991.432,383.98)\org(991.93,383.98)\frz20.853\fry13.721\frx-14.28\fax0.066\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.4}your pocket?
@@ -433,55 +432,55 @@ Dialogue: 3,0:20:32.71,0:20:32.75,Signs,,0,0,0,,{\pos(990.071,382.343)\org(990.1
 Dialogue: 3,0:20:32.75,0:20:32.79,Signs,,0,0,0,,{\pos(990.331,382.378)\org(990.28,382.23)\fscx100.668\fscy98.769\frz22.706\fry6.827\frx-14.549\fax0.016\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.4}your pocket?
 Dialogue: 3,0:20:32.79,0:20:32.84,Signs,,0,0,0,,{\pos(990.327,382.362)\org(990.27,382.22)\fscx100.667\fscy98.718\frz22.708\fry6.841\frx-14.557\fax0.016\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.4}your pocket?
 Dialogue: 3,0:20:32.84,0:20:32.88,Signs,,0,0,0,,{\pos(990.321,382.342)\org(990.27,382.2)\fscx100.678\fscy98.649\frz22.701\fry6.796\frx-14.519\fax0.016\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.4}your pocket?
-Dialogue: 3,0:20:32.88,0:20:32.92,Signs,,0,0,0,,{\pos(990.011,381.893)\org(989.95,381.59)\fscx101.145\fscy96.52\frz21.76\fry1.674\frx-7.569\fax0.017\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.29}your pocket?
-Dialogue: 3,0:20:32.92,0:20:32.96,Signs,,0,0,0,,{\pos(990.011,381.893)\org(989.95,381.59)\fscx101.145\fscy96.52\frz21.76\fry1.674\frx-7.569\fax0.017\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.29}your pocket?
-Dialogue: 3,0:20:32.96,0:20:33.00,Signs,,0,0,0,,{\pos(990.011,381.893)\org(989.95,381.59)\fscx101.145\fscy96.52\frz21.76\fry1.674\frx-7.569\fax0.017\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.29}your pocket?
-Dialogue: 3,0:20:33.00,0:20:33.04,Signs,,0,0,0,,{\pos(990.011,381.893)\org(989.95,381.59)\fscx101.145\fscy96.52\frz21.76\fry1.674\frx-7.569\fax0.017\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.29}your pocket?
-Dialogue: 3,0:20:33.04,0:20:33.09,Signs,,0,0,0,,{\pos(990.011,381.893)\org(989.95,381.59)\fscx101.145\fscy96.52\frz21.76\fry1.674\frx-7.569\fax0.017\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.29}your pocket?
-Dialogue: 3,0:20:33.09,0:20:33.13,Signs,,0,0,0,,{\pos(990.011,381.893)\org(989.95,381.59)\fscx101.145\fscy96.52\frz21.76\fry1.674\frx-7.569\fax0.017\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.29}your pocket?
-Dialogue: 3,0:20:33.13,0:20:33.17,Signs,,0,0,0,,{\pos(990.011,381.893)\org(989.95,381.59)\fscx101.145\fscy96.52\frz21.76\fry1.674\frx-7.569\fax0.017\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.29}your pocket?
-Dialogue: 3,0:20:33.17,0:20:33.21,Signs,,0,0,0,,{\pos(990.011,381.893)\org(989.95,381.59)\fscx101.145\fscy96.52\frz21.76\fry1.674\frx-7.569\fax0.017\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.29}your pocket?
-Dialogue: 3,0:20:33.21,0:20:33.25,Signs,,0,0,0,,{\pos(990.011,381.893)\org(989.95,381.59)\fscx101.145\fscy96.52\frz21.76\fry1.674\frx-7.569\fax0.017\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.29}your pocket?
-Dialogue: 3,0:20:33.25,0:20:33.30,Signs,,0,0,0,,{\pos(990.011,381.893)\org(989.95,381.59)\fscx101.145\fscy96.52\frz21.76\fry1.674\frx-7.569\fax0.017\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.29}your pocket?
-Dialogue: 3,0:20:33.30,0:20:33.34,Signs,,0,0,0,,{\pos(990.011,381.893)\org(989.95,381.59)\fscx101.145\fscy96.52\frz21.76\fry1.674\frx-7.569\fax0.017\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.29}your pocket?
-Dialogue: 3,0:20:33.34,0:20:33.38,Signs,,0,0,0,,{\pos(990.011,381.893)\org(989.95,381.59)\fscx101.145\fscy96.52\frz21.76\fry1.674\frx-7.569\fax0.017\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.29}your pocket?
-Dialogue: 3,0:20:33.38,0:20:33.42,Signs,,0,0,0,,{\pos(990.011,381.893)\org(989.95,381.59)\fscx101.145\fscy96.52\frz21.76\fry1.674\frx-7.569\fax0.017\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.29}your pocket?
-Dialogue: 3,0:20:33.42,0:20:33.46,Signs,,0,0,0,,{\pos(990.011,381.893)\org(989.95,381.59)\fscx101.145\fscy96.52\frz21.76\fry1.674\frx-7.569\fax0.017\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.29}your pocket?
-Dialogue: 3,0:20:33.46,0:20:33.50,Signs,,0,0,0,,{\pos(990.011,381.893)\org(989.95,381.59)\fscx101.145\fscy96.52\frz21.76\fry1.674\frx-7.569\fax0.017\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.29}your pocket?
-Dialogue: 3,0:20:33.50,0:20:33.55,Signs,,0,0,0,,{\pos(990.011,381.893)\org(989.95,381.59)\fscx101.145\fscy96.52\frz21.76\fry1.674\frx-7.569\fax0.017\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.29}your pocket?
-Dialogue: 3,0:20:33.55,0:20:33.59,Signs,,0,0,0,,{\pos(990.011,381.893)\org(989.95,381.59)\fscx101.145\fscy96.52\frz21.76\fry1.674\frx-7.569\fax0.017\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.29}your pocket?
-Dialogue: 3,0:20:33.59,0:20:33.63,Signs,,0,0,0,,{\pos(990.011,381.893)\org(989.95,381.59)\fscx101.145\fscy96.52\frz21.76\fry1.674\frx-7.569\fax0.017\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.29}your pocket?
-Dialogue: 3,0:20:33.63,0:20:33.67,Signs,,0,0,0,,{\pos(990.011,381.893)\org(989.95,381.59)\fscx101.145\fscy96.52\frz21.76\fry1.674\frx-7.569\fax0.017\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.29}your pocket?
-Dialogue: 3,0:20:33.67,0:20:33.71,Signs,,0,0,0,,{\pos(990.011,381.893)\org(989.95,381.59)\fscx101.145\fscy96.52\frz21.76\fry1.674\frx-7.569\fax0.017\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.29}your pocket?
-Dialogue: 3,0:20:33.71,0:20:33.75,Signs,,0,0,0,,{\pos(990.011,381.893)\org(989.95,381.59)\fscx101.145\fscy96.52\frz21.76\fry1.674\frx-7.569\fax0.017\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.29}your pocket?
-Dialogue: 3,0:20:33.75,0:20:33.80,Signs,,0,0,0,,{\pos(990.011,381.893)\org(989.95,381.59)\fscx101.145\fscy96.52\frz21.76\fry1.674\frx-7.569\fax0.017\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.29}your pocket?
-Dialogue: 3,0:20:33.80,0:20:33.84,Signs,,0,0,0,,{\pos(990.011,381.893)\org(989.95,381.59)\fscx101.145\fscy96.52\frz21.76\fry1.674\frx-7.569\fax0.017\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.29}your pocket?
-Dialogue: 3,0:20:33.84,0:20:33.88,Signs,,0,0,0,,{\pos(990.011,381.893)\org(989.95,381.59)\fscx101.145\fscy96.52\frz21.76\fry1.674\frx-7.569\fax0.017\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.29}your pocket?
-Dialogue: 3,0:20:33.88,0:20:33.92,Signs,,0,0,0,,{\pos(990.011,381.893)\org(989.95,381.59)\fscx101.145\fscy96.52\frz21.76\fry1.674\frx-7.569\fax0.017\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.29}your pocket?
-Dialogue: 3,0:20:33.92,0:20:33.96,Signs,,0,0,0,,{\pos(990.011,381.893)\org(989.95,381.59)\fscx101.145\fscy96.52\frz21.76\fry1.674\frx-7.569\fax0.017\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.29}your pocket?
-Dialogue: 3,0:20:33.96,0:20:34.00,Signs,,0,0,0,,{\pos(990.011,381.893)\org(989.95,381.59)\fscx101.145\fscy96.52\frz21.76\fry1.674\frx-7.569\fax0.017\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.29}your pocket?
-Dialogue: 3,0:20:34.00,0:20:34.05,Signs,,0,0,0,,{\pos(990.011,381.893)\org(989.95,381.59)\fscx101.145\fscy96.52\frz21.76\fry1.674\frx-7.569\fax0.017\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.29}your pocket?
-Dialogue: 3,0:20:34.05,0:20:34.09,Signs,,0,0,0,,{\pos(990.011,381.893)\org(989.95,381.59)\fscx101.145\fscy96.52\frz21.76\fry1.674\frx-7.569\fax0.017\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.29}your pocket?
-Dialogue: 3,0:20:34.09,0:20:34.13,Signs,,0,0,0,,{\pos(990.011,381.893)\org(989.95,381.59)\fscx101.145\fscy96.52\frz21.76\fry1.674\frx-7.569\fax0.017\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.29}your pocket?
+Dialogue: 3,0:20:32.88,0:20:32.92,Signs,,0,0,0,,{\pos(990.011,381.893)\org(989.95,381.59)\fscx101.145\fscy96.52\frz21.76\fry1.674\frx-7.569\fax0.017\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.39}your pocket?
+Dialogue: 3,0:20:32.92,0:20:32.96,Signs,,0,0,0,,{\pos(990.011,381.893)\org(989.95,381.59)\fscx101.145\fscy96.52\frz21.76\fry1.674\frx-7.569\fax0.017\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.39}your pocket?
+Dialogue: 3,0:20:32.96,0:20:33.00,Signs,,0,0,0,,{\pos(990.011,381.893)\org(989.95,381.59)\fscx101.145\fscy96.52\frz21.76\fry1.674\frx-7.569\fax0.017\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.39}your pocket?
+Dialogue: 3,0:20:33.00,0:20:33.04,Signs,,0,0,0,,{\pos(990.011,381.893)\org(989.95,381.59)\fscx101.145\fscy96.52\frz21.76\fry1.674\frx-7.569\fax0.017\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.39}your pocket?
+Dialogue: 3,0:20:33.04,0:20:33.09,Signs,,0,0,0,,{\pos(990.011,381.893)\org(989.95,381.59)\fscx101.145\fscy96.52\frz21.76\fry1.674\frx-7.569\fax0.017\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.39}your pocket?
+Dialogue: 3,0:20:33.09,0:20:33.13,Signs,,0,0,0,,{\pos(990.011,381.893)\org(989.95,381.59)\fscx101.145\fscy96.52\frz21.76\fry1.674\frx-7.569\fax0.017\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.39}your pocket?
+Dialogue: 3,0:20:33.13,0:20:33.17,Signs,,0,0,0,,{\pos(990.011,381.893)\org(989.95,381.59)\fscx101.145\fscy96.52\frz21.76\fry1.674\frx-7.569\fax0.017\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.39}your pocket?
+Dialogue: 3,0:20:33.17,0:20:33.21,Signs,,0,0,0,,{\pos(990.011,381.893)\org(989.95,381.59)\fscx101.145\fscy96.52\frz21.76\fry1.674\frx-7.569\fax0.017\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.39}your pocket?
+Dialogue: 3,0:20:33.21,0:20:33.25,Signs,,0,0,0,,{\pos(990.011,381.893)\org(989.95,381.59)\fscx101.145\fscy96.52\frz21.76\fry1.674\frx-7.569\fax0.017\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.39}your pocket?
+Dialogue: 3,0:20:33.25,0:20:33.30,Signs,,0,0,0,,{\pos(990.011,381.893)\org(989.95,381.59)\fscx101.145\fscy96.52\frz21.76\fry1.674\frx-7.569\fax0.017\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.39}your pocket?
+Dialogue: 3,0:20:33.30,0:20:33.34,Signs,,0,0,0,,{\pos(990.011,381.893)\org(989.95,381.59)\fscx101.145\fscy96.52\frz21.76\fry1.674\frx-7.569\fax0.017\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.39}your pocket?
+Dialogue: 3,0:20:33.34,0:20:33.38,Signs,,0,0,0,,{\pos(990.011,381.893)\org(989.95,381.59)\fscx101.145\fscy96.52\frz21.76\fry1.674\frx-7.569\fax0.017\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.39}your pocket?
+Dialogue: 3,0:20:33.38,0:20:33.42,Signs,,0,0,0,,{\pos(990.011,381.893)\org(989.95,381.59)\fscx101.145\fscy96.52\frz21.76\fry1.674\frx-7.569\fax0.017\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.39}your pocket?
+Dialogue: 3,0:20:33.42,0:20:33.46,Signs,,0,0,0,,{\pos(990.011,381.893)\org(989.95,381.59)\fscx101.145\fscy96.52\frz21.76\fry1.674\frx-7.569\fax0.017\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.39}your pocket?
+Dialogue: 3,0:20:33.46,0:20:33.50,Signs,,0,0,0,,{\pos(990.011,381.893)\org(989.95,381.59)\fscx101.145\fscy96.52\frz21.76\fry1.674\frx-7.569\fax0.017\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.39}your pocket?
+Dialogue: 3,0:20:33.50,0:20:33.55,Signs,,0,0,0,,{\pos(990.011,381.893)\org(989.95,381.59)\fscx101.145\fscy96.52\frz21.76\fry1.674\frx-7.569\fax0.017\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.39}your pocket?
+Dialogue: 3,0:20:33.55,0:20:33.59,Signs,,0,0,0,,{\pos(990.011,381.893)\org(989.95,381.59)\fscx101.145\fscy96.52\frz21.76\fry1.674\frx-7.569\fax0.017\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.39}your pocket?
+Dialogue: 3,0:20:33.59,0:20:33.63,Signs,,0,0,0,,{\pos(990.011,381.893)\org(989.95,381.59)\fscx101.145\fscy96.52\frz21.76\fry1.674\frx-7.569\fax0.017\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.39}your pocket?
+Dialogue: 3,0:20:33.63,0:20:33.67,Signs,,0,0,0,,{\pos(990.011,381.893)\org(989.95,381.59)\fscx101.145\fscy96.52\frz21.76\fry1.674\frx-7.569\fax0.017\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.39}your pocket?
+Dialogue: 3,0:20:33.67,0:20:33.71,Signs,,0,0,0,,{\pos(990.011,381.893)\org(989.95,381.59)\fscx101.145\fscy96.52\frz21.76\fry1.674\frx-7.569\fax0.017\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.39}your pocket?
+Dialogue: 3,0:20:33.71,0:20:33.75,Signs,,0,0,0,,{\pos(990.011,381.893)\org(989.95,381.59)\fscx101.145\fscy96.52\frz21.76\fry1.674\frx-7.569\fax0.017\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.39}your pocket?
+Dialogue: 3,0:20:33.75,0:20:33.80,Signs,,0,0,0,,{\pos(990.011,381.893)\org(989.95,381.59)\fscx101.145\fscy96.52\frz21.76\fry1.674\frx-7.569\fax0.017\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.39}your pocket?
+Dialogue: 3,0:20:33.80,0:20:33.84,Signs,,0,0,0,,{\pos(990.011,381.893)\org(989.95,381.59)\fscx101.145\fscy96.52\frz21.76\fry1.674\frx-7.569\fax0.017\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.39}your pocket?
+Dialogue: 3,0:20:33.84,0:20:33.88,Signs,,0,0,0,,{\pos(990.011,381.893)\org(989.95,381.59)\fscx101.145\fscy96.52\frz21.76\fry1.674\frx-7.569\fax0.017\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.39}your pocket?
+Dialogue: 3,0:20:33.88,0:20:33.92,Signs,,0,0,0,,{\pos(990.011,381.893)\org(989.95,381.59)\fscx101.145\fscy96.52\frz21.76\fry1.674\frx-7.569\fax0.017\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.39}your pocket?
+Dialogue: 3,0:20:33.92,0:20:33.96,Signs,,0,0,0,,{\pos(990.011,381.893)\org(989.95,381.59)\fscx101.145\fscy96.52\frz21.76\fry1.674\frx-7.569\fax0.017\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.39}your pocket?
+Dialogue: 3,0:20:33.96,0:20:34.00,Signs,,0,0,0,,{\pos(990.011,381.893)\org(989.95,381.59)\fscx101.145\fscy96.52\frz21.76\fry1.674\frx-7.569\fax0.017\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.39}your pocket?
+Dialogue: 3,0:20:34.00,0:20:34.05,Signs,,0,0,0,,{\pos(990.011,381.893)\org(989.95,381.59)\fscx101.145\fscy96.52\frz21.76\fry1.674\frx-7.569\fax0.017\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.39}your pocket?
+Dialogue: 3,0:20:34.05,0:20:34.09,Signs,,0,0,0,,{\pos(990.011,381.893)\org(989.95,381.59)\fscx101.145\fscy96.52\frz21.76\fry1.674\frx-7.569\fax0.017\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.39}your pocket?
+Dialogue: 3,0:20:34.09,0:20:34.13,Signs,,0,0,0,,{\pos(990.011,381.893)\org(989.95,381.59)\fscx101.145\fscy96.52\frz21.76\fry1.674\frx-7.569\fax0.017\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.39}your pocket?
 Dialogue: 3,0:20:34.13,0:20:34.17,Signs,,0,0,0,,{\pos(990.027,382.004)\org(989.76,383.12)\fscx99.27\fscy102.74\frz25.622\fry12.547\frx-31.641\fax0.026\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.4}your pocket?
 Dialogue: 3,0:20:34.17,0:20:34.21,Signs,,0,0,0,,{\pos(990.027,382.004)\org(989.76,383.12)\fscx99.27\fscy102.74\frz25.622\fry12.547\frx-31.641\fax0.026\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.4}your pocket?
 Dialogue: 3,0:20:34.21,0:20:34.25,Signs,,0,0,0,,{\pos(990.027,382.004)\org(989.76,383.12)\fscx99.27\fscy102.74\frz25.622\fry12.547\frx-31.641\fax0.026\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.4}your pocket?
-Dialogue: 3,0:20:34.25,0:20:34.30,Signs,,0,0,0,,{\pos(989.731,379.845)\org(989.58,382.69)\fscx95.906\fscy114.227\frz30.616\fry21.669\frx-45.551\fax0.016\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.29}your pocket?
-Dialogue: 3,0:20:34.30,0:20:34.34,Signs,,0,0,0,,{\pos(989.731,379.845)\org(989.58,382.69)\fscx95.906\fscy114.227\frz30.616\fry21.669\frx-45.551\fax0.016\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.29}your pocket?
-Dialogue: 3,0:20:34.34,0:20:34.38,Signs,,0,0,0,,{\pos(989.731,379.845)\org(989.58,382.69)\fscx95.906\fscy114.227\frz30.616\fry21.669\frx-45.551\fax0.016\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.29}your pocket?
-Dialogue: 3,0:20:34.38,0:20:34.42,Signs,,0,0,0,,{\pos(993.004,373.455)\org(988.86,383.22)\fscx92.428\fscy149.466\frz51.874\fry35.818\frx-64.58\fax-0.305\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.28}your pocket?
-Dialogue: 3,0:20:34.42,0:20:34.46,Signs,,0,0,0,,{\pos(993.004,373.455)\org(988.86,383.22)\fscx92.428\fscy149.466\frz51.874\fry35.818\frx-64.58\fax-0.305\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.28}your pocket?
-Dialogue: 3,0:20:34.46,0:20:34.50,Signs,,0,0,0,,{\pos(993.004,373.455)\org(988.86,383.22)\fscx92.428\fscy149.466\frz51.874\fry35.818\frx-64.58\fax-0.305\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.28}your pocket?
-Dialogue: 3,0:20:34.50,0:20:34.55,Signs,,0,0,0,,{\pos(984.12,382.716)\org(990.52,398.26)\fscx80.35\fscy148.413\frz42.566\fry52.984\frx-64.357\fax0.434\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.26}your pocket?
-Dialogue: 3,0:20:34.55,0:20:34.59,Signs,,0,0,0,,{\pos(984.12,382.716)\org(990.52,398.26)\fscx80.35\fscy148.413\frz42.566\fry52.984\frx-64.357\fax0.434\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.26}your pocket?
-Dialogue: 3,0:20:34.59,0:20:34.63,Signs,,0,0,0,,{\pos(984.12,382.716)\org(990.52,398.26)\fscx80.35\fscy148.413\frz42.566\fry52.984\frx-64.357\fax0.434\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.26}your pocket?
-Dialogue: 3,0:20:34.63,0:20:34.67,Signs,,0,0,0,,{\pos(991.501,385.461)\org(988.95,405.16)\fscx79.598\fscy145.492\frz56.441\fry48.273\frx-70.388\fax-0.182\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.25}your pocket?
-Dialogue: 3,0:20:34.67,0:20:34.71,Signs,,0,0,0,,{\pos(991.501,385.461)\org(988.95,405.16)\fscx79.598\fscy145.492\frz56.441\fry48.273\frx-70.388\fax-0.182\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.25}your pocket?
-Dialogue: 3,0:20:34.71,0:20:34.75,Signs,,0,0,0,,{\pos(985.261,387.044)\org(987.21,411.67)\fscx78.775\fscy115.458\frz50.638\fry50.952\frx-70.446\fax0.082\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.24}your pocket?
-Dialogue: 3,0:20:34.75,0:20:34.80,Signs,,0,0,0,,{\pos(985.261,387.044)\org(987.21,411.67)\fscx78.775\fscy115.458\frz50.638\fry50.952\frx-70.446\fax0.082\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.24}your pocket?
+Dialogue: 3,0:20:34.25,0:20:34.30,Signs,,0,0,0,,{\pos(989.731,379.845)\org(989.58,382.69)\fscx95.906\fscy114.227\frz30.616\fry21.669\frx-45.551\fax0.016\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.39}your pocket?
+Dialogue: 3,0:20:34.30,0:20:34.34,Signs,,0,0,0,,{\pos(989.731,379.845)\org(989.58,382.69)\fscx95.906\fscy114.227\frz30.616\fry21.669\frx-45.551\fax0.016\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.39}your pocket?
+Dialogue: 3,0:20:34.34,0:20:34.38,Signs,,0,0,0,,{\pos(989.731,379.845)\org(989.58,382.69)\fscx95.906\fscy114.227\frz30.616\fry21.669\frx-45.551\fax0.016\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.39}your pocket?
+Dialogue: 3,0:20:34.38,0:20:34.42,Signs,,0,0,0,,{\pos(993.004,373.455)\org(988.86,383.22)\fscx92.428\fscy149.466\frz51.874\fry35.818\frx-64.58\fax-0.305\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.38}your pocket?
+Dialogue: 3,0:20:34.42,0:20:34.46,Signs,,0,0,0,,{\pos(993.004,373.455)\org(988.86,383.22)\fscx92.428\fscy149.466\frz51.874\fry35.818\frx-64.58\fax-0.305\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.38}your pocket?
+Dialogue: 3,0:20:34.46,0:20:34.50,Signs,,0,0,0,,{\pos(993.004,373.455)\org(988.86,383.22)\fscx92.428\fscy149.466\frz51.874\fry35.818\frx-64.58\fax-0.305\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.38}your pocket?
+Dialogue: 3,0:20:34.50,0:20:34.55,Signs,,0,0,0,,{\pos(984.12,382.716)\org(990.52,398.26)\fscx80.35\fscy148.413\frz42.566\fry52.984\frx-64.357\fax0.434\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.36}your pocket?
+Dialogue: 3,0:20:34.55,0:20:34.59,Signs,,0,0,0,,{\pos(984.12,382.716)\org(990.52,398.26)\fscx80.35\fscy148.413\frz42.566\fry52.984\frx-64.357\fax0.434\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.36}your pocket?
+Dialogue: 3,0:20:34.59,0:20:34.63,Signs,,0,0,0,,{\pos(984.12,382.716)\org(990.52,398.26)\fscx80.35\fscy148.413\frz42.566\fry52.984\frx-64.357\fax0.434\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.36}your pocket?
+Dialogue: 3,0:20:34.63,0:20:34.67,Signs,,0,0,0,,{\pos(991.501,385.461)\org(988.95,405.16)\fscx79.598\fscy145.492\frz56.441\fry48.273\frx-70.388\fax-0.182\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.35}your pocket?
+Dialogue: 3,0:20:34.67,0:20:34.71,Signs,,0,0,0,,{\pos(991.501,385.461)\org(988.95,405.16)\fscx79.598\fscy145.492\frz56.441\fry48.273\frx-70.388\fax-0.182\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.35}your pocket?
+Dialogue: 3,0:20:34.71,0:20:34.75,Signs,,0,0,0,,{\pos(985.261,387.044)\org(987.21,411.67)\fscx78.775\fscy115.458\frz50.638\fry50.952\frx-70.446\fax0.082\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.34}your pocket?
+Dialogue: 3,0:20:34.75,0:20:34.80,Signs,,0,0,0,,{\pos(985.261,387.044)\org(987.21,411.67)\fscx78.775\fscy115.458\frz50.638\fry50.952\frx-70.446\fax0.082\fnDJB This is My Life\fs15\fsp-0.5\b1\1c&H000000&\blur0.34}your pocket?
 Dialogue: 0,0:20:31.29,0:20:31.33,f0ld3r-invisible,,0,0,0,,{=7}
 Dialogue: 0,0:13:41.59,0:13:44.09,f0ld3r-invisible,,0,0,0,,{=10}--The Rugged Lands
-Dialogue: 0,0:13:41.59,0:13:44.09,Signs,,0,0,0,,{\an1\fs42\fnMS Mincho Strp\c&HEEECDF&\pos(24.42,113.24)}*{\fnKozuka Gothic Pro L\b1} “The Rugged Lands”\N\h\h\h\h\hA catchphrase issued in '99 by the Hokkaido Government{:: my lord and savior dedsec, please take care of this}
+Dialogue: 0,0:13:41.59,0:13:44.09,Signs,,0,0,0,,{\blur0.5\an1\fs42\fnMS Mincho Strp\c&HEEECDF&\pos(24.42,113.24)\1a&H0A&}*{\fnKozuka Gothic Pro L\b1} “The Rugged Lands”\N\h\h\h\h\hA catchphrase issued in '99 by the Hokkaido Government{:: my lord and savior dedsec, please take care of this}
 Dialogue: 0,0:13:41.59,0:13:44.09,f0ld3r-invisible,,0,0,0,,{=11}
 Dialogue: 0,0:18:50.03,0:18:50.07,f0ld3r-invisible,,0,0,0,,{=97}--Thinking
 Dialogue: 0,0:18:50.03,0:18:52.65,Signs,,0,0,0,,{\an7\blur1\c&HFAFAFA&\pos(0,0)\p1}m 1241.11 290.31 l 1255.22 299.12 1257.01 310.94 1253.28 313.15 1259.81 316.46 1259.03 443.4 1175.5 444.27 1171.28 493.04 1081.15 493.64 1080.09 559.38 1076.89 564.82 808.83 565.51 806.48 724.54 723.48 724.95 723.2 291.36 725.19 299.22 738.12 310.87 737.53 318.21 749.81 316.81 747.46 336.77 754 332.86 750.24 322.64 780.15 322.08 789.55 317.11 795.43 322.62 792 333.51 787.6 333.01 789.43 338.04 791.88 341.4 795.9 333.45 799.16 338.05 792.71 348.35 804.36 344.39 809.69 352.85 809.55 345.75 801.41 337.19 808.39 334.33 804.5 330.95 808.57 321.76 809.58 333.85 815.25 331.53 825.5 338.12 825.78 347.76 820.67 352.26 825.55 354.79 828.32 350.31 827.18 334.58 822.85 333.61 825.4 329.06 827.55 334.67 844.32 344.2 844.99 337.33 847.52 338.63 849.88 345.67 844.59 345.04 846.9 351.99 852.73 350.52 856.68 357.23 854.86 361.99 861.91 366.74 866.04 379.07 861.91 383.17 876.58 389.23 882.24 397.96 891.19 396.16 892.38 403.06 882.08 401.85 892.65 408.38 881.56 423.44 877.03 422.51 880.41 427.35 878.12 431.06 891.75 426.47 902.91 437.41 901.98 444.69 913.75 442.95 910.5 438.23 917.72 443.72 914.4 443.49 911.72 463.96 913.02 454.78 926.86 454.37 920.83 450.47 928.51 438.75 935.41 438.44 949.35 427.98 954.73 435.86 960.62 429.64 963.21 437.15 964.57 431.49 974.29 429.17 996.87 436.37 995.31 434.37 1000.65 432.83 1000.91 435.92 1004.07 426.77 997.47 410.84 1004.37 406.22 1009.8 408.25 1014 422.03 1021.45 406.3 1021.15 394.14 1035.34 395.88 1038.9 388.14 1049.25 387.14 1046.82 373.52 1050.38 366.81 1063.81 388.03 1070.96 383.67 1073.08 390.07 1094.77 392.91 1097.67 388.56 1087.58 378.9 1089.26 371.72 1103.41 376.32 1099.51 385.81 1115.45 379.6 1116.48 376.4 1110.9 372.78 1115.23 370.44 1117.26 374 1120.07 365.38 1112.71 353.39 1114.62 347.41 1125.79 346.04 1130.01 359.97 1138.19 343.72 1137.26 332.52 1143.78 330.41 1151.32 333.94 1154.88 326.09 1165.83 324.69 1164.98 305.07 1170.27 306.01 1179.6 325.32 1186.63 321.62 1188.79 328.37 1208.68 331.34 1215.59 324.99 1212.17 328.12 1203.53 319.3 1199.14 327.08 1186.3 313.36 1181.1 317.42 1184.46 315.47 1184.94 318.94 1176.1 319.86 1176.43 308.16 1186.38 301.89 1190.82 293.33 1208.34 300.24 1212.55 309.03 1218.74 298.39 1232.33 296.11 1239.47 290.16 m 950.13 445.3 l 961.17 445.67 962.43 440.4 m 944.29 442.21 l 946.76 445.19 947.06 439.13 m 1018.43 435.42 l 1015.76 430.01 m 993.67 410.93 l 999.88 425.02 992.9 433.7 986.76 429.13 993.93 422.18 987.85 412.68 991.85 410.43 m 986.45 423.72 l 980.76 429.49 962.27 428.53 972.7 423.52 980.23 427.4 984.38 423.43 m 937.91 420.6 l 949.3 426.48 936.79 429.23 935.49 419.91 m 892.19 419.78 l 884.01 428.49 890.9 419.08 m 925.65 404.46 l 936.82 413.67 932.34 420.6 929.41 414.85 924.37 414.08 932.47 425.72 921.74 425.76 916.85 419.25 922.37 413.78 923.38 403.95 m 967.08 418.83 l 960.85 421.13 966.27 417.58 m 977.98 410.56 l 980.64 421.01 972.26 414.58 975.9 410.13 m 920.71 404.31 l 920.07 415.06 915.53 418.37 908.91 412.03 918.84 402.77 m 1014.32 407.76 l 1017.94 410.99 1015.01 416.15 1012.68 407.08 m 940.97 401.82 l 938.45 406.98 937.76 401.08 m 1016.17 398.24 l 1018.61 404.68 1007.88 404.99 1014.18 398.13 m 921.93 391.11 l 920.04 399.18 918.8 390.41 m 892.92 388.67 l 891.96 394.13 882.32 393.61 890.59 388.46 m 1087.1 356.91 l 1092.3 362.11 1084.06 365.45 1085.11 388.07 1072.79 373.19 1059.62 380.18 1063.3 369.98 1073.66 364.67 1072.2 358.32 1080.89 360.32 1085.36 356.66 m 1109.52 348.91 l 1115.65 367.09 1101.6 372.35 1100.87 365.19 1109.46 361.57 1108.56 354.18 1103.5 351.31 1107.55 348.59 m 1133.59 372.32 l 1131.94 369.3 m 1064.62 354.35 l 1068.68 357.88 1064.04 359.72 1060.59 368.55 1056.28 364.13 1062.68 354.04 m 1051.56 361.39 l 1056.15 364.49 1046.61 365.64 1050.08 361.38 m 1096.56 353.62 l 1091.85 359.42 1094.33 353.04 m 1130.3 345.77 l 1133.88 348.94 1131.12 354.15 1128.65 345.13 m 1132.82 336.42 l 1133.82 342.84 1124.07 343.75 1123.99 338.16 1130.9 336.2 m 864.49 335.05 l 867.59 342.61 861.49 342.04 863.5 333.63 m 819.8 316.45 l 811.27 330.15 807.86 318.25 817.46 315.68 m 1136.01 325.74 l 1137.98 329.76 1133.99 325.69 m 806.14 318.7 l 804 322.79 802.95 317.77 m 779.39 317.44 l 773.97 320.31 778.45 316.54 m 747.44 311.43 l 751.34 318.2 745.68 310.53 m 776.31 304.06 l 779.21 309.67 771.67 309.36 774.1 304.03 m 1180.61 292.37 l 1184.66 295.9 1180.02 297.72 1176.57 306.56 1172.27 302.15 1178.67 292.04 m 1168.75 299.65 l 1172.2 302.53 1162.68 303.91 1167.33 299.5 m 1202.21 282.65 l 1197.62 287.5 1198.96 281.7
@@ -494,7 +493,7 @@ Dialogue: 1,0:18:50.03,0:18:52.65,Signs,,0,0,0,,{\an7\blur5\c&HF6F6F6&\pos(0,0)\
 Dialogue: 1,0:18:50.03,0:18:52.65,Signs,,0,0,0,,{\an7\blur5\c&HF8F8F8&\pos(0,0)\p1}m 737.33 192.07 l 736.34 202.44 741.73 204.09 739.88 215.89 744.36 216.1 747.52 226.3 749.2 215.21 753.86 222.58 759.92 223.18 773.85 214.59 770.98 224.57 776.82 230.3 788.42 218.15 798.73 224.36 800.32 232.17 795.35 236.47 800.76 241.69 803.64 229.84 810.1 233.19 815.02 228.65 821.7 239.3 833.83 232.97 838.04 221.73 844.2 223.29 844.25 227.44 847.4 225.61 848.87 233.11 859.43 226.54 861.64 244.1 856.61 244.1 855.92 236.97 850.05 239.23 850.56 242.61 870.12 255.58 873.71 263.83 880.15 259.47 880.85 268.45 891.55 273.22 891.76 268.04 905.97 269.29 893.33 280.72 927.15 284.16 926.07 289.4 920.26 289.32 926.15 291.09 930.9 301.44 944.55 299.62 955 317.82 948.13 323.84 971.17 315.84 966.04 307.84 982.96 308.55 993.25 292.39 1006.6 299.13 999.87 304.66 1008.4 308.8 1016.94 307.25 1014.44 302.99 1025.26 299.08 1026.81 290.33 1031.85 289 1028.26 285.89 1033.33 283.6 1032.36 274.73 1037.53 279.05 1047.57 273.15 1057.21 278.2 1055.15 273.37 1061.28 271.55 1061.91 264.21 1067.84 268.33 1074.56 265.58 1077.97 254.36 1091.18 251.93 1086.78 247.93 1102.52 233.28 1103.62 226.56 1112.2 235.22 1126.24 233.43 1125.66 240.67 1120.22 239.6 1133.74 244.19 1127.48 238.76 1133.47 223.02 1143.75 224.57 1157.9 217.97 1158.53 221.92 1169.23 224.03 1174.53 217.35 1178.18 221.95 1182.48 208.76 1185.93 218.49 1194.75 219.1 1203.96 206.69 1217 209.47 1221.44 204.79 1234.03 206.17 1248.12 197.89 1249.56 205.98 1244.94 206.52 1243.54 212.41 1226.07 211.51 1222.64 218.95 1227.67 232.82 1237.39 224.46 1229.59 220.85 1230.6 213.14 1242.39 217.8 1246.56 211.24 1252.36 209.97 1259.81 194.24 1259.81 216.9 1256.98 217.48 1259.93 218.31 1259.81 318.47 1248.04 314.45 1252.64 303.48 1240.24 294.12 1234.13 301.93 1228.65 298.73 1222.29 300.88 1229.83 307.36 1222.52 310.59 1216.51 306.36 1213.82 316.63 1208.76 319.12 1212.14 323.52 1217.71 317.21 1220.73 330.12 1211.76 337.29 1191.14 331.38 1184.68 333.91 1184.69 326.7 1177.48 331.81 1168.61 316.27 1169.42 331.22 1157.77 329.36 1158.42 333.64 1150.93 340.35 1145.87 334.78 1139.99 335.94 1142.81 345.45 1132.03 363.66 1141.79 367.99 1136.99 373.21 1139.35 380.03 1131.92 379.76 1127.4 371.95 1126.36 354.68 1121.36 348.22 1116.79 351.69 1122.29 353.34 1119.86 359.99 1125.75 363.12 1118.82 382.47 1114.93 386.95 1109.85 384.42 1108.2 393.47 1104.52 389.58 1095.03 399.01 1067.82 394.89 1068.98 388.59 1062.06 393.78 1053.06 379.39 1053.97 393.39 1041.75 391.42 1042.41 395.71 1034.82 402.32 1028.08 396.65 1023.83 398.08 1026.8 407.36 1016.1 426.24 1026.18 430.68 1020.82 435.22 1023.16 442.28 1015.82 441.45 1010.34 430.79 1009.88 415.53 1003.62 410.49 1001.36 414.6 1006.97 415.29 1004.16 422.17 1009.67 424.63 1002.93 443.18 981.86 433.49 968.32 433.78 965.39 448.36 952.41 454.23 951.51 448.87 938.82 444.06 948.92 433.51 938.02 444.23 931.35 441.84 932.87 446.73 926.05 446.73 925.21 450.62 931.82 446.77 932.63 459.73 916.03 457.69 916.66 468.28 908.91 469.69 903.69 462.11 910.02 456.17 909.4 447.47 903.65 450.42 896.14 447.28 900.53 438.72 890.7 434.34 890.43 430.25 881.28 432.35 882.11 437.8 865.58 433.26 875.22 430.18 871.69 418.97 879.2 420.2 879.36 411.43 886.67 412.88 888.56 409.77 884.89 411.91 877.55 405.27 879.06 397.75 874.31 397.45 874.02 390.97 870.25 392.68 864.63 385.68 855.01 387.22 862.44 378.72 858.62 367.2 840.11 363.55 852.88 359.72 851.54 354.25 842.17 356.9 844.18 347.67 838.58 342.6 829.53 339.59 834.62 348.17 823.22 362.87 822.26 356.34 816.61 357.45 815.12 349.22 821.74 347.39 822.68 339.32 818.5 339.65 816.44 335.06 806.28 337.8 813.31 344.75 813.34 361.28 804.6 355.49 803.49 348.6 787.45 354.92 786.22 346.2 789.98 343.98 782.43 330.97 785.98 327 790.13 329.73 789.41 320.91 781.36 325.91 754.45 325.96 758.83 329.45 757.13 336.26 740.91 340.72 743.86 321.34 738.13 323.66 731.41 320.28 735.4 312.1 728.46 309.62 723.2 301.33 723.2 192.45 732.1 198.1 734.76 191.39 m 950.38 437.6 l 950.88 441.59 959.55 437.37 m 1191.86 303.13 l 1180.5 309.31 1178.5 314.98 1187.81 308.13 1199.38 322.53 1201.01 311.03 1207.72 317.76 1210.15 311.59 1202.21 308.29 1204.66 303.99 1198.87 305.93 1199.78 300.59 1191.28 297.69 m 1159.35 227.06 l 1164.89 229.65 1158.93 224.39
 Dialogue: 1,0:18:50.03,0:18:52.65,Signs,,0,0,0,,{\an7\blur5\c&HF3F3F3&\pos(0,0)\p1}m 1172.23 53.74 l 1175.34 48.86 1199.27 53.97 1207.47 65.19 1218.11 57.74 1233.52 62.67 1241.73 54.7 1243.07 60.81 1259.81 50.54 1259.81 133.79 1254.72 135.81 1250.46 132.18 1245.01 138.21 1241.32 131.43 1231.85 131.79 1227.25 127.1 1217.41 128.72 1211.53 120.82 1208.64 127.69 1199.59 129.35 1189.59 137.88 1188.51 130.4 1179.16 140.68 1173.96 128.93 1168.44 130.9 1168.26 136.08 1157.69 134.46 1155.23 141.63 1149.38 137.7 1146.04 140.11 1143.98 135.94 1143.13 149.48 1132.3 149.53 1124.54 143.1 1117.48 147.2 1107.47 146.16 1097.43 160.77 1091.65 159.01 1087.46 164.17 1077.03 149.04 1075.18 164.01 1063.26 169.03 1048.73 168.47 1050.79 173.59 1032.61 179.01 1028.8 172.34 1018.7 168.33 1029.72 160.13 1026.9 157.91 1015.09 161.83 1015.25 150.72 1008.19 159.68 1013.21 166.2 1002.62 168.1 996.7 175.14 986.3 173.14 978.42 160.62 974.03 162.91 969.22 159.21 968.81 169.85 963.65 172.9 954.95 170.01 944.4 165.38 946.41 158.22 937.55 160.94 933.91 176.68 929.31 173.2 918.01 181.17 917.27 171.45 903.65 170.02 895.69 164.71 886.94 165.97 887.93 159.8 876.4 151.78 870.49 155.59 863.93 142.17 848.65 148.43 845.13 143.35 835.73 146.37 832.17 141.28 825.6 146.9 811.1 146.87 801.85 130.83 796.38 137.31 777.36 126.85 769.29 129.6 770.64 141 763.92 132.21 755.75 131.19 754.2 137.67 743.54 127.69 738.98 131.94 723.2 133.2 723.2 49.84 732.65 52.26 734.08 57.81 744.48 49 743.01 58.02 760.97 53.79 769.71 62.14 792.37 54.03 806.24 56.49 809.04 53.25 813.93 61.4 807.52 66 818.27 67.73 820.01 61.81 814.48 57.01 823 55.24 845.32 68.8 854.37 64.63 852.96 73.38 862.41 75.07 871.02 71.64 868.63 81.67 871.44 85.31 875.63 79.41 883.38 81.27 884.04 76.34 891.21 78.71 892.21 74.44 905.02 79.88 889.05 89.47 906.44 83.44 904.62 89.1 912.34 89.6 916.89 84.98 917.55 96.52 906.02 100.26 910.1 105.65 920.4 105.76 921.55 85.74 936.64 85.64 944.25 89.96 931.57 95.21 931.02 100.92 946.89 97.09 954.02 101.39 947.28 96.55 953.94 92.22 951.36 92.7 952.74 71.18 962.83 77.09 963.01 81.9 965.94 77.27 963.04 71.9 979.56 73.36 976.35 68.05 980.07 62.79 984.12 69.88 992.06 71.53 990.81 79.62 996.34 77.15 1004.56 82.44 1015.14 79.81 1020.27 83.77 1023.94 81.5 1021.39 75.48 1025.89 70.06 1029.22 78.3 1044.27 71.2 1051.47 76.87 1048.24 85.47 1055.53 71.6 1064.01 77.46 1070.95 76.4 1064.11 65.85 1085.15 66.26 1099.18 60.07 1102.7 66.91 1103.02 61.2 1105.39 62.41 1105.43 72.2 1112.71 72.84 1114.61 66.7 1124.15 60.18 1126 66.92 1135.29 66.94 1131.3 62.54 1137.56 51.11 1145.93 57.26 1145.98 50.82 1160.15 53.24 1168.87 46.75 m 1113.51 60.02 l 1110.58 65.87 1110.4 59.31
 Dialogue: 1,0:18:50.03,0:18:52.65,Signs,,0,0,0,,{\an7\blur5\c&HF1F1F1&\pos(0,0)\p1}m 935.83 107.07 l 927.14 116.09 926.79 110.04 933.96 107.01 m 1254.66 37.97 l 1259.9 41.34 1259.45 52.64 1242.13 65.08 1239.12 62.01 1233.36 66.21 1220.28 62.08 1206.72 69.01 1196.55 58.44 1178.22 54.49 1171.75 58.26 1167.09 52.23 1148.16 57.38 1147.57 61.31 1139.82 58.1 1140.16 69.62 1119.99 69.15 1115.16 76.68 1102.64 75.28 1101.79 68.99 1096.12 64.96 1082.55 70.38 1071.77 69.24 1074.19 80.21 1057.48 78.22 1049.15 89.44 1043.51 86.89 1046.55 78.64 1043.57 75.75 1027.07 80.11 1020.37 87.67 996.25 81.69 989.01 84.1 987.13 74.56 983.13 72.62 982.08 78.92 977.91 77.92 981.04 79.48 980.51 86.22 973.45 84.6 972.31 76.57 968.36 75.62 961.43 87.37 955.54 77.58 955.75 85.56 961.39 89.1 955.22 97.3 956.6 104.6 945.96 101.89 929.79 104.91 927.94 94.14 935.32 90.82 924.59 89.96 921.32 109.44 908.38 108.67 899.07 101.75 913.88 92.44 899.67 97.39 897.76 91.82 883.84 93.41 884.07 87.89 894.51 81.14 878.34 83.4 870.61 89.56 864.75 82.96 865.94 77.33 851.14 76.34 849.98 69.93 844.23 72.25 837.52 68.27 832.22 73.09 835.4 67.02 821.56 60.28 825.06 65.62 819.35 70.72 803.78 68.27 807.67 58.74 793.04 57.87 767.91 66.07 759.18 58.58 739.25 61.44 739.24 55.55 732.33 62.43 722.73 46.39 724.32 39.78 732.55 38.12 1253.36 37.93 m 857.98 86.4 l 853.67 95.54 854.79 85.86 m 1039.36 88.76 l 1039.95 94.57 1032.48 93.08 1038.61 86.32 m 984.41 86.02 l 984.28 92.93 977.02 90.04 982.16 85.93 m 1035.29 80.06 l 1039.55 83.29 1030.36 82.45 1034.08 79.98 m 1167.85 55.8 l 1164.79 59.9 1165.64 55.27
-Dialogue: 2,0:18:50.03,0:18:52.65,Signs,,0,0,0,,{\blur0.6\fnA P-OTF Aoto Gothic StdN R Strp\fs85\c&H0D0D0D&\pos(960,400)\b0}They're thinking that having Okkotsu near Itadori \Nwould keep Fushiguro safe, but it would be \Nmore efficient for Okkotsu to act alone.
+Dialogue: 2,0:18:50.03,0:18:52.65,Signs,,0,0,0,,{\blur0.6\fnA P-OTF Aoto Gothic StdN R Strp\fs80\c&H0D0D0D&\pos(960,400)\b0}They're thinking that having Okkotsu near Itadori \Nwould keep Fushiguro safe, but it would be \Nmore efficient for Okkotsu to act alone.
 Dialogue: 0,0:18:50.03,0:18:50.07,f0ld3r-invisible,,0,0,0,,{=98}
 Dialogue: 0,0:12:27.98,0:12:28.02,f0ld3r-invisible,,0,0,0,,{=323}--Ep Title
 Dialogue: 1,0:12:27.98,0:12:30.98,jjk3-EpTitle,,0,0,0,,{\an5\blur2\fs64\pos(960,762)\alpha&H80&}Episode 50
@@ -555,8 +554,6 @@ Dialogue: 1,0:14:28.10,0:14:30.81,Signs,,0,0,0,,{\an8\blur1\fnMaiandra GD\fs48\f
 Dialogue: 0,0:14:26.14,0:14:28.10,f0ld3r-invisible,,0,0,0,,{=234}
 
 [Aegisub Extradata]
-Data: 0,_aegi_folddata,e0;1;1
-Data: 1,_aegi_folddata,e1;1;1
 Data: 2,_aegi_folddata,e0;1;2
 Data: 3,_aegi_folddata,e1;1;2
 Data: 6,_aegi_folddata,e0;1;3
@@ -567,46 +564,11 @@ Data: 26,_aegi_folddata,e0;1;7
 Data: 27,_aegi_folddata,e1;1;7
 Data: 97,_aegi_folddata,e0;1;5
 Data: 98,_aegi_folddata,e1;1;5
-Data: 119,_aegi_folddata,e0;1;16
-Data: 120,_aegi_folddata,e1;1;16
-Data: 127,_aegi_folddata,e0;1;18
-Data: 128,_aegi_folddata,e1;1;18
-Data: 135,_aegi_folddata,e0;1;20
-Data: 136,_aegi_folddata,e1;1;20
-Data: 139,_aegi_folddata,e0;1;21
-Data: 140,_aegi_folddata,e1;1;21
-Data: 141,_aegi_folddata,e0;1;22
-Data: 142,_aegi_folddata,e1;1;22
-Data: 145,_aegi_folddata,e0;1;23
-Data: 146,_aegi_folddata,e1;1;23
-Data: 165,_aegi_folddata,e0;1;24
-Data: 166,_aegi_folddata,e1;1;24
-Data: 170,a-mo,e{"uuid"#00"7e3609f7-8235-4acf-bb61-3c178288dece"#00"originalText"#00"{\\blur0.65\\an8\\pos(960#0012)\\fs120}entry"}
-Data: 205,_aegi_folddata,e0;1;17
-Data: 206,_aegi_folddata,e1;1;17
 Data: 233,_aegi_folddata,e0;1;10
 Data: 234,_aegi_folddata,e1;1;10
-Data: 241,_aegi_folddata,e0;1;26
-Data: 242,_aegi_folddata,e1;1;26
-Data: 313,_aegi_folddata,e0;0;25
-Data: 314,_aegi_folddata,e1;0;25
 Data: 323,_aegi_folddata,e0;1;6
 Data: 324,_aegi_folddata,e1;1;6
-Data: 347,_aegi_folddata,e0;1;19
-Data: 348,_aegi_folddata,e1;1;19
-Data: 349,_aegi_folddata,e0;1;15
-Data: 350,_aegi_folddata,e1;1;15
-Data: 351,_aegi_folddata,e0;0;26
-Data: 352,_aegi_folddata,e1;0;26
-Data: 353,_aegi_folddata,e0;1;27
-Data: 354,_aegi_folddata,e1;1;27
-Data: 355,_aegi_folddata,e0;0;22
-Data: 356,_aegi_folddata,e1;0;22
-Data: 357,_aegi_folddata,e0;0;27
-Data: 358,_aegi_folddata,e1;0;27
-Data: 359,_aegi_folddata,e0;1;25
-Data: 360,_aegi_folddata,e1;1;25
-Data: 361,_aegi_folddata,e0;0;3
-Data: 362,_aegi_folddata,e1;0;3
-Data: 363,_aegi_folddata,e0;0;6
-Data: 364,_aegi_folddata,e1;0;6
+Data: 325,_aegi_folddata,e0;0;1
+Data: 326,_aegi_folddata,e1;0;1
+Data: 327,_aegi_folddata,e0;1;1
+Data: 328,_aegi_folddata,e1;1;1
