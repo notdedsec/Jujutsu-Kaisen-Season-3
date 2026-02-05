@@ -87,10 +87,10 @@ def run_mux(ep: str):
     main_subs.change_layers()
 
     if episode.OP:
-        main_subs.merge(episode.OP.subs, 'opsync', 'sync')
+        main_subs.merge(episode.OP.subs, 'opsync', 'sync', episode.OP.encode, 1000)
 
     if episode.ED:
-        main_subs.merge(episode.ED.subs, 'edsync', 'sync')
+        main_subs.merge(episode.ED.subs, 'edsync', 'sync', episode.ED.encode, 1000)
 
     # if episode.EC:
     #     main_subs.merge(episode.EC.subs, 'ecsync')
