@@ -103,8 +103,8 @@ def run_mux(ep: str):
 
     muxfile = mux(
         Premux(episode.encode),
-        main_subs.to_track(f'{config.group_tag}', 'en'),
-        weeb_subs.to_track(f'{config.group_tag} (Honorifics)', 'enm'),
+        main_subs.to_track(f'{config.group_tag}', 'en', args=["--compression", f"0:zlib"]),
+        weeb_subs.to_track(f'{config.group_tag} (Honorifics)', 'enm', args=["--compression", f"0:zlib"]),
         *fonts,
         chapters,
     )
