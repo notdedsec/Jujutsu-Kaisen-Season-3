@@ -7,7 +7,7 @@ from muxtools.subtitle import _Line
 from vsmuxtools.utils.source import FileInfo, generate_keyframes
 
 from project_module.config import config
-from project_module.helpers import get_release, set_mkv_title
+from project_module.helpers import get_release
 from project_module.release.nyaa import upload_to_nyaa
 from project_module.release.torrent import create_torrent
 from project_module.source.getter import get_episode
@@ -79,8 +79,8 @@ def run_demux(ep: str):
 
 
 def run_mux(ep: str):
-    Setup(ep)
     episode = get_episode(ep)
+    Setup(ep, mkv_title_naming=f'{config.show_name} - {episode.number} - {episode.title}')
 
     main_subs = SubFile(sorted(episode.folder.glob(f'{config.show}_{episode.number}_subs*.ass')))
 
@@ -109,7 +109,7 @@ def run_mux(ep: str):
         chapters,
     )
 
-    set_mkv_title(muxfile, title=f'{config.show_name} - {episode.number} - {episode.title}')
+    print(f'Muxed file: {muxfile}')
 
 
 def sub_replace(ep: str, find: str, repl: str, style: str = 'default,alt'):

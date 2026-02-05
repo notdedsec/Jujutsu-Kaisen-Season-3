@@ -77,7 +77,3 @@ def parse_episode_arg(episode_arg: str) -> list[str]:
 
     return episodes
 
-
-def set_mkv_title(path: str | Path, title: str):
-    cmd = ['mkvpropedit', '--quiet', str(path), '--edit', 'info', '--set', f'title={title}']
-    subprocess.run(cmd, check=True)
