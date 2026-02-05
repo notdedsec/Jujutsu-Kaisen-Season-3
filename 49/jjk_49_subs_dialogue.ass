@@ -24,7 +24,7 @@ Video Position: 34361
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Cabin F,71,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.8,2,128,128,65,1
-Style: Alt,Cabin F,71,&H00FFFFFF,&H000000FF,&H003C3900,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.8,2,128,128,60,1
+Style: Alt,Cabin F,71,&H00FFFFFF,&H000000FF,&H003C3900,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.8,2,128,128,65,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -33,10 +33,10 @@ Comment: 0,0:01:29.99,0:02:05.56,Default,chptr,0,0,0,,{Part A}
 Comment: 0,0:15:43.01,0:15:43.05,Default,chptr,0,0,0,,{Part B}
 Comment: 0,0:22:10.02,0:22:10.06,Default,chptr,0,0,0,edsync,{Ending}
 Comment: 0,0:23:40.02,0:23:40.07,Default,chptr,0,0,0,,{Preview}
-Dialogue: 0,0:02:00.43,0:02:04.77,Default,Okkotsu,0,0,172,,{\c&H000000&}I'm sorry, Itadori{**-kun}.
-Dialogue: 1,0:02:00.43,0:02:04.77,Default,Okkotsu,0,0,172,,{\blur1\bord0\pos(959,908)\c&HD945FF&}I'm sorry, Itadori{**-kun}.
-Dialogue: 2,0:02:00.43,0:02:04.77,Default,Okkotsu,0,0,172,,{\blur1\bord0\pos(961,908)\c&H79FF46&}I'm sorry, Itadori{**-kun}.
-Dialogue: 3,0:02:00.43,0:02:04.77,Default,Okkotsu,0,0,172,,{\blur1\bord0\c&HFFFCF2&\t(820,1280,\c&HFFF3FB&)}I'm sorry, Itadori{**-kun}.
+Dialogue: 0,0:02:00.43,0:02:04.77,Default,Okkotsu,0,0,164,,{\c&H000000&}I'm sorry, Itadori{**-kun}.
+Dialogue: 1,0:02:00.43,0:02:04.77,Default,Okkotsu,0,0,164,,{\blur1\bord0\pos(959,908)\c&HD945FF&}I'm sorry, Itadori{**-kun}.
+Dialogue: 2,0:02:00.43,0:02:04.77,Default,Okkotsu,0,0,164,,{\blur1\bord0\pos(961,908)\c&H79FF46&}I'm sorry, Itadori{**-kun}.
+Dialogue: 3,0:02:00.43,0:02:04.77,Default,Okkotsu,0,0,164,,{\blur1\bord0\c&HFFFCF2&\t(820,1280,\c&HFFF3FB&)}I'm sorry, Itadori{**-kun}.
 Dialogue: 0,0:02:08.02,0:02:09.53,Default,Sukuna,0,0,0,,Tch.
 Dialogue: 0,0:02:42.10,0:02:43.27,Default,Choso,0,0,0,,{\i1}He's fast!
 Dialogue: 0,0:02:43.27,0:02:45.23,Default,Choso,0,0,0,,{\i1}I can't figure out the trick to his technique!
@@ -112,36 +112,36 @@ Dialogue: 0,0:08:47.67,0:08:51.30,Default,Okkotsu,0,0,0,,I can use my reverse cu
 Dialogue: 0,0:08:51.80,0:08:53.18,Default,Okkotsu,0,0,0,,In return,
 Dialogue: 0,0:08:53.64,0:08:59.23,Default,Okkotsu,0,0,0,,could you please report Itadori{**-kun}'s death \Nto the top brass, as well?
 Dialogue: 0,0:09:01.90,0:09:03.23,Default,Yuji's Grandfather,0,0,0,,{\alpha&H20&\fade(0,300)}Jin!
-Dialogue: 0,0:09:09.15,0:09:10.95,Default,Jin,0,0,172,,{\blur0.8\c&H000000&}What is it, Dad?
-Dialogue: 1,0:09:09.15,0:09:10.95,Default,Jin,0,0,172,,{\bord0\blur3\shad1.8\4a&HFF&\alpha&H80&}What is it, Dad?
-Dialogue: 2,0:09:09.15,0:09:10.95,Default,Jin,0,0,172,,{\bord0\blur0.6\shad1.8\4a&HFF&}What is it, Dad?
-Dialogue: 0,0:09:11.61,0:09:14.58,Default,Jin,0,0,172,,{\blur0.8\c&H000000&}If it's about her again, I'm leaving.
-Dialogue: 1,0:09:11.61,0:09:14.58,Default,Jin,0,0,172,,{\bord0\blur3\shad1.8\4a&HFF&\alpha&H80&}If it's about her again, I'm leaving.
-Dialogue: 2,0:09:11.61,0:09:14.58,Default,Jin,0,0,172,,{\bord0\blur0.6\shad1.8\4a&HFF&}If it's about her again, I'm leaving.
-Dialogue: 0,0:09:15.12,0:09:19.58,Default,Yuji's Grandfather,0,0,172,,{\blur0.8\c&H000000&}Jin, you're free to live your life \Nhowever you please,
-Dialogue: 1,0:09:15.12,0:09:19.58,Default,Yuji's Grandfather,0,0,172,,{\bord0\blur3\shad1.8\4a&HFF&\alpha&H80&}Jin, you're free to live your life \Nhowever you please,
-Dialogue: 2,0:09:15.12,0:09:19.58,Default,Yuji's Grandfather,0,0,172,,{\bord0\blur0.6\shad1.8\4a&HFF&}Jin, you're free to live your life \Nhowever you please,
-Dialogue: 0,0:09:20.29,0:09:23.83,Default,Yuji's Grandfather,0,0,172,,{\blur0.8\c&H000000&}but you have to stay away from her!
-Dialogue: 1,0:09:20.29,0:09:23.83,Default,Yuji's Grandfather,0,0,172,,{\bord0\blur3\shad1.8\4a&HFF&\alpha&H80&}but you have to stay away from her!
-Dialogue: 2,0:09:20.29,0:09:23.83,Default,Yuji's Grandfather,0,0,172,,{\bord0\blur0.6\shad1.8\4a&HFF&}but you have to stay away from her!
-Dialogue: 0,0:09:23.83,0:09:24.59,Default,Yuji's Grandfather,0,0,172,,{\blur0.8\c&H000000&}You'll die!
-Dialogue: 1,0:09:23.83,0:09:24.59,Default,Yuji's Grandfather,0,0,172,,{\bord0\blur3\shad1.8\4a&HFF&\alpha&H80&}You'll die!
-Dialogue: 2,0:09:23.83,0:09:24.59,Default,Yuji's Grandfather,0,0,172,,{\bord0\blur0.6\shad1.8\4a&HFF&}You'll die!
-Dialogue: 0,0:09:25.88,0:09:28.59,Default,Jin,0,0,172,,{\blur0.8\c&H000000&}Please stop saying such mean \Nthings in front of Yuji.
-Dialogue: 1,0:09:25.88,0:09:28.59,Default,Jin,0,0,172,,{\bord0\blur3\shad1.8\4a&HFF&\alpha&H80&}Please stop saying such mean \Nthings in front of Yuji.
-Dialogue: 2,0:09:25.88,0:09:28.59,Default,Jin,0,0,172,,{\bord0\blur0.6\shad1.8\4a&HFF&}Please stop saying such mean \Nthings in front of Yuji.
-Dialogue: 0,0:09:29.38,0:09:32.55,Default,Jin,0,0,172,,{\blur0.8\c&H000000&}They say babies remember \Nmore than we think.
-Dialogue: 1,0:09:29.38,0:09:32.55,Default,Jin,0,0,172,,{\bord0\blur3\shad1.8\4a&HFF&\alpha&H80&}They say babies remember \Nmore than we think.
-Dialogue: 2,0:09:29.38,0:09:32.55,Default,Jin,0,0,172,,{\bord0\blur0.6\shad1.8\4a&HFF&}They say babies remember \Nmore than we think.
-Dialogue: 0,0:09:33.09,0:09:39.48,Default,Yuji's Grandfather,0,0,172,,{\blur0.8\c&H000000&}I know you wanted a child \Nand that didn't happen with Kaori.
-Dialogue: 1,0:09:33.09,0:09:39.48,Default,Yuji's Grandfather,0,0,172,,{\bord0\blur3\shad1.8\4a&HFF&\alpha&H80&}I know you wanted a child \Nand that didn't happen with Kaori.
-Dialogue: 2,0:09:33.09,0:09:39.48,Default,Yuji's Grandfather,0,0,172,,{\bord0\blur0.6\shad1.8\4a&HFF&}I know you wanted a child \Nand that didn't happen with Kaori.
-Dialogue: 0,0:09:40.18,0:09:41.73,Default,Yuji's Grandfather,0,0,172,,{\blur0.8\c&H000000&}But Kaori died—
-Dialogue: 1,0:09:40.18,0:09:41.73,Default,Yuji's Grandfather,0,0,172,,{\bord0\blur3\shad1.8\4a&HFF&\alpha&H80&}But Kaori died—
-Dialogue: 2,0:09:40.18,0:09:41.73,Default,Yuji's Grandfather,0,0,172,,{\bord0\blur0.6\shad1.8\4a&HFF&}But Kaori died—
-Dialogue: 0,0:09:42.73,0:09:45.77,Default,Kaori,0,0,172,,{\blur0.8\c&H000000&}Father, what are you talking about?
-Dialogue: 1,0:09:42.73,0:09:45.77,Default,Kaori,0,0,172,,{\bord0\blur3\shad1.8\4a&HFF&\alpha&H80&}Father, what are you talking about?
-Dialogue: 2,0:09:42.73,0:09:45.77,Default,Kaori,0,0,172,,{\bord0\blur0.6\shad1.8\4a&HFF&}Father, what are you talking about?
+Dialogue: 0,0:09:09.15,0:09:10.95,Default,Jin,0,0,164,,{\blur0.8\c&H000000&}What is it, Dad?
+Dialogue: 1,0:09:09.15,0:09:10.95,Default,Jin,0,0,164,,{\bord0\blur3\shad1.8\4a&HFF&\alpha&H80&}What is it, Dad?
+Dialogue: 2,0:09:09.15,0:09:10.95,Default,Jin,0,0,164,,{\bord0\blur0.6\shad1.8\4a&HFF&}What is it, Dad?
+Dialogue: 0,0:09:11.61,0:09:14.58,Default,Jin,0,0,164,,{\blur0.8\c&H000000&}If it's about her again, I'm leaving.
+Dialogue: 1,0:09:11.61,0:09:14.58,Default,Jin,0,0,164,,{\bord0\blur3\shad1.8\4a&HFF&\alpha&H80&}If it's about her again, I'm leaving.
+Dialogue: 2,0:09:11.61,0:09:14.58,Default,Jin,0,0,164,,{\bord0\blur0.6\shad1.8\4a&HFF&}If it's about her again, I'm leaving.
+Dialogue: 0,0:09:15.12,0:09:19.58,Default,Yuji's Grandfather,0,0,164,,{\blur0.8\c&H000000&}Jin, you're free to live your life \Nhowever you please,
+Dialogue: 1,0:09:15.12,0:09:19.58,Default,Yuji's Grandfather,0,0,164,,{\bord0\blur3\shad1.8\4a&HFF&\alpha&H80&}Jin, you're free to live your life \Nhowever you please,
+Dialogue: 2,0:09:15.12,0:09:19.58,Default,Yuji's Grandfather,0,0,164,,{\bord0\blur0.6\shad1.8\4a&HFF&}Jin, you're free to live your life \Nhowever you please,
+Dialogue: 0,0:09:20.29,0:09:23.83,Default,Yuji's Grandfather,0,0,164,,{\blur0.8\c&H000000&}but you have to stay away from her!
+Dialogue: 1,0:09:20.29,0:09:23.83,Default,Yuji's Grandfather,0,0,164,,{\bord0\blur3\shad1.8\4a&HFF&\alpha&H80&}but you have to stay away from her!
+Dialogue: 2,0:09:20.29,0:09:23.83,Default,Yuji's Grandfather,0,0,164,,{\bord0\blur0.6\shad1.8\4a&HFF&}but you have to stay away from her!
+Dialogue: 0,0:09:23.83,0:09:24.59,Default,Yuji's Grandfather,0,0,164,,{\blur0.8\c&H000000&}You'll die!
+Dialogue: 1,0:09:23.83,0:09:24.59,Default,Yuji's Grandfather,0,0,164,,{\bord0\blur3\shad1.8\4a&HFF&\alpha&H80&}You'll die!
+Dialogue: 2,0:09:23.83,0:09:24.59,Default,Yuji's Grandfather,0,0,164,,{\bord0\blur0.6\shad1.8\4a&HFF&}You'll die!
+Dialogue: 0,0:09:25.88,0:09:28.59,Default,Jin,0,0,164,,{\blur0.8\c&H000000&}Please stop saying such mean \Nthings in front of Yuji.
+Dialogue: 1,0:09:25.88,0:09:28.59,Default,Jin,0,0,164,,{\bord0\blur3\shad1.8\4a&HFF&\alpha&H80&}Please stop saying such mean \Nthings in front of Yuji.
+Dialogue: 2,0:09:25.88,0:09:28.59,Default,Jin,0,0,164,,{\bord0\blur0.6\shad1.8\4a&HFF&}Please stop saying such mean \Nthings in front of Yuji.
+Dialogue: 0,0:09:29.38,0:09:32.55,Default,Jin,0,0,164,,{\blur0.8\c&H000000&}They say babies remember \Nmore than we think.
+Dialogue: 1,0:09:29.38,0:09:32.55,Default,Jin,0,0,164,,{\bord0\blur3\shad1.8\4a&HFF&\alpha&H80&}They say babies remember \Nmore than we think.
+Dialogue: 2,0:09:29.38,0:09:32.55,Default,Jin,0,0,164,,{\bord0\blur0.6\shad1.8\4a&HFF&}They say babies remember \Nmore than we think.
+Dialogue: 0,0:09:33.09,0:09:39.48,Default,Yuji's Grandfather,0,0,164,,{\blur0.8\c&H000000&}I know you wanted a child \Nand that didn't happen with Kaori.
+Dialogue: 1,0:09:33.09,0:09:39.48,Default,Yuji's Grandfather,0,0,164,,{\bord0\blur3\shad1.8\4a&HFF&\alpha&H80&}I know you wanted a child \Nand that didn't happen with Kaori.
+Dialogue: 2,0:09:33.09,0:09:39.48,Default,Yuji's Grandfather,0,0,164,,{\bord0\blur0.6\shad1.8\4a&HFF&}I know you wanted a child \Nand that didn't happen with Kaori.
+Dialogue: 0,0:09:40.18,0:09:41.73,Default,Yuji's Grandfather,0,0,164,,{\blur0.8\c&H000000&}But Kaori died—
+Dialogue: 1,0:09:40.18,0:09:41.73,Default,Yuji's Grandfather,0,0,164,,{\bord0\blur3\shad1.8\4a&HFF&\alpha&H80&}But Kaori died—
+Dialogue: 2,0:09:40.18,0:09:41.73,Default,Yuji's Grandfather,0,0,164,,{\bord0\blur0.6\shad1.8\4a&HFF&}But Kaori died—
+Dialogue: 0,0:09:42.73,0:09:45.77,Default,Kaori,0,0,164,,{\blur0.8\c&H000000&}Father, what are you talking about?
+Dialogue: 1,0:09:42.73,0:09:45.77,Default,Kaori,0,0,164,,{\bord0\blur3\shad1.8\4a&HFF&\alpha&H80&}Father, what are you talking about?
+Dialogue: 2,0:09:42.73,0:09:45.77,Default,Kaori,0,0,164,,{\bord0\blur0.6\shad1.8\4a&HFF&}Father, what are you talking about?
 Dialogue: 0,0:09:59.79,0:10:01.96,Default,Yuji,0,0,0,,Huh? I'm...
 Dialogue: 0,0:10:20.47,0:10:24.23,Default,Okkotsu,0,0,0,,Thank goodness!
 Dialogue: 0,0:10:30.57,0:10:32.49,Default,Okkotsu,0,0,0,,Around September, I think?
@@ -150,20 +150,20 @@ Dialogue: 0,0:10:36.32,0:10:38.62,Default,Okkotsu,0,0,0,,He asked me to take car
 Dialogue: 0,0:10:39.41,0:10:43.25,Default,Okkotsu,0,0,0,,So I had no choice but to put on that act.
 Dialogue: 0,0:10:43.58,0:10:44.83,Default,Yuji,0,0,0,,Act?
 Dialogue: 0,0:10:45.54,0:10:48.50,Default,Gojo,0,0,0,,I've got a {\i1}bit{\i0} of a bad feeling.
-Dialogue: 0,0:10:48.50,0:10:50.34,Default,Gojo,0,0,172,,If anything happens to me,
-Dialogue: 0,0:10:50.34,0:10:53.63,Default,Gojo,0,0,172,,I want you to take care of the \Nfirst- and second-years.
-Dialogue: 0,0:10:53.63,0:10:55.80,Default,Gojo,0,0,172,,Hakari will be fine, I guess.
-Dialogue: 0,0:10:56.51,0:10:58.14,Default,Okkotsu,0,0,172,,If anything happens?
-Dialogue: 0,0:10:58.14,0:10:59.51,Default,Okkotsu,0,0,172,,Like you getting a girlfriend? {better stick to this and make the joke land than leave it vague and ambiguous}
-Dialogue: 0,0:11:01.06,0:11:04.23,Default,Gojo,0,0,172,,You've learned to joke around, huh?
-Dialogue: 0,0:11:04.23,0:11:08.48,Default,Okkotsu,0,0,172,,Well, I just can't imagine anything happening to you.
-Dialogue: 0,0:11:09.82,0:11:12.23,Default,Gojo,0,0,172,,Especially the first-year, Itadori Yuji.
-Dialogue: 0,0:11:12.23,0:11:16.61,Default,Gojo,0,0,172,,He was set up for a secret execution, just like you.
-Dialogue: 0,0:11:16.61,0:11:19.24,Default,Gojo,0,0,172,,It'd be a big help if you looked out for him.
-Dialogue: 0,0:11:19.66,0:11:20.49,Default,Gojo,0,0,172,,Huh?
-Dialogue: 0,0:11:20.49,0:11:21.58,Default,Gojo,0,0,172,,Where's Miguel?
-Dialogue: 0,0:11:21.58,0:11:23.83,Default,Okkotsu,0,0,172,,He said he didn't want to see you.
-Dialogue: 0,0:11:23.83,0:11:24.91,Default,Gojo,0,0,172,,Oh.
+Dialogue: 0,0:10:48.50,0:10:50.34,Default,Gojo,0,0,164,,If anything happens to me,
+Dialogue: 0,0:10:50.34,0:10:53.63,Default,Gojo,0,0,164,,I want you to take care of the \Nfirst- and second-years.
+Dialogue: 0,0:10:53.63,0:10:55.80,Default,Gojo,0,0,164,,Hakari will be fine, I guess.
+Dialogue: 0,0:10:56.51,0:10:58.14,Default,Okkotsu,0,0,164,,If anything happens?
+Dialogue: 0,0:10:58.14,0:10:59.51,Default,Okkotsu,0,0,164,,Like you getting a girlfriend? {better stick to this and make the joke land than leave it vague and ambiguous}
+Dialogue: 0,0:11:01.06,0:11:04.23,Default,Gojo,0,0,164,,You've learned to joke around, huh?
+Dialogue: 0,0:11:04.23,0:11:08.48,Default,Okkotsu,0,0,164,,Well, I just can't imagine anything happening to you.
+Dialogue: 0,0:11:09.82,0:11:12.23,Default,Gojo,0,0,164,,Especially the first-year, Itadori Yuji.
+Dialogue: 0,0:11:12.23,0:11:16.61,Default,Gojo,0,0,164,,He was set up for a secret execution, just like you.
+Dialogue: 0,0:11:16.61,0:11:19.24,Default,Gojo,0,0,164,,It'd be a big help if you looked out for him.
+Dialogue: 0,0:11:19.66,0:11:20.49,Default,Gojo,0,0,164,,Huh?
+Dialogue: 0,0:11:20.49,0:11:21.58,Default,Gojo,0,0,164,,Where's Miguel?
+Dialogue: 0,0:11:21.58,0:11:23.83,Default,Okkotsu,0,0,164,,He said he didn't want to see you.
+Dialogue: 0,0:11:23.83,0:11:24.91,Default,Gojo,0,0,164,,Oh.
 Dialogue: 0,0:11:25.83,0:11:28.71,Default,Okkotsu,0,0,0,,To prevent someone else from \Nbeing appointed as your executioner,
 Dialogue: 0,0:11:28.71,0:11:31.21,Default,Okkotsu,0,0,0,,or having information about you cut off,
 Dialogue: 0,0:11:31.21,0:11:34.13,Default,Okkotsu,0,0,0,,I decided that putting on this act \Nwas the best option.

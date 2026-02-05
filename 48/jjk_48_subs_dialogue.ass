@@ -95,38 +95,38 @@ Dialogue: 0,0:08:56.64,0:08:58.48,Default,Naoya,0,0,0,,Tokyo is pandemonium righ
 Dialogue: 0,0:08:59.10,0:09:01.85,Default,Naoya,0,0,0,,Anyone can die there at any time.
 Dialogue: 0,0:09:02.73,0:09:05.98,Default,Naoya,0,0,0,,Once I kill him, the rest will work itself out.
 Dialogue: 0,0:09:09.36,0:09:12.11,Default,Naoya,0,0,0,,{\i1}I'm{\i0} the head of the Zenin Clan!
-Dialogue: 0,0:09:21.75,0:09:22.71,Default,Yuji,0,0,172,,{\c&H000000&}I should've died.
-Dialogue: 0,0:09:23.63,0:09:24.88,Default,Yuji,0,0,172,,{\c&H000000&}It should've been me!
-Dialogue: 0,0:09:24.88,0:09:25.71,Default,Yuji,0,0,172,,{\c&H000000&}Just kill yourself!
-Dialogue: 0,0:09:22.88,0:09:24.59,Default,Yuji,0,0,172,,{\an8\c&H000000&}Kugisaki!
-Dialogue: 0,0:09:24.59,0:09:25.34,Default,Nanami,0,0,172,,{\an8\c&H000000&}You've got it from here.
-Dialogue: 0,0:09:25.34,0:09:25.96,Default,Kugisaki,0,0,172,,{\an8\c&H000000&}Itadori.
-Dialogue: 0,0:09:26.00,0:09:27.51,Default,Nanami,0,0,172,,{\c&H000000&}Itadori{**-kun}.
-Dialogue: 0,0:09:27.51,0:09:28.55,Default,Tsukumo,0,0,172,,{\c&H000000&}What will you do?
-Dialogue: 1,0:09:21.75,0:09:22.71,Default,Yuji,0,0,172,,{\blur0.8\bord0\c&HD945FF&\pos(958.5,908)}I should've died.
-Dialogue: 1,0:09:23.63,0:09:24.88,Default,Yuji,0,0,172,,{\blur0.8\bord0\c&HD945FF&\pos(958.5,908)}It should've been me!
-Dialogue: 1,0:09:24.88,0:09:25.71,Default,Yuji,0,0,172,,{\blur0.8\bord0\c&HD945FF&\pos(958.5,908)}Just kill yourself!
-Dialogue: 1,0:09:22.88,0:09:24.59,Default,Yuji,0,0,172,,{\an8\blur0.8\bord0\c&HD945FF&\pos(958.5,172)}Kugisaki!
-Dialogue: 1,0:09:24.59,0:09:25.34,Default,Nanami,0,0,172,,{\an8\blur0.8\bord0\c&HD945FF&\pos(958.5,172)}You've got it from here.
-Dialogue: 1,0:09:25.34,0:09:25.96,Default,Kugisaki,0,0,172,,{\an8\blur0.8\bord0\c&HD945FF&\pos(958.5,172)}Itadori.
-Dialogue: 1,0:09:26.00,0:09:27.51,Default,Nanami,0,0,172,,{\blur0.8\bord0\c&HD945FF&\pos(958.5,908)}Itadori{**-kun}.
-Dialogue: 1,0:09:27.51,0:09:28.55,Default,Tsukumo,0,0,172,,{\blur0.8\bord0\c&HD945FF&\pos(958.5,908)}What will you do?
-Dialogue: 2,0:09:21.75,0:09:22.71,Default,Yuji,0,0,172,,{\blur0.8\bord0\c&H79FF46&\pos(961.5,908)}I should've died.
-Dialogue: 2,0:09:23.63,0:09:24.88,Default,Yuji,0,0,172,,{\blur0.8\bord0\c&H79FF46&\pos(961.5,908)}It should've been me!
-Dialogue: 2,0:09:24.88,0:09:25.71,Default,Yuji,0,0,172,,{\blur0.8\bord0\c&H79FF46&\pos(961.5,908)}Just kill yourself!
-Dialogue: 2,0:09:22.88,0:09:24.59,Default,Yuji,0,0,172,,{\an8\blur0.8\bord0\c&H79FF46&\pos(961.5,172)}Kugisaki!
-Dialogue: 2,0:09:24.59,0:09:25.34,Default,Nanami,0,0,172,,{\an8\blur0.8\bord0\c&H79FF46&\pos(961.5,172)}You've got it from here.
-Dialogue: 2,0:09:25.34,0:09:25.96,Default,Kugisaki,0,0,172,,{\an8\blur0.8\bord0\c&H79FF46&\pos(961.5,172)}Itadori.
-Dialogue: 2,0:09:26.00,0:09:27.51,Default,Nanami,0,0,172,,{\blur0.8\bord0\c&H79FF46&\pos(961.5,908)}Itadori{**-kun}.
-Dialogue: 2,0:09:27.51,0:09:28.55,Default,Tsukumo,0,0,172,,{\blur0.8\bord0\c&H79FF46&\pos(961.5,908)}What will you do?
-Dialogue: 3,0:09:21.75,0:09:22.71,Default,Yuji,0,0,172,,{\blur0.8\bord0\c&HD3E8EA&}I should've died.
-Dialogue: 3,0:09:23.63,0:09:24.88,Default,Yuji,0,0,172,,{\blur0.8\bord0\c&HD3E8EA&}It should've been me!
-Dialogue: 3,0:09:24.88,0:09:25.71,Default,Yuji,0,0,172,,{\blur0.8\bord0\c&HD3E8EA&}Just kill yourself!
-Dialogue: 3,0:09:22.88,0:09:24.59,Default,Yuji,0,0,172,,{\an8\blur0.8\bord0\c&HD3E8EA&}Kugisaki!
-Dialogue: 3,0:09:24.59,0:09:25.34,Default,Nanami,0,0,172,,{\an8\blur0.8\bord0\c&HD3E8EA&}You've got it from here.
-Dialogue: 3,0:09:25.34,0:09:25.96,Default,Kugisaki,0,0,172,,{\an8\blur0.8\bord0\c&HD3E8EA&}Itadori.
-Dialogue: 3,0:09:26.00,0:09:27.51,Default,Nanami,0,0,172,,{\blur0.8\bord0\c&HD3E8EA&}Itadori{**-kun}.
-Dialogue: 3,0:09:27.51,0:09:28.55,Default,Tsukumo,0,0,172,,{\blur0.8\bord0\c&HD3E8EA&}What will you do?
+Dialogue: 0,0:09:21.75,0:09:22.71,Default,Yuji,0,0,164,,{\c&H000000&}I should've died.
+Dialogue: 0,0:09:23.63,0:09:24.88,Default,Yuji,0,0,164,,{\c&H000000&}It should've been me!
+Dialogue: 0,0:09:24.88,0:09:25.71,Default,Yuji,0,0,164,,{\c&H000000&}Just kill yourself!
+Dialogue: 0,0:09:22.88,0:09:24.59,Default,Yuji,0,0,164,,{\an8\c&H000000&}Kugisaki!
+Dialogue: 0,0:09:24.59,0:09:25.34,Default,Nanami,0,0,164,,{\an8\c&H000000&}You've got it from here.
+Dialogue: 0,0:09:25.34,0:09:25.96,Default,Kugisaki,0,0,164,,{\an8\c&H000000&}Itadori.
+Dialogue: 0,0:09:26.00,0:09:27.51,Default,Nanami,0,0,164,,{\c&H000000&}Itadori{**-kun}.
+Dialogue: 0,0:09:27.51,0:09:28.55,Default,Tsukumo,0,0,164,,{\c&H000000&}What will you do?
+Dialogue: 1,0:09:21.75,0:09:22.71,Default,Yuji,0,0,164,,{\blur0.8\bord0\c&HD945FF&\pos(958.5,908)}I should've died.
+Dialogue: 1,0:09:23.63,0:09:24.88,Default,Yuji,0,0,164,,{\blur0.8\bord0\c&HD945FF&\pos(958.5,908)}It should've been me!
+Dialogue: 1,0:09:24.88,0:09:25.71,Default,Yuji,0,0,164,,{\blur0.8\bord0\c&HD945FF&\pos(958.5,908)}Just kill yourself!
+Dialogue: 1,0:09:22.88,0:09:24.59,Default,Yuji,0,0,164,,{\an8\blur0.8\bord0\c&HD945FF&\pos(958.5,172)}Kugisaki!
+Dialogue: 1,0:09:24.59,0:09:25.34,Default,Nanami,0,0,164,,{\an8\blur0.8\bord0\c&HD945FF&\pos(958.5,172)}You've got it from here.
+Dialogue: 1,0:09:25.34,0:09:25.96,Default,Kugisaki,0,0,164,,{\an8\blur0.8\bord0\c&HD945FF&\pos(958.5,172)}Itadori.
+Dialogue: 1,0:09:26.00,0:09:27.51,Default,Nanami,0,0,164,,{\blur0.8\bord0\c&HD945FF&\pos(958.5,908)}Itadori{**-kun}.
+Dialogue: 1,0:09:27.51,0:09:28.55,Default,Tsukumo,0,0,164,,{\blur0.8\bord0\c&HD945FF&\pos(958.5,908)}What will you do?
+Dialogue: 2,0:09:21.75,0:09:22.71,Default,Yuji,0,0,164,,{\blur0.8\bord0\c&H79FF46&\pos(961.5,908)}I should've died.
+Dialogue: 2,0:09:23.63,0:09:24.88,Default,Yuji,0,0,164,,{\blur0.8\bord0\c&H79FF46&\pos(961.5,908)}It should've been me!
+Dialogue: 2,0:09:24.88,0:09:25.71,Default,Yuji,0,0,164,,{\blur0.8\bord0\c&H79FF46&\pos(961.5,908)}Just kill yourself!
+Dialogue: 2,0:09:22.88,0:09:24.59,Default,Yuji,0,0,164,,{\an8\blur0.8\bord0\c&H79FF46&\pos(961.5,172)}Kugisaki!
+Dialogue: 2,0:09:24.59,0:09:25.34,Default,Nanami,0,0,164,,{\an8\blur0.8\bord0\c&H79FF46&\pos(961.5,172)}You've got it from here.
+Dialogue: 2,0:09:25.34,0:09:25.96,Default,Kugisaki,0,0,164,,{\an8\blur0.8\bord0\c&H79FF46&\pos(961.5,172)}Itadori.
+Dialogue: 2,0:09:26.00,0:09:27.51,Default,Nanami,0,0,164,,{\blur0.8\bord0\c&H79FF46&\pos(961.5,908)}Itadori{**-kun}.
+Dialogue: 2,0:09:27.51,0:09:28.55,Default,Tsukumo,0,0,164,,{\blur0.8\bord0\c&H79FF46&\pos(961.5,908)}What will you do?
+Dialogue: 3,0:09:21.75,0:09:22.71,Default,Yuji,0,0,164,,{\blur0.8\bord0\c&HD3E8EA&}I should've died.
+Dialogue: 3,0:09:23.63,0:09:24.88,Default,Yuji,0,0,164,,{\blur0.8\bord0\c&HD3E8EA&}It should've been me!
+Dialogue: 3,0:09:24.88,0:09:25.71,Default,Yuji,0,0,164,,{\blur0.8\bord0\c&HD3E8EA&}Just kill yourself!
+Dialogue: 3,0:09:22.88,0:09:24.59,Default,Yuji,0,0,164,,{\an8\blur0.8\bord0\c&HD3E8EA&}Kugisaki!
+Dialogue: 3,0:09:24.59,0:09:25.34,Default,Nanami,0,0,164,,{\an8\blur0.8\bord0\c&HD3E8EA&}You've got it from here.
+Dialogue: 3,0:09:25.34,0:09:25.96,Default,Kugisaki,0,0,164,,{\an8\blur0.8\bord0\c&HD3E8EA&}Itadori.
+Dialogue: 3,0:09:26.00,0:09:27.51,Default,Nanami,0,0,164,,{\blur0.8\bord0\c&HD3E8EA&}Itadori{**-kun}.
+Dialogue: 3,0:09:27.51,0:09:28.55,Default,Tsukumo,0,0,164,,{\blur0.8\bord0\c&HD3E8EA&}What will you do?
 Dialogue: 0,0:09:53.61,0:09:54.66,Default,Choso,0,0,0,,Yuji.
 Dialogue: 0,0:09:56.12,0:09:57.95,Default,Choso,0,0,0,,How are your injuries?
 Dialogue: 0,0:09:59.20,0:10:03.12,Default,Yuji,0,0,0,,Other than the ones \Nfrom Black Flash, they're healed.
@@ -176,7 +176,7 @@ Dialogue: 0,0:14:16.04,0:14:17.38,Default,Naoya,0,0,0,,Not gonna run?
 Dialogue: 0,0:14:17.96,0:14:19.21,Default,Yuji,0,0,0,,Why would I?
 Dialogue: 0,0:14:19.21,0:14:20.92,Default,Naoya,0,0,0,,What, you don't know?
 Dialogue: 0,0:14:21.34,0:14:26.39,Default,Naoya,0,0,0,,You're marked for execution, \Nnow that Satoru{**-kun}'s protection is gone.
-Dialogue: 0,0:14:29.22,0:14:34.48,Default,Ino,0,0,172,,{\i1}His whims and influence have saved many a sorcerer!
+Dialogue: 0,0:14:29.22,0:14:34.48,Default,Ino,0,0,164,,{\i1}His whims and influence have saved many a sorcerer!
 Dialogue: 0,0:14:34.48,0:14:40.15,Default,Naoya,0,0,0,,My business is with Megumi{**-kun}, so to be blunt, \NI couldn't care less if you live or die.
 Dialogue: 0,0:14:40.15,0:14:45.11,Default,Naoya,0,0,0,,Don't want you running around willy-nilly, though, \Nso I'm gonna break your legs for now.
 Dialogue: 0,0:14:45.49,0:14:47.62,Default,Yuji,0,0,0,,What do you want with Fushiguro?
@@ -260,8 +260,8 @@ Dialogue: 0,0:19:33.61,0:19:36.78,Default,Okkotsu,0,0,0,,He's the best there is 
 Dialogue: 0,0:19:36.78,0:19:40.70,Default,Okkotsu,0,0,0,,I can run out of cursed energy, but not him.
 Dialogue: 0,0:19:41.87,0:19:43.79,Default,Okkotsu,0,0,0,,And now, I'm done talking.
 Dialogue: 1,0:19:49.50,0:19:50.34,Default,Yuji,0,0,0,,{\fade(0,200)\i1}Shit!
-Dialogue: 0,0:19:50.21,0:19:54.26,Default,Todo,0,0,172,,{\fade(1000,0)\i1}The flow of cursed energy \Nof an elite sorcerer is difficult to read, {update s1}
-Dialogue: 0,0:19:54.26,0:19:56.17,Default,Todo,0,0,172,,{\i1}but for different reasons than yours.
+Dialogue: 0,0:19:50.21,0:19:54.26,Default,Todo,0,0,164,,{\fade(1000,0)\i1}The flow of cursed energy \Nof an elite sorcerer is difficult to read, {update s1}
+Dialogue: 0,0:19:54.26,0:19:56.17,Default,Todo,0,0,164,,{\i1}but for different reasons than yours.
 Dialogue: 0,0:19:56.17,0:19:59.68,Default,Yuji,0,0,0,,{\i1}{\an8}That's because an elite sorcerer \Ncan manipulate cursed energy more precisely.
 Dialogue: 0,0:19:59.68,0:20:02.93,Default,Yuji,0,0,0,,{\i1}{\an8}Meaning you can't predict their attacks\N until the last second.
 Dialogue: 0,0:20:04.81,0:20:06.18,Default,Yuji,0,0,0,,{\i1}But this guy...
@@ -269,10 +269,10 @@ Dialogue: 0,0:20:06.18,0:20:10.44,Default,Yuji,0,0,0,,{\i1}His entire body, even
 Dialogue: 0,0:20:10.44,0:20:13.23,Default,Yuji,0,0,0,,{\i1}Reading his movements is out of the question!
 Dialogue: 0,0:20:13.65,0:20:16.19,Default,Yuji,0,0,0,,{\i1}Any of his attacks can be fatal!
 Dialogue: 0,0:20:16.19,0:20:19.45,Default,Yuji,0,0,0,,{\i1}And he can minimize any damage he takes, too.
-Dialogue: 0,0:20:19.87,0:20:21.20,Default,Nanami,0,0,172,,You've got it from here.
-Dialogue: 1,0:20:19.87,0:20:21.20,Default,Nanami,0,0,172,,{\blur0.8\bord0\c&HD945FF&\pos(958.5,908)}You've got it from here.
-Dialogue: 2,0:20:19.87,0:20:21.20,Default,Nanami,0,0,172,,{\blur0.8\bord0\c&H79FF46&\pos(961.5,908)}You've got it from here.
-Dialogue: 3,0:20:19.87,0:20:21.20,Default,Nanami,0,0,172,,{\blur0.8\bord0\c&HC1D2D0&}You've got it from here.
+Dialogue: 0,0:20:19.87,0:20:21.20,Default,Nanami,0,0,164,,You've got it from here.
+Dialogue: 1,0:20:19.87,0:20:21.20,Default,Nanami,0,0,164,,{\blur0.8\bord0\c&HD945FF&\pos(958.5,908)}You've got it from here.
+Dialogue: 2,0:20:19.87,0:20:21.20,Default,Nanami,0,0,164,,{\blur0.8\bord0\c&H79FF46&\pos(961.5,908)}You've got it from here.
+Dialogue: 3,0:20:19.87,0:20:21.20,Default,Nanami,0,0,164,,{\blur0.8\bord0\c&HC1D2D0&}You've got it from here.
 Dialogue: 0,0:20:21.95,0:20:25.70,Default,Yuji,0,0,0,,Sorry, but I can't afford to die just yet!
 Dialogue: 0,0:20:33.38,0:20:37.55,Default,Gojo,0,0,0,,Some center their training around the use of a weapon,
 Dialogue: 0,0:20:38.88,0:20:43.39,Default,Gojo,0,0,0,,but I don't want you relying on cursed tools \Nand neglecting cursed energy manipulation.
