@@ -1,11 +1,12 @@
 from vsaa import based_aa
 from vsdeband import Grainer, deband_detail_mask, f3k_deband
 from vsdehalo import fine_dehalo
-from vsdenoise import MVToolsPreset, Prefilter, bm3d, frequency_merge, mc_degrain, nl_means
+from vsdenoise import MVToolsPreset, Prefilter, bm3d, mc_degrain, nl_means
 from vskernels import Bilinear, Hermite
 from vsmasktools import Morpho
 from vsmuxtools import FileInfo
 from vspreview import is_preview
+from vsrgtools import MeanMode
 from vsscale import ArtCNN, Rescale
 from vstools import core, replace_ranges, set_output, vs
 
@@ -21,14 +22,7 @@ def merge(episode: Episode) -> vs.VideoNode:
     dp = FileInfo(episode.DP, trim=(24, None)).init_cut()
     nf = FileInfo(episode.NF, trim=(24, None)).init_cut()
 
-    def lowpass(clip):
-        return core.std.BoxBlur(
-            clip,
-            hradius=3, vradius=3,
-            hpasses=2, vpasses=2,
-        )
-
-    out = frequency_merge(cr, dp, nf, lowpass=lowpass)
+    out = MeanMode.LEHMER(cr, dp, nf, planes=[0])
 
     if is_preview():
         set_output(cr, 'crunchyroll')
@@ -82,7 +76,7 @@ def rescale(clip: vs.VideoNode, skip_ranges: FrameRanges = None) -> vs.VideoNode
 
 
 def denoise(clip: vs.VideoNode, skip_ranges: FrameRanges = None, scene_filter: SceneRanges = None) -> vs.VideoNode:
-    def _denoise(thsad: int = 100, sigma: float = 0.75, h: float = 0.25) -> vs.VideoNode:
+    def _denoise(thsad: int = 80, sigma: float = 0.55, h: float = 0.25) -> vs.VideoNode:
         ref = mc_degrain(
             clip,
             prefilter=Prefilter.DFTTEST,
@@ -145,7 +139,7 @@ def deband(clip: vs.VideoNode, skip_ranges: FrameRanges = None, scene_filter: Sc
         brz=(0.01, 0.025),
     )
 
-    def _deband(radius: int = 16, thr: int = 96) -> vs.VideoNode:
+    def _deband(radius: int = 16, thr: int = 80) -> vs.VideoNode:
         out = f3k_deband(
             clip,
             radius=radius,
@@ -172,7 +166,7 @@ def deband(clip: vs.VideoNode, skip_ranges: FrameRanges = None, scene_filter: Sc
 def grain(clip: vs.VideoNode) -> vs.VideoNode:
     out = Grainer.FBM_SIMPLEX(
         clip,
-        strength=[2.5, 0],
+        strength=[2.25, 0],
     )
 
     if is_preview():
