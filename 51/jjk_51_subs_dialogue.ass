@@ -16,26 +16,26 @@ Audio File: jjk_51_premux.mkv
 Video File: jjk_51_premux.mkv
 Keyframes File: jjk_51_keyframes.txt
 Video AR Value: 1.777778
-Video Zoom Percent: 0.750000
-Scroll Position: 171
-Active Line: 173
-Video Position: 20542
+Video Zoom Percent: 0.625000
+Scroll Position: 132
+Active Line: 137
+Video Position: 17271
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Cabin F,71,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.8,2,128,128,60,1
-Style: Alt,Cabin F,71,&H00FFFFFF,&H000000FF,&H003C3900,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.8,2,128,128,60,1
+Style: Default,Cabin F,71,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.8,2,128,128,65,1
+Style: Alt,Cabin F,71,&H00FFFFFF,&H000000FF,&H003C3900,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.8,2,128,128,65,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.02,Default,chptr,0,0,0,opsync,{Opening}
 Comment: 0,0:01:29.99,0:02:05.56,Default,chptr,0,0,0,,{Part A}
 Comment: 0,0:13:39.97,0:13:40.01,Default,chptr,0,0,0,,{Part B}
-Comment: 0,0:26:19.97,0:26:20.06,Default,chptr,0,0,0,edsync,{Ending}
+Comment: 0,0:26:19.89,0:26:20.06,Default,chptr,0,0,0,edsync,{Ending}
 Comment: 0,0:27:49.98,0:27:50.06,Default,chptr,0,0,0,,{Preview}
-Dialogue: 0,0:01:42.33,0:01:44.50,Default,Naoya,0,0,140,,Almost didn't recognize you!
-Dialogue: 0,0:01:45.04,0:01:48.50,Default,Naoya,0,0,140,,Yikes, what a face. That ain't gonna heal.
-Dialogue: 0,0:01:48.50,0:01:50.47,Default,Naoya,0,0,140,,What're you gonna do now, Maki{**-chan}?
+Dialogue: 0,0:01:42.33,0:01:44.50,Default,Naoya,0,0,132,,Almost didn't recognize you!
+Dialogue: 0,0:01:45.04,0:01:48.50,Default,Naoya,0,0,132,,Yikes, what a face. That ain't gonna heal.
+Dialogue: 0,0:01:48.50,0:01:50.47,Default,Naoya,0,0,132,,What're you gonna do now, Maki{**-chan}?
 Dialogue: 0,0:01:51.34,0:01:54.22,Default,Maki,0,0,0,,You can actually tell women apart by their faces?
 Dialogue: 0,0:01:54.22,0:01:56.85,Default,Maki,0,0,0,,I thought you only saw their asses.
 Dialogue: 0,0:02:05.86,0:02:08.52,Default,Naoya,0,0,0,,I asked you a question.
@@ -60,7 +60,7 @@ Dialogue: 0,0:02:57.62,0:02:59.83,Default,Fushiguro,0,0,164,,No thanks. It'll ju
 Dialogue: 0,0:02:59.83,0:03:01.95,Default,Maki,0,0,164,,Sorry, but you've got to do it.
 Dialogue: 0,0:03:02.45,0:03:07.13,Default,Maki,0,0,164,,Naobito said he'd pass on\Nall of the Zenin clan's assets to you.
 Dialogue: 0,0:03:07.13,0:03:08.67,Default,Maki,0,0,164,,Both the money and the cursed tools.
-Dialogue: 0,0:03:08.67,0:03:12.88,Default,Maki,0,0,164,,As the clan head, you can get info on \Nthe Three Great clans and headquarters too.
+Dialogue: 0,0:03:08.67,0:03:12.88,Default,Maki,0,0,164,,As the clan head, you can get info on \Nthe Three Great Clans and headquarters too. {How can just "Three Great" be a proper noun? Even the final sign uses caps for Clan.} {my bad i did a find replace on Clan}
 Dialogue: 0,0:03:12.88,0:03:15.63,Default,Maki,0,0,164,,It'll make a huge difference in\Nwhat we can do from here on.
 Dialogue: 0,0:03:15.63,0:03:17.59,Default,Fushiguro,0,0,164,,Then you do it, Maki{**-san}.
 Dialogue: 0,0:03:17.59,0:03:18.97,Default,Fushiguro,0,0,164,,I pass it on to you.
@@ -68,7 +68,7 @@ Dialogue: 0,0:03:18.97,0:03:23.06,Default,Maki,0,0,164,,No one would accept me r
 Dialogue: 0,0:03:23.06,0:03:25.64,Default,Maki,0,0,164,,You, on the other hand, have the hereditary technique.
 Dialogue: 0,0:03:25.64,0:03:27.90,Default,Maki,0,0,164,,You can activate your domain as well.
 Dialogue: 0,0:03:27.90,0:03:29.69,Default,Maki,0,0,164,,And Satoru favored you. {and the attention you received from Satoru}
-Dialogue: 0,0:03:29.69,0:03:32.11,Default,Maki,0,0,164,,All this creates a hand \Nthat barely wins you acceptance.
+Dialogue: 0,0:03:29.69,0:03:32.11,Default,Maki,0,0,164,,All this gives you a hand \Nthat wins you acceptance by a hair.
 Dialogue: 0,0:03:33.61,0:03:35.36,Default,Fushiguro,0,0,164,,Their acceptance?
 Dialogue: 0,0:03:35.36,0:03:38.82,Default,Fushiguro,0,0,164,,Does it even matter what \Nthe members of the Zenin clan think?
 Dialogue: 0,0:03:39.32,0:03:43.12,Default,Fushiguro,0,0,164,,You'd get the same benefits \Nif you became the head, wouldn't you?
@@ -84,7 +84,7 @@ Dialogue: 0,0:04:41.14,0:04:44.39,Default,Naoya,0,0,0,,Should've told me from th
 Dialogue: 0,0:04:44.39,0:04:46.89,Default,Jinichi,0,0,0,,You just jumped the gun.
 Dialogue: 0,0:04:46.89,0:04:50.23,Default,Jinichi,0,0,0,,Maybe Fushiguro Megumi \Nwould indeed be better than you.
 Dialogue: 0,0:04:50.23,0:04:51.48,Default,Naoya,0,0,0,,Huh?!
-Dialogue: 0,0:04:51.48,0:04:56.73,Default,Jinichi,0,0,0,,More than a few voices are pushing for him \Nas a chance to repair relations with the Gojo clan.
+Dialogue: 0,0:04:51.48,0:04:56.73,Default,Jinichi,0,0,0,,More than a few voices are pushing for him \Nas a way to repair relations with the Gojo clan.
 Dialogue: 0,0:04:56.73,0:05:02.11,Default,Jinichi,0,0,0,,Though there's no way we could accept \Nall the assets being passed on to Fushiguro Megumi.
 Dialogue: 0,0:05:02.11,0:05:04.08,Default,Naoya,0,0,0,,Then why're you dragging your feet?
 Dialogue: 0,0:05:04.08,0:05:08.58,Default,Jinichi,0,0,0,,Because in addition to the Gojo clan, \NFushiguro Megumi has built an effective relationship
@@ -95,7 +95,7 @@ Dialogue: 0,0:05:20.93,0:05:23.43,Default,Naoya,0,0,0,,I get all that, but why n
 Dialogue: 0,0:05:23.43,0:05:26.35,Default,Jinichi,0,0,0,,You clearly haven't read the notices\Nfrom headquarters, have you?
 Dialogue: 0,0:05:26.72,0:05:28.43,Default,Jinichi,0,0,0,,We can use this to our advantage.
 Dialogue: 0,0:05:28.43,0:05:34.69,Default,Jinichi,0,0,0,,By framing them as traitors plotting to release Gojo Satoru, \Nwe can execute Fushiguro Megumi, Maki, and Mai.
-Dialogue: 0,0:05:36.36,0:05:40.15,Default,Naoya,0,0,0,,Killing his own daughters sure adds believability.
+Dialogue: 0,0:05:36.36,0:05:40.15,Default,Naoya,0,0,0,,Killing his own daughters sure adds credibility.
 Dialogue: 0,0:05:40.15,0:05:40.99,Default,Jinichi,0,0,0,,Yeah.
 Dialogue: 0,0:05:40.99,0:05:44.70,Default,Jinichi,0,0,0,,It would strengthen \Nthe headquarters' trust in us as well.
 Dialogue: 0,0:05:44.70,0:05:48.29,Default,Naoya,0,0,0,,Is old man Ogi okay with that, though?
@@ -103,7 +103,7 @@ Dialogue: 0,0:05:48.29,0:05:49.75,Default,Jinichi,0,0,0,,It was his idea. {CR: O
 Dialogue: 0,0:05:49.75,0:05:52.46,Default,Ogi,0,0,0,,There are no cursed tools here, Maki.
 Dialogue: 0,0:05:52.46,0:05:55.92,Default,Ogi,0,0,0,,We emptied it out \Nin anticipation of your intentions.
 Dialogue: 0,0:05:59.46,0:06:03.01,Default,Mai,0,0,0,,Why did you come here, idiot?
-Dialogue: 0,0:06:21.03,0:06:27.33,Default,Ogi,0,0,0,,Do you know why the former head of the clan \Nwas my older brother, Naobito, and not me?
+Dialogue: 0,0:06:21.03,0:06:27.33,Default,Ogi,0,0,0,,Do you know why the former head of the clan \Nwas my older brother, Naobito, and not me?{Older? Then isn't that natural hierarchy, wouldn't the older brother become the head anyway? All this made me feel like he must've been talking about his younger brother. So IDK if this is a mistake.} {idt they care about birth order, only strength, they're progressive like that :)}
 Dialogue: 0,0:06:27.33,0:06:30.20,Default,Maki,0,0,0,,Because you're an asshole who'd \Nmurder his own children?
 Dialogue: 0,0:06:45.47,0:06:48.80,Default,Ogi,0,0,0,,Why was I passed over for clan head?
 Dialogue: 0,0:06:48.80,0:06:49.43,Default,Maki,0,0,0,,{\i1}How?!
@@ -116,7 +116,7 @@ Dialogue: 0,0:07:13.25,0:07:15.50,Default,Ogi,0,0,0,,This is why you're hopeless
 Dialogue: 0,0:07:16.04,0:07:18.71,Default,Ogi,0,0,0,,I'm not a swordsman. I'm a sorcerer.
 Dialogue: 0,0:07:18.71,0:07:23.17,Default,Ogi,0,0,0,,Do not presume to judge me \Nby the standards of a failure. It's absurd. {CR: Trying to gauge me by the standards of such a failure is absolutely ridiculous!}
 Dialogue: 0,0:07:23.17,0:07:25.01,Default,Ogi,0,0,0,,I'll say it as many times as I must.
-Dialogue: 0,0:07:25.01,0:07:29.68,Default,Ogi,0,0,0,,I wasn't chosen as the former head of the clan \Nbecause of you two.
+Dialogue: 0,0:07:25.01,0:07:29.68,Default,Ogi,0,0,0,,I wasn't chosen as the head of the clan \Nbecause of you two. {Getting chosen as the "former head" is kind of a hilarious position. "I wasn't chosen as the head of the clan" is enough past tense, no? Or "I wasn't chosen as the head of the clan at that time because of you two"} {right. still there's ambiguity if we drop "former" bc then it could mean he was competing with naoya. well, i'll just let context handle it}
 Dialogue: 0,0:07:29.68,0:07:32.60,Default,Ogi,0,0,0,,My older brother's technique\Nhad a shallow history.
 Dialogue: 0,0:07:32.60,0:07:36.52,Default,Ogi,0,0,0,,The techniques we inherited \Nwere never the point of contention.
 Dialogue: 0,0:07:36.52,0:07:42.27,Default,Ogi,0,0,0,,As a sorcerer, I never lagged behind him\Nin any respect but one:
@@ -162,7 +162,7 @@ Dialogue: 0,0:11:34.26,0:11:38.43,Default,Mai,0,0,0,,So long as I exist, you'll 
 Dialogue: 0,0:11:38.43,0:11:39.64,Default,Maki,0,0,0,,I get it!
 Dialogue: 0,0:11:40.72,0:11:41.81,Default,Maki,0,0,0,,Just come back!
 Dialogue: 0,0:11:42.89,0:11:44.81,Default,Mai,0,0,0,,This is all I'll leave you with.
-Dialogue: 0,0:11:44.81,0:11:46.14,Default,Mai,0,0,0,,Cast off the rest. {weird line this one}
+Dialogue: 0,0:11:44.81,0:11:46.14,Default,Mai,0,0,0,,Cast off the rest. {weird line this one} {it could imply that this was a binding vow to take away whatever little ce maki has in exchange for the reed that grows into the soul split katana. i highly doubt that simply killing one of the twins would make the other stronger because if that was the case the zenins would have done it a long time ago. there has to be something more to it and i think it is this.}
 Dialogue: 0,0:11:50.27,0:11:54.82,Default,Mai,0,0,0,,I'll take it all with me, \Nthe cursed energy and everything else.
 Dialogue: 0,0:11:55.74,0:11:58.61,Default,Mai,0,0,0,,Just promise me one thing.
 Dialogue: 0,0:12:00.32,0:12:03.16,Default,Mai,0,0,0,,Destroy everything.
@@ -194,14 +194,14 @@ Dialogue: 0,0:13:48.22,0:13:50.39,Default,Naoya,0,0,0,,Why's it so noisy?
 Dialogue: 0,0:13:53.19,0:13:54.31,Default,Ranta,0,0,0,,{*}Master Jinichi{*Jinichi-san}!
 Dialogue: 0,0:13:54.31,0:13:55.98,Default,Ranta,0,0,0,,Maki has lost her mind!
 Dialogue: 0,0:13:55.98,0:13:57.19,Default,Ranta,0,0,0,,She murdered {*}Master Ogi{*Ogi-san}!
-Dialogue: 0,0:13:57.19,0:13:59.94,Default,Ranta,0,0,0,,The Kukuru Unit is moving in on her at the moment!
+Dialogue: 0,0:13:57.19,0:13:59.94,Default,Ranta,0,0,0,,The Kukuru Unit is closing in on her at the moment!
 Dialogue: 0,0:13:59.94,0:14:04.91,Default,Nobuaki,0,0,0,,I guess even Ogi{**-san} can be caught off-guard \Nif he's attacked in his sleep or while on the toilet.
 Dialogue: 0,0:14:05.32,0:14:07.16,Default,Nobuaki,0,0,0,,Capture her before I get there.
 Dialogue: 0,0:14:07.16,0:14:08.16,Default,KukuruUnit,0,0,0,,Yes, sir!
 Dialogue: 0,0:14:08.16,0:14:12.62,Default,Nobuaki,0,0,0,,If you dawdle too much, \NI'll be the one Jinichi chews out as your captain.
 Dialogue: 0,0:14:13.12,0:14:14.88,Default,Nobuaki,0,0,0,,{\an8}Oh, don't kill her.
 Dialogue: 0,0:14:14.88,0:14:16.17,Default,Nobuaki,0,0,0,,{\an8}I'll finish her off myself.
-Dialogue: 0,0:14:16.75,0:14:17.38,Default,Nobuaki,0,0,8,,Are you listening? {this line is on screen maybe we can skip it}
+Dialogue: 0,0:14:16.75,0:14:17.38,Default,Nobuaki,0,0,8,,Are you listening? {this line is on screen maybe we can skip it} {i'm keeping it for technical reasons, like technically there should be subs for whatever's said}
 Dialogue: 0,0:14:17.80,0:14:18.92,Default,Kukuru,0,0,0,,Yes, sir!
 Dialogue: 0,0:14:18.92,0:14:19.76,Default,Kukuru,0,0,0,,Move it, move it!
 Dialogue: 0,0:14:16.17,0:14:17.38,Default,Narrator,0,0,0,,{\an8}The Kukuru Unit.
@@ -212,11 +212,13 @@ Dialogue: 0,0:14:26.93,0:14:27.93,Default,Naoya,0,0,164,,What're you gonna do?
 Dialogue: 0,0:14:27.93,0:14:29.89,Default,Maki,0,0,0,,{\i1}I wonder what I wanted to do.
 Dialogue: 0,0:14:29.89,0:14:33.02,Default,Kukuru,0,0,0,,Visual confirmation of two unidentified cursed tools!
 Dialogue: 0,0:14:33.02,0:14:36.69,Default,Narrator,0,0,0,,{\an8}Maki had also been a member until she joined Jujutsu Tech.
-Dialogue: 0,0:14:37.02,0:14:41.03,Default,Mai,0,0,140,,Why wouldn't you stay at the bottom with me?
+Comment: 0,0:14:37.02,0:14:41.03,Default,Mai,0,0,132,,Why wouldn't you stay at the bottom with me?
+Dialogue: 0,0:14:37.02,0:14:38.57,Default,Mai,0,0,132,,Why wouldn't you stay at the bottom with me?
+Dialogue: 0,0:14:38.57,0:14:41.03,Default,Mai,0,0,0,,Why wouldn't you stay at the bottom with me?
 Dialogue: 0,0:14:41.03,0:14:42.15,Default,Maki,0,0,0,,{\i1}You were right.
 Dialogue: 0,0:14:42.15,0:14:43.74,Default,Kukuru,0,0,0,,Surround her! Don't let her escape!
 Dialogue: 0,0:14:44.07,0:14:48.08,Default,Maki,0,0,0,,{\i1}I'm sure that would have been\Nthe right choice for us.
-Dialogue: 0,0:14:49.03,0:14:49.79,Default,Maki,0,0,36,,{\i1}I'm sorry.
+Dialogue: 0,0:14:49.03,0:14:49.79,Default,Maki,0,0,36,,{\i1}I'm sorry. {position not in frame?} {nuh-uh she's talking over the scene, not within it}
 Dialogue: 0,0:14:50.49,0:14:52.25,Default,Maki,0,0,0,,{\i1}I'm sorry, Mai.
 Dialogue: 0,0:14:52.25,0:14:53.33,Default,Kukuru,0,0,0,,Get her!
 Dialogue: 0,0:14:53.33,0:14:54.33,Default,Mai,0,0,164,,Promise me.
@@ -263,7 +265,7 @@ Dialogue: 0,0:21:07.91,0:21:08.25,Default,Maki,0,0,0,,{\i1}Eleven.
 Dialogue: 0,0:21:09.21,0:21:10.25,Default,Naoya,0,0,0,,{\i1}You!
 Dialogue: 0,0:21:14.29,0:21:15.21,Default,Naoya,0,0,0,,{\i1}You...
 Dialogue: 0,0:21:19.47,0:21:20.93,Default,Naoya,0,0,0,,You ain't Toji{**-kun}!
-Dialogue: 0,0:21:23.05,0:21:25.89,Default,Naoya,0,0,0,,{\i1}The sin of the insignificant is the ignorance of strength.
+Dialogue: 0,0:21:23.05,0:21:25.89,Default,Naoya,0,0,0,,{\i1}The sin of the insignificant is ignorance of strength.
 Dialogue: 0,0:21:25.89,0:21:28.89,Default,Naoya,0,0,0,,{\i1}No one ever understood Toji{**-kun}.
 Dialogue: 0,0:21:30.81,0:21:32.73,Default,Naoya,0,0,0,,{\i1}Except maybe Satoru{**-kun}.
 Dialogue: 0,0:21:33.61,0:21:35.19,Default,Naoya,0,0,0,,{\i1}You ain't the one!
@@ -289,17 +291,17 @@ Dialogue: 0,0:22:49.76,0:22:54.56,Default,Narrator,0,0,164,,{\an8}anyone touched
 Dialogue: 0,0:22:54.56,0:22:57.94,Default,Narrator,0,0,164,,{\an8}Failing to do so would freeze them for one second. {If they fail, they're frozen for one second.}
 Dialogue: 0,0:23:02.24,0:23:07.37,Default,Naoya,0,0,164,,{\i1}You wanna tank my attack and stop me cold, \Neven if it breaks your ribs, don't you?
 Dialogue: 0,0:23:07.37,0:23:10.04,Default,Naoya,0,0,164,,{\i1}Like I'd fall for such obvious bait!
-Dialogue: 0,0:23:10.04,0:23:12.12,Default,Naoya,0,0,164,,{\i1}You're just an impostor! {a fraud}
+Dialogue: 0,0:23:10.04,0:23:12.12,Default,Naoya,0,0,164,,{\i1}You're just an impostor! {a fraud} {sadly that would be wrong as he's directly comparing her to toji}
 Dialogue: 0,0:23:17.17,0:23:18.75,Default,Maki,0,0,164,,Twenty-four times, right?
 Dialogue: 0,0:23:19.50,0:23:22.30,Default,Maki,0,0,0,,You and old man Naobito aren't just fast.
 Dialogue: 0,0:23:22.30,0:23:23.67,Default,Maki,0,0,0,,There's more to it.
-Dialogue: 0,0:23:24.26,0:23:27.43,Default,Maki,0,0,0,,You make 24 movements per second.
+Dialogue: 0,0:23:24.26,0:23:27.43,Default,Maki,0,0,0,,You move twenty-four times each second. {why would she say "24" and "per second" that's terminology that only projection sorcery users would use, plus this ties back to the earlier line}
 Dialogue: 0,0:23:27.43,0:23:29.89,Default,Maki,0,0,0,,I can finally see it now that I have this body.
-Dialogue: 0,0:23:30.93,0:23:32.89,Default,Naoya,0,0,0,,You im—
-Dialogue: 0,0:23:32.89,0:23:34.06,Default,Naoya,0,0,0,,...po—
-Dialogue: 0,0:23:34.39,0:23:35.39,Default,Naoya,0,0,0,,...po—
-Dialogue: 0,0:23:35.89,0:23:36.98,Default,Naoya,0,0,0,,...po—
-Dialogue: 0,0:23:37.40,0:23:38.56,Default,Naoya,0,0,0,,...po—
+Dialogue: 0,0:23:30.93,0:23:32.89,Default,Naoya,0,0,0,,You fucking im—
+Dialogue: 0,0:23:33.10,0:23:34.39,Default,Naoya,0,0,0,,po—
+Dialogue: 0,0:23:34.56,0:23:35.89,Default,Naoya,0,0,0,,po—
+Dialogue: 0,0:23:36.06,0:23:37.40,Default,Naoya,0,0,0,,po—
+Dialogue: 0,0:23:37.60,0:23:38.90,Default,Naoya,0,0,0,,po—
 Dialogue: 0,0:24:00.71,0:24:01.50,Default,Maki,0,0,0,,Sorry.
 Dialogue: 0,0:24:02.55,0:24:04.30,Default,Maki,0,0,0,,Say that again?
 Dialogue: 0,0:24:05.42,0:24:06.68,Default,Maki,0,0,0,,Mother?
@@ -318,16 +320,16 @@ Dialogue: 0,0:24:39.62,0:24:41.75,Default,Maki's Mother,0,0,0,,No! No!
 Dialogue: 0,0:24:50.72,0:24:54.06,Default,Naoya,0,0,0,,Damn bitch couldn't even finish me off!
 Dialogue: 0,0:25:05.53,0:25:07.94,Default,Naoya,0,0,0,,Are you {\i1}shitting me{\i0}?!
 Dialogue: 0,0:25:08.40,0:25:10.57,Default,Naoya,0,0,0,,{\i1}I can't focus my cursed energy! {is this about his ce or is this about being killed by someone with no ce (which does you know what)}
-Dialogue: 0,0:25:10.57,0:25:13.37,Default,Naoya,0,0,0,,{\i1}Damn gutter trash{\i0}!
+Dialogue: 0,0:25:10.57,0:25:13.37,Default,Naoya,0,0,0,,{\i1}Damn gutter trash{\i0}! {this line is spoken out loud so italics is used for emphasis here not internal thought, that's why the exclamation mark is outside}
 Dialogue: 0,0:25:19.41,0:25:22.54,Default,Maki's Mother,0,0,0,,I'm glad I gave birth to you.
 Dialogue: 0,0:25:27.34,0:25:28.80,Default,Momo,0,0,0,,Mai{**-chan}!
 Dialogue: 0,0:25:35.51,0:25:39.43,Default,Momo,0,0,0,,This is why... I told you not to go!
 Dialogue: 0,0:25:42.81,0:25:45.40,Default,Maki,0,0,0,,Please take care of her.
-Dialogue: 0,0:25:46.82,0:25:49.40,Default,Momo,0,0,0,,What are you going to do now, Maki{**-chan}?
+Dialogue: 0,0:25:46.82,0:25:49.40,Default,Momo,0,0,0,,What are you going to do now, Maki{**-chan}? {hold up. i just realized that this arc opened with this question too. gege...}
 Dialogue: 0,0:27:50.52,0:27:52.98,Default,Fushiguro,0,0,0,,{\an8}Hakari{**-san} was suspended for clashing \Nwith the higher-ups.
 Dialogue: 0,0:27:52.98,0:27:53.78,Default,Yuji,0,0,0,,{\an8}A fight club?
-Dialogue: 0,0:27:53.78,0:27:55.82,Default,Macho,0,0,0,,{\an8}You don't talk about the fight club.
+Dialogue: 0,0:27:53.78,0:27:55.82,Default,Macho,0,0,0,,{\an8}You do not talk about Fight Club. {wait the episode file already had this correction. How outdated am I. But too late now.} {not much, just 2-3 lines}
 Dialogue: 0,0:27:55.82,0:27:57.07,Default,Panda,0,0,0,,{\an8}I can't get close.
 Dialogue: 0,0:27:57.07,0:27:58.99,Default,Fushiguro,0,0,0,,{\an8}Itadori, you snoop around from the inside.
-Dialogue: 0,0:27:58.99,0:28:01.08,Default,Kirara,0,0,0,,{\an8}I love it when you're hot, Kin{**-chan}.
+Dialogue: 0,0:27:58.99,0:28:01.08,Default,Kirara,0,0,0,,{\an8}I love it when Kin{**-chan} is hot.
 Dialogue: 0,0:28:01.08,0:28:03.95,Default,Hakari,0,0,0,,{\an8}Wanna get high on my fever?
