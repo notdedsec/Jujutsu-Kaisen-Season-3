@@ -17,10 +17,10 @@ Video File: jjk_52_premux.mkv
 Keyframes File: jjk_52_keyframes.txt
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Scroll Position: 195
-Active Line: 196
-Video Position: 18644
+Video Zoom Percent: 0.500000
+Scroll Position: 307
+Active Line: 313
+Video Position: 28043
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -39,9 +39,9 @@ Dialogue: 0,0:00:00.94,0:00:04.48,Default,Gakuganji,0,0,164,,Yaga, what is that 
 Dialogue: 0,0:00:04.48,0:00:10.95,Default,Gakuganji,0,0,164,,I know man-made cursed corpses can act \Nmore autonomously than other forms of manipulation,
 Dialogue: 0,0:00:10.95,0:00:15.87,Default,Gakuganji,0,0,164,,but they're always powered \Nby cursed energy from the sorcerer.
 Dialogue: 0,0:00:15.87,0:00:20.38,Default,Gakuganji,0,0,164,,Yet that thing is sustaining \Nitself on its own cursed energy.
-Dialogue: 0,0:00:21.88,0:00:25.59,Default,Gakuganji,0,0,164,,The higher-ups are preparing \Nto formally designate you as special grade
+Dialogue: 0,0:00:21.88,0:00:25.59,Default,Gakuganji,0,0,164,,The higher-ups are preparing \Nto designate you as special grade {formally}
 Dialogue: 0,0:00:25.59,0:00:28.97,Default,Gakuganji,0,0,164,,and place you in indefinite detention.
-Dialogue: 0,0:00:29.84,0:00:33.81,Default,Gakuganji,0,0,164,,Because if you can intentionally create that thing,
+Dialogue: 0,0:00:29.84,0:00:33.81,Default,Gakuganji,0,0,164,,Because if you can create that thing at will,
 Dialogue: 0,0:00:33.81,0:00:37.68,Default,Gakuganji,0,0,164,,you could easily have your own army.
 Dialogue: 0,0:00:38.10,0:00:40.27,Default,Gakuganji,0,0,164,,Answer me, Yaga.
 Dialogue: 0,0:00:41.60,0:00:47.03,Default,Gakuganji,0,0,164,,Do you truly not know how that thing was made?
@@ -49,7 +49,7 @@ Dialogue: 0,0:00:49.82,0:00:50.70,Default,Yaga,0,0,164,,Correct.
 Dialogue: 0,0:00:51.95,0:00:53.41,Default,Takeru,0,0,164,,Masamichi.
 Dialogue: 0,0:00:54.53,0:00:56.37,Default,Takeru,0,0,164,,Everyone's worried about you.
 Dialogue: 0,0:00:56.37,0:00:57.95,Default,Takeru,0,0,164,,They say you seem down.
-Dialogue: 0,0:00:58.29,0:00:59.66,Default,Yaga,0,0,164,,Is that right.
+Dialogue: 0,0:00:58.29,0:00:59.66,Default,Yaga,0,0,164,,Is that right?
 Dialogue: 0,0:01:01.96,0:01:03.92,Default,Takeru,0,0,164,,So I told them all this!
 Dialogue: 0,0:01:03.92,0:01:06.92,Default,Takeru,0,0,164,,If you're feeling down, \Nwe just have to cheer you up!
 Dialogue: 0,0:01:09.38,0:01:10.55,Default,Yaga,0,0,164,,That so?
@@ -86,12 +86,12 @@ Dialogue: 0,0:03:13.88,0:03:17.89,Default,Kusakabe,0,0,164,,The existence of ful
 Dialogue: 0,0:03:18.43,0:03:20.18,Default,Kusakabe,0,0,164,,So they can't live together.
 Dialogue: 0,0:03:20.18,0:03:21.60,Default,Yaga,0,0,164,,I'm sorry.
 Dialogue: 0,0:03:21.60,0:03:23.77,Default,Kusakabe,0,0,164,,Why're you apologizing?
-Dialogue: 0,0:03:25.06,0:03:27.02,Default,Kusakabe,0,0,164,,Thanks a lot.
+Dialogue: 0,0:03:25.10,0:03:27.02,Default,Kusakabe,0,0,164,,I can't thank you enough. {CR: Thanks a lot.} {Sounds sarcastic that way? "Thank you so much." better?}
 Dialogue: 0,0:03:27.90,0:03:29.06,Default,Kusakabe,0,0,164,,I mean it.
 Dialogue: 0,0:03:29.98,0:03:31.11,Default,Kusakabe,0,0,164,,Thank you.
 Dialogue: 0,0:03:32.78,0:03:37.11,Default,Assassin,0,0,0,,Where do you think you're going \Nwithout your cursed corpses, Principal Yaga?
 Dialogue: 0,0:03:38.16,0:03:39.91,Default,Yaga,0,0,0,,To see my son.
-Dialogue: 0,0:03:40.32,0:03:45.08,Default,Assassin,0,0,0,,Since you've been sentenced to death, \Nallow me to tell you the one way to save your life.
+Dialogue: 0,0:03:40.32,0:03:45.50,Default,Assassin,0,0,0,,Since you've been sentenced to death, \Nallow me to tell you the one way to save your life.
 Dialogue: 0,0:03:45.50,0:03:50.38,Default,Assassin,0,0,0,,Disclose how you create those fully \Nautonomous man-made cursed corpses!
 Dialogue: 0,0:03:51.54,0:03:55.13,Default,Yaga,0,0,0,,You all sure grew bold \Nthe moment Satoru was gone.
 Dialogue: 0,0:04:25.75,0:04:26.62,Default,Assassin,0,0,0,,Principal.
@@ -103,7 +103,7 @@ Dialogue: 0,0:04:46.02,0:04:48.35,Default,Yaga,0,0,0,,But that alone isn't enoug
 Dialogue: 0,0:04:48.35,0:04:53.19,Default,Yaga,0,0,0,,You have to place three highly compatible souls \Ninto a single cursed corpse, {cores housing}
 Dialogue: 0,0:04:53.94,0:04:58.28,Default,Yaga,0,0,0,,and have them observe each other at all times.
 Dialogue: 0,0:04:58.28,0:05:04.33,Default,Yaga,0,0,0,,Doing that allows the souls to stabilize \Nso self-awareness can take root.
-Dialogue: 0,0:05:04.33,0:05:09.58,Default,Yaga,0,0,0,,Roughly three months after that, \Nit will begin supplying its own cursed energy.
+Dialogue: 0,0:05:04.33,0:05:09.58,Default,Yaga,0,0,0,,Roughly three months after that, \Nit will begin producing its own cursed energy.
 Dialogue: 0,0:05:09.58,0:05:11.12,Default,Gakuganji,0,0,0,,Why?!
 Dialogue: 0,0:05:12.63,0:05:14.88,Default,Gakuganji,0,0,0,,Why tell me now?!
 Dialogue: 0,0:05:15.67,0:05:18.30,Default,Gakuganji,0,0,0,,Why wouldn't you reveal that sooner?!
@@ -118,13 +118,13 @@ Dialogue: 0,0:05:54.92,0:05:58.34,Default,Panda,0,0,0,,Besides, there wasn't any
 Dialogue: 0,0:05:59.13,0:06:03.13,Default,Panda,0,0,0,,To me, you're just the knife \Nthat fell upon him.
 Dialogue: 0,0:06:04.89,0:06:08.47,Default,Panda,0,0,0,,But remember this...
 Dialogue: 0,0:06:08.47,0:06:12.31,Default,Panda,0,0,0,,Even pandas cry.
-Dialogue: 0,0:07:50.53,0:07:54.37,Default,Tengen,0,0,0,,Hakari Kinji is currently in an \Nabandoned parking garage in Tochigi,
+Dialogue: 0,0:07:50.53,0:07:54.37,Default,Tengen,0,0,0,,Hakari Kinji is currently in an \Nabandoned parking garage in Tochigi, {Tengen jumpscare}
 Dialogue: 0,0:07:54.37,0:07:57.50,Default,Tengen,0,0,0,,running an underground fight club to make money.
 Dialogue: 0,0:07:58.04,0:07:59.54,Default,Yuji,0,0,0,,A fight club?
-Dialogue: 0,0:07:59.54,0:08:02.00,Default,Tengen,0,0,0,,They host fist fights between sorcerers.
-Dialogue: 0,0:08:02.00,0:08:04.00,Default,Fushiguro,0,0,0,,Then the spectators are...
-Dialogue: 0,0:08:04.00,0:08:06.80,Default,Tengen,0,0,0,,Generally non-sorcerers.
-Dialogue: 0,0:08:06.80,0:08:11.26,Default,Fushiguro,0,0,0,,That blatantly violates the secrecy \Nmandated in Article 8 of the Jujutsu Regulations.
+Dialogue: 0,0:07:59.54,0:08:02.00,Default,Tengen,0,0,0,,They host fistfights between sorcerers.
+Dialogue: 0,0:08:02.00,0:08:04.00,Default,Fushiguro,0,0,0,,Then the spectators must be...
+Dialogue: 0,0:08:04.00,0:08:06.80,Default,Tengen,0,0,0,,They are mostly non-sorcerers.
+Dialogue: 0,0:08:06.80,0:08:11.85,Default,Fushiguro,0,0,0,,That blatantly violates the secrecy \Nmandated in Article 8 of the Jujutsu Regulations. {when referring to a specific document/code -> capitalized} {when referring to the system in general -> lowercase}
 Dialogue: 0,0:08:11.85,0:08:15.18,Default,Tengen,0,0,0,,There may be curse users among the fighters, as well.
 Dialogue: 0,0:08:15.18,0:08:17.06,Default,Tengen,0,0,0,,Do be careful.
 Dialogue: 0,0:08:20.10,0:08:21.27,Default,Yuji,0,0,0,,Why are we changing?
@@ -134,11 +134,11 @@ Dialogue: 0,0:08:27.78,0:08:30.95,Default,Fushiguro,0,0,0,,If he finds out we're
 Dialogue: 0,0:08:30.95,0:08:33.16,Default,Fushiguro,0,0,0,,It's like we're the cops and he's the robber.
 Dialogue: 0,0:08:33.91,0:08:34.91,Default,Yuji,0,0,0,,Hm?
 Dialogue: 0,0:08:35.29,0:08:37.41,Default,Yuji,0,0,0,,We're on Jujutsu Tech's side now?
-Dialogue: 0,0:08:37.41,0:08:41.83,Default,Fushiguro,0,0,0,,We're in the gray, \Nbut in Hakari{**-san}'s eyes, we're with them.
+Dialogue: 0,0:08:37.41,0:08:41.83,Default,Fushiguro,0,0,0,,We're in the gray, \Nbut in Hakari{**-san}'s eyes, we're on their side.
 Dialogue: 0,0:08:41.83,0:08:44.25,Default,Yuji,0,0,0,,Is he even gonna help us in the first place?
-Dialogue: 0,0:08:44.25,0:08:45.80,Default,Fushiguro,0,0,0,,I'm not sure.
-Dialogue: 0,0:08:45.80,0:08:48.76,Default,Fushiguro,0,0,0,,Our seniors all say he's a worthless bum.
-Dialogue: 0,0:08:48.76,0:08:52.47,Default,Fushiguro,0,0,0,,But even Okkotsu{**-senpai} said Hakari's stronger.
+Dialogue: 0,0:08:44.25,0:08:45.76,Default,Fushiguro,0,0,0,,I'm not sure.
+Dialogue: 0,0:08:45.76,0:08:48.76,Default,Fushiguro,0,0,0,,Our seniors all say he's a lost cause. {a handful - too mild} {a worthless bum - too harsh}
+Dialogue: 0,0:08:48.76,0:08:52.47,Default,Fushiguro,0,0,0,,But even Okkotsu{**-senpai} admitted Hakari's stronger.
 Dialogue: 0,0:08:53.35,0:08:55.35,Default,Fushiguro,0,0,0,,We definitely want his strength.
 Dialogue: 0,0:08:55.72,0:08:57.18,Default,Shrimp,0,0,0,,Beat it, brats.
 Dialogue: 0,0:08:57.64,0:08:59.81,Default,Shrimp,0,0,0,,This ain't a place for you to hang out.
@@ -157,11 +157,11 @@ Dialogue: 0,0:09:33.22,0:09:35.22,Default,Fushiguro,0,0,0,,I'll fill his slot fo
 Dialogue: 0,0:09:35.68,0:09:39.18,Default,Fushiguro,0,0,0,,Or would you rather I lay you out \Nin front of your boss?
 Dialogue: 0,0:09:39.18,0:09:40.31,Default,Yuji,0,0,0,,{\i1}Oh, yeah.
 Dialogue: 0,0:09:40.31,0:09:43.23,Default,Yuji,0,0,0,,{\i1}He'd be on his guard if we suddenly asked to see him.
-Dialogue: 0,0:09:43.23,0:09:45.98,Default,Yuji,0,0,0,,{\i1}We're not even supposed to know his name! {I guess we shouldn't know his name's Hakari.}
+Dialogue: 0,0:09:43.23,0:09:45.98,Default,Yuji,0,0,0,,{\i1}We're not even supposed to know his name!
 Dialogue: 0,0:09:45.98,0:09:46.94,Default,Yuji,0,0,0,,{\i1}I better zip it.
-Dialogue: 0,0:09:42.85,0:09:43.81,Alt,Shrimp,0,0,0,,Yes.
-Dialogue: 0,0:09:44.40,0:09:45.98,Alt,Shrimp,0,0,0,,No, there's no proof.
-Dialogue: 0,0:09:46.94,0:09:47.90,Default,Shrimp,0,0,0,,Are you sure?
+Dialogue: 0,0:09:42.85,0:09:43.85,Default,Shrimp,0,0,0,,{\an8}Yes. {wanna an8 these 2 Alt lines?} {Yes.}
+Dialogue: 0,0:09:44.40,0:09:45.98,Default,Shrimp,0,0,0,,{\an8}No, there's no proof.
+Dialogue: 0,0:09:46.94,0:09:47.90,Default,Shrimp,0,0,0,,{\an8}Are you sure?
 Dialogue: 0,0:09:48.69,0:09:50.03,Default,Shrimp,0,0,0,,That's enough.
 Dialogue: 0,0:09:50.78,0:09:52.66,Default,Shrimp,0,0,0,,The boss has given you the go-ahead.
 Dialogue: 0,0:09:52.66,0:09:55.57,Default,Shrimp,0,0,0,,We'll pit you against today's seeded fighter.
@@ -169,7 +169,7 @@ Dialogue: 0,0:09:55.57,0:09:58.62,Default,Shrimp,0,0,0,,However, he's the one fi
 Dialogue: 0,0:10:00.91,0:10:02.12,Default,Fushiguro,0,0,0,,{\i1}That's good for us.
 Dialogue: 0,0:10:02.12,0:10:04.42,Default,Fushiguro,0,0,0,,{\i1}Itadori is better suited to the fighting.
 Dialogue: 0,0:10:04.88,0:10:06.84,Default,Fushiguro,0,0,0,,No go. I'll fight.
-Dialogue: 0,0:10:06.84,0:10:09.17,Default,Shrimp,0,0,0,,Boss said he ain't betting on you.
+Dialogue: 0,0:10:06.84,0:10:09.17,Default,Shrimp,0,0,0,,Boss says you ain't worth betting on.
 Dialogue: 0,0:10:09.63,0:10:11.88,Default,Shrimp,0,0,0,,If you don't like it, the deal's off.
 Dialogue: 0,0:10:13.09,0:10:15.47,Default,Fushiguro,0,0,0,,Fine. We'll take it.
 Dialogue: 0,0:10:15.97,0:10:19.56,Default,Yuji,0,0,0,,Fushiguro, that was risky. You were pushing it.
@@ -182,13 +182,13 @@ Dialogue: 0,0:10:35.16,0:10:37.95,Default,Fushiguro,0,0,0,,Itadori, you snoop ar
 Dialogue: 0,0:10:37.95,0:10:41.12,Default,Fushiguro,0,0,0,,I'll try to sneak into that \Nparking garage in the meantime.
 Dialogue: 0,0:10:41.12,0:10:41.91,Default,Fushiguro,0,0,0,,Or maybe not.
 Dialogue: 0,0:10:41.91,0:10:42.96,Default,Yuji,0,0,0,,Why not?
-Dialogue: 0,0:10:42.96,0:10:44.96,Default,Fushiguro,0,0,0,,I think they want to see what I'm up to.
+Dialogue: 0,0:10:42.96,0:10:44.96,Default,Fushiguro,0,0,0,,I think they want to see \Nwhat I'm up to.
 Dialogue: 0,0:10:44.96,0:10:50.21,Default,Fushiguro,0,0,0,,If they catch me sneaking in, we'll lose their trust \Nand our chance to meet Hakari{**-san}.
 Dialogue: 0,0:10:50.63,0:10:53.67,Default,Yuji,0,0,0,,If that happens, we'll just have to use force.
 Dialogue: 0,0:10:54.05,0:10:56.43,Default,Fushiguro,0,0,0,,Only as a last resort.
-Dialogue: 0,0:10:56.43,0:11:01.14,Default,Fushiguro,0,0,0,,We're only here to ask Hakari{**-san} \Nfor his cooperation.
+Dialogue: 0,0:10:56.43,0:11:01.14,Default,Fushiguro,0,0,0,,We're just here to ask Hakari{**-san} \Nfor his cooperation.
 Dialogue: 0,0:11:01.14,0:11:04.18,Default,Fushiguro,0,0,0,,I'd like to avoid anything that \Nmight affect relations.
-Dialogue: 0,0:11:04.60,0:11:07.65,Default,Fushiguro,0,0,0,,To be honest, I don't think \NI should be doing anything tonight. {same man} {but why does he say this?}
+Dialogue: 0,0:11:04.60,0:11:07.65,Default,Fushiguro,0,0,0,,To be honest, I think \NI should be laying low tonight. {same man} {but why does he say this?} {probably because they're watching him}
 Dialogue: 0,0:11:08.23,0:11:12.86,Default,Fushiguro,0,0,0,,But I don't want to waste what time we have \Nbefore Tsumiki's deadline. {is required to declare her participation in the Culling Game}
 Dialogue: 0,0:11:13.44,0:11:14.90,Default,Yuji,0,0,0,,Right now...
 Dialogue: 0,0:11:14.90,0:11:16.61,Default,Yuji,0,0,0,,it's 5 PM on the 10th.
@@ -202,7 +202,7 @@ Dialogue: 0,0:11:35.38,0:11:38.09,Default,Macho,0,0,0,,No running away. No curse
 Dialogue: 0,0:11:38.09,0:11:39.01,Default,Yuji,0,0,0,,How come?
 Dialogue: 0,0:11:39.01,0:11:42.10,Default,Yuji,0,0,0,,I don't mind if they use cursed techniques.
 Dialogue: 0,0:11:42.10,0:11:45.64,Default,Macho,0,0,0,,Because most of the spectators \Nare non-sorcerers. They can't see them.
-Dialogue: 0,0:11:45.64,0:11:48.48,Default,Macho,0,0,0,,If they can't see it, it won't hype them up.
+Dialogue: 0,0:11:45.64,0:11:48.48,Default,Macho,0,0,0,,If they can't see it, it won't get them hyped.
 Dialogue: 0,0:11:48.48,0:11:49.98,Default,Yuji,0,0,0,,And the "no running" rule?
 Dialogue: 0,0:11:50.36,0:11:53.61,Default,Macho,0,0,0,,It means you fight \Nwhere the spectators can see you.
 Dialogue: 0,0:11:53.61,0:11:55.86,Default,Yuji,0,0,0,,All about the spectators, huh?
@@ -211,8 +211,8 @@ Dialogue: 0,0:11:57.20,0:11:58.36,Default,Macho,0,0,0,,This is a business.
 Dialogue: 0,0:11:59.11,0:12:00.45,Default,Yuji,0,0,0,,What's the boss like?
 Dialogue: 0,0:12:01.91,0:12:02.83,Default,Macho,0,0,0,,Curious?
 Dialogue: 0,0:12:03.58,0:12:04.79,Default,Yuji,0,0,0,,Well, yeah.
-Dialogue: 0,0:12:05.50,0:12:07.04,Default,Macho,0,0,0,,You'll know if you meet him.
-Dialogue: 0,0:12:07.04,0:12:07.96,Default,Yuji,0,0,0,,Can I meet him?
+Dialogue: 0,0:12:05.50,0:12:07.04,Default,Macho,0,0,0,,You'll know when you meet him.
+Dialogue: 0,0:12:07.04,0:12:07.96,Default,Yuji,0,0,0,,I'll meet him?
 Dialogue: 0,0:12:09.33,0:12:11.34,Default,Macho,0,0,0,,There are two kinds of matches.
 Dialogue: 0,0:12:11.34,0:12:15.67,Default,Macho,0,0,0,,Legit beat-downs like in today's tournament,\N and scripted bouts.
 Dialogue: 0,0:12:15.67,0:12:18.13,Default,Macho,0,0,0,,The boss writes the scripts.
@@ -225,7 +225,7 @@ Dialogue: 0,0:12:45.79,0:12:46.62,Default,Yuji,0,0,0,,Yeah?
 Dialogue: 0,0:12:47.33,0:12:49.54,Default,Yuji,0,0,0,,It's really all about drawing in the crowd.
 Dialogue: 0,0:12:51.92,0:12:54.50,Default,John,0,0,0,,Now, we're getting started again tonight!
 Dialogue: 0,0:12:54.50,0:12:57.59,Default,John,0,0,0,,It's time for the Legit Fight Club Tournament!
-Dialogue: 0,0:12:57.59,0:13:01.14,Default,John,0,0,0,,Commentary will be provided by \Nyours truly, John{\fnMalgun Gothic}☆{\fn}Bobby!
+Dialogue: 0,0:12:57.59,0:13:01.14,Default,John,0,0,0,,Commentary will be provided by \Nyours truly, John{\fnFZLanTingYuan-M-GBK}☆{\fn}Bobby!
 Dialogue: 0,0:13:01.14,0:13:04.47,Default,John,0,0,0,,Allow me to introduce tonight's exciting match-up!
 Dialogue: 0,0:13:04.47,0:13:06.35,Default,John,0,0,0,,We're joined by a sudden upstart!
 Dialogue: 0,0:13:06.35,0:13:07.85,Default,John,0,0,0,,Will he rise up or burn out?!
@@ -253,17 +253,17 @@ Dialogue: 0,0:14:01.86,0:14:04.49,Default,Panda,0,0,0,,He's not on guard since w
 Dialogue: 0,0:14:04.49,0:14:06.03,Default,Panda,0,0,0,,but he's avoiding me.
 Dialogue: 0,0:14:10.79,0:14:14.29,Default,Panda,0,0,0,,The other third-year's technique is also a problem.
 Dialogue: 0,0:14:23.51,0:14:26.26,Default,Panda,0,0,0,,You’re undercover here, right? {CR: You're hiding the fact that you're from Jujutsu Tech, right?} {it's a shame i have to put subs over this animation}
-Dialogue: 0,0:14:26.26,0:14:26.97,Default,Yuji,0,0,0,,Yeah.
+Dialogue: 0,0:14:26.26,0:14:26.97,Default,Yuji,0,0,0,,Yeah!
 Dialogue: 0,0:14:28.76,0:14:29.85,Default,Panda,0,0,0,,Good, good.
 Dialogue: 0,0:14:29.85,0:14:31.77,Default,Panda,0,0,0,,You know what to do now, right?
 Dialogue: 0,0:14:37.65,0:14:38.65,Default,John,0,0,0,,Whoa!
 Dialogue: 0,0:14:38.65,0:14:42.95,Default,John,0,0,0,,This is {\i1}definitely{\i0} the best bout in my career as a commentator!
 Dialogue: 0,0:14:42.95,0:14:45.99,Default,John,0,0,0,,I've only been at this for a couple weeks, though!
 Dialogue: 0,0:15:11.43,0:15:15.31,Default,John,0,0,0,,{\fad(100,0)}The winner: Itadori!
-Dialogue: 0,0:15:15.52,0:15:17.73,Default,Panda,0,0,0,,What a punch!
+Dialogue: 0,0:15:15.52,0:15:17.73,Default,Panda,0,0,0,,Whoa, what a punch!
 Dialogue: 0,0:15:17.73,0:15:18.81,Default,Panda,0,0,0,,I can't move!
 Dialogue: 0,0:15:18.81,0:15:22.99,Default,Panda,0,0,0,,The Animal Welfare Society won't stand for this!
-Dialogue: 0,0:15:23.65,0:15:24.61,Default,Yuji,0,0,0,,Your acting sucks.
+Dialogue: 0,0:15:23.65,0:15:24.61,Default,Yuji,0,0,0,,Your acting sucks!
 Dialogue: 0,0:15:24.61,0:15:28.32,Default,Hakari,0,0,0,,Send Itadori up to the roof when the tournament's over.
 Dialogue: 0,0:15:28.32,0:15:28.87,Default,MachoB,0,0,0,,Huh?
 Dialogue: 0,0:15:28.87,0:15:30.37,Default,Hakari,0,0,0,,He's sure to win 'em all.
@@ -272,7 +272,7 @@ Dialogue: 0,0:15:35.75,0:15:38.00,Default,Hakari,0,0,0,,I can write a good scrip
 Dialogue: 0,0:15:38.00,0:15:43.76,Default,Hakari,0,0,0,,And like I always say, strike while the iron's hot.
 Dialogue: 0,0:15:44.13,0:15:46.47,Default,Kirara,0,0,0,,That's so dumb. Cut it out.
 Dialogue: 0,0:15:46.47,0:15:49.97,Default,Macho,0,0,0,,Got it. And what about the other brat?
-Dialogue: 0,0:15:49.97,0:15:52.35,Default,Hakari,0,0,0,,Continue to stay sharp.
+Dialogue: 0,0:15:49.97,0:15:52.35,Default,Hakari,0,0,0,,Keep an eye out for him.
 Dialogue: 0,0:15:52.35,0:15:54.31,Default,Hakari,0,0,0,,I'll send Kirara for extra security later.
 Dialogue: 0,0:15:54.31,0:15:55.39,Default,Kirara,0,0,0,,Whaaat?
 Dialogue: 0,0:15:55.39,0:15:57.60,Default,Hakari,0,0,0,,I'm feeling a nice buzz now.
@@ -282,7 +282,7 @@ Dialogue: 0,0:16:08.78,0:16:10.28,Default,Panda,0,0,0,,I see.
 Dialogue: 0,0:16:10.28,0:16:13.58,Default,Panda,0,0,0,,Sounds like Itadori might make contact \Nwith Hakari after all.
 Dialogue: 0,0:16:13.58,0:16:17.58,Default,Fushiguro,0,0,0,,Why haven't you been able to see him yet?
 Dialogue: 0,0:16:17.58,0:16:20.38,Default,Panda,0,0,0,,Well, I do know where he is,
-Dialogue: 0,0:16:20.38,0:16:22.71,Default,Panda,0,0,0,,in the monitor room on the roof,
+Dialogue: 0,0:16:20.38,0:16:22.71,Default,Panda,0,0,0,,in the monitoring room on the roof,
 Dialogue: 0,0:16:22.71,0:16:25.13,Default,Panda,0,0,0,,but I just can't get close.
 Dialogue: 0,0:16:25.67,0:16:27.01,Default,Fushiguro,0,0,0,,Why is that?
 Dialogue: 0,0:16:27.01,0:16:30.30,Default,Panda,0,0,0,,Even when I approach the door, \NI can't close the distance.
@@ -291,16 +291,16 @@ Dialogue: 0,0:16:33.76,0:16:36.85,Default,Panda,0,0,0,,I think it's because of K
 Dialogue: 0,0:16:36.85,0:16:38.31,Default,Fushiguro,0,0,0,,Kirara?
 Dialogue: 0,0:16:38.31,0:16:40.98,Default,Fushiguro,0,0,0,,The other third-year was a guy, right? {he asks this quesion because Kirara is a girly name} {ironic coming from a guy named Megumi}
 Dialogue: 0,0:16:40.98,0:16:42.31,Default,Panda,0,0,0,,Yep, a guy. {Yeah, he is/was} {since there's no indication of present/past tense, so i'm gonna try to avoid the minefield by keeping this ambiguous}
-Dialogue: 0,0:16:42.31,0:16:46.69,Default,Fushiguro,0,0,0,,So does that phenomenon only occur \Nwhen Kirara{**-san} is in the monitor room?
+Dialogue: 0,0:16:42.31,0:16:46.69,Default,Fushiguro,0,0,0,,So that phenomenon only occurs \Nwhen Kirara{**-san} is in the monitoring room?
 Dialogue: 0,0:16:46.69,0:16:48.03,Default,Panda,0,0,0,,I don't know. {they removed the line about how Hakari and Kirara are never apart}
-Dialogue: 0,0:16:48.03,0:16:52.87,Default,Panda,0,0,0,,I focused on being a circus panda \Ninstead of pushing too far and making them run off.
-Dialogue: 0,0:16:52.87,0:16:55.16,Default,Panda,0,0,0,,I'm glad you two showed up.
+Dialogue: 0,0:16:48.03,0:16:52.91,Default,Panda,0,0,0,,I focused on being a circus panda \Ninstead of pushing too far and making them run off.
+Dialogue: 0,0:16:52.91,0:16:55.16,Default,Panda,0,0,0,,I'm glad you two showed up.
 Dialogue: 0,0:16:55.70,0:16:58.21,Default,Fushiguro,0,0,0,,Do you think Itadori can convince him?
 Dialogue: 0,0:16:58.21,0:17:02.38,Default,Panda,0,0,0,,It'll be tough, but it might come down to timing.
 Dialogue: 0,0:17:02.38,0:17:06.88,Default,Panda,0,0,0,,Itadori's bright and charming personality \Nis a good match for Hakari.
 Dialogue: 0,0:17:06.88,0:17:08.97,Default,Panda,0,0,0,,But we all know he sucks at lying.
-Dialogue: 0,0:17:08.97,0:17:10.76,Default,Fushiguro,0,0,0,,He doesn't just suck at it.
-Dialogue: 0,0:17:10.76,0:17:13.35,Default,Fushiguro,0,0,0,,He struggles to even see it as an option.
+Dialogue: 0,0:17:08.97,0:17:10.80,Default,Fushiguro,0,0,0,,He doesn't just suck at it.
+Dialogue: 0,0:17:10.80,0:17:13.35,Default,Fushiguro,0,0,0,,He doesn't even see it as an option.
 Dialogue: 0,0:17:13.35,0:17:17.56,Default,Panda,0,0,0,,So once Itadori enters the monitoring room,
 Dialogue: 0,0:17:17.56,0:17:23.02,Default,Panda,0,0,0,,I'll take control of the place quickly and quietly\N to buy time for the two of them to talk.
 Dialogue: 0,0:17:23.02,0:17:24.15,Default,Fushiguro,0,0,0,,Um, I don't think—
@@ -322,15 +322,15 @@ Dialogue: 0,0:18:01.77,0:18:02.73,Default,Kirara,0,0,0,,Because I am.
 Dialogue: 0,0:18:03.31,0:18:06.36,Default,Kirara,0,0,0,,It's been a while since Kin{**-chan}'s been this hot.
 Dialogue: 0,0:18:07.27,0:18:11.28,Default,Kirara,0,0,0,,You see, I love it when Kin{**-chan} is hot.
 Dialogue: 0,0:18:16.49,0:18:17.58,Default,Hakari,0,0,0,,Itadori.
-Dialogue: 0,0:18:18.12,0:18:25.13,Default,Hakari,0,0,0,,Would you believe me if I said you could work \None hour a day and make one million yen a month?
-Dialogue: 0,0:18:25.13,0:18:26.08,Default,Yuji,0,0,0,,Uh...
-Dialogue: 0,0:18:26.08,0:18:26.96,Default,Yuji,0,0,0,,Hm?
-Dialogue: 0,0:18:27.34,0:18:29.96,Default,Yuji,0,0,0,,Depends on what the work is.
+Dialogue: 0,0:18:18.12,0:18:25.13,Default,Hakari,0,0,0,,Would you believe me if I said you could \Nwork one hour a day and make one million yen a month?
+Dialogue: 0,0:18:25.13,0:18:26.13,Default,Yuji,0,0,0,,Uh...
+Dialogue: 0,0:18:26.13,0:18:27.29,Default,Yuji,0,0,0,,Hm?
+Dialogue: 0,0:18:27.29,0:18:29.96,Default,Yuji,0,0,0,,Depends on what the work is.
 Dialogue: 0,0:18:29.96,0:18:35.09,Default,Hakari,0,0,0,,Well, for that information, \Nyou'll have to pay 200,000 yen.
 Dialogue: 0,0:18:35.09,0:18:36.05,Default,Yuji,0,0,0,,Really?
 Dialogue: 0,0:18:36.85,0:18:38.35,Default,Yuji,0,0,0,,I don't believe you, then.
 Dialogue: 0,0:18:38.35,0:18:43.23,Default,Hakari,0,0,0,,Good. Like you suspected, \Nthat's a classic con.
-Dialogue: 0,0:18:43.23,0:18:49.19,Default,Hakari,0,0,0,,The swindler pretends to be rich, \Nsells you a way to get rich, and takes your money.
+Dialogue: 0,0:18:43.23,0:18:49.19,Default,Hakari,0,0,0,,The swindler pretends to be rich, \Nsells you a way to get rich, and takes your money. {The swindler pretends to have money, sells you a way to make money, and takes your money.} {this one's not as natural}
 Dialogue: 0,0:18:49.19,0:18:54.32,Default,Hakari,0,0,0,,It's obvious if you think about it, \Nbut there's a stupid number of idiots who fall for it.
 Dialogue: 0,0:18:54.32,0:18:55.61,Default,Hakari,0,0,0,,Why?
 Dialogue: 0,0:18:55.61,0:18:58.12,Default,Hakari,0,0,0,,It's all because of fever.
@@ -348,7 +348,7 @@ Dialogue: 0,0:19:35.65,0:19:38.20,Default,Hakari,0,0,0,,but they've got it all w
 Dialogue: 0,0:19:38.91,0:19:45.41,Default,Hakari,0,0,0,,Our society tramples on those who can't bet big \Nand those who don't know when to fold.
 Dialogue: 0,0:19:45.41,0:19:48.63,Default,Hakari,0,0,0,,There isn't a single person who doesn't gamble.
 Dialogue: 0,0:19:48.63,0:19:54.05,Default,Hakari,0,0,0,,What people hate isn't the gambling, \Nit's losing and being ruined.
-Dialogue: 0,0:19:54.51,0:19:57.47,Default,Yuji,0,0,0,,Don't some people \Njust want to live a peaceful life?
+Dialogue: 0,0:19:54.51,0:19:57.47,Default,Yuji,0,0,0,,Don't some people \Njust wanna live a peaceful life?
 Dialogue: 0,0:19:57.47,0:19:59.93,Default,Hakari,0,0,0,,I dunno anyone like that.
 Dialogue: 0,0:20:00.68,0:20:03.18,Default,Hakari,0,0,0,,I love the fever.
 Dialogue: 0,0:20:03.68,0:20:07.69,Default,Hakari,0,0,0,,Fever is gambling. Gambling is life.
@@ -356,7 +356,7 @@ Dialogue: 0,0:20:07.69,0:20:10.02,Default,Hakari,0,0,0,,And love is control.
 Dialogue: 0,0:20:10.61,0:20:15.24,Default,Hakari,0,0,0,,Someday, I want to control \Nthis country's fever through my Fight Club.
 Dialogue: 0,0:20:15.78,0:20:19.78,Default,Hakari,0,0,0,,With the existence of curses going public \Nand headquarters barely functioning,
 Dialogue: 0,0:20:19.78,0:20:22.33,Default,Hakari,0,0,0,,I've got a chance to expand the business.
-Dialogue: 0,0:20:22.87,0:20:24.95,Default,Hakari,0,0,0,,I'm going to crush the obstacles before me
+Dialogue: 0,0:20:22.87,0:20:24.95,Default,Hakari,0,0,0,,I'll crush anything in my way
 Dialogue: 0,0:20:24.95,0:20:30.38,Default,Hakari,0,0,0,,and make them publicly recognize my Fight Club \Nin the coming revisions to the jujutsu regulations.
 Dialogue: 0,0:20:31.17,0:20:35.21,Default,Hakari,0,0,0,,At any rate, I'll need a strong piece on the board.
 Dialogue: 0,0:20:36.51,0:20:37.63,Default,Hakari,0,0,0,,Itadori.
@@ -379,11 +379,11 @@ Dialogue: 0,0:21:34.40,0:21:35.73,Default,Hakari,0,0,0,,Were you...
 Dialogue: 0,0:21:42.11,0:21:44.03,Default,Hakari,0,0,0,,sent by Jujutsu Tech?
 Dialogue: 0,0:21:51.04,0:21:52.33,Default,Yuji,0,0,0,,Listen! I—
 Dialogue: 0,0:21:53.00,0:21:53.83,Default,Yuji,0,0,0,,H-Hey!
-Dialogue: 0,0:21:53.83,0:21:53.88,Default,Yuji,0,0,0,,{\shad0}H-Hey!
+Dialogue: 0,0:21:53.83,0:21:53.88,Default,Yuji,0,0,0,,{\shad0\bord3}H-Hey!
 Dialogue: 0,0:21:53.88,0:21:53.92,Default,Yuji,0,0,0,,{\c&H000000&\3c&HFFFFFF&}H-Hey!
 Dialogue: 0,0:21:53.92,0:21:54.29,Default,Yuji,0,0,0,,H-Hey!
 Dialogue: 0,0:21:54.29,0:21:55.46,Default,Yuji,0,0,0,,L-Lis—
-Dialogue: 0,0:21:55.46,0:21:55.50,Default,Yuji,0,0,0,,{\shad0}L-Lis—
+Dialogue: 0,0:21:55.46,0:21:55.50,Default,Yuji,0,0,0,,{\shad0\bord3}L-Lis—
 Dialogue: 0,0:21:55.50,0:21:55.54,Default,Yuji,0,0,0,,{\c&H000000&\3c&HFFFFFF&}L-Lis—
 Dialogue: 0,0:21:55.54,0:21:55.75,Default,Yuji,0,0,0,,L-Lis—
 Dialogue: 0,0:21:55.75,0:21:58.46,Default,Hakari,0,0,0,,When I get a call from Kirara,
@@ -391,9 +391,9 @@ Dialogue: 0,0:21:58.46,0:22:00.84,Default,Hakari,0,0,0,,it means something's up.
 Dialogue: 0,0:22:03.09,0:22:03.93,Default,Yuji,0,0,0,,Listen to me!
 Dialogue: 0,0:22:03.93,0:22:05.30,Default,Kinji,0,0,0,,Hell no!
 Dialogue: 0,0:22:05.30,0:22:06.97,Default,Kinji,0,0,0,,Now I've gone cold!
-Dialogue: 0,0:23:40.40,0:23:43.94,Default,Fushiguro,0,0,0,,{\an8}If we can convince them, \Nnegotiations with Hakari{**-san} will go more smoothly!
+Dialogue: 0,0:23:40.40,0:23:43.94,Default,Fushiguro,0,0,0,,{\an8}If we can convince Kirara, \Nnegotiations with Hakari{**-san} will go more smoothly!
 Dialogue: 0,0:23:43.94,0:23:45.32,Default,Panda,0,0,0,,{\an8}Wait, Kirara!
 Dialogue: 0,0:23:45.32,0:23:46.24,Default,Yuji,0,0,0,,{\an8}Stay out of this!
-Dialogue: 0,0:23:46.24,0:23:48.95,Default,Hakari,0,0,0,,{\an8}You have to show me! Right here and now!
-Dialogue: 0,0:23:48.95,0:23:51.12,Default,Fushiguro,0,0,0,,{\an8}Please! There's no time!
+Dialogue: 0,0:23:46.24,0:23:48.95,Default,Hakari,0,0,0,,{\an8}Show me! Right here and now!
+Dialogue: 0,0:23:48.95,0:23:51.12,Default,Fushiguro,0,0,0,,{\an8}Please. We don't have time.
 Dialogue: 0,0:23:51.12,0:23:53.58,Default,Kirara,0,0,0,,{\an8}Kin{**-chan}'s in danger!
