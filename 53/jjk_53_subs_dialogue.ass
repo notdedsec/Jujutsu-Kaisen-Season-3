@@ -16,9 +16,10 @@ Audio File: jjk_53_premux.mkv
 Video File: jjk_53_premux.mkv
 Keyframes File: jjk_53_keyframes.txt
 Video AR Value: 1.777778
-Video Zoom Percent: 0.750000
-Active Line: 11
-Video Position: 729
+Video Zoom Percent: 0.625000
+Scroll Position: 307
+Active Line: 315
+Video Position: 30472
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -47,13 +48,13 @@ Dialogue: 0,0:00:54.28,0:00:55.99,Default,Guard C,0,0,0,,Think it eats fish saus
 Dialogue: 0,0:00:55.99,0:00:57.00,Default,Panda,0,0,0,,Teehee.
 Dialogue: 0,0:00:56.54,0:00:59.16,Default,Guard D,0,0,0,,{\an8}Wait, wasn't that thing in the tournament?
 Dialogue: 0,0:00:58.87,0:00:59.62,Default,Panda,0,0,0,,Teehee.
-Dialogue: 0,0:00:59.62,0:01:02.71,Default,Guard D,0,0,0,,{\an8}C'mon, pandas don't meat. They eat bamboo.
+Dialogue: 0,0:00:59.62,0:01:02.71,Default,Guard D,0,0,0,,{\an8}C'mon, pandas don't eat meat. They eat bamboo.
 Dialogue: 0,0:00:59.62,0:01:02.71,Default,Guard C,0,0,0,,Here you go. It's tasty-tasty fish sausage.
 Dialogue: 0,0:01:02.96,0:01:03.92,Default,Panda,0,0,0,,Take this!
 Dialogue: 0,0:01:03.92,0:01:06.21,Default,Panda,0,0,0,,I'll have the fish sausage, thank you.
 Dialogue: 0,0:01:08.63,0:01:11.72,Default,Panda,0,0,0,,No cameras on the emergency stairs!
 Dialogue: 0,0:01:12.05,0:01:13.01,Default,Panda,0,0,0,,Yo!
-Dialogue: 0,0:01:14.64,0:01:17.43,Default,Fushiguro,0,0,0,,Panda{**-senpai}, are you sure ths?
+Dialogue: 0,0:01:14.64,0:01:17.47,Default,Fushiguro,0,0,0,,Panda{**-senpai}, are you sure about this?
 Dialogue: 0,0:01:17.97,0:01:20.18,Default,Fushiguro,0,0,0,,This could cause trouble later.
 Dialogue: 0,0:01:20.60,0:01:22.77,Default,Panda,0,0,0,,S'all good, man!
 Dialogue: 0,0:01:22.77,0:01:25.23,Default,Panda,0,0,0,,Let's secure the area near the door.
@@ -71,8 +72,8 @@ Dialogue: 0,0:02:16.07,0:02:17.03,Default,Panda,0,0,0,,Fushiguro?!
 Dialogue: 0,0:02:21.83,0:02:24.17,Default,Fushiguro,0,0,0,,{\i1}My Divine Dog was thrown back?!
 Dialogue: 0,0:02:24.17,0:02:28.50,Default,Fushiguro,0,0,0,,{\i1}No, judging from what Panda{**-senpai} said, \Nit couldn't get close!
 Dialogue: 0,0:02:31.80,0:02:34.80,Default,Kirara,0,0,0,,{\i1}I've already marked Panda{**-chan}.
-Dialogue: 0,0:02:39.26,0:02:40.89,Default,Panda,0,0,0,,{\i1}The monitoring room!
-Dialogue: 0,0:02:40.89,0:02:43.10,Default,Panda,0,0,0,,{\i1}Kirara's planning to head back to Hakari!
+Dialogue: 0,0:02:39.26,0:02:40.89,Default,Panda,0,0,0,,{\i1}The monitoring room's up ahead!
+Dialogue: 0,0:02:40.89,0:02:43.10,Default,Panda,0,0,0,,{\i1}Kirara is planning to head back to Hakari!
 Dialogue: 0,0:02:43.10,0:02:46.10,Default,Panda,0,0,0,,Wait, Kirara! We're not your enemies!
 Dialogue: 0,0:02:46.10,0:02:48.36,Default,Panda,0,0,0,,We just want to ask Hakari for a favor!
 Dialogue: 0,0:02:48.36,0:02:49.82,Default,Kirara,0,0,0,,I don't believe you!
@@ -99,12 +100,12 @@ Dialogue: 0,0:05:19.67,0:05:21.51,Default,Kirara,0,0,0,,You reap what you sow.
 Dialogue: 0,0:05:21.51,0:05:23.68,Default,Fushiguro,0,0,0,,I told you, we're not with Jujutsu Tech!
 Dialogue: 0,0:05:24.22,0:05:26.18,Default,Fushiguro,0,0,0,,What happened between you \Nand the higher-ups?
 Dialogue: 0,0:05:26.18,0:05:28.18,Default,Panda,0,0,0,,They fought with the conservatives.
-Dialogue: 0,0:05:28.18,0:05:33.52,Default,Panda,0,0,0,,Their idea of "conservative" goes \Nbeyond just their policy toward the regulations.
-Dialogue: 0,0:05:33.52,0:05:37.28,Default,Panda,0,0,0,,They have set ideas of what jujutsu should be.
+Dialogue: 0,0:05:28.18,0:05:33.52,Default,Panda,0,0,0,,Their idea of "conservative" goes \Nbeyond just their policy toward regulations.
+Dialogue: 0,0:05:33.52,0:05:37.28,Default,Panda,0,0,0,,They have set ideas of what jujutsu should be. {sorcery}
 Dialogue: 0,0:05:37.28,0:05:40.40,Default,Panda,0,0,0,,Kugisaki's technique is a good example.
-Dialogue: 0,0:05:40.40,0:05:43.45,Default,Panda,0,0,0,,That's the kind of classic jujutsu \Nthe conservatives like.
+Dialogue: 0,0:05:40.40,0:05:43.45,Default,Panda,0,0,0,,That's the kind of classic jujutsu \Nthe conservatives like. {sorcery}
 Dialogue: 0,0:05:44.16,0:05:46.83,Default,Panda,0,0,0,,Remember those cursed videos that were popular a while back?
-Dialogue: 0,0:05:46.83,0:05:50.33,Default,Panda,0,0,0,,Jujutsu has been blending with technology over time.
+Dialogue: 0,0:05:46.83,0:05:50.33,Default,Panda,0,0,0,,Jujutsu has been blending with technology over time. {sorcery}
 Dialogue: 0,0:05:50.87,0:05:54.96,Default,Panda,0,0,0,,And when it starts affecting cursed techniques, \Nthe conservatives get fussy.
 Dialogue: 0,0:05:55.54,0:05:58.67,Default,Kirara,0,0,0,,Kin{**-chan}'s technique is a perfect example.
 Dialogue: 0,0:05:58.67,0:06:01.30,Default,Kirara,0,0,0,,Those idiots up top lost because they're like that.
@@ -160,7 +161,7 @@ Dialogue: 0,0:08:45.09,0:08:49.18,Default,Kirara,0,0,0,,{\i1}If he figures out m
 Dialogue: 0,0:08:49.72,0:08:52.01,Default,Kirara,0,0,0,,{\i1}I have to stop him here!
 Dialogue: 0,0:08:52.01,0:08:53.93,Default,Fushiguro,0,0,0,,{\i1}Back in a stalemate again?
 Dialogue: 0,0:08:56.22,0:08:58.73,Default,Fushiguro,0,0,0,,{\i1}So it really was the Southern Cross?
-Dialogue: 0,0:08:59.69,0:09:01.52,Default,Fushiguro,0,0,0,,{\i1}I'm grateful to Tsumiki.
+Dialogue: 0,0:08:59.69,0:09:01.52,Default,Fushiguro,0,0,0,,{\i1}I have Tsumiki to thank for that.
 Dialogue: 0,0:09:02.06,0:09:04.11,Default,Fushiguro,0,0,0,,{\i1}I don't know anything else, though.
 Dialogue: 0,0:09:04.11,0:09:07.11,Default,Fushiguro,0,0,0,,{\i1}Also, wasn't the Southern Cross \Na four-star constellation?
 Dialogue: 0,0:09:07.11,0:09:08.65,Default,Panda,0,0,0,,Fushiguro!
@@ -189,7 +190,7 @@ Dialogue: 0,0:10:30.28,0:10:31.90,Default,Panda,0,0,0,,Makes sense.
 Dialogue: 0,0:10:31.90,0:10:35.36,Default,Panda,0,0,0,,But what if the sorcerer isn't counted as a target?
 Dialogue: 0,0:10:35.36,0:10:39.54,Default,Fushiguro,0,0,0,,That can't be it, because Kirara{**-san} \Ncouldn't get close to Divine Dog earlier.
 Dialogue: 0,0:10:40.24,0:10:46.92,Default,Fushiguro,0,0,0,,Right now, Kirara{**-san} is keeping an eye on us \Nin case we clear certain conditions
-Dialogue: 0,0:10:46.92,0:10:46.96,Default,Fushiguro,0,0,0,,and break into the monitoring room.
+Dialogue: 0,0:10:46.92,0:10:50.13,Default,Fushiguro,0,0,0,,and break into the monitoring room.
 Dialogue: 0,0:10:50.13,0:10:53.30,Default,Panda,0,0,0,,Then there must be at least five stars.
 Dialogue: 0,0:10:53.30,0:10:54.26,Default,Fushiguro,0,0,0,,Right.
 Dialogue: 0,0:10:54.63,0:10:57.39,Default,Fushiguro,0,0,0,,If my stamp rally theory is correct,
@@ -199,7 +200,7 @@ Dialogue: 0,0:11:08.44,0:11:10.77,Default,Panda,0,0,0,,What if there are six or 
 Dialogue: 0,0:11:10.77,0:11:13.53,Default,Fushiguro,0,0,0,,I'd like to believe that's not the case.
 Dialogue: 0,0:11:13.53,0:11:16.16,Default,Fushiguro,0,0,0,,Five stars in a cross is confusing enough. {It's already confusing that there would be five stars in a cross.}
 Dialogue: 0,0:11:16.16,0:11:17.16,Default,Kirara,0,0,0,,{\i1}If they've figured it out,
-Dialogue: 0,0:11:18.41,0:11:19.41,Default,Kirara,0,0,0,,{\i1}I'd better go all out!
+Dialogue: 0,0:11:18.41,0:11:19.41,Default,Kirara,0,0,0,,{\i1}I'll go all out!
 Dialogue: 0,0:11:27.92,0:11:28.92,Default,Fushiguro,0,0,0,,Panda{**-senpai}!
 Dialogue: 0,0:11:31.21,0:11:33.76,Default,Panda,0,0,0,,I'm good! Don't worry about me!
 Dialogue: 0,0:11:33.76,0:11:36.76,Default,Panda,0,0,0,,Fushiguro! Find the star!
@@ -232,7 +233,7 @@ Dialogue: 0,0:13:29.08,0:13:30.66,Default,Kirara,0,0,0,,You're incredible.
 Dialogue: 0,0:13:30.66,0:13:33.50,Default,Kirara,0,0,0,,You actually figured out my technique.
 Dialogue: 0,0:13:33.96,0:13:35.13,Default,Fushiguro,0,0,0,,Panda{**-senpai}!
 Dialogue: 0,0:13:41.72,0:13:43.47,Default,Panda,0,0,0,,Here we go!
-Dialogue: 0,0:13:49.60,0:13:53.40,Default,Narration,0,0,0,,That order follows the starts from nearest to farthest.
+Dialogue: 0,0:13:49.60,0:13:53.40,Default,Narration,0,0,0,,The order follows the stars from nearest to farthest.
 Dialogue: 0,0:13:53.40,0:13:57.23,Default,Narration,0,0,0,,Constellations may look flat, \Nbut they do, of course, have depth.
 Dialogue: 0,0:13:57.23,0:14:00.53,Default,Narration,0,0,0,,Each star is a different distance from the Earth.
 Dialogue: 0,0:14:00.94,0:14:05.99,Default,Kirara,0,0,0,,Weren't you a little too quick to conclude \NI couldn't throw things at you?
@@ -304,16 +305,16 @@ Dialogue: 0,0:18:58.91,0:19:01.37,Default,Hakari,0,0,0,,Take Itadori and get los
 Dialogue: 0,0:19:01.37,0:19:02.66,Default,Hakari,0,0,0,,Don't come ba—
 Dialogue: 0,0:19:04.50,0:19:05.42,Default,Hakari,0,0,0,,Huh?!
 Dialogue: 0,0:19:07.33,0:19:09.75,Default,Hakari,0,0,0,,{\i1}He took three unguarded blows!
-Dialogue: 0,0:19:09.75,0:19:11.59,Default,Hakari,0,0,0,,{\i1}And I roughed him up before that too!
+Dialogue: 0,0:19:09.75,0:19:12.01,Default,Hakari,0,0,0,,{\i1}And I roughed him up before that too!
 Dialogue: 0,0:19:12.01,0:19:14.30,Default,Hakari,0,0,0,,What are you made of?
 Dialogue: 0,0:19:14.72,0:19:16.68,Default,Yuji,0,0,0,,I'm a cog.
 Dialogue: 0,0:19:16.68,0:19:18.93,Default,Yuji,0,0,0,,Cogs have a function.
 Dialogue: 0,0:19:19.85,0:19:22.97,Default,Yuji,0,0,0,,My function is to keep exorcising curses.
 Dialogue: 0,0:19:22.97,0:19:28.86,Default,Yuji,0,0,0,,If I need you for that, \Nthen I won't back down until you say yes.
 Dialogue: 0,0:19:42.79,0:19:44.00,Default,Yuji,0,0,0,,Tell me, {*}Hakari{*Senpai}.
-Dialogue: 0,0:19:44.58,0:19:46.87,Default,Yuji,0,0,0,,What is {\i1}your{\i0} function?
-Dialogue: 0,0:19:47.58,0:19:48.88,Default,Hakari,0,0,0,,{\i1}This kid...
-Dialogue: 0,0:19:50.04,0:19:52.59,Default,Hakari,0,0,0,,{\i1}So this is the fever of a cog?
+Dialogue: 0,0:19:44.58,0:19:46.96,Default,Yuji,0,0,0,,What is {\i1}your{\i0} function?
+Dialogue: 0,0:19:47.62,0:19:48.92,Default,Hakari,0,0,0,,{\i1}This kid...
+Dialogue: 0,0:19:50.04,0:19:53.13,Default,Hakari,0,0,0,,{\i1}So this is the fever of a cog?
 Dialogue: 0,0:19:56.63,0:19:58.89,Default,Hakari,0,0,0,,Fine. I'll just keep punching—
 Dialogue: 0,0:19:58.89,0:20:00.01,Default,Kirara,0,0,0,,Kin{**-chan}.
 Dialogue: 0,0:20:00.51,0:20:02.89,Default,Kirara,0,0,0,,Aren't you heated up?
@@ -330,21 +331,26 @@ Dialogue: 0,0:20:29.21,0:20:31.71,Default,Kirara,0,0,0,,We may hate the upper br
 Dialogue: 0,0:20:31.71,0:20:37.22,Default,Kirara,0,0,0,,but Kin{**-chan} always burned hottest \Nwhen he was helping others at Jujutsu Tech.
 Dialogue: 0,0:20:38.22,0:20:38.93,Default,Yuji,0,0,0,,Ow!
 Dialogue: 0,0:20:38.93,0:20:40.05,Default,Panda,0,0,0,,Hm?
-Dialogue: 0,0:20:41.68,0:20:45.77,Default,Kogane,0,0,0,,{\an8}Ding-dong, ding-dong, ding-dong, \Nding-dong, ding-dong, ding-dong!
+Dialogue: 0,0:20:41.68,0:20:42.60,Default,Kogane,0,0,0,,{\an8}Ding-dong, {\alpha&HFF&}ding-dong, ding-dong, \Nding-dong, ding-dong, ding-dong!
+Dialogue: 0,0:20:42.60,0:20:43.14,Default,Kogane,0,0,0,,{\an8}Ding-dong, ding-dong, {\alpha&HFF&}ding-dong, \Nding-dong, ding-dong, ding-dong!
+Dialogue: 0,0:20:43.14,0:20:43.47,Default,Kogane,0,0,0,,{\an8}Ding-dong, ding-dong, ding-dong, {\alpha&HFF&}\Nding-dong, ding-dong, ding-dong!
+Dialogue: 0,0:20:43.47,0:20:43.89,Default,Kogane,0,0,0,,{\an8}Ding-dong, ding-dong, ding-dong, \Nding-dong, {\alpha&HFF&}ding-dong, ding-dong!
+Dialogue: 0,0:20:43.89,0:20:44.31,Default,Kogane,0,0,0,,{\an8}Ding-dong, ding-dong, ding-dong, \Nding-dong, ding-dong, {\alpha&HFF&}ding-dong!
+Dialogue: 0,0:20:44.31,0:20:45.77,Default,Kogane,0,0,0,,{\an8}Ding-dong, ding-dong, ding-dong, \Nding-dong, ding-dong, ding-dong!
 Dialogue: 0,0:20:45.77,0:20:45.89,Default,Kogane,0,0,0,,{\an8\clip(m 949.75 501.12 l 729.58 -57.24 238.39 -80.6 315.7 433.61)}Ding-dong, ding-dong, ding-dong, \Nding-dong, ding-dong, ding-dong!
 Dialogue: 0,0:20:42.60,0:20:43.51,Default,Yuji,0,0,0,,What?!
-Dialogue: 0,0:20:47.06,0:20:52.06,Default,Kogane,0,0,0,,A Player has added a new Rule to the Culling Game!
+Dialogue: 0,0:20:47.06,0:20:52.06,Default,Kogane,0,0,0,,A player has added a new rule to the Culling Game!
 Dialogue: 0,0:20:52.06,0:20:55.98,Default,Kogane,0,0,0,,Rule 9: Players shall be able to view \Nthe following information on other players:
-Dialogue: 0,0:20:55.98,0:21:02.57,Default,Kogane,0,0,0,,name, points, number of rules added, and current Colony.
+Dialogue: 0,0:20:55.98,0:21:02.57,Default,Kogane,0,0,0,,name, points, number of rules added, and current colony.
 Dialogue: 0,0:21:08.04,0:21:10.42,Default,Kogane,0,0,0,,You have scored five points.
-Dialogue: 0,0:21:10.92,0:21:13.38,Default,Kashimo,0,0,164,,Damn right. I killed him.
-Dialogue: 0,0:21:17.13,0:21:20.59,Default,Kashimo,0,0,164,,They're all too weak. {if you laugh...}
+Dialogue: 0,0:21:10.92,0:21:13.46,Default,Kashimo,0,0,164,,'Cause I killed him. Duh.
+Dialogue: 0,0:21:17.13,0:21:20.59,Default,Kashimo,0,0,164,,They're all too damn weak. {if you laugh...}
 Dialogue: 0,0:21:20.59,0:21:23.55,Default,Kashimo,0,0,164,,It was better 400 years ago.
 Dialogue: 0,0:21:25.76,0:21:28.48,Default,Kashimo,0,0,164,,Where are you, Sukuna?
 Dialogue: 0,0:21:32.90,0:21:35.40,Default,Kogane,0,0,164,,You have exceeded 200 points.
 Dialogue: 0,0:21:35.40,0:21:40.07,Default,Kogane,0,0,164,,Would you like to spend 100 points \Nto add a rule to the Culling Game?
 Dialogue: 0,0:21:40.74,0:21:43.24,Default,Kashimo,0,0,164,,Right, the rules.
-Dialogue: 0,0:21:44.03,0:21:48.62,Default,Kashimo,0,0,164,,I want the Players' names and their point totals \Nto get a sense of their strength.
+Dialogue: 0,0:21:44.03,0:21:48.62,Default,Kashimo,0,0,164,,I want the players' names and their point totals \Nto get a sense of their strength.
 Dialogue: 0,0:21:49.45,0:21:52.67,Default,Kashimo,0,0,164,,Oh, but points go down when adding a rule.
 Dialogue: 0,0:21:52.67,0:21:55.96,Default,Kashimo,0,0,164,,So I'd need the number of rules they added, too.
 Dialogue: 0,0:21:55.96,0:21:58.88,Default,Kashimo,0,0,164,,And also which colony they're in.
@@ -352,7 +358,7 @@ Dialogue: 0,0:21:59.59,0:22:00.72,Default,Kashimo,0,0,164,,Kogane.
 Dialogue: 0,0:22:00.72,0:22:02.22,Default,Kashimo,0,0,164,,Add a rule.
 Dialogue: 0,0:22:02.22,0:22:05.35,Default,Kashimo,0,0,164,,Reveal that information for every player.
 Dialogue: 0,0:23:41.86,0:23:44.86,Default,Kenjaku,0,0,0,,{\an8}The space between dreams and reality is a curse.
-Dialogue: 0,0:23:44.86,0:23:46.49,Default,Yuji,0,0,0,,{\an8}How do you know my name?
+Dialogue: 0,0:23:44.86,0:23:46.49,Default,Yuji,0,0,0,,{\an8}How does he know my name?
 Dialogue: 0,0:23:46.49,0:23:47.95,Default,Fushiguro,0,0,0,,{\an8}I'm not like Itadori.
-Dialogue: 0,0:23:47.95,0:23:50.66,Default,Kogane,0,0,0,,{\an8}Once you step inside, \Nyou, too, become a Player!
-Dialogue: 0,0:23:50.66,0:23:53.95,Default,Fushiguro,0,0,0,,{\an8}...and make them add a rule to let \NTsumiki escape the Culling Game!
+Dialogue: 0,0:23:47.95,0:23:50.66,Default,Kogane,0,0,0,,{\an8}Once you step inside, \Nyou, too, become a player!
+Dialogue: 0,0:23:50.66,0:23:53.95,Default,Fushiguro,0,0,0,,{\an8}...and make them add a rule to let Tsumiki escape the Culling Game!
