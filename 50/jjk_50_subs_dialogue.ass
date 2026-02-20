@@ -148,14 +148,14 @@ Dialogue: 0,0:08:20.86,0:08:24.94,Default,Fushiguro,0,0,0,,Then why is this Cull
 Dialogue: 0,0:08:24.94,0:08:27.32,Default,Tengen,0,0,0,,It's a warm-up before assimilation.
 Dialogue: 0,0:08:28.40,0:08:31.82,Default,Tengen,0,0,0,,My assimilation with someone other than \Nthe Star Plasma Vessel is possible,
 Dialogue: 0,0:08:31.82,0:08:36.45,Default,Tengen,0,0,0,,but at the moment, there's a high probability it will result in something incomplete.
-Dialogue: 0,0:08:36.45,0:08:42.46,Default,Tengen,0,0,0,,The Culling Game uses the cursed energy of the Players\Nand the boundaries between the Colonies
+Dialogue: 0,0:08:36.45,0:08:42.46,Default,Tengen,0,0,0,,The Culling Game uses the cursed energy of the players\Nand the boundaries between the colonies
 Dialogue: 0,0:08:42.46,0:08:46.55,Default,Tengen,0,0,0,,in a ritual to ferry the people of this nation \Nto the other side.
 Dialogue: 0,0:08:46.55,0:08:50.97,Default,Tengen,0,0,0,,He likely intends to use that as a warm-up to start their assimilation with me.
 Dialogue: 0,0:08:52.39,0:08:58.27,Default,Tengen,0,0,0,,However, sustaining a ritual of this scale \Nrequires Kenjaku to bear several Binding Vows.
 Dialogue: 0,0:09:02.10,0:09:07.61,Default,Tengen,0,0,0,,One of them is that Kenjaku himself \Ncannot be the Game Master of the Culling Game.
 Dialogue: 0,0:09:07.61,0:09:10.65,Default,Tengen,0,0,0,,However, that only serves as a \Ndisadvantage to you all.
 Dialogue: 0,0:09:10.65,0:09:14.70,Default,Tengen,0,0,0,,Because it means that killing Kenjaku \Nwon't end the Culling Game. {why did the camera cut to him? was he planning to unleash his potential on kenny?}
-Dialogue: 0,0:09:15.58,0:09:21.67,Default,Tengen,0,0,0,,{\bord4}Either all of the Players die,\Nor they refuse to participate and die.
+Dialogue: 0,0:09:15.58,0:09:21.67,Default,Tengen,0,0,0,,{\bord4}Either all of the players die,\Nor they refuse to participate and die.
 Dialogue: 0,0:09:21.67,0:09:23.96,Default,Tengen,0,0,0,,The Culling Game won't end until then.
 Dialogue: 0,0:09:23.96,0:09:30.80,Default,Tengen,0,0,0,,The clause prohibiting any "long-lasting" additions \Nensures that nothing can interrupt the ritual.
 Dialogue: 0,0:09:30.80,0:09:32.26,Default,Fushiguro,0,0,0,,In that case...
@@ -204,17 +204,17 @@ Dialogue: 0,0:11:58.41,0:11:59.87,Default,Miguel,0,0,164,,They said there's none
 Dialogue: 0,0:11:59.87,0:12:01.03,Default,Okkotsu,0,0,164,,What?!
 Dialogue: 0,0:12:01.03,0:12:02.91,Default,Tsukumo,0,0,0,,There's still some way, right?
 Dialogue: 0,0:12:02.91,0:12:03.79,Default,Tengen,0,0,0,,Yes.
-Dialogue: 0,0:12:04.62,0:12:08.33,Default,Tengen,0,0,0,,Among the Players participating \Nin the Culling Game,
+Dialogue: 0,0:12:04.62,0:12:08.33,Default,Tengen,0,0,0,,Among the players participating \Nin the Culling Game,
 Dialogue: 0,0:12:08.33,0:12:12.29,Default,Tengen,0,0,0,,there's a sorcerer from 1,000 years ago \Nwho goes by the name of Angel.
 Dialogue: 0,0:12:19.55,0:12:24.01,Default,Tengen,0,0,0,,Her cursed technique can extinguish \Nany other cursed technique.
 Dialogue: 0,0:12:31.73,0:12:34.69,Default,Fushiguro,0,0,0,,It can extinguish cursed techniques?
 Dialogue: 0,0:12:34.69,0:12:35.44,Default,Tengen,0,0,0,,Yes.
 Dialogue: 0,0:12:35.44,0:12:40.11,Default,Tengen,0,0,0,,The Angel's cursed technique \Ncan open the Back of the Prison Realm.
 Dialogue: 0,0:12:40.82,0:12:43.24,Default,Fushiguro,0,0,0,,Do you know where she is right now?
-Dialogue: 0,0:12:43.24,0:12:46.41,Default,Tengen,0,0,0,,She's in the Colony on the east side of Tokyo.
+Dialogue: 0,0:12:43.24,0:12:46.41,Default,Tengen,0,0,0,,She's in the colony on the east side of Tokyo.
 Dialogue: 0,0:12:46.41,0:12:51.25,Default,Tengen,0,0,0,,The Culling Game's barriers reject me, \Nso I don't have any more information.
 Dialogue: 0,0:12:56.96,0:12:59.76,Default,Tengen,0,0,0,,Let's start going over things from there.
-Dialogue: 0,0:12:59.76,0:13:02.09,Default,Tengen,0,0,0,,There are ten Colonies across Japan.
+Dialogue: 0,0:12:59.76,0:13:02.09,Default,Tengen,0,0,0,,There are ten colonies across Japan.
 Dialogue: 0,0:13:02.09,0:13:07.89,Default,Tengen,0,0,0,,They are linked by barriers designed to \Nferry the people of Japan to the other side.
 Dialogue: 0,0:13:07.89,0:13:11.81,Default,Akari,0,0,0,,{\i1}Crossing a river or a border—\Nacts that symbolize crossing to the afterlife—
 Dialogue: 0,0:13:11.81,0:13:14.57,Default,Akari,0,0,0,,{\i1}carry significant meaning in sorcery.
@@ -228,7 +228,7 @@ Dialogue: 1,0:13:47.47,0:13:53.35,Default,Tengen,0,0,0,,but everyone in Japan ha
 Dialogue: 0,0:14:00.57,0:14:03.86,Default,Fushiguro,0,0,0,,How long will this ritual take to complete?
 Dialogue: 0,0:14:03.86,0:14:08.29,Default,Tengen,0,0,0,,It depends on the Game, \Nbut two months should be enough.
 Dialogue: 0,0:14:11.25,0:14:14.46,Default,Maki,0,0,0,,It's currently 9 AM on November 9th.
-Dialogue: 0,0:14:15.00,0:14:20.63,Default,Okkotsu,0,0,0,,The Players awakened as sorcerers \Naround midnight on October 31st.
+Dialogue: 0,0:14:15.00,0:14:20.63,Default,Okkotsu,0,0,0,,The players awakened as sorcerers \Naround midnight on October 31st.
 Dialogue: 0,0:14:20.63,0:14:26.51,Default,Fushiguro,0,0,0,,That gives us ten days and fifteen hours \Nbefore Tsumiki is forced to participate.
 Dialogue: 0,0:14:33.19,0:14:37.48,Default,Fushiguro,0,0,0,,You said earlier that people would die \Nif they refused to participate.
 Dialogue: 0,0:14:37.86,0:14:39.19,Default,Tengen,0,0,0,,Yes.
@@ -242,19 +242,19 @@ Dialogue: 0,0:15:04.38,0:15:07.39,Default,Shoko,0,0,164,,Otherwise, everyone wou
 Dialogue: 0,0:15:07.39,0:15:10.10,Default,Maki,0,0,0,,It's just as {*}Miss Shoko{*Shoko-san} anticipated,
 Dialogue: 0,0:15:10.10,0:15:15.35,Default,Maki,0,0,0,,but that also means there's no risk \Nfor sorcerers like me who don't have a cursed technique.
 Dialogue: 0,0:15:15.35,0:15:19.36,Default,Maki,0,0,132,,And what about Panda? Does he even have a brain?
-Dialogue: 0,0:15:22.86,0:15:27.87,Default,Yuji,0,0,0,,What does this rule mean for the ordinary people \Nwho were in the Colony from the start?
+Dialogue: 0,0:15:22.86,0:15:27.87,Default,Yuji,0,0,0,,What does this rule mean for the ordinary people \Nwho were in the colony from the start?
 Dialogue: 0,0:15:27.87,0:15:31.74,Default,Tengen,0,0,0,,It means they're granted at least one chance to leave.
 Dialogue: 0,0:15:32.08,0:15:33.20,Default,Yuji,0,0,0,,Oh, really?
 Dialogue: 0,0:15:33.20,0:15:35.54,Default,Fushiguro,0,0,0,,That's awfully generous.
-Dialogue: 0,0:15:35.54,0:15:40.21,Default,Tengen,0,0,0,,There are no stipulations \Nabout entering or leaving Colonies.
-Dialogue: 0,0:15:40.21,0:15:48.39,Default,Tengen,0,0,0,,It must be to give the Players a clear goal of \Nleaving the Colony to kick-start the Culling Game.
-Dialogue: 0,0:15:48.80,0:15:55.77,Default,Tengen,0,0,0,,To keep the Players inside, the idea that \Nthey entered of their own free will is important.
+Dialogue: 0,0:15:35.54,0:15:40.21,Default,Tengen,0,0,0,,There are no stipulations \Nabout entering or leaving colonies.
+Dialogue: 0,0:15:40.21,0:15:48.39,Default,Tengen,0,0,0,,It must be to give the players a clear goal of \Nleaving the colony to kick-start the Culling Game.
+Dialogue: 0,0:15:48.80,0:15:55.77,Default,Tengen,0,0,0,,To keep the players inside, the idea that \Nthey entered of their own free will is important.
 Dialogue: 0,0:15:56.23,0:15:58.98,Default,Yuji,0,0,0,,The thing about adjusting \Nbarrier strength that Ino{**-san} mentioned?
 Dialogue: 0,0:16:11.03,0:16:14.45,Default,Yuji,0,0,0,,Using "a general rule" within a rule? \NWay to make things confusing.
 Dialogue: 0,0:16:15.08,0:16:16.33,Default,Yuji,0,0,0,,Something wrong, Fushiguro?
 Dialogue: 0,0:16:16.79,0:16:17.92,Default,Fushiguro,0,0,0,,Just wondering... {It's nothing.}
 Dialogue: 0,0:16:17.92,0:16:21.59,Default,Fushiguro,0,0,0,,{*}Master Tengen{*Tengen-sama}, who is this Game Master?
-Dialogue: 0,0:16:22.13,0:16:26.30,Default,Tengen,0,0,0,,It's a {*}cursed beast{*shikigami} given to each Player called Kogane.
+Dialogue: 0,0:16:22.13,0:16:26.30,Default,Tengen,0,0,0,,It's a {*}cursed beast{*shikigami} given to each player called Kogane.
 Dialogue: 0,0:16:26.80,0:16:31.97,Default,Tengen,0,0,0,,To be precise, Kogane isn't the Game Master—it's an interface.
 Dialogue: 0,0:16:32.72,0:16:37.73,Default,Tengen,0,0,0,,You can think of the Game Master \Nas the Culling Game system itself.
 Dialogue: 0,0:16:37.73,0:16:39.23,Default,Yuji,0,0,0,,I see? {i don't get it}
@@ -265,7 +265,7 @@ Dialogue: 0,0:16:55.33,0:16:56.83,Default,Choso,0,0,0,,Would that even work?
 Dialogue: 0,0:16:57.41,0:16:58.83,Default,Maki,0,0,0,,Right?
 Dialogue: 0,0:16:58.83,0:17:01.04,Default,Maki,0,0,0,,They get to call the shots.
 Dialogue: 0,0:17:01.50,0:17:06.05,Default,Tengen,0,0,0,,No, you should be able to expect a fair decision.
-Dialogue: 0,0:17:06.05,0:17:09.51,Default,Tengen,0,0,0,,They're already imposing strict rules on the Players.
+Dialogue: 0,0:17:06.05,0:17:09.51,Default,Tengen,0,0,0,,They're already imposing strict rules on the players.
 Dialogue: 0,0:17:09.51,0:17:14.35,Default,Tengen,0,0,0,,Jujutsu sorcery wouldn't allow them \Nto favor Kenjaku any further.
 Dialogue: 0,0:17:16.77,0:17:19.64,Default,Yuji,0,0,0,,Will I have to kill people again?
 Dialogue: 0,0:17:20.60,0:17:23.61,Default,Fushiguro,0,0,0,,No, I have a few ideas.
@@ -284,11 +284,11 @@ Dialogue: 0,0:18:02.94,0:18:07.23,Default,Tengen,0,0,0,,I know. You want Kumiya 
 Dialogue: 0,0:18:07.23,0:18:08.61,Default,Maki,0,0,0,,Thank you.
 Dialogue: 0,0:18:08.61,0:18:13.49,Default,Maki,0,0,0,,Once I'm finished, I'll look for Panda \Nand help deal with the Game.
 Dialogue: 0,0:18:13.49,0:18:14.57,Default,Maki,0,0,0,,And you, Yuta?
-Dialogue: 0,0:18:15.20,0:18:19.20,Default,Okkotsu,0,0,0,,I'll enter a Colony and participate \Nin the Game right away.
+Dialogue: 0,0:18:15.20,0:18:19.20,Default,Okkotsu,0,0,0,,I'll enter a colony and participate \Nin the Game right away.
 Dialogue: 0,0:18:19.20,0:18:25.25,Default,Okkotsu,0,0,0,,I'd like to gather as much information as possible \Nbefore Tsumiki{**-san} and Fushiguro{**-kun} join.
 Dialogue: 0,0:18:25.25,0:18:26.96,Default,Fushiguro,0,0,0,,Thanks.
 Dialogue: 0,0:18:27.42,0:18:33.59,Default,Okkotsu,0,0,0,,It'll mean acting on my own again, \Nbut it's to keep us from clashing with each other.
-Dialogue: 0,0:18:33.59,0:18:38.81,Default,Okkotsu,0,0,0,,Also, I'll avoid nearby Colonies \Nin case something does happen to Tsumiki{**-san}.
+Dialogue: 0,0:18:33.59,0:18:38.81,Default,Okkotsu,0,0,0,,Also, I'll avoid nearby colonies \Nin case something does happen to Tsumiki{**-san}.
 Dialogue: 0,0:18:39.68,0:18:44.81,Default,Okkotsu,0,0,0,,The barrier might cut off reception, \Nso we could be out of contact for a while...
 Dialogue: 0,0:18:44.81,0:18:46.10,Default,Okkotsu,0,0,0,,{\pos(480,1020)}Oh.
 Dialogue: 0,0:18:44.81,0:18:46.10,Default,Yuji,0,0,0,,{\pos(1280,1020)}Oh.
