@@ -16,10 +16,10 @@ Audio File: jjk_54_premux.mkv
 Video File: jjk_54_premux.mkv
 Keyframes File: jjk_54_keyframes.txt
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 380
-Active Line: 400
-Video Position: 34338
+Video Zoom Percent: 0.625000
+Scroll Position: 204
+Active Line: 218
+Video Position: 17746
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -34,7 +34,7 @@ Comment: 0,0:04:33.00,0:04:33.04,Default,chptr,0,0,0,,{Part A}
 Comment: 0,0:12:40.99,0:12:41.03,Default,chptr,0,0,0,,{Part B}
 Comment: 0,0:22:09.98,0:22:10.06,Default,chptr,0,0,0,edsync,{Ending}
 Comment: 0,0:23:39.98,0:23:40.07,Default,chptr,0,0,0,,{Preview}
-Dialogue: 0,0:00:09.53,0:00:10.37,Default,Kenjaku,0,0,0,,Excuse me. {Apologies.}
+Dialogue: 0,0:00:09.53,0:00:10.37,Default,Kenjaku,0,0,0,,Apologies. {Excuse me.}
 Dialogue: 0,0:00:12.20,0:00:13.20,Default,Sasaki,0,0,0,,Who are you?
 Dialogue: 0,0:00:14.29,0:00:16.87,Default,Kenjaku,0,0,0,,I'm the sorcerer who put up a barrier here.
 Dialogue: 0,0:00:17.46,0:00:21.96,Default,Kenjaku,0,0,0,,This place was chosen \Nfor people to kill each other, you see.
@@ -64,9 +64,9 @@ Dialogue: 0,0:01:28.78,0:01:32.03,Default,Kenjaku,0,0,0,,{\fad(0,100)}The hasty 
 Dialogue: 0,0:01:59.43,0:02:00.89,Default,Kenjaku,0,0,0,,Oh, right.
 Dialogue: 0,0:02:00.89,0:02:02.77,Default,Kenjaku,0,0,0,,I nearly forgot to mention it.
 Dialogue: 0,0:02:04.31,0:02:07.52,Default,Kenjaku,0,0,0,,Thank you for being friends with my son.
-Comment: 0,0:02:06.23,0:02:07.52,Default,Iguchi,0,0,0,,Sasaki! {this one's barely audible}
-Dialogue: 0,0:02:08.40,0:02:09.53,Default,Iguchi,0,0,0,,Sasaki!
-Dialogue: 0,0:02:10.11,0:02:11.28,Default,Iguchi,0,0,0,,Sasaki!
+Dialogue: 0,0:02:06.23,0:02:07.52,Default,Iguchi,0,0,0,,{\alpha&HA0&}Sasaki! {this one's barely audible} {i'd say it's audible enough}
+Dialogue: 0,0:02:08.40,0:02:09.53,Default,Iguchi,0,0,0,,{\alpha&H40&}Sasaki!
+Dialogue: 0,0:02:10.11,0:02:11.28,Default,Iguchi,0,0,0,,{\alpha&H20&}Sasaki!
 Dialogue: 0,0:02:11.69,0:02:12.49,Default,Iguchi,0,0,0,,Sasaki!
 Dialogue: 0,0:02:15.53,0:02:16.70,Default,Sasaki,0,0,0,,Iguchi!
 Dialogue: 0,0:02:16.70,0:02:19.95,Default,Iguchi,0,0,0,,I'm so glad to see someone I know.
@@ -82,26 +82,27 @@ Dialogue: 0,0:02:51.78,0:02:54.45,Default,Iguchi,0,0,0,,Huh? No, first I've hear
 Dialogue: 0,0:02:58.87,0:02:59.95,Default,Sasaki,0,0,0,,Itadori?
 Dialogue: 0,0:04:33.75,0:04:34.88,Default,Hakari,0,0,0,,For real?
 Dialogue: 0,0:04:35.30,0:04:37.42,Default,Hakari,0,0,0,,Gojo{**-san} got sealed?
-Dialogue: 1,0:04:37.42,0:04:38.88,Default,Three,0,0,0,,For real.
-Comment: 0,0:04:37.42,0:04:38.88,Default,Three,0,0,0,,{\pos(550,1015)}For real.
-Comment: 0,0:04:37.42,0:04:38.88,Default,Three,0,0,0,,{\pos(1370,1015)}For real.
-Comment: 0,0:04:37.42,0:04:38.88,Default,Three,0,0,0,,{\bord0\shad0\alpha&HE0&\pos(950,1015)}For real.
-Comment: 0,0:04:37.42,0:04:38.88,Default,Three,0,0,0,,{\bord0\shad0\alpha&HE0&\pos(970,1015)}For real.
+Dialogue: 1,0:04:37.67,0:04:39.01,Default,Three,0,0,0,,For real.
+Dialogue: 0,0:04:37.67,0:04:39.01,Default,Three,0,0,0,,{\pos(550,1015)}For real.
+Dialogue: 0,0:04:37.67,0:04:39.01,Default,Three,0,0,0,,{\pos(1370,1015)}For real.
 Dialogue: 0,0:04:41.55,0:04:43.39,Default,Hakari,0,0,0,,Damn!
 Dialogue: 0,0:04:43.39,0:04:47.27,Default,Panda,0,0,0,,Also, sorry to mention this as an aside, \Nbut the principal's dead, too.
 Dialogue: 0,0:04:51.90,0:04:53.56,Default,Fushiguro,0,0,0,,Panda{**-senpai}?
 Dialogue: 0,0:04:53.56,0:04:56.94,Default,Panda,0,0,0,,Sorry for not telling you earlier, but it's true.
 Dialogue: 0,0:04:57.57,0:04:59.49,Default,Panda,0,0,0,,It's all right, Itadori.
-Comment: 0,0:04:59.49,0:05:03.45,Default,Panda,0,0,0,,He didn't die in Shibuya. \NHe fought with the higher-ups after that.
+Dialogue: 0,0:04:59.49,0:05:01.16,Default,Panda,0,0,0,,He didn't die in Shibuya.
+Dialogue: 0,0:05:01.16,0:05:03.49,Default,Panda,0,0,0,,He got into a scuffle \Nwith the higher-ups after that.
 Dialogue: 0,0:05:04.03,0:05:06.54,Default,Yuji,0,0,0,,That doesn't make it any better.
 Dialogue: 0,0:05:06.54,0:05:08.96,Default,Yuji,0,0,0,,The principal was your...
-Dialogue: 0,0:05:08.96,0:05:12.00,Default,Panda,0,0,0,,I'm including that in "it's all right."
+Dialogue: 0,0:05:08.96,0:05:12.00,Default,Panda,0,0,0,,I know, and I said it's all right.
 Dialogue: 0,0:05:12.00,0:05:13.08,Default,Panda,0,0,0,,Thanks, though.
-Dialogue: 0,0:05:13.75,0:05:17.80,Default,Hakari,0,0,0,,If you say so, then there's nothing more for us to add.
+Dialogue: 0,0:05:13.75,0:05:17.80,Default,Hakari,0,0,0,,If you say so, \Nthen there's nothing more for us to add.
 Dialogue: 0,0:05:17.80,0:05:18.76,Default,Kirara,0,0,0,,Yeah.
-Dialogue: 0,0:05:19.55,0:05:23.47,Default,Hakari,0,0,0,,Still, that's everyone who's had my back all at once...
+Dialogue: 0,0:05:19.55,0:05:23.47,Default,Hakari,0,0,0,,Still, that's everyone \Nwho's had my back all at once...
 Dialogue: 0,0:05:23.47,0:05:28.43,Default,Hakari,0,0,0,,I haven't been this bummed out \Nsince I watched Yakul get shot in the ass with an arrow.
 Dialogue: 0,0:05:28.43,0:05:30.85,Default,Three,0,0,0,,{\i1}What a nice life he's lived.
+Dialogue: 0,0:05:28.43,0:05:30.85,Default,Three,0,0,0,,{\i1\pos(430,136)}What a nice life he's lived.
+Dialogue: 0,0:05:28.43,0:05:30.85,Default,Three,0,0,0,,{\i1\pos(1510,136)}What a nice life he's lived.
 Dialogue: 0,0:05:30.85,0:05:35.11,Default,Hakari,0,0,0,,Alright. I'll help settle this Culling Game.
 Dialogue: 0,0:05:37.57,0:05:39.49,Default,Hakari,0,0,0,,Don't get it twisted, though.
 Dialogue: 0,0:05:40.03,0:05:42.32,Default,Hakari,0,0,0,,This ain't me getting soft. {I'm not doing this out of sympathy.}
@@ -112,8 +113,8 @@ Dialogue: 0,0:05:55.04,0:06:01.84,Default,Panda,0,0,0,,Now that the existence of
 Dialogue: 0,0:06:01.84,0:06:04.18,Default,Panda,0,0,0,,but what exactly are you hoping for?
 Dialogue: 0,0:06:05.34,0:06:08.81,Default,Fushiguro,0,0,0,,Whatever it is, I doubt it'll be that hard to secure.
 Dialogue: 0,0:06:08.81,0:06:09.85,Default,Hakari,0,0,0,,Huh?!
-Dialogue: 0,0:06:09.85,0:06:13.69,Default,Hakari,0,0,0,,What the fuck would {\i1}you{\i0} know about it, \NSea Urchin Head, huh?!
-Dialogue: 0,0:06:14.31,0:06:17.06,Default,Fushiguro,0,0,0,,I'm the head of the Zenin Clan.
+Dialogue: 0,0:06:09.85,0:06:13.69,Default,Hakari,0,0,0,,What the hell would {\i1}you{\i0} know about it, \NSea Urchin Head, huh?!
+Dialogue: 0,0:06:14.35,0:06:17.06,Default,Fushiguro,0,0,0,,I'm the head of the Zenin Clan.
 Dialogue: 0,0:06:20.15,0:06:21.69,Default,Hakari,0,0,0,,Oh, yeah?
 Dialogue: 0,0:06:23.90,0:06:26.74,Default,Hakari,0,0,0,,{\i1}Wait, wait, wait, wait, what the fuck?!
 Dialogue: 0,0:06:26.74,0:06:30.20,Default,Hakari,0,0,0,,{\i1}I'm sorry for the other two, \Nbut that's the most shocking thing I've heard today!
@@ -133,7 +134,7 @@ Dialogue: 0,0:07:02.86,0:07:03.15,Default,Kogane,0,0,0,,{\an8}Ding-dong, ding-do
 Dialogue: 0,0:07:03.15,0:07:03.40,Default,Kogane,0,0,0,,{\an8}Ding-dong, ding-dong, ding-dong, ding-dong, ding-dong, {\alpha&HFF&}ding-dong!
 Dialogue: 0,0:07:03.40,0:07:05.03,Default,Kogane,0,0,0,,{\an8}Ding-dong, ding-dong, ding-dong, ding-dong, ding-dong, ding-dong!
 Dialogue: 0,0:07:05.03,0:07:10.24,Default,Kogane,0,0,0,,A player has added a new rule to the Culling Game!
-Dialogue: 0,0:07:10.24,0:07:14.00,Default,Kogane,0,0,0,,Rule 9: Players shall be able to view the following information on other players:
+Dialogue: 0,0:07:10.24,0:07:14.00,Default,Kogane,0,0,0,,Rule 9: Players shall be able to view \Nthe following information on other players:
 Dialogue: 0,0:07:14.00,0:07:20.34,Default,Kogane,0,0,0,,name, points, number of rules added, and current colony.
 Dialogue: 0,0:07:21.17,0:07:22.67,Default,Kogane,0,0,0,,I am Kogane!
 Dialogue: 0,0:07:22.67,0:07:25.84,Default,Kogane,0,0,0,,The interface between players \Nand the Culling Game!
@@ -163,7 +164,7 @@ Dialogue: 0,0:08:09.51,0:08:10.39,Default,Hakari,0,0,0,,{\fs32\bord2.2\shad1.2\p
 Comment: 0,0:08:09.51,0:08:10.39,Default,Hakari,0,0,0,,{\an8}Sukuna?
 Dialogue: 0,0:08:10.72,0:08:12.81,Default,Yuji,0,0,0,,I think Sukuna was one of the sorcerers
 Dialogue: 0,0:08:12.81,0:08:15.98,Default,Yuji,0,0,0,,who entered a contract with Kenjaku and became a cursed object.
-Dialogue: 0,0:08:15.98,0:08:20.10,Default,Fushiguro,0,0,0,,{\i1}So participating in the Culling Game \Nwas part of the contract?
+Dialogue: 0,0:08:16.35,0:08:20.10,Default,Fushiguro,0,0,0,,{\i1}So participating in the Culling Game \Nwas part of the contract?
 Dialogue: 0,0:08:20.10,0:08:21.86,Default,Fushiguro,0,0,0,,It still doesn't make sense.
 Dialogue: 0,0:08:22.27,0:08:24.86,Default,Fushiguro,0,0,0,,You swallowed Sukuna's finger \Nof your own free will.
 Dialogue: 0,0:08:24.86,0:08:26.03,Default,Fushiguro,0,0,0,,I witnessed it.
@@ -176,7 +177,7 @@ Dialogue: 0,0:08:45.92,0:08:47.26,Default,Fushiguro,0,0,0,,This guy.
 Dialogue: 0,0:08:47.80,0:08:50.13,Default,Fushiguro,0,0,0,,So he originally had 200 points?
 Dialogue: 0,0:08:51.01,0:08:53.43,Default,Fushiguro,0,0,0,,I wonder why he added this rule.
 Dialogue: 0,0:08:53.43,0:08:57.56,Default,Yuji,0,0,0,,He's killed 40 people at the very least, right?
-Dialogue: 0,0:08:57.56,0:09:00.06,Default,Yuji,0,0,0,,I doubt it's for a good reason.
+Dialogue: 0,0:08:57.56,0:09:00.06,Default,Yuji,0,0,0,,I doubt he has nice intentions.
 Dialogue: 0,0:09:00.06,0:09:05.78,Default,Fushiguro,0,0,0,,Still, this means we might be able to progress \Nthrough the Culling Game without killing anyone.
 Dialogue: 0,0:09:06.23,0:09:10.61,Default,Fushiguro,0,0,0,,Kogane, can you show a list of players \Nwith 100 points or more?
 Dialogue: 0,0:09:10.61,0:09:14.74,Default,Kogane,0,0,0,,Well, I'm assigned to Itadori Yuji, so...
@@ -195,6 +196,7 @@ Dialogue: 0,0:09:53.74,0:09:54.70,Default,Both,0,0,0,,Yeah!
 Dialogue: 0,0:09:55.28,0:09:57.91,Default,Fushiguro,0,0,0,,The first thing we need to do \Nis deal with Rule 8.
 Dialogue: 0,0:09:57.91,0:09:58.37,Default,Yuji,0,0,0,,Huh?
 Dialogue: 0,0:09:58.74,0:10:01.21,Default,Panda,0,0,0,,What was Rule 8 again?
+Dialogue: 0,0:10:01.58,0:10:04.71,Default,Fushiguro,0,0,0,,{\blur1\q2\c&H000000&}It's the one that says if your points don't change within 19 days, \Nyour technique gets stripped, leading to death.
 Dialogue: 1,0:10:01.58,0:10:08.50,Default,Fushiguro,0,0,0,,{\q2}It's the one that says if your points don't change within 19 days, \Nyour technique gets stripped, leading to death.
 Dialogue: 0,0:10:08.50,0:10:14.26,Default,Fushiguro,0,0,0,,To counter that, we add a rule saying, \N"Players can transfer points to each other."
 Dialogue: 0,0:10:14.72,0:10:17.56,Default,Fushiguro,0,0,0,,Then we can keep passing points \Namong ourselves
@@ -216,7 +218,7 @@ Dialogue: 0,0:11:06.40,0:11:10.23,Default,Panda,0,0,0,,That probably isn't her r
 Dialogue: 0,0:11:11.73,0:11:14.61,Default,Fushiguro,0,0,0,,{*}Master Tengen{*Tengen-sama} said she was in eastern Tokyo.
 Dialogue: 0,0:11:14.61,0:11:17.11,Default,Fushiguro,0,0,0,,That would be Colony No. 2, then.
 Dialogue: 0,0:11:17.62,0:11:19.49,Default,Hakari,0,0,0,,You guys know what she looks like?
-Dialogue: 0,0:11:20.12,0:11:21.91,Default,Fushiguro,0,0,0,,Apparently, we'll know when see her. {ofc you will}
+Dialogue: 0,0:11:20.12,0:11:21.91,Default,Fushiguro,0,0,0,,Apparently, we'll know when we see her. {ofc you will}
 Dialogue: 0,0:11:21.91,0:11:24.25,Default,Hakari,0,0,0,,Are you sure about that? {CR: Is that gonna work out?}
 Dialogue: 0,0:11:24.87,0:11:26.17,Default,Hakari,0,0,0,,Well, whatever.
 Dialogue: 0,0:11:26.17,0:11:28.17,Default,Hakari,0,0,0,,Panda and I will take Tokyo No. 2.
@@ -264,7 +266,7 @@ Dialogue: 0,0:13:08.35,0:13:09.89,Default,Hanyu,0,0,0,,If you start mouthing off
 Dialogue: 0,0:13:12.06,0:13:13.77,Default,Hanyu,0,0,0,,I'll run you over.
 Dialogue: 0,0:13:14.94,0:13:17.53,Default,Fushiguro,0,0,0,,The incarnated sorcerers \Nare the ones to watch out for.
 Dialogue: 0,0:13:17.53,0:13:19.32,Default,Yuji,0,0,0,,Yeah, totally.
-Dialogue: 0,0:13:19.82,0:13:22.61,Default,Yuji,0,0,0,,Can you explain why though, Fushiguro{**-kun}?
+Dialogue: 0,0:13:19.82,0:13:22.61,Default,Yuji,0,0,0,,Can you explain why though, Fushiguro{**-kun}? {i sure hope the joke comes across}
 Dialogue: 0,0:13:23.62,0:13:26.08,Default,Fushiguro,0,0,0,,Some of them are from a thousand years ago.
 Dialogue: 0,0:13:26.08,0:13:29.83,Default,Fushiguro,0,0,0,,People valued life very differently \Njust a hundred or two hundred years ago.
 Dialogue: 0,0:13:29.83,0:13:31.50,Default,Fushiguro,0,0,0,,Plus, they're sorcerers.
@@ -274,12 +276,12 @@ Dialogue: 0,0:13:38.84,0:13:42.89,Default,Fushiguro,0,0,0,,There's a strong chan
 Dialogue: 0,0:13:42.89,0:13:44.89,Default,Fushiguro,0,0,0,,Don't expect a proper negotiation.
 Dialogue: 0,0:13:44.89,0:13:47.89,Default,Yuji,0,0,0,,Then the other aggressive ones \Nare gonna be curses, huh?
 Dialogue: 0,0:13:48.27,0:13:49.73,Default,Fushiguro,0,0,0,,Especially at night.
-Dialogue: 0,0:13:50.31,0:13:54.02,Default,Fushiguro,0,0,0,,If they're a modern day sorcerer \Nwho got dragged into this like Tsumiki,
-Dialogue: 0,0:13:54.02,0:13:57.15,Default,Fushiguro,0,0,0,,they might be open to exchanging information.
-Dialogue: 0,0:13:59.11,0:14:00.99,Default,Kogane,0,0,0,,Yo, I'm Kogane!
-Dialogue: 0,0:14:01.40,0:14:06.95,Default,Kogane,0,0,0,,Inside this barrier is the Culling Game, where players fight to the death!
-Dialogue: 0,0:14:06.95,0:14:10.29,Default,Kogane,0,0,0,,Once you step inside, \Nyou, too, become a player!
-Dialogue: 0,0:14:10.29,0:14:13.00,Default,Kogane,0,0,0,,Are you still willing to enter?!
+Dialogue: 0,0:13:50.31,0:13:54.02,Default,Fushiguro,0,0,0,,That said, a modern day sorcerer \Nwho got dragged into this like Tsumiki
+Dialogue: 0,0:13:54.02,0:13:57.15,Default,Fushiguro,0,0,0,,might be open to exchanging information.
+Dialogue: 0,0:13:59.11,0:14:00.99,Default,Kogane,0,0,0,,{\an8}Yo, I'm Kogane!
+Dialogue: 0,0:14:01.40,0:14:06.95,Default,Kogane,0,0,0,,{\an8}Inside this barrier is the Culling Game, where players fight to the death!
+Dialogue: 0,0:14:06.95,0:14:10.29,Default,Kogane,0,0,0,,{\an8}Once you step inside, \Nyou, too, become a player!
+Dialogue: 0,0:14:10.29,0:14:13.00,Default,Kogane,0,0,0,,{\an8}Are you still willing to enter?!
 Dialogue: 0,0:14:13.00,0:14:15.42,Default,Fushiguro,0,0,0,,Yeah. No issues here.
 Dialogue: 0,0:14:16.75,0:14:20.42,Default,Kogane,0,0,0,,Fushiguro Megumi has joined the Culling Game.
 Dialogue: 0,0:14:20.42,0:14:22.42,Default,Kogane,0,0,0,,Would you like to see the rules?
@@ -302,7 +304,7 @@ Dialogue: 0,0:15:14.23,0:15:16.56,Default,Hanyu,0,0,0,,{\i1}This one's tough!
 Dialogue: 0,0:15:16.56,0:15:20.61,Default,Hanyu,0,0,0,,{\i1}Most would've turned into mincemeat \Nby that, but he's still kicking.
 Dialogue: 0,0:15:20.61,0:15:21.98,Default,Hanyu,0,0,0,,{\i1}He's not your average Joe. {He is specialz.}
 Dialogue: 0,0:15:31.45,0:15:34.45,Default,Hanyu,0,0,0,,Darling, let's meet up.
-Dialogue: 0,0:15:37.79,0:15:39.79,Default,Yuji,0,0,0,,{\i1}She went down easily.
+Dialogue: 0,0:15:37.79,0:15:39.79,Default,Yuji,0,0,0,,{\i1}She went down easily. {is there any indication that this is internal thought? a couple lines later he is speaking out loud} {i'll still keep the italics since this was internal in the manga and also the voice acting is a little different}
 Dialogue: 0,0:15:39.79,0:15:41.96,Default,Yuji,0,0,0,,{\i1}I need to ask her about Higuruma.
 Dialogue: 0,0:15:41.96,0:15:44.21,Default,Yuji,0,0,0,,{\i1}Then I have to find Fushiguro.
 Dialogue: 0,0:15:44.80,0:15:45.88,Default,Haba,0,0,0,,What the hell?!
@@ -363,13 +365,13 @@ Dialogue: 0,0:19:23.81,0:19:25.64,Default,Remi,0,0,0,,Do you even get it?!
 Dialogue: 0,0:19:26.02,0:19:29.90,Default,Remi,0,0,0,,As my knight, you're supposed to \Nprotect me with your life!
 Dialogue: 0,0:19:30.82,0:19:33.40,Default,Fushiguro,0,0,0,,I will if you're telling me the truth.
 Dialogue: 0,0:19:35.32,0:19:37.78,Default,Yuji,0,0,0,,Hey, wake up.
-Dialogue: 0,0:19:37.78,0:19:41.03,Default,Yuji,0,0,0,,I want to ask you about a sorcerer named Higuruma.
+Dialogue: 0,0:19:37.78,0:19:40.99,Default,Yuji,0,0,0,,I wanna ask about a sorcerer named Higuruma.
 Dialogue: 0,0:19:42.41,0:19:44.29,Default,Amai,0,0,0,,I-Itadori.
 Dialogue: 0,0:19:46.00,0:19:47.58,Default,Amai,0,0,0,,I know him.
 Dialogue: 0,0:19:48.21,0:19:50.29,Default,Amai,0,0,0,,That Higuruma guy.
 Dialogue: 0,0:19:51.17,0:19:54.67,Default,Fushiguro,0,0,0,,You know what will happen if you're lying, right?
 Dialogue: 0,0:19:55.59,0:19:57.43,Default,Fushiguro,0,0,0,,{\i1}I'm not like Itadori.
-Dialogue: 0,0:19:57.43,0:20:00.43,Default,Fushiguro,0,0,0,,{\i1}I'll earn those 100 points myself if I have to.
+Dialogue: 0,0:19:57.43,0:20:00.01,Default,Fushiguro,0,0,0,,{\i1}I'll earn those 100 points myself if I have to.
 Dialogue: 0,0:20:00.43,0:20:02.81,Default,Remi,0,0,0,,Can you stop referring to me that way?
 Dialogue: 0,0:20:02.81,0:20:04.31,Default,Remi,0,0,0,,Call me Remi.
 Dialogue: 0,0:20:04.89,0:20:07.39,Default,Amai,0,0,0,,It's been a while. Remember me?
@@ -379,7 +381,7 @@ Dialogue: 0,0:20:12.36,0:20:16.03,Default,Amai,0,0,0,,Oh, sorry. I guess you wou
 Dialogue: 0,0:20:16.03,0:20:18.32,Default,Amai,0,0,0,,You were famous, you know.
 Dialogue: 0,0:20:18.32,0:20:19.78,Default,Amai,0,0,0,,"Tiger of West Middle."
 Dialogue: 0,0:20:20.16,0:20:22.66,Default,Yuji,0,0,0,,Oh! You're from my hometown!
-Dialogue: 0,0:20:23.95,0:20:27.54,Default,Fushiguro,0,0,0,,Wait, so you're not a sorcerer from the past?
+Dialogue: 0,0:20:23.95,0:20:27.54,Default,Fushiguro,0,0,0,,Wait, so you're not \None of the past sorcerers?
 Dialogue: 0,0:20:27.54,0:20:28.92,Default,Remi,0,0,0,,Excuse me?
 Dialogue: 0,0:20:28.92,0:20:31.54,Default,Remi,0,0,0,,Do I look that far behind the times?
 Dialogue: 0,0:20:31.92,0:20:34.42,Default,Fushiguro,0,0,0,,Then what's your reason to fight?
@@ -392,7 +394,7 @@ Dialogue: 0,0:20:52.36,0:20:54.32,Default,Remi,0,0,0,,It's kill or be killed!
 Dialogue: 0,0:20:55.90,0:20:59.24,Default,Remi,0,0,0,,You'll be dead before you find your reason to fight.
 Dialogue: 0,0:20:59.24,0:21:01.91,Default,Remi,0,0,0,,Anyone can figure that out after twelve days here.
 Dialogue: 0,0:21:02.53,0:21:05.54,Default,Remi,0,0,0,,I've seen people go mad with power along the way.
-Dialogue: 0,0:21:06.20,0:21:09.66,Default,Remi,0,0,0,,Stop worrying about whether they're \Npast or modern sorcerers. {i.e. they're both daangerous} {it doesn't matter}
+Dialogue: 0,0:21:06.20,0:21:09.66,Default,Remi,0,0,0,,Stop worrying about whether they're \Npast or modern sorcerers. {i.e. they're both dangerous} {it doesn't matter}
 Dialogue: 0,0:21:10.00,0:21:14.92,Default,Fushiguro,0,0,0,,{\i1}So the past sorcerers have pushed \Nthe modern sorcerers into combat mode too?
 Dialogue: 0,0:21:15.46,0:21:18.13,Default,Fushiguro,0,0,0,,{\i1}I might have given Itadori bad advice, then.
 Dialogue: 0,0:21:18.13,0:21:19.51,Default,Yuji,0,0,0,,Are you sure?
@@ -424,8 +426,8 @@ Dialogue: 0,0:22:06.60,0:22:07.22,Default,Amai,0,0,0,,{\pos(480,1015)}Got it?
 Dialogue: 0,0:22:06.85,0:22:07.97,Default,Remi,0,0,0,,{\pos(1440,1015)}Got it?
 Dialogue: 0,0:23:40.86,0:23:44.44,Default,Higuruma,0,0,0,,{\an8}I just sense potential in the Culling Game.
 Dialogue: 0,0:23:44.44,0:23:45.74,Default,Yuji,0,0,0,,{\an8}Every person in this country will die.
-Dialogue: 0,0:23:45.74,0:23:48.07,Default,Reggie,0,0,0,,{\an8}She deceived you.
+Dialogue: 0,0:23:45.74,0:23:48.07,Default,Reggie,0,0,0,,{\an8}You've been played.
 Dialogue: 0,0:23:48.07,0:23:49.45,Default,Amai,0,0,0,,{\an8}I'm sorry, Itadori.
-Dialogue: 0,0:23:49.45,0:23:51.20,Default,Fushiguro,0,0,0,,{\an8}A sorcerer connected to Kenjaku?!
+Dialogue: 0,0:23:49.45,0:23:51.20,Default,Fushiguro,0,0,0,,{\an8}A sorcerer connected to Kenjaku!
 Dialogue: 0,0:23:51.20,0:23:52.16,Default,Yuji,0,0,0,,{\an8}I wanna talk.
 Dialogue: 0,0:23:52.16,0:23:54.08,Default,Higuruma,0,0,0,,{\an8}We're having a retrial.
