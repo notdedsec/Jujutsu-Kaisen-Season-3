@@ -16,8 +16,10 @@ Audio File: jjk_55_premux.mkv
 Video File: jjk_55_premux.mkv
 Keyframes File: jjk_55_keyframes.txt
 Video AR Value: 1.777778
-Video Zoom Percent: 0.250000
-Video Position: 2455
+Video Zoom Percent: 0.750000
+Scroll Position: 315
+Active Line: 320
+Video Position: 29796
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -26,378 +28,344 @@ Style: Alt,Cabin F,71,&H00FFFFFF,&H000000FF,&H003C3900,&HA0000000,-1,0,0,0,100,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:01:42.38,0:01:44.27,Default,Oe,0,0,0,,I owned a cat.
-Dialogue: 0,0:01:45.76,0:01:46.83,Default,Higuruma,0,0,0,,Continue.
-Dialogue: 0,0:01:47.89,0:01:50.60,Default,Oe,0,0,0,,A cop suddenly started speaking to me.
-Dialogue: 0,0:01:51.05,0:01:53.25,Default,Oe,0,0,0,,Then there were two, then three of them.
-Dialogue: 0,0:01:53.66,0:01:55.33,Default,Oe,0,0,0,,I thought, "If they take me in now,
-Dialogue: 0,0:01:55.33,0:01:56.83,Default,Oe,0,0,0,,my cat is going to die."
-Dialogue: 0,0:01:57.35,0:01:59.15,Default,Oe,0,0,0,,My place doesn't allow us to own them.
-Dialogue: 0,0:01:59.60,0:02:02.47,Default,Oe,0,0,0,,So I was the only one who knew about it.
-Dialogue: 0,0:02:03.22,0:02:05.27,Default,Higuruma,0,0,0,,{\i1}In Morioka City, Iwate Prefecture,
-Dialogue: 0,0:02:05.27,0:02:07.23,Default,Higuruma,0,0,0,,{\i1}in March of 2016,
-Dialogue: 0,0:02:07.64,0:02:09.61,Default,Higuruma,0,0,0,,{\i1}two people—\Na young girl and her mother—
-Dialogue: 0,0:02:09.61,0:02:13.05,Default,Higuruma,0,0,0,,{\i1}were found fatally stabbed \Nin their own home.
-Dialogue: 0,0:02:14.52,0:02:15.99,Default,Higuruma,0,0,0,,{\i1}The Morioka Prosecutor's Office
-Dialogue: 0,0:02:15.99,0:02:18.13,Default,Higuruma,0,0,0,,{\i1}indicted Keita Oe, who lived nearby,
-Dialogue: 0,0:02:18.13,0:02:21.29,Default,Higuruma,0,0,0,,{\i1}on charges of felony murder and robbery.
-Dialogue: 0,0:02:21.74,0:02:23.81,Default,Higuruma,0,0,0,,{\i1}The events leading to \Nhis arrest were thus:
-Dialogue: 0,0:02:24.33,0:02:28.54,Default,Higuruma,0,0,0,,{\i1}Oe fled during police questioning \Nby officers on patrol,
-Dialogue: 0,0:02:28.54,0:02:30.46,Default,Higuruma,0,0,0,,{\i1}and after police chased \Nhim into his home,
-Dialogue: 0,0:02:28.09,0:02:29.25,Default,Police,0,0,0,,Hey! Stop!
-Dialogue: 0,0:02:30.93,0:02:35.01,Default,Higuruma,0,0,0,,{\i1}the officers who chased him discovered \Na blade with blood on it,
-Dialogue: 0,0:02:36.40,0:02:37.97,Default,Higuruma,0,0,0,,{\i1}and then arrested him \Nin flagrante delicto.
-Dialogue: 0,0:02:39.76,0:02:41.04,Default,Police,0,0,0,,There he is!
-Dialogue: 0,0:02:41.04,0:02:41.84,Default,Police,0,0,0,,Come on, behave!
-Dialogue: 0,0:02:39.70,0:02:41.84,Default,Higuruma,0,0,0,,{\i1}Later DNA analysis
-Dialogue: 0,0:02:44.19,0:02:45.31,Default,Police,0,0,0,,Stop struggling!
-Dialogue: 0,0:02:41.84,0:02:45.31,Default,Higuruma,0,0,0,,{\i1}revealed the blood on the blade \Nmatched the victims' DNA.
-Dialogue: 0,0:02:46.69,0:02:49.63,Default,Higuruma,0,0,0,,{\i1}Oe consistently denied all \Nculpability for the crime.
-Dialogue: 0,0:02:49.63,0:02:52.08,Default,Higuruma,0,0,0,,{\i1}On the blade collected \Nas evidence, he insisted...
-Dialogue: 0,0:02:52.08,0:02:53.42,Default,Oe,0,0,0,,I just picked it up.
-Dialogue: 0,0:02:53.77,0:02:54.78,Default,Oe,0,0,0,,It wasn't mine.
-Dialogue: 0,0:02:55.59,0:02:57.91,Default,Shimizu,0,0,0,,That's a bit hard to believe, isn't it?
-Dialogue: 0,0:02:57.91,0:03:01.83,Default,Shimizu,0,0,0,,I mean, he refused the questioning \Nbecause he felt guilty, right?
-Dialogue: 0,0:03:02.34,0:03:05.51,Default,Higuruma,0,0,0,,No. He was previously a victim \Nof wrongful questioning
-Dialogue: 0,0:03:05.51,0:03:09.38,Default,Higuruma,0,0,0,,because an acquaintance of his \Nwas using drugs in the past.
-Dialogue: 0,0:03:09.38,0:03:11.89,Default,Shimizu,0,0,0,,You're saying that traumatized him?
-Dialogue: 0,0:03:11.89,0:03:14.26,Default,Shimizu,0,0,0,,Even so, "I picked it up"?
-Dialogue: 0,0:03:14.26,0:03:17.44,Default,Shimizu,0,0,0,,A bloody kitchen knife? Why?
-Dialogue: 0,0:03:17.89,0:03:21.10,Default,Higuruma,0,0,0,,He claims he was planning to \Nturn it in to the police later.
-Dialogue: 0,0:03:21.10,0:03:22.32,Default,Shimizu,0,0,0,,"Later"?!
-Dialogue: 0,0:03:23.33,0:03:24.71,Default,Higuruma,0,0,0,,I know.
-Dialogue: 0,0:03:24.71,0:03:26.31,Default,Higuruma,0,0,0,,His claims are all hard to believe.
-Dialogue: 0,0:03:26.96,0:03:29.32,Default,Higuruma,0,0,0,,But when you consider Oe's background—
-Dialogue: 0,0:03:29.32,0:03:33.30,Default,Higuruma,0,0,0,,the fact that he works as a live-in \Nemployee at a non-profit organization—
-Dialogue: 0,0:03:33.30,0:03:35.53,Default,Higuruma,0,0,0,,it starts sounding plausible.
-Dialogue: 0,0:03:35.94,0:03:37.78,Default,Shimizu,0,0,0,,A non-profit?
-Dialogue: 0,0:03:38.74,0:03:40.90,Default,Higuruma,0,0,0,,They work with the elderly \Nwho have no place to go,
-Dialogue: 0,0:03:40.90,0:03:44.43,Default,Higuruma,0,0,0,,primarily running a shelter and providing \Nsupport for their independent living.
-Dialogue: 0,0:03:44.43,0:03:47.91,Default,Higuruma,0,0,0,,Oe's job was taking care \Nof the elderly there.
-Dialogue: 0,0:03:48.33,0:03:51.16,Default,Higuruma,0,0,0,,However, they didn't pay him a wage.
-Dialogue: 0,0:03:51.63,0:03:54.59,Default,Higuruma,0,0,0,,They only supplied him with goods \Nlike groceries, boxed lunches,
-Dialogue: 0,0:03:54.59,0:03:57.35,Default,Higuruma,0,0,0,,and the occasional New Year's \Ngift of pocket money.
-Dialogue: 0,0:03:57.68,0:03:59.41,Default,Higuruma,0,0,0,,Yet despite that,
-Dialogue: 0,0:03:59.41,0:04:02.85,Default,Higuruma,0,0,0,,they collected 50,000 yen \Na month from him as rent.
-Dialogue: 0,0:04:02.85,0:04:03.95,Default,Shimizu,0,0,0,,Brutal.
-Dialogue: 0,0:04:04.37,0:04:07.94,Default,Higuruma,0,0,0,,Apparently, quite a few of the \Nresidents have prior records.
-Dialogue: 0,0:04:07.94,0:04:11.64,Default,Higuruma,0,0,0,,Furthermore, the reason he was delayed in \Nturning over the weapon he found was...
-Dialogue: 0,0:04:11.96,0:04:15.65,Default,Oe,0,0,0,,The rules say we can't call \Nany cop cars or ambulances.
-Dialogue: 0,0:04:15.95,0:04:18.01,Default,Oe,0,0,0,,Because they'd bother the neighbors.
-Dialogue: 1,0:04:19.90,0:04:23.06,Default,Shimizu,0,0,0,,That organization sounds \Nkinda shady, doesn't it?
-Dialogue: 1,0:04:23.06,0:04:23.96,Default,Higuruma,0,0,0,,Yeah.
-Dialogue: 1,0:04:23.96,0:04:26.37,Default,Higuruma,0,0,0,,It's extremely close to \Nbeing outright illegal.
-Dialogue: 1,0:04:26.85,0:04:30.74,Default,Higuruma,0,0,0,,We've already seen an increase \Nin suspiciously managed NPOs
-Dialogue: 1,0:04:30.74,0:04:33.92,Default,Higuruma,0,0,0,,since the earthquake relief funds \Nstarted flowing into this region.
-Dialogue: 0,0:04:34.42,0:04:37.27,Default,Higuruma,0,0,0,,So it's not surprising the murder \Nweapon was just lying around.
-Dialogue: 0,0:04:37.98,0:04:41.42,Default,Higuruma,0,0,0,,There's a good possibility Oe's innocent.
-Dialogue: 0,0:04:43.06,0:04:46.47,Default,Higuruma,0,0,0,,First, we'll investigate the \Norganization's activities and tax filings,
-Dialogue: 0,0:04:46.47,0:04:49.35,Default,Higuruma,0,0,0,,then run background checks \Non all the residents.
-Dialogue: 0,0:04:49.35,0:04:52.28,Default,Higuruma,0,0,0,,I'll focus on getting \Ninformation out of Oe.
-Dialogue: 0,0:04:52.28,0:04:54.07,Default,Higuruma,0,0,0,,You handle the investigation, Shimizu.
-Dialogue: 0,0:04:54.07,0:04:57.57,Default,Shimizu,0,0,0,,You're dumping a huge job like \Nthat on me out of the blue?
-Dialogue: 0,0:04:59.42,0:05:01.08,Default,Higuruma,0,0,0,,Could you take care of his cat, too?
-Dialogue: 0,0:05:01.08,0:05:02.16,Default,Shimizu,0,0,0,,The cat?!
-Dialogue: 0,0:05:03.11,0:05:06.78,Default,Shimizu,0,0,0,,{\i1}The commission for public defense cases \Nis low, despite how much work they take.
-Dialogue: 0,0:05:07.11,0:05:09.36,Default,Shimizu,0,0,0,,{\i1}The public assumes he's guilty, too.
-Dialogue: 0,0:05:09.36,0:05:12.12,Default,Shimizu,0,0,0,,{\i1}Plus, there's no suspended \Nsentence in murder cases,
-Dialogue: 0,0:05:12.12,0:05:13.80,Default,Shimizu,0,0,0,,{\i1}and he could receive the death penalty.
-Dialogue: 0,0:05:13.80,0:05:15.75,Default,Shimizu,0,0,0,,{\i1}There's nothing to gain here.
-Dialogue: 0,0:05:16.91,0:05:21.97,Default,Shimizu,0,0,0,,Jeez, Higuruma{**-san}! Why did you \Ngo and accept a case like this?
-Dialogue: 0,0:05:21.97,0:05:23.43,Default,Higuruma,0,0,0,,It's fine every now and then.
-Dialogue: 0,0:05:23.89,0:05:26.54,Default,Higuruma,0,0,0,,If we stuck to easy work, \Nour skills would dull.
-Dialogue: 0,0:05:26.81,0:05:28.70,Default,Shimizu,0,0,0,,{\i1}It's more than every now and then!
-Dialogue: 0,0:05:29.02,0:05:30.86,Default,Shimizu,0,0,0,,It's more than every now and then!
-Dialogue: 0,0:05:31.37,0:05:33.77,Default,Higuruma,0,0,0,,You're saying your thoughts out loud.
-Dialogue: 0,0:05:35.98,0:05:38.97,Default,Takagi,0,0,0,,Sounds like Higuruma{**-kun} \Nhasn't changed then.
-Dialogue: 0,0:05:39.54,0:05:42.86,Default,Takagi,0,0,0,,It's rough when an independent \Nlawyer isn't in it for the money.
-Dialogue: 0,0:05:43.32,0:05:48.62,Default,Shimizu,0,0,0,,At least it's not so bad that I'm being \Ntold to run a café on the side like you.
-Dialogue: 0,0:05:48.62,0:05:50.50,Default,Shimizu,0,0,0,,But when you say he hasn't changed,
-Dialogue: 0,0:05:50.50,0:05:52.91,Default,Shimizu,0,0,0,,you mean Higuruma{**-san}'s \Nalways been like this?
-Dialogue: 0,0:05:52.91,0:05:54.66,Default,Takagi,0,0,0,,Hm? No.
-Dialogue: 0,0:05:55.13,0:05:57.77,Default,Takagi,0,0,0,,I think he actually used to be worse.
-Dialogue: 0,0:05:57.77,0:05:58.67,Default,Shimizu,0,0,0,,Huh?
-Dialogue: 0,0:05:59.36,0:06:01.39,Default,Takagi,0,0,0,,Back when he was with us,
-Dialogue: 0,0:06:01.39,0:06:04.51,Default,Takagi,0,0,0,,he was in charge of a case of \Nreckless driving resulting in injury.
-Dialogue: 0,0:06:04.51,0:06:06.36,Default,Takagi,0,0,0,,Oh, a drunk driving one.
-Dialogue: 0,0:06:07.26,0:06:09.62,Default,Takagi,0,0,0,,The defendant was nineteen,
-Dialogue: 0,0:06:09.62,0:06:14.32,Default,Takagi,0,0,0,,and his coworkers had coerced him into \Nboth the drinking and the driving.
-Dialogue: 0,0:06:14.32,0:06:17.22,Default,Takagi,0,0,0,,However, those involved all \Naligned their stories,
-Dialogue: 0,0:06:17.22,0:06:19.15,Default,Takagi,0,0,0,,and he wasn't able to prepare \Nmoney for a settlement,
-Dialogue: 0,0:06:19.15,0:06:21.64,Default,Takagi,0,0,0,,nor were we able to get \Nhim a suspended sentence.
-Dialogue: 0,0:06:27.34,0:06:28.64,Default,Client,0,0,0,,Liar!
-Dialogue: 0,0:06:30.37,0:06:33.12,Default,Client,0,0,0,,You said they'd find me innocent!
-Dialogue: 0,0:06:33.83,0:06:37.84,Default,Takagi,0,0,0,,You told him you'd manage to get \Na suspended sentence, though,
-Dialogue: 0,0:06:37.84,0:06:40.32,Default,Takagi,0,0,0,,not an innocent verdict.
-Dialogue: 0,0:06:40.99,0:06:42.74,Default,Takagi,0,0,0,,Have you learned your lesson now?
-Dialogue: 0,0:06:42.74,0:06:45.98,Default,Takagi,0,0,0,,Quit being a criminal defense \Nlawyer for impossible cases.
-Dialogue: 0,0:06:46.56,0:06:50.60,Default,Takagi,0,0,0,,Trying to save the weak \Nmay be a noble endeavor,
-Dialogue: 0,0:06:50.99,0:06:53.55,Default,Takagi,0,0,0,,but there's a limit to what \Nlawyers like us can do
-Dialogue: 0,0:06:53.55,0:06:56.08,Default,Takagi,0,0,0,,without understanding from \Nthe courts and prosecutors.
-Dialogue: 0,0:06:55.26,0:06:57.29,Default,Girl,0,0,0,,Oh, I want to ride that!
-Dialogue: 0,0:06:56.53,0:07:00.02,Default,Takagi,0,0,0,,It's not worth continuing when \Nyour clients resent you.
-Dialogue: 0,0:07:01.78,0:07:05.98,Default,Higuruma,0,0,0,,They're at the end of their rope, \Nboth mentally and financially.
-Dialogue: 0,0:07:06.39,0:07:08.69,Default,Higuruma,0,0,0,,I can't blame them for lashing out at me.
-Dialogue: 0,0:07:11.02,0:07:14.49,Default,Takagi,0,0,0,,But what about your mental \Nstate, Higuruma{**-kun}?
-Dialogue: 0,0:07:15.58,0:07:16.61,Default,Higuruma,0,0,0,,I...
-Dialogue: 0,0:07:38.75,0:07:41.50,Default,Judge,0,0,0,,We find the defendant...
-Dialogue: 0,0:07:41.94,0:07:43.20,Default,Judge,0,0,0,,innocent.
-Dialogue: 0,0:07:48.61,0:07:50.52,Default,Shimizu,0,0,0,,We actually won this case?
-Dialogue: 0,0:07:52.41,0:07:53.65,Default,Higuruma,0,0,0,,Not yet.
-Dialogue: 0,0:07:55.17,0:07:57.02,Default,Higuruma,0,0,0,,They'll appeal right away.
-Dialogue: 0,0:08:02.64,0:08:04.17,Default,Announcer,0,0,0,,{\i1}The prosecution has...
-Dialogue: 0,0:08:13.30,0:08:17.80,Default,Shimizu,0,0,0,,Nothing stolen was found \Nin Oe{**-san}'s room.
-Dialogue: 0,0:08:17.80,0:08:22.77,Default,Shimizu,0,0,0,,There was another person in the same NPO \Nwho went missing right after the crime.
-Dialogue: 0,0:08:23.10,0:08:26.57,Default,Shimizu,0,0,0,,The fact that you were caught on a \Nconvenience store's security camera feed
-Dialogue: 0,0:08:26.57,0:08:30.92,Default,Shimizu,0,0,0,,during the time of the crime determined \Nfrom the corpse played a major role, too.
-Dialogue: 0,0:08:31.35,0:08:34.41,Default,Shimizu,0,0,0,,Good thing you don't cook \Nfor yourself, Oe{**-san}!
-Dialogue: 0,0:08:34.91,0:08:36.31,Default,Oe,0,0,0,,Counselor Higuruma...
-Dialogue: 0,0:08:36.70,0:08:38.46,Default,Oe,0,0,0,,Thank you so much.
-Dialogue: 0,0:08:38.99,0:08:41.43,Default,Higuruma,0,0,0,,No need for "Counselor."
-Dialogue: 0,0:08:41.43,0:08:44.57,Default,Higuruma,0,0,0,,Besides, we're not in the clear yet. \NWe still have the second trial.
-Dialogue: 0,0:08:45.79,0:08:47.21,Default,Oe,0,0,0,,That's not what I mean.
-Dialogue: 0,0:08:50.00,0:08:53.17,Default,Oe,0,0,0,,Thank you for believing me!
-Dialogue: 0,0:09:02.37,0:09:07.20,Default,Higuruma,0,0,0,,{\i1}While defense lawyers have to work \Nwith limited budgets and manpower,
-Dialogue: 0,0:09:07.20,0:09:11.31,Default,Higuruma,0,0,0,,{\i1}prosecutors can pour manpower and \Ntaxpayer money into digging up evidence.
-Dialogue: 0,0:09:11.31,0:09:13.68,Default,Higuruma,0,0,0,,{\i1}That's fine. That's how the system works.
-Dialogue: 0,0:09:14.02,0:09:15.07,Default,Higuruma,0,0,0,,{\i1}However,
-Dialogue: 0,0:09:15.33,0:09:19.27,Default,Higuruma,0,0,0,,{\i1}the prosecutors didn't submit any new \Nevidence during the second trial.
-Dialogue: 0,0:09:21.27,0:09:24.96,Default,Higuruma,0,0,0,,{\i1}The judge recognized \Ntheir absurd claim that
-Dialogue: 0,0:09:24.96,0:09:27.51,Default,Higuruma,0,0,0,,{\i1}"there's no reason to suspect the \Nmissing person of the crime,"
-Dialogue: 0,0:09:27.51,0:09:29.46,Default,Higuruma,0,0,0,,{\i1}and they overturned the verdict.
-Dialogue: 0,0:09:31.37,0:09:34.47,Default,Higuruma,0,0,0,,{\i1}The highest court is always the \Nbottleneck for a third trial.
-Dialogue: 0,0:09:34.47,0:09:37.06,Default,Higuruma,0,0,0,,{\i1}Most final appeals are \Nturned away at the door.
-Dialogue: 0,0:09:37.06,0:09:39.99,Default,Higuruma,0,0,0,,{\i1}It's challenging to even \Nget a proper trial there.
-Dialogue: 0,0:09:40.85,0:09:44.37,Default,Higuruma,0,0,0,,{\i1}This trial was destined for a\Nguilty verdict from the start.
-Dialogue: 0,0:09:51.67,0:09:53.03,Default,Higuruma,0,0,0,,{\i1}Why are you
-Dialogue: 0,0:09:55.10,0:09:56.69,Default,Higuruma,0,0,0,,{\i1}looking at me that way?
-Dialogue: 0,0:09:59.48,0:10:03.62,Default,Takagi,0,0,0,,But what about your mental \Nstate, Higuruma{**-kun}?
-Dialogue: 0,0:10:05.50,0:10:08.98,Default,Higuruma,0,0,0,,I'm not trying to tout the \Nideal of saving the weak.
-Dialogue: 0,0:10:09.80,0:10:12.14,Default,Higuruma,0,0,0,,It's just always gone against my nature
-Dialogue: 0,0:10:12.14,0:10:14.43,Default,Higuruma,0,0,0,,to leave things alone when \NI feel like they're wrong.
-Dialogue: 0,0:10:15.04,0:10:17.58,Default,Higuruma,0,0,0,,I've just never managed \Nto fix that habit.
-Dialogue: 0,0:10:18.36,0:10:22.75,Default,Higuruma,0,0,0,,The goddess of justice blinds her sight \Nto maintain fairness under the law,
-Dialogue: 0,0:10:22.75,0:10:26.56,Default,Higuruma,0,0,0,,and people turn a blind eye to all \Nkinds of things to protect themselves.
-Dialogue: 0,0:10:26.97,0:10:31.26,Default,Higuruma,0,0,0,,But I don't want to brush away the \Nhands clinging to me for help,
-Dialogue: 0,0:10:35.12,0:10:37.73,Default,Higuruma,0,0,0,,so I want to keep my eyes open, at least.
-Dialogue: 0,0:10:42.06,0:10:44.76,Default,Judge,0,0,0,,If there are any objections \Nto today's trial,
-Dialogue: 0,0:10:44.76,0:10:49.63,Default,Judge,0,0,0,,submit your final appeal in writing \Nwithin fifteen days, including today.
-Dialogue: 0,0:11:01.18,0:11:02.89,Default,Shimizu,0,0,0,,Higuruma{**-san}?
-Dialogue: 0,0:11:06.24,0:11:08.31,Default,Higuruma,0,0,0,,Everyone come back.
-Dialogue: 0,0:11:13.26,0:11:15.09,Default,Higuruma,0,0,0,,We're having a retrial.
-Dialogue: 0,0:11:19.28,0:11:20.54,Default,Both,0,0,0,,Higuruma is in...
-Dialogue: 0,0:11:21.62,0:11:22.41,Default,Amai,0,0,0,,...Ikebukuro.
-Dialogue: 0,0:11:20.54,0:11:21.62,Default,Remi,0,0,0,,...Shinjuku.
-Dialogue: 0,0:11:22.41,0:11:23.03,Default,Amai,0,0,0,,Got it?
-Dialogue: 0,0:11:23.36,0:11:24.49,Default,Fushiguro,0,0,0,,Shinjuku?
-Dialogue: 0,0:11:24.89,0:11:27.09,Default,Fushiguro,0,0,0,,{\i1}I hope Itadori is heading there, too.
-Dialogue: 0,0:11:27.09,0:11:28.61,Default,Yuji,0,0,0,,Ikebukuro, huh?
-Dialogue: 0,0:11:28.61,0:11:30.33,Default,Yuji,0,0,0,,{\i1}I wonder if Fushiguro's there, too.
-Dialogue: 0,0:11:34.37,0:11:36.91,Default,Reggie,0,0,0,,Isn't she a little late?
-Dialogue: 0,0:11:36.91,0:11:39.34,Default,Reggie,0,0,0,,When is that girl
-Dialogue: 0,0:11:39.34,0:11:43.26,Default,Reggie,0,0,0,,going to bring me my next sucker?
-Dialogue: 0,0:11:50.55,0:11:53.15,Default,MaleStudent,0,0,0,,Huh? Wh-What?
-Dialogue: 0,0:11:53.15,0:11:55.24,Default,Amai,0,0,0,,Oh, no, no.
-Dialogue: 0,0:11:55.24,0:11:56.86,Default,Amai,0,0,0,,Not like that at all.
-Dialogue: 0,0:11:56.86,0:11:59.47,Default,Amai,0,0,0,,Hey, what are you doing?
-Dialogue: 0,0:11:59.87,0:12:01.37,Default,Amai,0,0,0,,Like this! This!
-Dialogue: 0,0:12:01.37,0:12:03.12,Default,MaleStudent,0,0,0,,R-Right.
-Dialogue: 0,0:12:03.12,0:12:04.86,Default,Amai,0,0,0,,{\i1}Why are you keeping quiet?
-Dialogue: 0,0:12:05.13,0:12:07.62,Default,Amai,0,0,0,,{\i1}You're better off laughing!
-Dialogue: 0,0:12:08.61,0:12:10.46,Default,Student,0,0,0,,Come on, come on!
-Dialogue: 0,0:12:12.15,0:12:13.35,Default,MaleStudent,0,0,0,,What's your problem?
-Dialogue: 0,0:12:13.35,0:12:13.99,Default,MaleStudent,0,0,0,,What's your problem?!
-Dialogue: 0,0:12:14.47,0:12:15.63,Default,Student,0,0,0,,There you go.
-Dialogue: 0,0:12:16.89,0:12:18.28,Default,MaleStudent,0,0,0,,What's your problem?!
-Dialogue: 0,0:12:18.54,0:12:19.98,Default,MaleStudent,0,0,0,,What's your problem?!
-Dialogue: 0,0:12:11.06,0:12:13.43,Default,Amai,0,0,0,,{\i1}Oh, dear. What did I tell you?
-Dialogue: 0,0:12:14.00,0:12:15.71,Default,Amai,0,0,0,,{\i1}Not that I actually told you.
-Dialogue: 0,0:12:16.25,0:12:18.07,Default,Amai,0,0,0,,{\i1}But why can't you understand?
-Dialogue: 0,0:12:18.07,0:12:19.55,Default,Amai,0,0,0,,{\i1}Are you an idiot?!
-Dialogue: 0,0:12:19.55,0:12:22.75,Default,Amai,0,0,0,,{\i1}These guys aren't that smart or athletic,
-Dialogue: 0,0:12:22.75,0:12:25.34,Default,Amai,0,0,0,,{\i1}but they're brimming with pride.
-Dialogue: 0,0:12:25.34,0:12:29.85,Default,Amai,0,0,0,,{\i1}You just have to match their vibe and \Njoke around so you don't hurt that pride.
-Dialogue: 0,0:12:30.49,0:12:34.10,Default,Amai,0,0,0,,{\i1}Then you won't get targeted \Nby anyone else, either.
-Dialogue: 0,0:12:34.10,0:12:36.55,Default,Amai,0,0,0,,{\i1}And you can occasionally \Nenjoy a good time, too.
-Dialogue: 0,0:12:37.48,0:12:38.76,Default,Yuji,0,0,0,,Stop it.
-Dialogue: 0,0:12:42.02,0:12:43.98,Default,Amai,0,0,0,,{\i1}Here comes another idiot.
-Dialogue: 0,0:12:43.98,0:12:46.32,Default,Student,0,0,0,,Is that uniform from West Middle?
-Dialogue: 0,0:12:46.32,0:12:48.07,Default,Student,0,0,0,,You're a middle schooler?
-Dialogue: 0,0:12:48.07,0:12:50.58,Default,Student,0,0,0,,You weren't showing respect, were you?
-Dialogue: 0,0:12:50.58,0:12:53.45,Default,Student,0,0,0,,So you need to
-Dialogue: 0,0:12:53.45,0:12:54.66,Default,Student,0,0,0,,learn a lesson!
-Dialogue: 0,0:12:55.40,0:12:56.25,Default,Student,0,0,0,,Huh?
-Dialogue: 0,0:13:01.70,0:13:02.70,Default,Student,0,0,0,,Huh?
-Dialogue: 0,0:13:10.29,0:13:12.55,Default,Student,0,0,0,,No violence!
-Dialogue: 0,0:13:16.97,0:13:18.52,Default,Student,0,0,0,,Come here!
-Dialogue: 0,0:13:29.25,0:13:30.30,Default,Yuji,0,0,0,,What about you?
-Dialogue: 0,0:13:33.74,0:13:35.74,Default,Amai,0,0,0,,M-Me?
-Dialogue: 0,0:13:36.81,0:13:37.75,Default,Fushiguro,0,0,0,,Hey.
-Dialogue: 0,0:13:37.75,0:13:39.10,Default,Remi,0,0,0,,What?
-Dialogue: 0,0:13:39.10,0:13:42.32,Default,Fushiguro,0,0,0,,You aren't planning to go through \NIkebukuro to reach Shinjuku, are you?
-Dialogue: 0,0:13:42.88,0:13:44.74,Default,Fushiguro,0,0,0,,That area's rich with supplies.
-Dialogue: 0,0:13:45.23,0:13:47.64,Default,Fushiguro,0,0,0,,We're more likely to \Nencounter other Players.
-Dialogue: 0,0:13:47.90,0:13:50.63,Default,Remi,0,0,0,,There are two reasons for going this way.
-Dialogue: 0,0:13:50.63,0:13:52.55,Default,Remi,0,0,0,,The route is easy to follow,
-Dialogue: 0,0:13:52.55,0:13:54.79,Default,Remi,0,0,0,,and I have a base nearby.
-Dialogue: 0,0:13:56.34,0:13:58.69,Default,Remi,0,0,0,,At least let me take a shower.
-Dialogue: 0,0:13:58.69,0:14:01.34,Default,Remi,0,0,0,,I haven't gotten much \Nrest since yesterday.
-Dialogue: 0,0:14:04.34,0:14:07.40,Default,Amai,0,0,0,,Higuruma uses this theater as his base.
-Dialogue: 0,0:14:07.40,0:14:09.45,Default,Amai,0,0,0,,Assuming he hasn't moved, that is.
-Dialogue: 0,0:14:09.45,0:14:10.71,Default,Yuji,0,0,0,,Cool!
-Dialogue: 0,0:14:10.71,0:14:13.02,Default,Yuji,0,0,0,,You've been a big help! Thanks!
-Dialogue: 0,0:14:13.55,0:14:16.13,Default,Amai,0,0,0,,Oh, h-h-hold on!
-Dialogue: 0,0:14:16.45,0:14:17.49,Default,Yuji,0,0,0,,What?
-Dialogue: 0,0:14:17.85,0:14:19.65,Default,Amai,0,0,0,,Are you seriously going?
-Dialogue: 0,0:14:19.65,0:14:23.46,Default,Yuji,0,0,0,,I'd rather reunite with my friend \Nfirst, but we're in a hurry.
-Dialogue: 0,0:14:23.79,0:14:26.51,Default,Amai,0,0,0,,I haven't met Higuruma myself,
+Comment: 0,0:00:00.00,0:00:00.02,Default,chptr,0,0,0,opsync,{Opening}
+Comment: 0,0:01:29.99,0:01:30.03,Default,chptr,0,0,0,,{Part A}
+Comment: 0,0:11:19.28,0:11:19.28,Default,chptr,0,0,0,,{Part B}
+Comment: 0,0:22:09.98,0:22:10.06,Default,chptr,0,0,0,edsync,{Ending}
+Comment: 0,0:23:39.98,0:23:40.07,Default,chptr,0,0,0,,{Preview}
+Dialogue: 0,0:01:42.54,0:01:44.33,Default,Oe,0,0,164,,I had a cat.
+Dialogue: 0,0:01:45.88,0:01:47.13,Default,Higuruma,0,0,164,,Go on.
+Dialogue: 0,0:01:48.00,0:01:51.05,Default,Oe,0,0,164,,A police officer called out to me all of a sudden.
+Dialogue: 0,0:01:51.05,0:01:53.76,Default,Oe,0,0,164,,Then there were two, then three.
+Dialogue: 0,0:01:53.76,0:01:57.47,Default,Oe,0,0,164,,I thought, "If they take me in now, \Nmy cat is going to die."
+Dialogue: 0,0:01:57.47,0:02:02.47,Default,Oe,0,0,164,,My place doesn't allow us to own pets, \Nso no one else knew about it.
+Dialogue: 0,0:02:03.35,0:02:07.23,Default,Higuruma,0,0,164,,In March 2016, in Morioka City, Iwate Prefecture,
+Dialogue: 0,0:02:07.69,0:02:13.05,Default,Higuruma,0,0,164,,a young girl and her mother \Nwere found stabbed to death in their home.
+Dialogue: 0,0:02:14.61,0:02:21.41,Default,Higuruma,0,0,164,,The Morioka Prosecutor's Office indicted local resident \NOe Keita on charges of robbery and murder.
+Dialogue: 0,0:02:21.87,0:02:24.42,Default,Higuruma,0,0,164,,The events leading to his arrest were thus:
+Dialogue: 0,0:02:24.42,0:02:28.84,Default,Higuruma,0,0,164,,Oe fled during questioning by patrol officers,
+Dialogue: 0,0:02:28.84,0:02:31.21,Default,Higuruma,0,0,164,,and when they chased him into his home,
+Dialogue: 0,0:02:31.21,0:02:35.01,Default,Higuruma,0,0,164,,they discovered a blade covered in blood,
+Dialogue: 0,0:02:36.47,0:02:37.97,Default,Higuruma,0,0,164,,and arrested him on the spot. {CR: in flagrante delicto}
+Dialogue: 0,0:02:28.34,0:02:29.38,Default,Police,0,0,164,,{\an8}Hey! Stop!
+Comment: 0,0:02:39.81,0:02:41.04,Default,Police,0,0,164,,{\an8}There he is!
+Comment: 0,0:02:41.04,0:02:41.84,Default,Police,0,0,164,,{\an8}Come on, behave!
+Comment: 0,0:02:44.19,0:02:45.31,Default,Police,0,0,164,,{\an8}Stop struggling!
+Dialogue: 0,0:02:39.81,0:02:45.31,Default,Higuruma,0,0,164,,DNA analysis later revealed that \Nthe blood on the blade matched the victims'.
+Dialogue: 0,0:02:46.77,0:02:49.73,Default,Higuruma,0,0,164,,Oe consistently denied all culpability for the crime.
+Dialogue: 0,0:02:49.73,0:02:52.24,Default,Higuruma,0,0,164,,On the blade collected as evidence, he insisted...
+Dialogue: 0,0:02:52.24,0:02:53.77,Default,Oe,0,0,164,,I just picked it up.
+Dialogue: 0,0:02:53.77,0:02:54.78,Default,Oe,0,0,164,,It wasn't mine.
+Dialogue: 0,0:02:55.70,0:02:57.91,Default,Shimizu,0,0,164,,That's a bit of a stretch, isn't it?
+Dialogue: 0,0:02:57.91,0:03:01.91,Default,Shimizu,0,0,164,,I mean, he refused the questioning \Nbecause he felt guilty, right?
+Dialogue: 0,0:03:02.45,0:03:03.50,Default,Higuruma,0,0,164,,Not necessarily.
+Dialogue: 0,0:03:03.50,0:03:09.46,Default,Higuruma,0,0,164,,He was previously a victim of wrongful questioning because an acquaintance of his had used drugs.
+Dialogue: 0,0:03:09.46,0:03:11.88,Default,Shimizu,0,0,164,,You're saying that left him traumatized?
+Dialogue: 0,0:03:11.88,0:03:14.30,Default,Shimizu,0,0,164,,Still, he just "picked it up"?
+Dialogue: 0,0:03:14.30,0:03:17.47,Default,Shimizu,0,0,164,,A bloody kitchen knife? Why?
+Dialogue: 0,0:03:17.93,0:03:21.10,Default,Higuruma,0,0,164,,He claims he was planning \Nto turn it in to the police later.
+Dialogue: 0,0:03:21.10,0:03:22.32,Default,Shimizu,0,0,164,,Later?!
+Dialogue: 0,0:03:23.47,0:03:24.77,Default,Higuruma,0,0,164,,I know.
+Dialogue: 0,0:03:24.77,0:03:26.69,Default,Higuruma,0,0,164,,None of his claims hold up.
+Dialogue: 0,0:03:27.10,0:03:29.40,Default,Higuruma,0,0,164,,However, when you consider Oe's background—
+Dialogue: 0,0:03:29.40,0:03:33.30,Default,Higuruma,0,0,164,,that he works as a live-in employee \Nat a non-profit organization—
+Dialogue: 0,0:03:33.30,0:03:35.70,Default,Higuruma,0,0,164,,it starts sounding plausible.
+Dialogue: 0,0:03:36.07,0:03:38.11,Default,Shimizu,0,0,164,,A non-profit? What about it?
+Dialogue: 0,0:03:38.87,0:03:44.58,Default,Higuruma,0,0,164,,They provide housing to elderly people \Nwith nowhere to go and help them live independently.
+Dialogue: 0,0:03:44.58,0:03:47.91,Default,Higuruma,0,0,164,,Oe's job was taking care of the elderly there.
+Dialogue: 0,0:03:48.50,0:03:51.16,Default,Higuruma,0,0,164,,However, they didn't pay him a wage.
+Dialogue: 0,0:03:51.75,0:03:54.67,Default,Higuruma,0,0,164,,He received what they called an allowance, \Nsuch as on New Year's,
+Dialogue: 0,0:03:54.67,0:03:57.68,Default,Higuruma,0,0,164,,and was given meals and groceries in kind.
+Dialogue: 0,0:03:57.68,0:04:02.89,Default,Higuruma,0,0,164,,Yet despite that, they collected 50,000 yen a month from him as rent.
+Dialogue: 0,0:04:02.89,0:04:03.97,Default,Shimizu,0,0,164,,Brutal.
+Dialogue: 0,0:04:04.43,0:04:08.06,Default,Higuruma,0,0,164,,Apparently, quite a few \Nof the residents have prior records.
+Dialogue: 0,0:04:08.06,0:04:11.64,Default,Higuruma,0,0,164,,As for why he didn't immediately \Nturn in the weapon, he said...
+Dialogue: 0,0:04:12.02,0:04:18.28,Default,Oe,0,0,164,,The rules say we can't call the cops or ambulances, \Nbecause they'd bother the neighbors.
+Dialogue: 0,0:04:19.90,0:04:23.24,Default,Shimizu,0,0,164,,That organization sounds kinda shady, doesn't it?
+Dialogue: 0,0:04:23.24,0:04:24.04,Default,Higuruma,0,0,164,,Yeah.
+Dialogue: 0,0:04:24.04,0:04:26.50,Default,Higuruma,0,0,164,,It's about as close to illegal as you can get.
+Dialogue: 0,0:04:27.00,0:04:34.42,Default,Higuruma,0,0,164,,There's been an increase in questionable non-profits \Nsince disaster relief funds started flowing into this region.
+Dialogue: 0,0:04:34.42,0:04:37.67,Default,Higuruma,0,0,164,,So it's not surprising the murder weapon \Nwas just lying around.
+Dialogue: 0,0:04:38.09,0:04:41.59,Default,Higuruma,0,0,164,,There's a good possibility Oe is innocent.
+Dialogue: 0,0:04:43.18,0:04:46.47,Default,Higuruma,0,0,164,,First, we'll investigate \Nthe organization's activities and tax filings,
+Dialogue: 0,0:04:46.47,0:04:49.35,Default,Higuruma,0,0,164,,then run background checks \Non all the residents.
+Dialogue: 0,0:04:49.35,0:04:52.36,Default,Higuruma,0,0,164,,I'll focus on getting information out of Oe.
+Dialogue: 0,0:04:52.36,0:04:54.15,Default,Higuruma,0,0,164,,You handle the investigation, Shimizu.
+Dialogue: 0,0:04:54.15,0:04:57.74,Default,Shimizu,0,0,164,,You're dumping it on me just like that?
+Dialogue: 0,0:04:59.61,0:05:01.28,Default,Higuruma,0,0,164,,Could you take care of his cat, too?
+Dialogue: 0,0:05:01.28,0:05:02.37,Default,Shimizu,0,0,164,,The cat?!
+Dialogue: 0,0:05:02.87,0:05:07.20,Default,Shimizu,0,0,164,,{\i1}The commission for public defense cases is low, \Ndespite how much work they take.
+Dialogue: 0,0:05:07.20,0:05:09.41,Default,Shimizu,0,0,164,,{\i1}The public is already set on a guilty verdict.
+Dialogue: 0,0:05:09.41,0:05:12.12,Default,Shimizu,0,0,164,,{\i1}Plus, there's no suspended sentence in murder cases.
+Dialogue: 0,0:05:12.12,0:05:13.92,Default,Shimizu,0,0,164,,{\i1}He might even get the death penalty.
+Dialogue: 0,0:05:13.92,0:05:15.75,Default,Shimizu,0,0,164,,{\i1}There's nothing to gain here.
+Dialogue: 0,0:05:17.09,0:05:19.09,Default,Shimizu,0,0,164,,Jeez, Higuruma{**-san}!
+Dialogue: 0,0:05:19.09,0:05:21.97,Default,Shimizu,0,0,164,,Why'd you go and accept a case like this?
+Dialogue: 0,0:05:21.97,0:05:23.97,Default,Higuruma,0,0,164,,It's fine from time to time.
+Dialogue: 0,0:05:23.97,0:05:26.54,Default,Higuruma,0,0,164,,If we only take easy cases, we'll get rusty.
+Dialogue: 0,0:05:26.54,0:05:29.02,Default,Shimizu,0,0,164,,{\i1}It's more like all the time!
+Dialogue: 0,0:05:29.02,0:05:30.94,Default,Shimizu,0,0,164,,It's more like all the time!
+Dialogue: 0,0:05:31.48,0:05:33.77,Default,Higuruma,0,0,164,,You're thinking out loud.
+Dialogue: 0,0:05:36.11,0:05:39.11,Default,Takagi,0,0,164,,Sounds like Higuruma{**-kun}'s the same as ever.
+Dialogue: 0,0:05:39.69,0:05:42.95,Default,Takagi,0,0,164,,It's rough when your boss isn't in it for the money.
+Dialogue: 0,0:05:43.41,0:05:48.62,Default,Shimizu,0,0,164,,I mean, I'm not saying he should \Nrun a café on the side like you, Takagi{**-san}. {CR: At least it's not so bad that I'm being told to run a café on the side like you.}
+Dialogue: 0,0:05:48.62,0:05:52.91,Default,Shimizu,0,0,164,,But when you say he hasn't changed, \Nyou mean he's always been like this?
+Dialogue: 0,0:05:52.91,0:05:54.66,Default,Takagi,0,0,164,,Hm? Not really.
+Dialogue: 0,0:05:55.25,0:05:57.88,Default,Takagi,0,0,164,,If anything, he's gotten worse. {CR: I think he actually used to be worse.} {crunchy... what are we doing here}
+Dialogue: 0,0:05:57.88,0:05:58.84,Default,Shimizu,0,0,164,,No way...
+Dialogue: 0,0:05:59.46,0:06:01.39,Default,Takagi,0,0,164,,Back when he was working with us,
+Dialogue: 0,0:06:01.39,0:06:04.59,Default,Takagi,0,0,164,,he was in charge of a reckless driving case \Nwhere someone got hurt.
+Dialogue: 0,0:06:04.59,0:06:06.93,Default,Takagi,0,0,164,,Oh, it was a drunk driving case.
+Dialogue: 0,0:06:07.39,0:06:09.72,Default,Takagi,0,0,164,,The defendant was nineteen.
+Dialogue: 0,0:06:09.72,0:06:14.44,Default,Takagi,0,0,164,,His coworkers pressured him into drinking and driving.
+Dialogue: 0,0:06:14.44,0:06:17.27,Default,Takagi,0,0,164,,However, everyone involved \Naligned their stories.
+Dialogue: 0,0:06:17.27,0:06:21.90,Default,Takagi,0,0,164,,He couldn't pay for a settlement, \Nand we couldn't get his sentence suspended.
+Dialogue: 0,0:06:27.53,0:06:28.66,Default,Client,0,0,164,,Liar!
+Dialogue: 0,0:06:30.37,0:06:33.12,Default,Client,0,0,164,,You said they'd find me not guilty!
+Dialogue: 0,0:06:33.96,0:06:40.50,Default,Takagi,0,0,164,,You said you'd get him a suspended sentence, though, \Nnot prove him innocent.
+Dialogue: 0,0:06:41.09,0:06:42.84,Default,Takagi,0,0,164,,Have you learned your lesson now?
+Dialogue: 0,0:06:42.84,0:06:46.05,Default,Takagi,0,0,164,,Quit taking on impossible cases. {hopeless criminal cases}
+Dialogue: 0,0:06:46.68,0:06:51.06,Default,Takagi,0,0,164,,Trying to save the weak may be a noble endeavor,
+Dialogue: 0,0:06:51.06,0:06:56.60,Default,Takagi,0,0,164,,but there's only so much we lawyers can do\Nwithout support from the courts and prosecutors.
+Dialogue: 0,0:06:55.35,0:06:57.44,Default,Girl,0,0,164,,{\an8}Oh, I wanna ride that!
+Dialogue: 0,0:06:56.60,0:07:00.02,Default,Takagi,0,0,164,,It's not worth it when even your clients turn on you.
+Dialogue: 0,0:07:01.98,0:07:06.57,Default,Higuruma,0,0,164,,They're at the end of their rope, mentally and financially.
+Dialogue: 0,0:07:06.57,0:07:08.99,Default,Higuruma,0,0,164,,I can't blame them for lashing out at me.
+Dialogue: 0,0:07:11.20,0:07:14.62,Default,Takagi,0,0,164,,And how are you holding up mentally, Higuruma{**-kun}?
+Dialogue: 0,0:07:15.75,0:07:16.61,Default,Higuruma,0,0,164,,I...
+Dialogue: 0,0:07:38.90,0:07:41.94,Default,Judge,0,0,164,,We find the defendant...
+Dialogue: 0,0:07:42.32,0:07:43.48,Default,Judge,0,0,164,,not guilty.
+Dialogue: 0,0:07:48.74,0:07:50.66,Default,Shimizu,0,0,164,,We actually won?
+Dialogue: 0,0:07:52.58,0:07:53.95,Default,Higuruma,0,0,164,,Not yet.
+Dialogue: 0,0:07:55.29,0:07:57.42,Default,Higuruma,0,0,164,,They'll appeal right away.
+Dialogue: 0,0:08:02.71,0:08:04.17,Default,Announcer,0,0,164,,{\i1}The prosecution has...
+Dialogue: 0,0:08:13.43,0:08:17.80,Default,Shimizu,0,0,164,,None of the stolen items were found in your room.
+Dialogue: 0,0:08:17.80,0:08:22.77,Default,Shimizu,0,0,164,,Another resident of the same organization \Nwent missing soon after the crime.
+Dialogue: 0,0:08:22.77,0:08:31.49,Default,Shimizu,0,0,164,,{\q2}And the big one was you being caught on a convenience store \Nsecurity camera at the estimated time of the crime. {from the autopsy}
+Dialogue: 0,0:08:31.49,0:08:34.70,Default,Shimizu,0,0,164,,Good thing you don't cook for yourself, Oe{**-san}!
+Dialogue: 0,0:08:34.70,0:08:38.62,Default,Oe,0,0,164,,{*}Higuruma, sir{*Higuruma-sensei}, thank you so much. {CR: Counselor Higuruma} {clients don't typically say "Counselor" in casual conversation, "Sir" is what a grateful client would normally say}
+Dialogue: 0,0:08:39.12,0:08:41.58,Default,Higuruma,0,0,164,,Please, {*}no need to be so formal.{*you can drop the honorifics.}
+Dialogue: 0,0:08:41.58,0:08:43.33,Default,Higuruma,0,0,164,,Besides, we're not in the clear yet.
+Dialogue: 0,0:08:43.33,0:08:44.88,Default,Higuruma,0,0,164,,We still have the second trial.
+Dialogue: 0,0:08:45.92,0:08:47.47,Default,Oe,0,0,164,,That's not what I mean.
+Dialogue: 0,0:08:50.13,0:08:53.17,Default,Oe,0,0,164,,Thank you for believing me!
+Dialogue: 0,0:09:02.56,0:09:07.32,Default,Higuruma,0,0,164,,While defense lawyers have to work \N\hwith limited budgets and manpower,
+Dialogue: 0,0:09:07.32,0:09:11.49,Default,Higuruma,0,0,164,,prosecutors can pour manpower and \Ntaxpayer money into digging up evidence.
+Dialogue: 0,0:09:11.49,0:09:14.24,Default,Higuruma,0,0,164,,That's fine. That's how the system works.
+Dialogue: 0,0:09:14.24,0:09:19.66,Default,Higuruma,0,0,164,,However, in the second trial, \Nthe prosecutors presented no new evidence.
+Dialogue: 0,0:09:21.42,0:09:27.51,Default,Higuruma,0,0,164,,Yet the court made the absurd finding that \Nthere was no reason to suspect the missing person,
+Dialogue: 0,0:09:27.51,0:09:29.47,Default,Higuruma,0,0,164,,and the verdict was overturned.
+Dialogue: 0,0:09:31.51,0:09:34.60,Default,Higuruma,0,0,164,,The Supreme Court is a narrow gate for a third trial.
+Dialogue: 0,0:09:34.60,0:09:37.14,Default,Higuruma,0,0,164,,Most appeals are turned away at the door.
+Dialogue: 0,0:09:37.14,0:09:40.06,Default,Higuruma,0,0,164,,It's hard to even get a proper hearing.
+Dialogue: 0,0:09:41.02,0:09:44.73,Default,Higuruma,0,0,164,,This trial was destined \Nfor a guilty verdict from the start. {The system had branded him guilty from the start.} {a bit too strong}
+Dialogue: 0,0:09:51.78,0:09:56.91,Default,Higuruma,0,0,164,,{\i1}Why are you looking at me that way?
+Dialogue: 0,0:09:59.62,0:10:03.75,Default,Takagi,0,0,164,,And how are you holding up mentally, Higuruma{**-kun}?
+Dialogue: 0,0:10:05.71,0:10:09.09,Default,Higuruma,0,0,164,,I'm not trying to champion saving the weak.
+Dialogue: 0,0:10:10.01,0:10:15.30,Default,Higuruma,0,0,164,,It's always been against my nature \Nto ignore something I knew was wrong.
+Dialogue: 0,0:10:15.30,0:10:17.72,Default,Higuruma,0,0,164,,It's just a part of me I cannot change.
+Dialogue: 0,0:10:18.51,0:10:22.77,Default,Higuruma,0,0,164,,Lady Justice closes her eyes \Nto uphold equality under the law. {Lady Justice blindfolds herself \Nto uphold equality under the law.}
+Dialogue: 0,0:10:22.77,0:10:26.56,Default,Higuruma,0,0,164,,People close their eyes \Nwhenever it benefits them. {People turn a blind eye \Nwhenever it benefits them.}
+Dialogue: 0,0:10:27.15,0:10:32.19,Default,Higuruma,0,0,164,,Amidst all that, I don't want to turn away \Nthe hands reaching out for help.
+Dialogue: 0,0:10:35.24,0:10:38.20,Default,Higuruma,0,0,164,,At the very least, \NI want to keep my eyes open. {the close -> close -> open idea works in this version but not with the blind(fold) lines even tho they are better technically, preserving this idea is more important imo}
+Dialogue: 0,0:10:42.21,0:10:49.63,Default,Judge,0,0,164,,If there are any objections to this ruling, \Nsubmit a petition for final appeal within fifteen days. {including today/starting today is kinda unnecessary}
+Dialogue: 0,0:11:01.18,0:11:02.81,Default,Shimizu,0,0,164,,Higuruma{**-san}?
+Dialogue: 0,0:11:06.44,0:11:08.48,Default,Higuruma,0,0,164,,Everyone, come back.
+Dialogue: 0,0:11:13.40,0:11:15.57,Default,Higuruma,0,0,164,,We're having a retrial.
+Dialogue: 0,0:11:19.28,0:11:20.54,Default,Amai,0,0,0,,{\pos(480,1015)}Higuruma is in...
+Dialogue: 0,0:11:19.28,0:11:20.54,Default,Remi,0,0,0,,{\pos(1440,1015)}Higuruma is in...
+Dialogue: 0,0:11:21.62,0:11:22.41,Default,Amai,0,0,0,,{\pos(480,1015)}Ikebukuro.
+Dialogue: 0,0:11:20.54,0:11:21.62,Default,Remi,0,0,0,,{\pos(1440,1015)}Shinjuku.
+Dialogue: 0,0:11:22.41,0:11:23.03,Default,Amai,0,0,0,,{\pos(480,1015)}Got it?
+Dialogue: 0,0:11:23.41,0:11:25.00,Default,Fushiguro,0,0,0,,Shinjuku?
+Dialogue: 0,0:11:25.00,0:11:27.13,Default,Fushiguro,0,0,0,,{\i1}I hope Itadori is heading there, too.
+Dialogue: 0,0:11:27.13,0:11:28.75,Default,Yuji,0,0,0,,Ikebukuro, huh?
+Dialogue: 0,0:11:28.75,0:11:30.33,Default,Yuji,0,0,0,,{\i1}I wonder if Fushiguro's there, too.
+Dialogue: 0,0:11:34.42,0:11:37.01,Default,Reggie,0,0,0,,Isn't she a little late?
+Dialogue: 0,0:11:37.01,0:11:43.43,Default,Reggie,0,0,0,,When is that girl going to bring me my next sucker?
+Dialogue: 0,0:11:50.55,0:11:53.28,Default,Bullies,0,0,164,,H-Hey, what was that?
+Dialogue: 0,0:11:53.28,0:11:56.86,Default,Amai,0,0,164,,{\i1}Oh, no. Not like that. Not at all.
+Dialogue: 0,0:11:56.86,0:11:59.47,Default,Bullies,0,0,164,,Hey, what're you doing?
+Dialogue: 0,0:11:59.99,0:12:01.37,Default,Amai,0,0,164,,{\i1}Do it exactly like this.
+Dialogue: 0,0:12:01.37,0:12:03.29,Default,Bullies,0,0,164,,R-Right.
+Dialogue: 0,0:12:03.29,0:12:04.86,Default,Amai,0,0,164,,{\i1}Why'd you go quiet?!
+Dialogue: 0,0:12:04.86,0:12:07.92,Default,Amai,0,0,164,,{\i1}Just keep grinning like an idiot!
+Dialogue: 0,0:12:11.21,0:12:14.00,Default,Amai,0,0,164,,{\i1}See? What did I tell you?
+Dialogue: 0,0:12:14.00,0:12:16.34,Default,Amai,0,0,164,,{\i1}Not that I actually told you anything.
+Dialogue: 0,0:12:16.34,0:12:19.72,Default,Amai,0,0,164,,{\i1}Why don't you get it? Are you stupid?
+Dialogue: 0,0:12:19.72,0:12:25.47,Default,Amai,0,0,164,,{\i1}These guys aren't smart or athletic, \Nbut their egos are massive.
+Dialogue: 0,0:12:25.47,0:12:27.52,Default,Amai,0,0,164,,{\i1}Just don't hurt their egos.
+Dialogue: 0,0:12:27.52,0:12:30.69,Default,Amai,0,0,164,,{\i1}Keep grinning and play the fool.
+Dialogue: 0,0:12:30.69,0:12:34.32,Default,Amai,0,0,164,,{\i1}Do that and no one else will target you.
+Dialogue: 0,0:12:34.32,0:12:36.94,Default,Amai,0,0,164,,{\i1}You might even get something nice out of it.
+Dialogue: 0,0:12:04.86,0:12:06.58,Default,Bullies,0,0,164,,{\an8}Oh, come on!
+Dialogue: 0,0:12:08.71,0:12:10.54,Default,Bullies,0,0,164,,{\an8}That's what you get!
+Dialogue: 0,0:12:12.09,0:12:14.67,Default,Bullies,0,0,164,,{\an8}What? You got a problem, pal?
+Dialogue: 0,0:12:14.67,0:12:15.80,Default,Bullies,0,0,164,,{\an8}Take that!
+Dialogue: 0,0:12:37.49,0:12:38.99,Default,Yuji,0,0,164,,Cut it out.
+Dialogue: 0,0:12:42.16,0:12:43.98,Default,Amai,0,0,164,,{\i1}Here comes another idiot.
+Dialogue: 0,0:12:43.98,0:12:46.45,Default,Bullies,0,0,164,,Isn't that uniform from West Middle?
+Dialogue: 0,0:12:46.45,0:12:48.25,Default,Bullies,0,0,164,,You're a middle schooler?
+Dialogue: 0,0:12:48.25,0:12:50.83,Default,Bullies,0,0,164,,You gotta learn to watch your mouth, kid.
+Dialogue: 0,0:12:50.83,0:12:53.46,Default,Bullies,0,0,164,,How about I teach you {\alpha&HFF&}a lesson!
+Dialogue: 0,0:12:53.46,0:12:54.66,Default,Bullies,0,0,164,,How about I teach you a lesson!
+Comment: 0,0:12:55.63,0:12:56.25,Default,Bullies,0,0,164,,Huh?
+Comment: 0,0:13:01.76,0:13:02.70,Default,Bullies,0,0,164,,Huh?
+Dialogue: 0,0:13:10.35,0:13:12.55,Default,Bullies,0,0,164,,Violence is bad!
+Dialogue: 0,0:13:17.40,0:13:18.52,Default,Bullies,0,0,164,,Take this!
+Dialogue: 0,0:13:29.41,0:13:30.62,Default,Yuji,0,0,164,,What about you?
+Dialogue: 0,0:13:33.92,0:13:35.74,Default,Amai,0,0,164,,M-Me?
+Dialogue: 0,0:13:36.96,0:13:37.75,Default,Fushiguro,0,0,0,,Hey.
+Dialogue: 0,0:13:38.13,0:13:39.22,Default,Remi,0,0,0,,What?
+Dialogue: 0,0:13:39.22,0:13:42.63,Default,Fushiguro,0,0,0,,If you're planning to go to Shinjuku \Nthrough Ikebukuro, don't.
+Dialogue: 0,0:13:43.05,0:13:44.93,Default,Fushiguro,0,0,0,,That area's rich with supplies.
+Dialogue: 0,0:13:45.43,0:13:47.64,Default,Fushiguro,0,0,0,,We're bound to run into other players.
+Dialogue: 0,0:13:48.10,0:13:50.63,Default,Remi,0,0,0,,There are two reasons for going this way.
+Dialogue: 0,0:13:50.63,0:13:55.11,Default,Remi,0,0,0,,The route's easy to follow, and I have a base nearby.
+Dialogue: 0,0:13:56.48,0:13:58.82,Default,Remi,0,0,0,,At least let me take a shower.
+Dialogue: 0,0:13:58.82,0:14:01.53,Default,Remi,0,0,0,,I've barely rested since yesterday.
+Dialogue: 0,0:14:04.45,0:14:07.49,Default,Amai,0,0,0,,Higuruma uses this theater as his base.
+Dialogue: 0,0:14:07.49,0:14:09.45,Default,Amai,0,0,0,,Assuming he hasn't moved, that is.
+Dialogue: 0,0:14:09.45,0:14:10.75,Default,Yuji,0,0,0,,Cool!
+Dialogue: 0,0:14:10.75,0:14:13.21,Default,Yuji,0,0,0,,You've been a big help! Thanks!
+Dialogue: 0,0:14:13.71,0:14:16.45,Default,Amai,0,0,0,,Oh, h-h-hold on!
+Dialogue: 0,0:14:16.75,0:14:17.96,Default,Yuji,0,0,0,,What is it?
+Dialogue: 0,0:14:17.96,0:14:19.76,Default,Amai,0,0,0,,You're seriously going in?
+Dialogue: 0,0:14:19.76,0:14:23.46,Default,Yuji,0,0,0,,I'd rather reunite with my friend first, \Nbut we're in a hurry.
+Dialogue: 0,0:14:23.93,0:14:26.51,Default,Amai,0,0,0,,I haven't met Higuruma myself,
 Dialogue: 0,0:14:26.51,0:14:29.97,Default,Amai,0,0,0,,but he once beat Haba{**-san} to a pulp.
-Dialogue: 0,0:14:29.97,0:14:31.59,Default,Yuji,0,0,0,,Then I'll be fine!
-Dialogue: 0,0:14:31.59,0:14:35.27,Default,Yuji,0,0,0,,I beat that propeller head, too, \Nso I'll at least be able to run away.
-Dialogue: 0,0:14:36.84,0:14:37.96,Default,Yuji,0,0,0,,See you later!
-Dialogue: 0,0:14:39.73,0:14:40.95,Default,Amai,0,0,0,,{\i1}Say it!
-Dialogue: 0,0:14:42.22,0:14:43.76,Default,Amai,0,0,0,,{\i1}Say it, man!
-Dialogue: 0,0:14:44.68,0:14:46.76,Default,Amai,0,0,0,,{\i1}You should stop doing this!
-Dialogue: 0,0:14:52.52,0:14:53.69,Default,Amai,0,0,0,,{\i1}I'm sorry,
-Dialogue: 0,0:14:54.88,0:14:56.12,Default,Amai,0,0,0,,{\i1}Itadori.
-Dialogue: 0,0:14:58.97,0:15:02.46,Default,Reggie,0,0,0,,Higuruma? Oh...
-Dialogue: 0,0:15:02.46,0:15:06.13,Default,Reggie,0,0,0,,Sorry, but I'm Reggie.
-Dialogue: 0,0:15:06.13,0:15:09.19,Default,Reggie,0,0,0,,She deceived you.
-Dialogue: 0,0:15:12.71,0:15:14.48,Default,Remi,0,0,0,,Don't give me that look.
-Dialogue: 0,0:15:14.48,0:15:16.78,Default,Remi,0,0,0,,I'm not frightened at all.
-Dialogue: 0,0:15:16.78,0:15:18.43,Default,Remi,0,0,0,,Just so you know, Reggie—
+Dialogue: 0,0:14:29.97,0:14:31.73,Default,Yuji,0,0,0,,Oh, I'll be fine, then!
+Dialogue: 0,0:14:31.73,0:14:35.27,Default,Yuji,0,0,0,,I beat Propeller Head too,\Nso I should at least be able to run away.
+Dialogue: 0,0:14:37.02,0:14:37.98,Default,Yuji,0,0,0,,Later, then!
+Dialogue: 0,0:14:39.73,0:14:41.28,Default,Amai,0,0,0,,{\i1}Come on, say it!
+Dialogue: 0,0:14:42.32,0:14:44.24,Default,Amai,0,0,0,,{\i1}You gotta tell him, man!
+Dialogue: 0,0:14:44.78,0:14:46.95,Default,Amai,0,0,0,,{\i1}Tell him to stop!
+Dialogue: 0,0:14:52.66,0:14:56.08,Default,Amai,0,0,0,,{\i1}I'm sorry, Itadori.
+Dialogue: 0,0:14:59.17,0:15:01.59,Default,Reggie,0,0,0,,Higuruma?
+Dialogue: 0,0:15:02.46,0:15:06.30,Default,Reggie,0,0,0,,Sorry to break it to you, but I'm Reggie.
+Dialogue: 0,0:15:06.30,0:15:09.22,Default,Reggie,0,0,0,,You've been played.
+Dialogue: 0,0:15:12.71,0:15:14.60,Default,Remi,0,0,0,,Oh, my! What a face!
+Dialogue: 0,0:15:14.60,0:15:16.90,Default,Remi,0,0,0,,I'm not scared at all.
+Dialogue: 0,0:15:16.90,0:15:18.43,Default,Remi,0,0,0,,Just so you know, Reggie—
 Dialogue: 0,0:15:18.43,0:15:19.23,Default,Fushiguro,0,0,0,,Stop talking.
-Dialogue: 0,0:15:23.18,0:15:24.37,Default,Reggie,0,0,0,,Oho?
-Dialogue: 0,0:15:25.96,0:15:27.82,Default,Fushiguro,0,0,0,,We're wasting time.
-Dialogue: 0,0:15:38.71,0:15:39.74,Default,Higuruma,0,0,0,,Who's there?
-Dialogue: 0,0:15:40.19,0:15:42.24,Default,Higuruma,0,0,0,,What are you doing over there?
-Dialogue: 0,0:15:44.13,0:15:45.36,Default,Yuji,0,0,0,,I could ask you that.
-Dialogue: 0,0:15:48.12,0:15:51.90,Default,Higuruma,0,0,0,,Have you ever taken a bath \Nwhile in your clothes?
-Dialogue: 0,0:15:51.90,0:15:53.01,Default,Yuji,0,0,0,,Never.
-Dialogue: 0,0:15:53.82,0:15:56.94,Default,Higuruma,0,0,0,,It feels better than I expected.
-Dialogue: 0,0:15:59.52,0:16:00.63,Default,Higuruma,0,0,0,,Right.
-Dialogue: 0,0:16:02.55,0:16:04.54,Default,Higuruma,0,0,0,,Back when I was in elementary school,
-Dialogue: 0,0:16:04.54,0:16:07.58,Default,Higuruma,0,0,0,,I loved our classes on \Nswimming in clothes.
-Dialogue: 0,0:16:08.23,0:16:11.83,Default,Higuruma,0,0,0,,So many things have stopped \Nmattering lately,
-Dialogue: 0,0:16:11.83,0:16:16.44,Default,Higuruma,0,0,0,,so I've been challenging myself to \Ntry things I assumed I shouldn't do.
-Dialogue: 0,0:16:16.44,0:16:19.99,Default,Higuruma,0,0,0,,I've basically gone off the \Nrails after hitting my mid-30s.
-Dialogue: 0,0:16:19.99,0:16:21.04,Default,Higuruma,0,0,0,,Is that funny?
-Dialogue: 0,0:16:21.59,0:16:23.53,Default,Yuji,0,0,0,,It's kind of amusing.
-Dialogue: 0,0:16:24.05,0:16:25.87,Default,Yuji,0,0,0,,You're Higuruma, right?
-Dialogue: 0,0:16:26.35,0:16:27.82,Default,Higuruma,0,0,0,,In the flesh.
-Dialogue: 0,0:16:27.82,0:16:28.96,Default,Yuji,0,0,0,,I want to talk.
-Dialogue: 0,0:16:29.78,0:16:31.93,Default,Higuruma,0,0,0,,Hold on. Wait, wait.
-Dialogue: 0,0:16:32.26,0:16:34.06,Default,Higuruma,0,0,0,,I'm a lawyer.
-Dialogue: 0,0:16:34.06,0:16:38.67,Default,Higuruma,0,0,0,,Talking to me will incur a consultation \Nfee of 5,000 yen every half hour.
-Dialogue: 0,0:16:38.67,0:16:39.52,Default,Yuji,0,0,0,,Huh?!
-Dialogue: 0,0:16:41.36,0:16:42.81,Default,Higuruma,0,0,0,,I'm kidding.
-Dialogue: 0,0:16:42.81,0:16:45.82,Default,Higuruma,0,0,0,,I just wanted to try acting \Nlike a nasty lawyer for once.
-Dialogue: 0,0:16:46.86,0:16:48.35,Default,Yuji,0,0,0,,I see.
-Dialogue: 0,0:16:48.89,0:16:50.93,Default,Yuji,0,0,0,,{\i1}What's this guy doing?
-Dialogue: 0,0:16:51.55,0:16:53.52,Default,Yuji,0,0,0,,You have 100 points, right?
-Dialogue: 0,0:16:54.19,0:16:56.62,Default,Yuji,0,0,0,,{\i1}He's not a past sorcerer \Nwho's been incarnated.
-Dialogue: 0,0:16:56.87,0:16:59.90,Default,Yuji,0,0,0,,{\i1}He's a modern sorcerer whose \Ntechnique was activated!
-Dialogue: 0,0:16:59.90,0:17:01.41,Default,Yuji,0,0,0,,{\i1}We can talk it out!
-Dialogue: 0,0:17:01.41,0:17:02.94,Default,Yuji,0,0,0,,{\i1}There's room for negotiation!
-Dialogue: 0,0:17:03.36,0:17:05.61,Default,Reggie,0,0,0,,Oh, yeah. You pass.
-Dialogue: 0,0:17:05.96,0:17:06.75,Default,Fushiguro,0,0,0,,Huh?
-Dialogue: 0,0:17:06.75,0:17:09.01,Default,Reggie,0,0,0,,That's enough. I can tell now.
-Dialogue: 0,0:17:09.01,0:17:10.96,Default,Reggie,0,0,0,,That's quite the shikigami.
-Dialogue: 0,0:17:10.96,0:17:12.52,Default,Reggie,0,0,0,,You're strong, right?
-Dialogue: 0,0:17:12.52,0:17:16.31,Default,Reggie,0,0,0,,If you were weak, I'd just \Nkill you as another mark.
-Dialogue: 0,0:17:16.31,0:17:17.52,Default,Reggie,0,0,0,,But you're good.
-Dialogue: 0,0:17:17.52,0:17:18.89,Default,Reggie,0,0,0,,Let's work together.
-Dialogue: 0,0:17:18.89,0:17:20.24,Default,Remi,0,0,0,,{\i1}What gives?!
-Dialogue: 0,0:17:20.24,0:17:21.83,Default,Remi,0,0,0,,{\i1}I never heard about this!
-Dialogue: 0,0:17:22.96,0:17:24.81,Default,Fushiguro,0,0,0,,What are you getting at?
-Dialogue: 0,0:17:24.81,0:17:28.47,Default,Reggie,0,0,0,,How much do you know \Nabout this Culling Game?
-Dialogue: 0,0:17:29.17,0:17:30.45,Default,Fushiguro,0,0,0,,It's a ritual, right?
-Dialogue: 0,0:17:30.97,0:17:34.22,Default,Fushiguro,0,0,0,,It uses the cursed energy of \Nthe Players inside the barriers
-Dialogue: 0,0:17:34.22,0:17:36.79,Default,Fushiguro,0,0,0,,to ferry the people of \NJapan to the other side
-Dialogue: 0,0:17:36.79,0:17:39.08,Default,Fushiguro,0,0,0,,and change them into something inhuman.
-Dialogue: 0,0:17:39.71,0:17:42.17,Default,Fushiguro,0,0,0,,{\i1}Guess I should stay quiet \Nabout {*}Master Tengen{*Tengen-sama}.
-Dialogue: 0,0:17:42.17,0:17:45.81,Default,Reggie,0,0,0,,Oh? Do you know Kenjaku, then?
-Dialogue: 0,0:17:46.87,0:17:48.67,Default,Fushiguro,0,0,0,,{\i1}I knew there'd be one!
-Dialogue: 0,0:17:49.13,0:17:51.65,Default,Fushiguro,0,0,0,,{\i1}A sorcerer connected to Kenjaku!
-Dialogue: 0,0:17:52.48,0:17:54.78,Default,Yuji,0,0,0,,Uh, so, to be frank,
-Dialogue: 0,0:17:55.59,0:17:59.00,Default,Yuji,0,0,0,,we want to stop the Culling Game.
-Dialogue: 0,0:17:59.77,0:18:01.05,Default,Yuji,0,0,0,,Er, time out.
-Dialogue: 0,0:18:01.05,0:18:04.55,Default,Yuji,0,0,0,,When I say "stop it," I mean we want \Nto negate the compulsory killing.
-Dialogue: 0,0:18:04.95,0:18:08.79,Default,Yuji,0,0,0,,Please let us use your 100 points \Nto add a rule toward that end.
-Dialogue: 0,0:18:09.31,0:18:11.44,Default,Higuruma,0,0,0,,Allow me to be frank, as well.
-Dialogue: 0,0:18:12.01,0:18:13.08,Default,Higuruma,0,0,0,,I refuse.
-Dialogue: 0,0:18:14.76,0:18:16.29,Default,Yuji,0,0,0,,Is that another joke?
-Dialogue: 0,0:18:17.10,0:18:18.17,Default,Higuruma,0,0,0,,No.
-Dialogue: 0,0:18:18.17,0:18:21.70,Default,Higuruma,0,0,0,,I just sense potential \Nin the Culling Game.
-Dialogue: 0,0:18:22.13,0:18:24.16,Default,Higuruma,0,0,0,,Sometimes the law is powerless.
-Dialogue: 0,0:18:24.16,0:18:27.62,Default,Higuruma,0,0,0,,But what about the rules \Nof this Culling Game?
-Dialogue: 0,0:18:27.62,0:18:30.21,Default,Higuruma,0,0,0,,If the power I've been granted is real,
-Dialogue: 0,0:18:30.21,0:18:32.09,Default,Higuruma,0,0,0,,then those rules must be, too.
-Dialogue: 0,0:18:32.09,0:18:36.46,Default,Reggie,0,0,0,,What you just said about Players' \Ncursed energy being used?
-Dialogue: 0,0:18:36.46,0:18:38.29,Default,Reggie,0,0,0,,That's probably a bluff.
-Dialogue: 0,0:18:38.29,0:18:39.10,Default,Fushiguro,0,0,0,,What?
-Dialogue: 0,0:18:39.10,0:18:44.28,Default,Reggie,0,0,0,,Well, less of a bluff, \Nand more Plan B or C.
-Dialogue: 0,0:18:44.28,0:18:46.06,Default,Reggie,0,0,0,,I have three reasons.
-Dialogue: 0,0:18:46.56,0:18:48.25,Default,Reggie,0,0,0,,The number of Players.
-Dialogue: 0,0:18:48.25,0:18:50.15,Default,Reggie,0,0,0,,The strength gap between Players.
-Dialogue: 0,0:18:50.15,0:18:51.85,Default,Reggie,0,0,0,,The barriers' rules.
-Dialogue: 0,0:18:52.29,0:18:57.32,Default,Reggie,0,0,0,,If roughly 1,000 people were equally \Nsplit up between the ten Colonies,
-Dialogue: 0,0:18:57.32,0:18:59.85,Default,Reggie,0,0,0,,that would be 100 per Colony.
-Dialogue: 0,0:18:59.85,0:19:03.13,Default,Reggie,0,0,0,,But among the Players are sorcerers
-Dialogue: 0,0:19:03.13,0:19:05.16,Default,Reggie,0,0,0,,like Kashimo or Higuruma,
-Dialogue: 0,0:19:05.16,0:19:06.81,Default,Reggie,0,0,0,,who are much stronger than the rest.
-Dialogue: 0,0:19:06.81,0:19:10.77,Default,Reggie,0,0,0,,These two alone have already \Nculled sixty sorcerers.
-Dialogue: 0,0:19:10.77,0:19:14.37,Default,Reggie,0,0,0,,There's probably one like \Nthem in each Colony.
-Dialogue: 0,0:19:14.79,0:19:17.61,Default,Fushiguro,0,0,0,,So the weak are weeded out early on,
-Dialogue: 0,0:19:17.61,0:19:19.99,Default,Fushiguro,0,0,0,,and the Culling Game \Nwill reach a stalemate?
-Dialogue: 0,0:19:20.67,0:19:22.63,Default,Fushiguro,0,0,0,,{\i1}I certainly did sense that.
-Dialogue: 0,0:19:22.99,0:19:25.29,Default,Fushiguro,0,0,0,,{\i1}The Colony has been too quiet.
-Dialogue: 0,0:19:25.29,0:19:26.89,Default,Reggie,0,0,0,,It already has.
-Dialogue: 0,0:19:26.89,0:19:29.93,Default,Reggie,0,0,0,,At least here in Tokyo No. 1.
-Dialogue: 0,0:19:29.93,0:19:33.82,Default,Reggie,0,0,0,,On top of that, there's the teleportation \Nwhen people enter the Colony.
-Dialogue: 0,0:19:33.82,0:19:36.07,Default,Reggie,0,0,0,,It serves to spread them out,
-Dialogue: 0,0:19:36.07,0:19:38.14,Default,Reggie,0,0,0,,but its main goal is likely to encourage
-Dialogue: 0,0:19:38.14,0:19:40.61,Default,Reggie,0,0,0,,an early second awakening \Nof modern sorcerers.
-Dialogue: 0,0:19:40.61,0:19:43.33,Default,Reggie,0,0,0,,There are some who die during \Nthe teleportation, too.
-Dialogue: 0,0:19:43.33,0:19:46.24,Default,Reggie,0,0,0,,If he was really trying to use \Nthe Players' cursed energy,
-Dialogue: 0,0:19:46.24,0:19:48.87,Default,Reggie,0,0,0,,he would want the greatest \Nnumber of sorcerers
-Dialogue: 0,0:19:48.87,0:19:51.58,Default,Reggie,0,0,0,,to fight for the longest time possible.
-Dialogue: 0,0:19:51.58,0:19:56.33,Default,Higuruma,0,0,0,,What if people who broke the \Nrules were punished by physics,
-Dialogue: 0,0:19:56.33,0:20:00.33,Default,Higuruma,0,0,0,,without any need for indictments, \Nprosecutions, or arguments at trials?
-Dialogue: 0,0:20:00.33,0:20:02.65,Default,Higuruma,0,0,0,,Wouldn't that be wonderful?
-Dialogue: 0,0:20:02.65,0:20:04.94,Default,Higuruma,0,0,0,,I'll acknowledge there are \Nissues with the current rules,
-Dialogue: 0,0:20:04.94,0:20:08.30,Default,Higuruma,0,0,0,,but I want to watch over the system \Nserving as a basis for this game.
+Dialogue: 0,0:15:26.11,0:15:28.12,Default,Fushiguro,0,0,0,,What a waste of time.
+Dialogue: 0,0:15:38.83,0:15:39.75,Default,Higuruma,0,0,0,,Who's there?
+Dialogue: 0,0:15:40.34,0:15:42.34,Default,Higuruma,0,0,0,,What are you doing over there?
+Dialogue: 0,0:15:44.30,0:15:45.55,Default,Yuji,0,0,0,,Same question.
+Dialogue: 0,0:15:48.30,0:15:52.01,Default,Higuruma,0,0,0,,Have you ever taken a bath with your clothes on?
+Dialogue: 0,0:15:52.01,0:15:53.10,Default,Yuji,0,0,0,,Nope.
+Dialogue: 0,0:15:54.02,0:15:56.98,Default,Higuruma,0,0,0,,It feels better than you'd expect.
+Dialogue: 0,0:15:59.65,0:16:00.65,Default,Higuruma,0,0,0,,Right.
+Dialogue: 0,0:16:02.69,0:16:04.54,Default,Higuruma,0,0,0,,Back in elementary school,
+Dialogue: 0,0:16:04.54,0:16:08.03,Default,Higuruma,0,0,0,,I loved those swimming classes\Nwhere we had to swim in our uniforms.
+Dialogue: 0,0:16:08.45,0:16:11.95,Default,Higuruma,0,0,0,,A lot of things don't seem to matter these days.
+Dialogue: 0,0:16:11.95,0:16:16.58,Default,Higuruma,0,0,0,,So I've been trying things I always thought I shouldn't do.
+Dialogue: 0,0:16:16.58,0:16:19.99,Default,Higuruma,0,0,0,,Guess I've gone off the rails in my thirties.
+Dialogue: 0,0:16:19.99,0:16:21.17,Default,Higuruma,0,0,0,,Is that funny?
+Dialogue: 0,0:16:21.79,0:16:23.67,Default,Yuji,0,0,0,,It's kinda amusing.
+Dialogue: 0,0:16:24.25,0:16:25.96,Default,Yuji,0,0,0,,You're Higuruma, right?
+Dialogue: 0,0:16:26.55,0:16:27.93,Default,Higuruma,0,0,0,,Indeed I am.
+Dialogue: 0,0:16:27.93,0:16:28.96,Default,Yuji,0,0,0,,I wanna talk.
+Dialogue: 0,0:16:29.93,0:16:31.93,Default,Higuruma,0,0,0,,Wait, wait. Hold on.
+Dialogue: 0,0:16:32.39,0:16:34.14,Default,Higuruma,0,0,0,,I'm a lawyer.
+Dialogue: 0,0:16:34.14,0:16:38.67,Default,Higuruma,0,0,0,,Talking to me will incur a consultation fee \Nof 5,000 yen every half hour.
+Dialogue: 0,0:16:38.67,0:16:39.52,Default,Yuji,0,0,0,,Uhh...
+Dialogue: 0,0:16:41.36,0:16:42.94,Default,Higuruma,0,0,0,,I'm kidding.
+Dialogue: 0,0:16:42.94,0:16:45.86,Default,Higuruma,0,0,0,,I wanted to play the money-grubbing lawyer for once.
+Dialogue: 0,0:16:46.95,0:16:48.35,Default,Yuji,0,0,0,,Oh...
+Dialogue: 0,0:16:49.07,0:16:51.16,Default,Yuji,0,0,0,,{\i1}Judging from his behavior so far...
+Dialogue: 0,0:16:51.78,0:16:53.70,Default,Yuji,0,0,0,,You have 100 points, right?
+Dialogue: 0,0:16:54.37,0:16:56.62,Default,Yuji,0,0,0,,{\i1}He's not an incarnated sorcerer.
+Dialogue: 0,0:16:57.04,0:17:00.00,Default,Yuji,0,0,0,,{\i1}He's a modern sorcerer \Nwhose technique has awakened!
+Dialogue: 0,0:17:00.00,0:17:01.54,Default,Yuji,0,0,0,,{\i1}We can talk it out!
+Dialogue: 0,0:17:01.54,0:17:03.36,Default,Yuji,0,0,0,,{\i1}There's room for negotiation!
+Dialogue: 0,0:17:03.36,0:17:06.13,Default,Reggie,0,0,0,,Not bad. You pass.
+Dialogue: 0,0:17:06.13,0:17:06.88,Default,Fushiguro,0,0,0,,What?
+Dialogue: 0,0:17:06.88,0:17:11.09,Default,Reggie,0,0,0,,That {*}cursed beast{*shikigami} tells me all I need to know.
+Dialogue: 0,0:17:11.09,0:17:12.64,Default,Reggie,0,0,0,,You're strong.
+Dialogue: 0,0:17:12.64,0:17:16.47,Default,Reggie,0,0,0,,If you were weak, I'd just kill you \Nand be done with it.
+Dialogue: 0,0:17:16.47,0:17:18.89,Default,Reggie,0,0,0,,But you're good. You should join us.
+Dialogue: 0,0:17:18.89,0:17:21.94,Default,Remi,0,0,0,,{\i1}What? That wasn't part of the agreement!
+Dialogue: 0,0:17:23.19,0:17:24.94,Default,Fushiguro,0,0,0,,What are you getting at?
+Dialogue: 0,0:17:24.94,0:17:28.65,Default,Reggie,0,0,0,,How much do you know about the Culling Game?
+Dialogue: 0,0:17:29.36,0:17:31.11,Default,Fushiguro,0,0,0,,I know that it's a ritual.
+Dialogue: 0,0:17:31.11,0:17:34.37,Default,Fushiguro,0,0,0,,It uses the cursed energy \Nof the players inside the barriers
+Dialogue: 0,0:17:34.37,0:17:36.99,Default,Fushiguro,0,0,0,,to ferry the people of Japan \Nto the other side,
+Dialogue: 0,0:17:36.99,0:17:39.29,Default,Fushiguro,0,0,0,,turning them into something inhuman.
+Dialogue: 0,0:17:39.91,0:17:42.33,Default,Fushiguro,0,0,0,,{\i1}I probably shouldn't bring up {*}Master Tengen{*Tengen-sama}.
+Dialogue: 0,0:17:42.33,0:17:46.04,Default,Reggie,0,0,0,,Oh? Do you know Kenjaku, then?
+Dialogue: 0,0:17:46.87,0:17:48.71,Default,Fushiguro,0,0,0,,{\i1}I knew there'd be one!
+Dialogue: 0,0:17:49.30,0:17:51.76,Default,Fushiguro,0,0,0,,{\i1}A sorcerer connected to Kenjaku!
+Dialogue: 0,0:17:52.63,0:17:54.93,Default,Yuji,0,0,0,,Uh, so, to be blunt,
+Dialogue: 0,0:17:55.80,0:17:59.43,Default,Yuji,0,0,0,,we want to put an end to the Culling Game.
+Dialogue: 0,0:17:59.89,0:18:01.14,Default,Yuji,0,0,0,,Er, time out.
+Dialogue: 0,0:18:01.14,0:18:05.02,Default,Yuji,0,0,0,,When I say "put an end," I mean we want to \Nnullify the compulsory killing.
+Dialogue: 0,0:18:05.02,0:18:08.98,Default,Yuji,0,0,0,,Please let us use your 100 points\Nto add a rule for that.
+Dialogue: 0,0:18:09.48,0:18:11.44,Default,Higuruma,0,0,0,,I'll be blunt, too.
+Dialogue: 0,0:18:12.15,0:18:13.36,Default,Higuruma,0,0,0,,I refuse.
+Dialogue: 0,0:18:14.95,0:18:16.45,Default,Yuji,0,0,0,,Is that another joke?
+Dialogue: 0,0:18:17.28,0:18:18.24,Default,Higuruma,0,0,0,,No.
+Dialogue: 0,0:18:18.24,0:18:21.70,Default,Higuruma,0,0,0,,I just sense potential in the Culling Game.
+Dialogue: 0,0:18:22.25,0:18:24.16,Default,Higuruma,0,0,0,,Sometimes the law is powerless.
+Dialogue: 0,0:18:24.16,0:18:27.62,Default,Higuruma,0,0,0,,But what about the rules of the Culling Game?
+Dialogue: 0,0:18:27.62,0:18:32.09,Default,Higuruma,0,0,0,,If the power I've been granted is real, \Nthen those rules must be too.
+Dialogue: 0,0:18:32.09,0:18:36.60,Default,Reggie,0,0,0,,What you just said about \Nusing the players' cursed energy?
+Dialogue: 0,0:18:36.60,0:18:38.39,Default,Reggie,0,0,0,,It's likely a misdirect. {CR: That's probably a bluff.}
+Dialogue: 0,0:18:38.39,0:18:39.22,Default,Fushiguro,0,0,0,,What do you mean?
+Dialogue: 0,0:18:39.22,0:18:44.39,Default,Reggie,0,0,0,,Or rather, that's more of a secondary objective.
+Dialogue: 0,0:18:44.39,0:18:46.36,Default,Reggie,0,0,0,,I have three reasons to believe so.
+Dialogue: 0,0:18:46.69,0:18:48.27,Default,Reggie,0,0,0,,The number of players.
+Dialogue: 0,0:18:48.27,0:18:50.23,Default,Reggie,0,0,0,,The strength gap between players.
+Dialogue: 0,0:18:50.23,0:18:51.85,Default,Reggie,0,0,0,,And the rules of the barriers.
+Dialogue: 0,0:18:52.36,0:18:59.85,Default,Reggie,0,0,0,,If roughly 1,000 people were equally split up \Nacross the ten colonies, that would be 100 per colony. {why does he even bring up this comparison? is this supposed to hint at the total player count? or did he just pull the total count out of his ass to show us how simple division works?}
+Dialogue: 0,0:18:59.85,0:19:06.88,Default,Reggie,0,0,0,,But among the players are sorcerers like \NKashimo or Higuruma, who are a cut above the rest.
+Dialogue: 0,0:19:06.88,0:19:10.84,Default,Reggie,0,0,0,,These two alone have already taken out sixty sorcerers.
+Dialogue: 0,0:19:10.84,0:19:14.37,Default,Reggie,0,0,0,,There's probably one like them in each colony.
+Dialogue: 0,0:19:14.93,0:19:19.99,Default,Fushiguro,0,0,0,,So the weak get weeded out early,\N and the Culling Game reaches a stalemate?
+Dialogue: 0,0:19:20.81,0:19:22.63,Default,Fushiguro,0,0,0,,{\i1}I did sense that.
+Dialogue: 0,0:19:23.10,0:19:25.29,Default,Fushiguro,0,0,0,,{\i1}The colony has been too quiet.
+Dialogue: 0,0:19:25.60,0:19:27.02,Default,Reggie,0,0,0,,It already has.
+Dialogue: 0,0:19:27.02,0:19:30.07,Default,Reggie,0,0,0,,At least here in Tokyo No. 1.
+Dialogue: 0,0:19:30.07,0:19:33.94,Default,Reggie,0,0,0,,On top of that, there's the teleportation \Nwhen people enter the colony.
+Dialogue: 0,0:19:33.94,0:19:36.07,Default,Reggie,0,0,0,,It serves to spread them out,
+Dialogue: 0,0:19:36.07,0:19:40.78,Default,Reggie,0,0,0,,but its main goal is likely to encourage \Nan early second awakening in modern sorcerers.
+Dialogue: 0,0:19:40.78,0:19:43.33,Default,Reggie,0,0,0,,Some die during the process, as well.
+Dialogue: 0,0:19:43.33,0:19:46.33,Default,Reggie,0,0,0,,If he were really trying to use the players' cursed energy,
+Dialogue: 0,0:19:46.33,0:19:51.58,Default,Reggie,0,0,0,,he would want as many sorcerers as possible \Nto fight for as long as possible.
+Dialogue: 0,0:19:51.58,0:19:54.17,Default,Higuruma,0,0,0,,No indictments. No prosecutions. {Imagine a world where no indictments \Nor prosecutions are needed.} {imagine a world where this line gets more time...}
+Dialogue: 0,0:19:54.17,0:19:56.43,Default,Higuruma,0,0,0,,Instead of debating cases in court,
+Dialogue: 0,0:19:56.43,0:20:00.47,Default,Higuruma,0,0,0,,what if those who broke the rules were punished \Nas if by the laws of physics?
+Dialogue: 0,0:20:00.47,0:20:02.72,Default,Higuruma,0,0,0,,Wouldn't that be wonderful?
+Dialogue: 0,0:20:02.72,0:20:04.98,Default,Higuruma,0,0,0,,I 'll acknowledge there are issues \Nwith the current rules,
+Dialogue: 0,0:20:04.98,0:20:08.30,Default,Higuruma,0,0,0,,but I want to observe the system \Nat the core of this game.
 Dialogue: 0,0:20:08.30,0:20:10.80,Default,Higuruma,0,0,0,,It won't do for it to end too soon.
-Dialogue: 0,0:20:10.80,0:20:13.75,Default,Higuruma,0,0,0,,I'd especially love to witness \Nthe stripping of a technique
-Dialogue: 0,0:20:13.75,0:20:16.56,Default,Higuruma,0,0,0,,mentioned in Rule 2 and 8 at least once.
-Dialogue: 0,0:20:16.94,0:20:19.87,Default,Shoko,0,0,0,,It's better for the rules if \Nbeing stripped means death, too.
-Dialogue: 0,0:20:20.32,0:20:23.22,Default,Yuji,0,0,0,,The Culling Game itself is a ritual.
-Dialogue: 0,0:20:23.22,0:20:26.30,Default,Yuji,0,0,0,,If we take too long, \Nevery person in this nation will die.
-Dialogue: 0,0:20:26.30,0:20:27.65,Default,Higuruma,0,0,0,,That's a lie.
-Dialogue: 0,0:20:27.65,0:20:30.74,Default,Higuruma,0,0,0,,The Culling Game insists \Non its own permanence.
-Dialogue: 0,0:20:30.74,0:20:33.11,Default,Yuji,0,0,0,,{\i1}I don't really get that part, either!
-Dialogue: 0,0:20:35.50,0:20:37.18,Default,Yuji,0,0,0,,Let me rephrase it, then.
-Dialogue: 0,0:20:37.91,0:20:41.30,Default,Yuji,0,0,0,,Let me use your 100 points, Higuruma!
-Dialogue: 0,0:20:42.72,0:20:46.67,Default,Higuruma,0,0,0,,Have you ever killed someone \Nwho ticked you off?
-Dialogue: 0,0:20:49.81,0:20:54.16,Default,Higuruma,0,0,0,,It feels much better than I expected.
-Dialogue: 0,0:20:55.00,0:20:56.21,Default,Yuji,0,0,0,,{\i1}A shikigami?!
-Dialogue: 0,0:20:57.36,0:20:59.21,Default,Yuji,0,0,0,,{\i1}Higuruma has 100 points.
-Dialogue: 0,0:20:59.21,0:21:01.64,Default,Yuji,0,0,0,,{\i1}He might have killed \Ntwenty sorcerers already.
-Dialogue: 0,0:21:02.19,0:21:03.87,Default,Yuji,0,0,0,,{\i1}I can't leap in recklessly.
-Dialogue: 0,0:21:04.33,0:21:05.69,Default,Yuji,0,0,0,,{\i1}I'll go on defense,
-Dialogue: 0,0:21:05.69,0:21:08.18,Default,Yuji,0,0,0,,{\i1}but I'll be ready to \Nrespond to any attack!
+Dialogue: 0,0:20:10.80,0:20:16.56,Default,Higuruma,0,0,0,,I'd especially love to witness the stripping of a technique \Nmentioned in Rules 2 and 8 at least once.
+Dialogue: 0,0:20:16.99,0:20:20.32,Default,Shoko,0,0,164,,It's better for the rules \Nif being stripped means death, too.
+Dialogue: 0,0:20:20.32,0:20:23.37,Default,Yuji,0,0,0,,The Culling Game itself is a ritual.
+Dialogue: 0,0:20:23.37,0:20:26.08,Default,Yuji,0,0,0,,If we take too long, \Nevery person in this nation will die. {if this drags on}
+Dialogue: 0,0:20:26.08,0:20:27.83,Default,Higuruma,0,0,0,,That's nonsense.
+Dialogue: 0,0:20:27.83,0:20:30.74,Default,Higuruma,0,0,0,,The Culling Game insists on its own permanence.
+Dialogue: 0,0:20:30.74,0:20:33.25,Default,Yuji,0,0,0,,{\i1}Yeah, I don't really get that part either!
+Dialogue: 0,0:20:35.59,0:20:37.51,Default,Yuji,0,0,0,,Let me rephrase it, then.
+Dialogue: 0,0:20:38.09,0:20:41.64,Default,Yuji,0,0,0,,Let me use your 100 points, Higuruma!
+Dialogue: 0,0:20:42.72,0:20:46.68,Default,Higuruma,0,0,0,,Have you ever killed someone \Nwho ticked you off?
+Dialogue: 0,0:20:49.81,0:20:54.16,Default,Higuruma,0,0,0,,It feels better than you'd expect.
+Dialogue: 0,0:20:55.19,0:20:56.53,Default,Yuji,0,0,0,,{\i1}Is that a {*}cursed beast{*shikigami}?!
+Dialogue: 0,0:20:57.44,0:20:59.28,Default,Yuji,0,0,0,,{\i1}Higuruma has 100 points.
+Dialogue: 0,0:20:59.28,0:21:01.78,Default,Yuji,0,0,0,,{\i1}He might've killed twenty sorcerers already.
+Dialogue: 0,0:21:02.28,0:21:05.70,Default,Yuji,0,0,0,,{\i1}I can't jump in recklessly \Nso I'll let him make the first move.
+Dialogue: 0,0:21:05.70,0:21:08.50,Default,Yuji,0,0,0,,{\i1}I'll be ready to handle \Nwhatever attack he throws at me!
 Dialogue: 0,0:21:10.17,0:21:11.78,Default,Higuruma,0,0,0,,Domain Expansion.
 Dialogue: 0,0:21:12.65,0:21:14.73,Default,Higuruma,0,0,0,,Deadly Sentencing.
-Dialogue: 0,0:21:26.90,0:21:32.43,Default,Reggie,0,0,0,,The rules' idea of continuation is \Njust a cover for the real plan.
-Dialogue: 0,0:21:32.43,0:21:34.41,Default,Reggie,0,0,0,,Mark my words.
-Dialogue: 0,0:21:34.41,0:21:36.87,Default,Reggie,0,0,0,,When only the strong remain,
-Dialogue: 0,0:21:36.87,0:21:39.52,Default,Reggie,0,0,0,,Kenjaku is going to drop \Na bomb on the game,
-Dialogue: 0,0:21:39.52,0:21:43.27,Default,Reggie,0,0,0,,and the Culling Game \Nwill fulfill its purpose.
-Dialogue: 0,0:23:40.73,0:23:42.45,Default,Higuruma,0,0,0,,Now, make your argument.
-Dialogue: 0,0:23:42.45,0:23:43.53,Default,Yuji,0,0,0,,What happens if I'm judged guilty?
-Dialogue: 0,0:23:43.53,0:23:44.96,Default,Higuruma,0,0,0,,Judgeman, please begin.
-Dialogue: 0,0:23:44.96,0:23:45.89,Default,Yuji,0,0,0,,You mean I can lie?
-Dialogue: 0,0:23:45.89,0:23:47.61,Default,Higuruma,0,0,0,,You get one chance to make a statement.
-Dialogue: 0,0:23:47.61,0:23:48.84,Default,Yuji,0,0,0,,I can't control cursed energy!
-Dialogue: 0,0:23:48.84,0:23:51.78,Default,Higuruma,0,0,0,,How can he hold his own against \Nme without cursed energy?
-Dialogue: 0,0:23:51.78,0:23:53.90,Default,Yuji,0,0,0,,I want a retrial! One more time!
+Dialogue: 0,0:21:26.97,0:21:32.44,Default,Reggie,0,0,0,,The bit in the rules about "long-lasting" \Nis just a cover for the real plan.
+Dialogue: 0,0:21:32.65,0:21:34.41,Default,Reggie,0,0,0,,{\fad(150,0)}Mark my words.
+Dialogue: 0,0:21:34.77,0:21:39.61,Default,Reggie,0,0,0,,Kenjaku is going to drop a bomb \Nwhen only the strongest remain.
+Dialogue: 0,0:21:39.61,0:21:43.66,Default,Reggie,0,0,0,,{\fad(0,300)}Only then will the Culling Game \Nhave served its purpose.
+Dialogue: 0,0:23:40.73,0:23:42.45,Default,Higuruma,0,0,0,,{\an8}Now, make your argument.
+Dialogue: 0,0:23:42.45,0:23:43.53,Default,Yuji,0,0,0,,{\an8}What happens if I'm judged guilty?
+Dialogue: 0,0:23:43.53,0:23:44.96,Default,Higuruma,0,0,0,,{\an8}Judgeman, please begin.
+Dialogue: 0,0:23:44.96,0:23:45.89,Default,Yuji,0,0,0,,{\an8}You mean I can lie?
+Dialogue: 0,0:23:45.89,0:23:47.61,Default,Higuruma,0,0,0,,{\an8}You get one chance to make a statement.
+Dialogue: 0,0:23:47.61,0:23:48.84,Default,Yuji,0,0,0,,{\an8}I can't control cursed energy!
+Dialogue: 0,0:23:48.84,0:23:51.78,Default,Higuruma,0,0,0,,{\an8}How can he hold his own against me \Nwithout cursed energy?
+Dialogue: 0,0:23:51.78,0:23:53.90,Default,Yuji,0,0,0,,{\an8}I want a retrial! One more time!
