@@ -16,8 +16,9 @@ Audio File: jjk_56_premux.mkv
 Video File: jjk_56_premux.mkv
 Keyframes File: jjk_56_keyframes.txt
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Video Position: 2244
+Video Zoom Percent: 0.625000
+Active Line: 10
+Video Position: 2845
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -26,319 +27,282 @@ Style: Alt,Cabin F,71,&H00FFFFFF,&H000000FF,&H003C3900,&HA0000000,-1,0,0,0,100,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:01:33.59,0:01:35.41,Default,Higuruma,0,0,0,,Domain Expansion:
-Dialogue: 0,0:01:35.41,0:01:36.98,Default,Higuruma,0,0,0,,Deadly Sentencing.
-Dialogue: 0,0:01:37.99,0:01:38.98,Default,Yuji,0,0,0,,{\i1}A domain?!
-Dialogue: 0,0:01:39.77,0:01:41.75,Default,Yuji,0,0,0,,{\i1}Before he can activate his technique...
-Dialogue: 0,0:01:42.25,0:01:43.25,Default,Yuji,0,0,0,,I'll defeat him!
-Dialogue: 0,0:01:53.45,0:01:57.50,Default,Higuruma,0,0,0,,All acts of violence are \Nprohibited in this space.
-Dialogue: 0,0:01:58.07,0:01:59.47,Default,Higuruma,0,0,0,,For both of us.
-Dialogue: 0,0:01:59.47,0:02:00.74,Default,Yuji,0,0,0,,Both of us?
-Dialogue: 0,0:02:04.65,0:02:06.55,Default,Higuruma,0,0,0,,Oh, sorry.
-Dialogue: 0,0:02:06.55,0:02:08.36,Default,Higuruma,0,0,0,,Harmful remarks are the exception.
-Dialogue: 0,0:02:09.06,0:02:11.81,Default,Higuruma,0,0,0,,Judgeman, please begin.
-Dialogue: 0,0:02:15.27,0:02:17.60,Default,Judgeman,0,0,0,,Itadori Yuji
-Dialogue: 0,0:02:17.60,0:02:20.67,Default,Judgeman,0,0,0,,stands accused of entering \Nthe Maji Vegas
-Dialogue: 0,0:02:20.67,0:02:24.12,Default,Judgeman,0,0,0,,pachinko parlor in Sendai City, \NMiyagi Prefecture,
-Dialogue: 0,0:02:24.12,0:02:28.12,Default,Judgeman,0,0,0,,on July 16th, 2017, as a patron,
-Dialogue: 0,0:02:28.12,0:02:31.12,Default,Judgeman,0,0,0,,despite being under 18 at the time.
-Dialogue: 0,0:02:31.47,0:02:32.45,Default,Yuji,0,0,0,,Huh?!
-Dialogue: 0,0:02:33.38,0:02:34.13,Default,Yuji,0,0,0,,Oh.
-Dialogue: 0,0:02:35.04,0:02:38.74,Default,Yuji,0,0,0,,Uh, well, um...
-Dialogue: 0,0:02:38.74,0:02:42.51,Default,Higuruma,0,0,0,,Judgeman knows everything about \Nthose within this domain.
-Dialogue: 0,0:02:43.33,0:02:45.29,Default,Higuruma,0,0,0,,But don't worry.
-Dialogue: 0,0:02:45.29,0:02:48.44,Default,Higuruma,0,0,0,,That information isn't shared with me.
-Dialogue: 0,0:02:48.44,0:02:52.78,Default,Higuruma,0,0,0,,The verdict will be decided solely \Nby the arguments we present.
-Dialogue: 0,0:02:53.81,0:02:56.36,Default,Higuruma,0,0,0,,With the sole exception of this evidence.
-Dialogue: 0,0:02:56.65,0:02:59.32,Default,Yuji,0,0,0,,Huh?! When did you...
-Dialogue: 0,0:02:59.80,0:03:03.57,Default,Higuruma,0,0,0,,This is the evidence provided \Nby Judgeman for this case.
-Dialogue: 0,0:03:04.08,0:03:08.08,Default,Higuruma,0,0,0,,There is no guarantee that this \Nwill confirm the charges.
-Dialogue: 0,0:03:08.48,0:03:11.33,Default,Higuruma,0,0,0,,I also don't plan on \Ntelling you what it is.
-Dialogue: 0,0:03:11.59,0:03:15.78,Default,Higuruma,0,0,0,,Knowing that, you must now present \Nyour argument to clear suspicion
-Dialogue: 0,0:03:15.78,0:03:18.80,Default,Higuruma,0,0,0,,and win an innocent \Nverdict from Judgeman.
-Dialogue: 0,0:03:20.52,0:03:22.56,Default,Yuji,0,0,0,,{\i1}A court trial technique?
-Dialogue: 0,0:03:24.50,0:03:25.89,Default,Yuji,0,0,0,,{\i1}That badge!
-Dialogue: 0,0:03:25.89,0:03:27.84,Default,Yuji,0,0,0,,{\i1}So he really was a defense lawyer?
-Dialogue: 0,0:03:28.26,0:03:30.81,Default,Yuji,0,0,0,,{\i1}But isn't he acting like \Nthe prosecutor here?
-Dialogue: 0,0:03:31.95,0:03:34.09,Default,Yuji,0,0,0,,{\i1}Higuruma is a modern man,
-Dialogue: 0,0:03:34.09,0:03:36.59,Default,Yuji,0,0,0,,{\i1}but this domain is like what \N{*}Master Tengen{*Tengen-sama} mentioned.
-Dialogue: 0,0:03:37.86,0:03:44.61,Default,Tengen,0,0,0,,Domains used to be a much more \Nstandard skill for sorcerers in the past.
-Dialogue: 0,0:03:44.90,0:03:46.84,Default,Tengen,0,0,0,,That's because
-Dialogue: 0,0:03:46.84,0:03:50.17,Default,Tengen,0,0,0,,they lacked the "guaranteed kill" element
-Dialogue: 0,0:03:50.17,0:03:53.49,Default,Tengen,0,0,0,,of most modern domains' \Ndeadly guaranteed hit attacks.
-Dialogue: 0,0:03:54.10,0:03:56.85,Default,Tengen,0,0,0,,They simply guaranteed \Nthat users' techniques
-Dialogue: 0,0:03:56.85,0:03:58.94,Default,Tengen,0,0,0,,would hit the target in the domain.
-Dialogue: 0,0:03:59.76,0:04:03.67,Default,Tengen,0,0,0,,That was the common function \Nof domains in the past.
-Dialogue: 0,0:04:04.26,0:04:06.59,Default,Tengen,0,0,0,,By focusing too hard on the \N"guaranteed kill" aspect,
-Dialogue: 0,0:04:06.59,0:04:10.08,Default,Tengen,0,0,0,,sorcerers raised the bar on the \Nrequirements for constructing a domain,
-Dialogue: 0,0:04:10.08,0:04:16.06,Default,Tengen,0,0,0,,making it a more advanced skill \Nwith fewer practitioners.
-Dialogue: 0,0:04:16.65,0:04:20.12,Default,Yuji,0,0,0,,{\i1}That means this domain \Nis founded on pacts
-Dialogue: 0,0:04:20.12,0:04:22.92,Default,Yuji,0,0,0,,{\i1}preventing lethality, \Nprohibiting physical harm,
-Dialogue: 0,0:04:22.92,0:04:27.90,Default,Yuji,0,0,0,,{\i1}and requiring some \Nexplanation of its rules!
-Dialogue: 0,0:04:29.90,0:04:32.43,Default,Higuruma,0,0,0,,You get one chance to make a statement.
-Dialogue: 0,0:04:32.43,0:04:34.15,Default,Higuruma,0,0,0,,This also applies to both of us.
-Dialogue: 0,0:04:34.59,0:04:39.65,Default,Higuruma,0,0,0,,After your statement, I get one chance \Nto make my rebuttal using this evidence,
-Dialogue: 0,0:04:39.65,0:04:44.70,Default,Higuruma,0,0,0,,and then Judgeman announces his verdict \Nin accordance with the Six Codes.
-Dialogue: 0,0:04:45.71,0:04:47.57,Default,Yuji,0,0,0,,What happens if I'm judged guilty?
-Dialogue: 0,0:04:48.20,0:04:52.22,Default,Higuruma,0,0,0,,Unfortunately, I have no obligation \Nto answer that question.
-Dialogue: 0,0:04:52.22,0:04:55.99,Default,Higuruma,0,0,0,,Instead, I'll at least tell you this.
-Dialogue: 0,0:04:56.96,0:04:58.96,Default,Higuruma,0,0,0,,You have three options:
-Dialogue: 0,0:04:59.61,0:05:00.71,Default,Higuruma,0,0,0,,silence,
-Dialogue: 0,0:05:00.71,0:05:01.67,Default,Higuruma,0,0,0,,confession,
-Dialogue: 0,0:05:00.49,0:05:01.36,Default,Screen,0,0,0,,{\an8\fnTimes New Roman\b1\shad0\bord0\c&H000000&}Confession
-Dialogue: 0,0:05:01.67,0:05:02.81,Default,Higuruma,0,0,0,,or denial.
-Dialogue: 0,0:05:01.36,0:05:10.37,Default,Screen,0,0,0,,{\an8\fnTimes New Roman\b1\shad0\bord0\c&H000000&}Denial
-Dialogue: 0,0:05:02.81,0:05:05.80,Default,Higuruma,0,0,0,,Your denial may include false statements.
-Dialogue: 0,0:05:06.87,0:05:08.51,Default,Yuji,0,0,0,,You mean I can lie?
-Dialogue: 0,0:05:08.93,0:05:10.10,Default,Yuji,0,0,0,,In court?
-Dialogue: 0,0:05:10.85,0:05:13.00,Default,Higuruma,0,0,0,,If everyone told the truth,
-Dialogue: 0,0:05:13.29,0:05:15.66,Default,Higuruma,0,0,0,,there would be no need for trials.
-Dialogue: 0,0:05:16.74,0:05:19.64,Default,Higuruma,0,0,0,,Now, make your argument.
-Dialogue: 0,0:05:19.64,0:05:22.00,Default,Higuruma,0,0,0,,Judgeman is not very patient.
-Dialogue: 0,0:05:24.32,0:05:27.06,Default,Yuji,0,0,0,,{\i1}I did go to that pachinko parlor,
-Dialogue: 0,0:05:27.06,0:05:30.27,Default,Yuji,0,0,0,,{\i1}and I totally played some games. \NI think I even won some.
-Dialogue: 0,0:05:30.55,0:05:34.38,Default,Yuji,0,0,0,,{\i1}I can't avoid lying if I \Nwant to claim innocence.
-Dialogue: 0,0:05:34.38,0:05:37.40,Default,Yuji,0,0,0,,{\i1}So naturally, what I \Nneed to consider is...
-Dialogue: 0,0:05:37.67,0:05:39.50,Default,Yuji,0,0,0,,{\i1}what could be in that evidence!
-Dialogue: 0,0:05:40.56,0:05:44.93,Default,Higuruma,0,0,0,,There is no guarantee that this \Nwill confirm the charges.
-Dialogue: 0,0:05:46.20,0:05:47.16,Default,Yuji,0,0,0,,{\i1}One:
-Dialogue: 0,0:05:47.16,0:05:50.64,Default,Yuji,0,0,0,,{\i1}if that evidence doesn't prove \NI entered the pachinko parlor,
-Dialogue: 0,0:05:50.64,0:05:52.49,Default,Yuji,0,0,0,,{\i1}I just need to deny \Nit or remain silent.
-Dialogue: 0,0:05:52.89,0:05:53.75,Default,Yuji,0,0,0,,No!
-Dialogue: 0,0:05:53.75,0:05:54.37,Default,Yuji,0,0,0,,{\i1}Two:
-Dialogue: 0,0:05:54.37,0:05:57.05,Default,Yuji,0,0,0,,{\i1}if the evidence only \Nproves I entered it,
-Dialogue: 0,0:05:57.05,0:05:59.26,Default,Yuji,0,0,0,,{\i1}should I gamble on an excuse \Nthat would earn leniency?
-Dialogue: 0,0:05:59.26,0:06:01.48,Default,Yuji,0,0,0,,I just borrowed their bathroom.
-Dialogue: 0,0:06:01.48,0:06:03.47,Default,Yuji,0,0,0,,{\i1}But if the evidence is a bust,
-Dialogue: 0,0:06:01.48,0:06:03.47,Default,Higuruma,0,0,0,,So you did enter it, then!
-Dialogue: 0,0:06:03.47,0:06:07.59,Default,Yuji,0,0,0,,{\i1}I might be digging my own grave \Nby admitting I entered it...
-Dialogue: 0,0:06:03.47,0:06:05.14,Default,Yuji,0,0,0,,Y-Yes.
-Dialogue: 0,0:06:07.88,0:06:08.96,Default,Yuji,0,0,0,,{\i1}Three:
-Dialogue: 0,0:06:08.96,0:06:13.20,Default,Yuji,0,0,0,,{\i1}if the evidence proves I not only \Nentered it, but played the games,
-Dialogue: 0,0:06:13.20,0:06:14.67,Default,Yuji,0,0,0,,{\i1}I'm basically screwed.
-Dialogue: 0,0:06:15.02,0:06:16.32,Default,Yuji,0,0,0,,I regret it.
-Dialogue: 0,0:06:16.32,0:06:19.21,Default,Yuji,0,0,0,,{\i1}Should I bet on confessing \Nto lighten my crime?
-Dialogue: 0,0:06:19.21,0:06:22.53,Default,Yuji,0,0,0,,{\i1}Does this court even offer \Nlighter or heavier punishments?
-Dialogue: 0,0:06:23.89,0:06:28.67,Default,Yuji,0,0,0,,I entered the pachinko parlor Maji Vegas,
-Dialogue: 0,0:06:29.30,0:06:31.35,Default,Yuji,0,0,0,,but only because I suddenly \Nneeded to poop and
-Dialogue: 0,0:06:31.35,0:06:33.03,Default,Yuji,0,0,0,,had no choice but to \Nborrow their bathroom!
-Dialogue: 0,0:06:34.26,0:06:35.53,Default,Higuruma,0,0,0,,Is that so?
-Dialogue: 0,0:06:35.85,0:06:37.54,Default,Yuji,0,0,0,,{\i1}I'm throwing out option 3!
-Dialogue: 0,0:06:37.54,0:06:41.04,Default,Yuji,0,0,0,,{\i1}I don't know if this court accepts \Nextenuating circumstances,
-Dialogue: 0,0:06:41.04,0:06:43.55,Default,Yuji,0,0,0,,{\i1}but this will leave the best impression!
-Dialogue: 0,0:06:43.55,0:06:44.88,Default,Yuji,0,0,0,,{\i1}I think!
-Dialogue: 0,0:06:45.18,0:06:48.16,Default,Higuruma,0,0,0,,My turn, then.
-Dialogue: 0,0:06:51.76,0:06:55.93,Default,Higuruma,0,0,0,,This is from the antique shop near \NMaji Vegas on the day in question.
-Dialogue: 0,0:06:57.16,0:07:01.14,Default,Higuruma,0,0,0,,In essence, it's footage from the \Nsecurity camera of a cash exchange.
-Dialogue: 0,0:07:05.33,0:07:10.52,Default,Higuruma,0,0,0,,Would you agree the appearance and \Nbuild all match Itadori Yuji here?
-Dialogue: 0,0:07:14.62,0:07:16.95,Default,Higuruma,0,0,0,,Since he just admitted \Nto entering the parlor,
-Dialogue: 0,0:07:16.95,0:07:22.35,Default,Higuruma,0,0,0,,this photo makes it clear his excuse \Nabout the bathroom isn't worth believing.
-Dialogue: 0,0:07:22.86,0:07:26.00,Default,Higuruma,0,0,0,,One can determine that \Ndespite being underage,
-Dialogue: 0,0:07:26.00,0:07:28.49,Default,Higuruma,0,0,0,,Itadori entered the parlor with \Nthe intent to play the games.
-Dialogue: 0,0:07:30.00,0:07:33.35,Default,Yuji,0,0,0,,What crime... would that be?
-Dialogue: 0,0:07:33.98,0:07:38.67,Default,Higuruma,0,0,0,,The parlor explicitly prohibits \Nminors from entering,
-Dialogue: 0,0:07:39.17,0:07:41.48,Default,Higuruma,0,0,0,,so criminal trespassing.
-Dialogue: 0,0:07:42.24,0:07:43.94,Default,Higuruma,0,0,0,,Penal Code, Article 130.
-Dialogue: 0,0:07:44.39,0:07:46.77,Default,Higuruma,0,0,0,,The Businesses Affecting\NPublic Morals Regulation Act
-Dialogue: 0,0:07:46.77,0:07:48.15,Default,Higuruma,0,0,0,,doesn't punish minors, after all.
-Dialogue: 0,0:07:49.67,0:07:51.79,Default,Yuji,0,0,0,,That wasn't fair.
-Dialogue: 0,0:07:51.79,0:07:54.37,Default,Yuji,0,0,0,,There was no way to talk my way out of it.
-Dialogue: 0,0:07:54.37,0:07:56.11,Default,Yuji,0,0,0,,{\i1}Should I have gone with option 3?
-Dialogue: 0,0:07:56.11,0:07:58.00,Default,Higuruma,0,0,0,,What are you talking about?
-Dialogue: 0,0:07:58.00,0:08:00.37,Default,Higuruma,0,0,0,,Japan prohibits gambling,
-Dialogue: 0,0:08:00.37,0:08:03.12,Default,Higuruma,0,0,0,,so parlors and cash exchanges \Nare separate legal entities.
-Dialogue: 0,0:08:03.45,0:08:06.36,Default,Higuruma,0,0,0,,Sometimes multiple \Nparlors even share one.
-Dialogue: 0,0:08:06.36,0:08:10.92,Default,Higuruma,0,0,0,,You were only on trial for \Nentry into Maji Vegas.
-Dialogue: 0,0:08:11.50,0:08:12.96,Default,Higuruma,0,0,0,,You simply needed to say,
-Dialogue: 0,0:08:12.96,0:08:17.91,Default,Higuruma,0,0,0,,"I don't recognize that parlor," \Nand deny the charge.
-Dialogue: 0,0:08:18.96,0:08:21.40,Default,Higuruma,0,0,0,,Wait, we haven't heard the verdict yet.
-Dialogue: 0,0:08:27.72,0:08:29.12,Default,Judgeman,0,0,0,,Guilty.
-Dialogue: 0,0:08:29.12,0:08:30.68,Default,Judgeman,0,0,0,,Confiscation.
-Dialogue: 0,0:08:33.61,0:08:36.08,Default,Yuji,0,0,0,,{\i1}I'm back where we were?
-Dialogue: 0,0:08:36.08,0:08:38.45,Default,Yuji,0,0,0,,{\i1}I was declared guilty,
-Dialogue: 0,0:08:38.45,0:08:40.04,Default,Yuji,0,0,0,,{\i1}but I don't feel any diff—
-Dialogue: 0,0:08:48.83,0:08:50.08,Default,Yuji,0,0,0,,{\i1}That's...
-Dialogue: 0,0:08:54.66,0:08:58.93,Default,Yuji,0,0,0,,{\i1}Not only can he make that gavel \Nappear and disappear at will,
-Dialogue: 0,0:08:58.93,0:09:00.86,Default,Yuji,0,0,0,,{\i1}he can alter its size, too?!
-Dialogue: 0,0:09:01.25,0:09:02.93,Default,Yuji,0,0,0,,{\i1}No, more importantly...
-Dialogue: 0,0:09:03.94,0:09:05.45,Default,Higuruma,0,0,0,,You're tough.
-Dialogue: 0,0:09:06.19,0:09:08.17,Default,Yuji,0,0,0,,That's the one thing I have going for me.
-Dialogue: 0,0:09:12.51,0:09:14.42,Default,Yuji,0,0,0,,{\i1}I can't control cursed energy!
-Dialogue: 0,0:09:22.25,0:09:24.97,Default,Narrator,0,0,0,,Law apprenticeship period 59.
-Dialogue: 0,0:09:24.97,0:09:30.23,Default,Narrator,0,0,0,,Iwate Bar Association's \NHiromi Higuruma, age 36.
-Dialogue: 0,0:09:31.47,0:09:33.99,Default,Narrator,0,0,0,,He straightforwardly \Ncleared all obstacles,
-Dialogue: 0,0:09:33.99,0:09:37.56,Default,Narrator,0,0,0,,like the entry exam to \NTokyo University's School of Law
-Dialogue: 0,0:09:37.56,0:09:40.48,Default,Narrator,0,0,0,,and the old bar exam that preceded the \Ninstitution of the law school system.
-Dialogue: 0,0:09:41.33,0:09:45.90,Default,Narrator,0,0,0,,To Higuruma, that was all a simple task
-Dialogue: 0,0:09:45.90,0:09:50.10,Default,Narrator,0,0,0,,of inputting and outputting \Nthe necessary knowledge.
-Dialogue: 0,0:09:51.09,0:09:56.58,Default,Narrator,0,0,0,,His peers whispered that he was a genius.
-Dialogue: 0,0:09:56.58,0:10:00.73,Default,Narrator,0,0,0,,Yet the gem that shone brightest
-Dialogue: 0,0:10:00.73,0:10:04.16,Default,Narrator,0,0,0,,was his talent as a sorcerer.
-Dialogue: 0,0:10:06.30,0:10:09.97,Default,Narrator,0,0,0,,His technique came with \Nhis domain by default,
-Dialogue: 0,0:10:09.97,0:10:14.65,Default,Narrator,0,0,0,,but through analyzing that, he also \Nlearned the fundamentals of barriers.
-Dialogue: 0,0:10:16.29,0:10:18.92,Default,Narrator,0,0,0,,Then, working backwards from barriers,
-Dialogue: 0,0:10:18.92,0:10:22.30,Default,Narrator,0,0,0,,he intuitively grasped manipulating \Ncursed energy for physical enhancement,
-Dialogue: 0,0:10:22.30,0:10:24.72,Default,Narrator,0,0,0,,and within twelve days of \Nawakening as a sorcerer,
-Dialogue: 0,0:10:24.72,0:10:29.32,Default,Narrator,0,0,0,,he had grown to match Grade 1 sorcerers.
-Dialogue: 0,0:10:29.98,0:10:34.45,Default,Narrator,0,0,0,,Before entering the Colony, \Nhe exorcised many cursed spirits,
-Dialogue: 0,0:10:34.45,0:10:40.03,Default,Narrator,0,0,0,,and struck down over twenty \NPlayers who attacked him.
-Dialogue: 0,0:11:17.06,0:11:19.62,Default,Higuruma,0,0,0,,You lost the ability to \Ncontrol cursed energy?
-Dialogue: 0,0:11:20.85,0:11:22.60,Default,Yuji,0,0,0,,Didn't you do this?!
-Dialogue: 0,0:11:24.08,0:11:25.89,Default,Higuruma,0,0,0,,The penalty of Confiscation
-Dialogue: 0,0:11:25.89,0:11:29.16,Default,Higuruma,0,0,0,,makes it temporarily impossible \Nto use one's cursed technique.
-Dialogue: 0,0:11:29.65,0:11:33.42,Default,Higuruma,0,0,0,,I'm guessing you didn't \Nhave a cursed technique?
-Dialogue: 0,0:11:34.07,0:11:35.72,Default,Higuruma,0,0,0,,That must be why the penalty
-Dialogue: 0,0:11:35.72,0:11:38.44,Default,Higuruma,0,0,0,,switched to blocking \Nthe use of cursed energy.
-Dialogue: 0,0:11:39.48,0:11:41.44,Default,Higuruma,0,0,0,,Coincidentally, Confiscation
-Dialogue: 0,0:11:41.44,0:11:44.92,Default,Higuruma,0,0,0,,is generally a supplementary sentence \Nthat's never imposed on its own.
-Dialogue: 0,0:11:45.75,0:11:48.62,Default,Higuruma,0,0,0,,{\i1}It's terrifying to think about.
-Dialogue: 0,0:11:49.29,0:11:53.07,Default,Higuruma,0,0,0,,{\i1}How can he hold his own against \Nme without cursed energy?
-Dialogue: 0,0:11:53.77,0:11:57.26,Default,Higuruma,0,0,0,,{\i1}He's using his natural physical prowess, \Nnot his might as a sorcerer.
-Dialogue: 0,0:11:57.26,0:12:00.36,Default,Higuruma,0,0,0,,{\i1}He must have frighteningly \Nhigh physical durability.
-Dialogue: 0,0:12:01.01,0:12:04.09,Default,Higuruma,0,0,0,,{\i1}Sorcerers often struggle with \Nbasic cursed energy control
-Dialogue: 0,0:12:04.09,0:12:07.37,Default,Higuruma,0,0,0,,{\i1}when they lose the use \Nof their technique.
-Dialogue: 0,0:12:07.77,0:12:09.86,Default,Higuruma,0,0,0,,{\i1}Their instincts probably \Ndull over the long years.
-Dialogue: 0,0:12:10.40,0:12:14.06,Default,Higuruma,0,0,0,,{\i1}But the complete inability to use cursed \Nenergy is even more disadvantageous!
-Dialogue: 0,0:12:14.66,0:12:17.71,Default,Higuruma,0,0,0,,{\i1}Yet it's true that he can fight \Nthis well under these circumstances,
-Dialogue: 0,0:12:18.37,0:12:22.31,Default,Higuruma,0,0,0,,{\i1}when my first strike would have settled \Nthe battle against most foes.
-Dialogue: 0,0:12:23.45,0:12:25.75,Default,Higuruma,0,0,0,,{\i1}If I'm not careful, he'll trip me up.
-Dialogue: 0,0:12:26.79,0:12:28.54,Default,Higuruma,0,0,0,,{\i1}I'll crush him with my full might!
-Dialogue: 0,0:13:09.61,0:13:10.68,Default,Higuruma,0,0,0,,You're incredible!
-Dialogue: 0,0:13:11.34,0:13:14.40,Default,Higuruma,0,0,0,,{\i1}It's like I'm fighting \Nan unbreakable doll.
-Dialogue: 0,0:13:14.88,0:13:16.87,Default,Yuji,0,0,0,,{\i1}Shit, shit, shit, shit, shit!
-Dialogue: 0,0:13:16.87,0:13:18.35,Default,Yuji,0,0,0,,{\i1}How long will this last?!
-Dialogue: 0,0:13:18.35,0:13:20.73,Default,Yuji,0,0,0,,{\i1}My cursed energy!\NHurry back to me, cursed energy!
-Dialogue: 0,0:13:21.52,0:13:23.05,Default,Yuji,0,0,0,,{\i1}This is such a strong ability!
-Dialogue: 0,0:13:23.05,0:13:24.09,Default,Yuji,0,0,0,,{\i1}There must be something!
-Dialogue: 0,0:13:24.09,0:13:27.14,Default,Yuji,0,0,0,,{\i1}Something that's a disadvantage \Nfor Higuruma!
-Dialogue: 0,0:13:28.54,0:13:29.74,Default,Yuji,0,0,0,,{\i1}Think!
-Dialogue: 0,0:13:29.74,0:13:31.12,Default,Yuji,0,0,0,,{\i1}Think, think!
-Dialogue: 0,0:13:32.00,0:13:34.01,Default,Yuji,0,0,0,,{\i1}A technique for court trials...
-Dialogue: 0,0:13:34.01,0:13:35.13,Default,Yuji,0,0,0,,{\i1}Trials!
-Dialogue: 0,0:13:42.83,0:13:44.21,Default,Yuji,0,0,0,,Higuruma!
-Dialogue: 0,0:13:44.21,0:13:45.17,Default,Yuji,0,0,0,,I want a retrial!
-Dialogue: 0,0:13:45.17,0:13:46.67,Default,Yuji,0,0,0,,One more time!
-Dialogue: 0,0:13:56.52,0:13:57.95,Default,Higuruma,0,0,0,,You figured it out?
-Dialogue: 0,0:14:00.30,0:14:01.81,Default,Yuji,0,0,0,,That was close.
-Dialogue: 0,0:14:01.81,0:14:04.48,Default,Yuji,0,0,0,,I-I get a second trial, right?
-Dialogue: 0,0:14:05.45,0:14:10.98,Default,Narrator,0,0,0,,So long as the target judged guilty \Nand penalized by Judgeman
-Dialogue: 0,0:14:10.98,0:14:13.11,Default,Narrator,0,0,0,,doesn't admit their guilt,
-Dialogue: 0,0:14:13.11,0:14:17.24,Default,Narrator,0,0,0,,they're able to demand \Nup to two retrials.
-Dialogue: 0,0:14:17.74,0:14:21.34,Default,Narrator,0,0,0,,Judgeman cannot refuse them.
-Dialogue: 0,0:14:23.86,0:14:25.74,Default,Yuji,0,0,0,,All right, one more time!
-Dialogue: 0,0:14:28.87,0:14:31.12,Default,Judgeman,0,0,0,,Itadori Yuji
-Dialogue: 0,0:14:31.12,0:14:34.57,Default,Judgeman,0,0,0,,stands accused of mass murder
-Dialogue: 0,0:14:34.57,0:14:38.72,Default,Judgeman,0,0,0,,in Shibuya on October 31st, 2018.
-Dialogue: 0,0:14:41.83,0:14:44.02,Default,Yuji,0,0,0,,Yeah, I killed them.
-Dialogue: 0,0:14:44.57,0:14:46.39,Default,Yuji,0,0,0,,That's not a lie, and I won't deny it.
-Dialogue: 0,0:14:48.99,0:14:50.77,Default,Judgeman,0,0,0,,Guilty!
-Dialogue: 0,0:14:50.78,0:14:52.78,Default,Screen,0,0,0,,{\pos(960,900)\fs54\fnTimes New Roman\bord0\shad0}"Confiscation."
-Dialogue: 0,0:14:52.78,0:14:54.28,Default,Screen,0,0,0,,{\pos(960,900)\fs54\fnTimes New Roman\bord0\shad0}"Death Penalty."
-Dialogue: 0,0:14:50.77,0:14:52.77,Default,Judgeman,0,0,0,,Confiscation!
-Dialogue: 0,0:14:53.06,0:14:56.44,Default,Judgeman,0,0,0,,Death Penalty!
-Dialogue: 0,0:14:59.14,0:15:00.54,Default,Yoshizawa,0,0,0,,Higuruma{**-kun}.
-Dialogue: 0,0:15:06.59,0:15:08.05,Default,Higuruma,0,0,0,,Yoshizawa{**-san}.
-Dialogue: 0,0:15:08.96,0:15:12.03,Default,Higuruma,0,0,0,,I've already submitted the proposal.
-Dialogue: 0,0:15:13.59,0:15:15.88,Default,Yoshizawa,0,0,0,,No, it's not about that.
-Dialogue: 0,0:15:15.88,0:15:18.78,Default,Yoshizawa,0,0,0,,I saw the documents.\NThey were wonderful.
-Dialogue: 0,0:15:19.19,0:15:22.44,Default,Yoshizawa,0,0,0,,Good enough to be used \Nas-is for sentencing.
-Dialogue: 0,0:15:23.89,0:15:28.42,Default,Yoshizawa,0,0,0,,You wanted to be either a public \Nprosecutor or a defense lawyer, right?
-Dialogue: 0,0:15:29.15,0:15:30.27,Default,Higuruma,0,0,0,,Yes.
-Dialogue: 0,0:15:30.73,0:15:32.14,Default,Yoshizawa,0,0,0,,What do you say?
-Dialogue: 0,0:15:33.49,0:15:36.24,Default,Yoshizawa,0,0,0,,Would you try aiming to become a judge?
-Dialogue: 0,0:15:45.51,0:15:49.41,Default,Narrator,0,0,0,,The heaviest sentence \NJudgeman can impose
-Dialogue: 0,0:15:49.83,0:15:54.21,Default,Narrator,0,0,0,,is the death penalty \Naccompanied by Confiscation.
-Dialogue: 0,0:15:55.77,0:15:59.12,Default,Narrator,0,0,0,,Confiscation makes it impossible \Nto use their technique,
-Dialogue: 0,0:15:59.12,0:16:03.73,Default,Narrator,0,0,0,,or in Itadori's case, his cursed energy,
-Dialogue: 0,0:16:03.73,0:16:07.27,Default,Narrator,0,0,0,,and then Higuruma is granted \Nthe Executioner's Sword.
-Dialogue: 0,0:16:08.40,0:16:12.21,Default,Narrator,0,0,0,,Anyone cut by the Executioner's Sword
-Dialogue: 0,0:16:12.21,0:16:16.31,Default,Narrator,0,0,0,,will, without exception, meet their death.
-Dialogue: 0,0:16:17.15,0:16:19.70,Default,Higuruma,0,0,0,,{\i1}Empathizing with another's feelings
-Dialogue: 0,0:16:19.70,0:16:22.92,Default,Higuruma,0,0,0,,{\i1}means understanding their weakness.
-Dialogue: 0,0:16:23.53,0:16:27.11,Default,Higuruma,0,0,0,,{\i1}The weakness of victims, \Nthe weakness of criminals.
-Dialogue: 0,0:16:28.36,0:16:31.43,Default,Higuruma,0,0,0,,{\i1}Day after day after day...
-Dialogue: 0,0:16:32.14,0:16:34.29,Default,Higuruma,0,0,0,,{\i1}I was so fed up.
-Dialogue: 0,0:16:35.24,0:16:36.85,Default,Higuruma,0,0,0,,{\i1}"So ugly."
-Dialogue: 0,0:16:36.85,0:16:41.42,Default,Higuruma,0,0,0,,{\i1}That's what I started to think every \Ntime I tried to help someone.
-Dialogue: 0,0:16:42.04,0:16:44.18,Default,Higuruma,0,0,0,,You're the same, Itadori!
-Dialogue: 0,0:16:46.43,0:16:49.48,Default,Higuruma,0,0,0,,All people are weak and ugly!
-Dialogue: 0,0:16:49.89,0:16:53.35,Default,Higuruma,0,0,0,,No matter how much you long \Nfor them to have noble souls!
-Dialogue: 0,0:16:56.15,0:16:58.31,Default,Higuruma,0,0,0,,There's nothing for you down that path!
-Dialogue: 0,0:16:58.31,0:17:00.86,Default,Higuruma,0,0,0,,The darkness before you is just that!
-Dialogue: 0,0:17:02.01,0:17:03.95,Default,Higuruma,0,0,0,,Even if you shine a light on it,
-Dialogue: 0,0:17:04.35,0:17:07.64,Default,Higuruma,0,0,0,,you'll just find blinding nothingness!
-Dialogue: 0,0:17:13.44,0:17:14.59,Default,Higuruma,0,0,0,,I'm sorry.
-Dialogue: 0,0:17:15.05,0:17:17.73,Default,Higuruma,0,0,0,,I won't become a judge.
-Dialogue: 0,0:17:22.32,0:17:23.74,Default,Yoshizawa,0,0,0,,I see.
-Dialogue: 0,0:17:23.74,0:17:25.86,Default,Yoshizawa,0,0,0,,May I ask why not?
-Dialogue: 0,0:17:27.04,0:17:30.31,Default,Higuruma,0,0,0,,{\i1}All people are weak and ugly.
-Dialogue: 0,0:17:32.64,0:17:36.19,Default,Higuruma,0,0,0,,I'm not interested in promotions, \Nso I'm not cut out for it.
-Dialogue: 0,0:17:37.52,0:17:38.60,Default,Higuruma,0,0,0,,{\i1}However!
-Dialogue: 0,0:17:39.07,0:17:40.34,Default,Higuruma,0,0,0,,{\i1}At the time!
-Dialogue: 0,0:17:40.34,0:17:42.41,Default,Higuruma,0,0,0,,{\i1}At least up until that moment!
-Dialogue: 0,0:17:42.90,0:17:44.64,Default,Higuruma,0,0,0,,{\i1}I believed that very depravity,
-Dialogue: 0,0:17:44.64,0:17:46.36,Default,Higuruma,0,0,0,,{\i1}which no other creature possessed,
-Dialogue: 0,0:17:46.36,0:17:48.66,Default,Higuruma,0,0,0,,{\i1}was meant to be cherished!
-Dialogue: 0,0:17:49.47,0:17:50.37,Default,Higuruma,0,0,0,,{\i1}Why?!
-Dialogue: 0,0:17:51.24,0:17:52.46,Default,Higuruma,0,0,0,,{\i1}Itadori Yuji,
-Dialogue: 0,0:17:53.00,0:17:55.25,Default,Higuruma,0,0,0,,{\i1}why did you admit guilt?!
-Dialogue: 0,0:17:55.53,0:17:59.10,Default,Narrator,0,0,0,,The evidence that Judgeman submits
-Dialogue: 0,0:17:59.10,0:18:02.92,Default,Narrator,0,0,0,,is shared with the sorcerer \Nbefore it is opened.
-Dialogue: 0,0:18:03.32,0:18:05.28,Default,Higuruma,0,0,0,,{\i1}The evidence he provided
-Dialogue: 0,0:18:05.28,0:18:08.72,Default,Higuruma,0,0,0,,{\i1}was about the demon harbored \Ninside you called Sukuna!
-Dialogue: 0,0:18:09.43,0:18:10.78,Default,Higuruma,0,0,0,,{\i1}You didn't kill them!
-Dialogue: 0,0:18:11.76,0:18:13.79,Default,Higuruma,0,0,0,,{\i1}So why?! Why?!
-Dialogue: 0,0:18:33.89,0:18:34.81,Default,Yuji,0,0,0,,Hey!
-Dialogue: 0,0:18:36.11,0:18:39.40,Default,Higuruma,0,0,0,,Penal Code, Article 39, Clause 1.
-Dialogue: 0,0:18:40.54,0:18:43.33,Default,Higuruma,0,0,0,,Being deprived of either sound judgment
-Dialogue: 0,0:18:43.74,0:18:47.59,Default,Higuruma,0,0,0,,or control of one's actions \Nqualifies as non compos mentis.
-Dialogue: 0,0:18:49.08,0:18:53.55,Default,Higuruma,0,0,0,,In Shibuya, Sukuna had taken \Ncontrol of your body.
-Dialogue: 0,0:18:53.55,0:18:55.45,Default,Yuji,0,0,0,,How do you know about Sukuna?
-Dialogue: 0,0:18:56.16,0:18:58.80,Default,Higuruma,0,0,0,,In other words, you lacked \Ncontrol of your actions.
-Dialogue: 0,0:18:59.21,0:19:03.32,Default,Higuruma,0,0,0,,You didn't voluntarily \Nsurrender control, either.
-Dialogue: 0,0:19:03.32,0:19:04.35,Default,Higuruma,0,0,0,,In other words,
-Dialogue: 0,0:19:04.99,0:19:06.19,Default,Higuruma,0,0,0,,you're innocent.
-Dialogue: 0,0:19:08.50,0:19:10.34,Default,Higuruma,0,0,0,,You've committed no crime.
-Dialogue: 0,0:19:12.42,0:19:15.03,Default,Yuji,0,0,0,,Even so, it's still my fault.
-Dialogue: 0,0:19:16.13,0:19:18.03,Default,Yuji,0,0,0,,Because I was too weak.
-Dialogue: 0,0:19:21.99,0:19:23.47,Default,Higuruma,0,0,0,,I see.
-Dialogue: 0,0:19:24.25,0:19:27.87,Default,Yuji,0,0,0,,Higuruma, why did you release \Nyour technique earlier?
-Dialogue: 0,0:19:31.77,0:19:33.92,Default,Higuruma,0,0,0,,I returned to my roots.
-Dialogue: 0,0:19:35.67,0:19:42.68,Default,Higuruma,0,0,0,,Itadori, there may still be plenty \Nof people who are weak like you.
-Dialogue: 0,0:19:44.51,0:19:46.06,Default,Higuruma,0,0,0,,Put your clothes on.
-Dialogue: 0,0:19:46.06,0:19:47.52,Default,Higuruma,0,0,0,,Then have a seat.
-Dialogue: 0,0:19:47.52,0:19:48.88,Default,Higuruma,0,0,0,,I'll give you my 100 points.
-Dialogue: 0,0:20:02.47,0:20:03.51,Default,Higuruma,0,0,0,,Itadori.
-Dialogue: 0,0:20:05.00,0:20:08.28,Default,Higuruma,0,0,0,,Have you ever killed someone \Nof your own volition?
-Dialogue: 0,0:20:16.06,0:20:17.02,Default,Yuji,0,0,0,,I have.
-Dialogue: 0,0:20:23.00,0:20:24.06,Default,Higuruma,0,0,0,,I see.
-Dialogue: 0,0:20:26.11,0:20:28.23,Default,Higuruma,0,0,0,,It felt absolutely awful, didn't it?
-Dialogue: 0,0:21:59.69,0:22:02.29,Default,Higuruma,0,0,0,,Kogane, add a rule.
-Dialogue: 0,0:22:03.09,0:22:07.01,Default,Higuruma,0,0,0,,Make it possible for Players \Nto transfer points.
-Dialogue: 0,0:22:07.92,0:22:12.67,Default,Higuruma,0,0,0,,Of course, this should count toward the \N"change in points" mentioned in Rule 8.
-Dialogue: 0,0:22:12.67,0:22:14.44,Default,Kogane,0,0,0,,Approved.
-Dialogue: 0,0:22:14.81,0:22:16.22,Default,Kogane,0,0,0,,Rule 10:
-Dialogue: 0,0:22:16.22,0:22:21.19,Default,Kogane,0,0,0,,Players are able to transfer a number of \Npoints of their choosing to other Players.
-Dialogue: 0,0:22:22.56,0:22:25.42,Default,Higuruma,0,0,0,,Kogane, give one of my points to Itadori.
-Dialogue: 0,0:22:26.05,0:22:27.67,Default,Kogane,0,0,0,,As you wish.
-Dialogue: 0,0:22:29.52,0:22:33.20,Default,Kogane,0,0,0,,You have been granted one \Npoint by Higuruma Hiromi.
-Dialogue: 0,0:22:34.10,0:22:36.05,Default,Higuruma,0,0,0,,Now neither of us will have to worry
-Dialogue: 0,0:22:36.05,0:22:38.43,Default,Higuruma,0,0,0,,about our technique being \Nstripped for nineteen days.
-Dialogue: 0,0:22:39.19,0:22:40.53,Default,Higuruma,0,0,0,,Take care.
-Dialogue: 0,0:22:41.14,0:22:42.55,Default,Yuji,0,0,0,,Higuruma!
-Dialogue: 0,0:22:42.55,0:22:44.12,Default,Yuji,0,0,0,,What are you planning to do now?
-Dialogue: 0,0:22:44.55,0:22:47.70,Default,Yuji,0,0,0,,You could help us if you're willing to.
-Dialogue: 0,0:22:49.60,0:22:53.76,Default,Higuruma,0,0,0,,My two remaining points are \Nfrom the judge and prosecutor
-Dialogue: 0,0:22:53.75,0:22:55.71,Default,Higuruma,0,0,0,,I killed before coming to Tokyo.
-Dialogue: 0,0:22:56.79,0:23:00.30,Default,Higuruma,0,0,0,,Once the barriers open up, \NI think I might turn myself in.
-Dialogue: 0,0:23:01.19,0:23:04.56,Default,Higuruma,0,0,0,,Until then, I'll think \Nabout what I should I do.
-Dialogue: 0,0:23:05.26,0:23:07.18,Default,Higuruma,0,0,0,,Besides, if I stay with you,
-Dialogue: 0,0:23:07.18,0:23:09.86,Default,Higuruma,0,0,0,,I'm likely to hate myself even more.
-Dialogue: 0,0:23:11.21,0:23:14.25,Default,Higuruma,0,0,0,,Sorry. I'm not criticizing you.
-Dialogue: 0,0:23:15.80,0:23:16.69,Default,Higuruma,0,0,0,,Later.
-Dialogue: 0,0:23:25.64,0:23:27.50,Default,Fushiguro,0,0,0,,A new rule will be added soon.
-Dialogue: 0,0:23:27.50,0:23:30.59,Default,Kogane,0,0,0,,...a number of points of their \Nchoosing to other Players.
-Dialogue: 0,0:23:29.83,0:23:31.59,Default,Reggie,0,0,0,,If you don't fight to kill...
-Dialogue: 0,0:23:31.59,0:23:32.67,Default,Fushiguro,0,0,0,,You're okay with this?!
-Dialogue: 0,0:23:32.01,0:23:34.76,Default,Takaba,0,0,0,,I don't want you as my Wi-Fi!
-Dialogue: 0,0:23:34.09,0:23:36.81,Default,Fushiguro,0,0,0,,Hand over all of your points.
+Comment: 0,0:00:00.00,0:00:00.02,Default,chptr,0,0,0,opsync,{Opening}
+Comment: 0,0:01:29.99,0:01:30.03,Default,chptr,0,0,0,,{Part A}
+Comment: 0,0:09:20.96,0:09:21.00,Default,chptr,0,0,0,,{Part B}
+Comment: 0,0:20:28.96,0:20:29.00,Default,chptr,0,0,0,edsync,{Ending}
+Comment: 0,0:21:58.92,0:21:58.96,Default,chptr,0,0,0,,{Part C}
+Comment: 0,0:23:24.92,0:23:24.97,Default,chptr,0,0,0,,{Preview}
+Dialogue: 0,0:01:33.78,0:01:36.99,Default,Higuruma,0,0,0,,Domain Expansion: Deadly Sentencing.
+Dialogue: 0,0:01:38.29,0:01:39.00,Default,Yuji,0,0,0,,{\i1}A domain?!
+Dialogue: 0,0:01:39.95,0:01:43.25,Default,Yuji,0,0,0,,{\i1}I'll take him down before he can activate it!
+Dialogue: 0,0:01:53.63,0:01:57.85,Default,Higuruma,0,0,0,,All acts of violence are prohibited in this space.
+Dialogue: 0,0:01:58.18,0:01:59.56,Default,Higuruma,0,0,0,,For both of us.
+Dialogue: 0,0:01:59.56,0:02:00.60,Default,Yuji,0,0,0,,For {\i1}both{\i0}?
+Dialogue: 0,0:02:04.77,0:02:06.65,Default,Higuruma,0,0,0,,Oh, sorry.
+Dialogue: 0,0:02:06.65,0:02:08.36,Default,Higuruma,0,0,0,,Harmful remarks are the exception.
+Dialogue: 0,0:02:09.28,0:02:11.90,Default,Higuruma,0,0,0,,Judgeman, please begin.
+Dialogue: 0,0:02:15.37,0:02:17.70,Default,Judgeman,0,0,0,,Itadori Yuji
+Dialogue: 0,0:02:17.70,0:02:28.13,Default,Judgeman,0,0,0,,stands accused of entering the Maji Vegas gambling parlor \Nin Sendai City, Miyagi Prefecture, on July 16th, 2017,
+Dialogue: 0,0:02:28.13,0:02:31.13,Default,Judgeman,0,0,0,,despite being under 18 at the time.
+Dialogue: 0,0:02:31.63,0:02:32.51,Default,Yuji,0,0,0,,Huh?!
+Dialogue: 0,0:02:33.51,0:02:34.22,Default,Yuji,0,0,0,,Oh.
+Dialogue: 0,0:02:35.05,0:02:38.72,Default,Yuji,0,0,0,,Uh, well, um...
+Dialogue: 0,0:02:38.72,0:02:42.52,Default,Higuruma,0,0,0,,Judgeman knows everything about \Nthose within this domain.
+Dialogue: 0,0:02:43.52,0:02:45.48,Default,Higuruma,0,0,0,,But don't worry.
+Dialogue: 0,0:02:45.48,0:02:48.61,Default,Higuruma,0,0,0,,That information isn't shared with me.
+Dialogue: 0,0:02:48.61,0:02:52.78,Default,Higuruma,0,0,0,,The verdict will be decided \Nsolely by the arguments we present.
+Dialogue: 0,0:02:53.95,0:02:56.36,Default,Higuruma,0,0,0,,With the sole exception of this evidence.
+Dialogue: 0,0:02:56.74,0:02:59.58,Default,Yuji,0,0,0,,Huh?! When did you...
+Dialogue: 0,0:02:59.95,0:03:03.58,Default,Higuruma,0,0,0,,This is the evidence provided by Judgeman for this case.
+Dialogue: 0,0:03:04.00,0:03:08.08,Default,Higuruma,0,0,0,,There is no guarantee \Nthat this will confirm the charges.
+Dialogue: 0,0:03:08.67,0:03:11.34,Default,Higuruma,0,0,0,,I also don't plan on telling you what it is.
+Dialogue: 0,0:03:11.67,0:03:15.84,Default,Higuruma,0,0,0,,Knowing that, you must now \Npresent your argument to clear suspicion
+Dialogue: 0,0:03:15.84,0:03:18.97,Default,Higuruma,0,0,0,,and win a not guilty verdict from Judgeman.
+Dialogue: 0,0:03:20.60,0:03:22.77,Default,Yuji,0,0,0,,{\i1}A court trial technique?
+Dialogue: 0,0:03:24.73,0:03:27.90,Default,Yuji,0,0,0,,{\i1}That badge! So he really is a lawyer?
+Dialogue: 0,0:03:28.31,0:03:30.82,Default,Yuji,0,0,0,,{\i1}But he's acting more like a prosecutor.
+Dialogue: 0,0:03:32.07,0:03:36.70,Default,Yuji,0,0,0,,{\fad(0,300)\i1}Higuruma is a modern sorcerer, \Nbut this domain is like what {*}Master Tengen{*Tengen-sama} mentioned.
+Dialogue: 0,0:03:37.99,0:03:44.91,Default,Tengen,0,0,164,,Domains used to be a much more standard skill \Nfor sorcerers in the past.
+Dialogue: 0,0:03:45.25,0:03:53.63,Default,Tengen,0,0,164,,That's because they lacked the "guaranteed kill" element of most modern domains' deadly guaranteed hit attacks.
+Dialogue: 0,0:03:54.17,0:03:59.43,Default,Tengen,0,0,164,,They simply guaranteed that users' techniques \Nwould hit the target in the domain.
+Dialogue: 0,0:03:59.89,0:04:03.68,Default,Tengen,0,0,164,,That was the common function \Nof domains in the past.
+Dialogue: 0,0:04:04.35,0:04:06.68,Default,Tengen,0,0,164,,By focusing too hard \Non the "guaranteed kill" aspect,
+Dialogue: 0,0:04:06.68,0:04:10.06,Default,Tengen,0,0,164,,sorcerers raised the bar on the \Nrequirements for constructing a domain,
+Dialogue: 0,0:04:10.06,0:04:16.07,Default,Tengen,0,0,164,,{\fad(0,2000)}making it a more advanced skill \Nwith fewer practitioners.
+Dialogue: 0,0:04:16.78,0:04:20.24,Default,Yuji,0,0,0,,{\i1}That means this domain is founded on Binding Vows
+Dialogue: 0,0:04:20.24,0:04:28.21,Default,Yuji,0,0,0,,{\i1}preventing lethality, prohibiting physical harm, and requiring some explanation of its rules!
+Dialogue: 0,0:04:30.04,0:04:32.50,Default,Higuruma,0,0,0,,You get one chance to make a statement.
+Dialogue: 0,0:04:32.50,0:04:34.30,Default,Higuruma,0,0,0,,This also applies to both of us.
+Dialogue: 0,0:04:34.75,0:04:39.80,Default,Higuruma,0,0,0,,After your statement, I get one chance \Nto make my rebuttal using this evidence,
+Dialogue: 0,0:04:39.80,0:04:45.10,Default,Higuruma,0,0,0,,and then Judgeman announces his verdict \Nin accordance with the Six Codes.
+Dialogue: 0,0:04:45.85,0:04:47.68,Default,Yuji,0,0,0,,What happens if I'm judged guilty?
+Dialogue: 0,0:04:48.31,0:04:52.31,Default,Higuruma,0,0,0,,Unfortunately, I have no obligation \Nto answer that question.
+Dialogue: 0,0:04:52.31,0:04:56.11,Default,Higuruma,0,0,0,,Instead, I'll at least tell you this.
+Dialogue: 0,0:04:57.11,0:04:59.15,Default,Higuruma,0,0,0,,You have three options:
+Dialogue: 0,0:04:59.61,0:05:00.49,Default,Higuruma,0,0,0,,Silence.
+Dialogue: 0,0:05:00.49,0:05:01.36,Default,Higuruma,0,0,0,,Confession.
+Dialogue: 0,0:05:01.36,0:05:02.87,Default,Higuruma,0,0,0,,Denial.
+Dialogue: 0,0:05:02.87,0:05:05.91,Default,Higuruma,0,0,0,,Your denial may include false statements.
+Dialogue: 0,0:05:06.91,0:05:08.50,Default,Yuji,0,0,0,,You mean I can just lie?
+Dialogue: 0,0:05:09.00,0:05:10.37,Default,Yuji,0,0,0,,In court?
+Dialogue: 0,0:05:11.00,0:05:16.13,Default,Higuruma,0,0,0,,If everyone told the truth, \Nthere would be no need for trials.
+Dialogue: 0,0:05:16.88,0:05:19.72,Default,Higuruma,0,0,0,,Now, make your argument.
+Dialogue: 0,0:05:19.72,0:05:22.01,Default,Higuruma,0,0,0,,Judgeman is not very patient.
+Dialogue: 0,0:05:24.43,0:05:30.27,Default,Yuji,0,0,0,,{\i1}I did go to that gambling place. \NI played a few rounds. I might've even won.
+Dialogue: 0,0:05:30.73,0:05:34.44,Default,Yuji,0,0,0,,{\i1}I can't avoid lying if I want to claim innocence.
+Dialogue: 0,0:05:34.44,0:05:37.40,Default,Yuji,0,0,0,,{\i1}What I actually need to consider is...
+Dialogue: 0,0:05:37.78,0:05:39.49,Default,Yuji,0,0,0,,{\i1}what could be in that evidence!
+Dialogue: 0,0:05:40.65,0:05:44.99,Default,Higuruma,0,0,0,,There is no guarantee \Nthat this will confirm the charges.
+Dialogue: 0,0:05:46.37,0:05:47.16,Default,Yuji,0,0,0,,{\i1}One:
+Dialogue: 0,0:05:47.16,0:05:50.71,Default,Yuji,0,0,0,,{\i1}if that evidence doesn't prove I entered the gambling parlor,
+Dialogue: 0,0:05:50.71,0:05:52.50,Default,Yuji,0,0,0,,{\i1}I just need to deny it or remain silent.
+Dialogue: 0,0:05:53.04,0:05:53.83,Default,Yuji,0,0,164,,{\an8}No!
+Dialogue: 0,0:05:53.83,0:05:54.38,Default,Yuji,0,0,0,,{\i1}Two:
+Dialogue: 0,0:05:54.38,0:05:57.04,Default,Yuji,0,0,0,,{\i1}if the evidence only proves I entered it,
+Dialogue: 0,0:05:57.04,0:05:59.84,Default,Yuji,0,0,0,,{\i1}should I gamble on an excuse that would earn leniency?
+Dialogue: 0,0:05:59.17,0:06:01.59,Default,Yuji,0,0,164,,{\an8}I just went to the bathroom.
+Dialogue: 0,0:06:01.59,0:06:03.47,Default,Yuji,0,0,0,,{\i1}But if the evidence is a bust,
+Dialogue: 0,0:06:01.59,0:06:03.47,Default,Higuruma,0,0,164,,{\an8}So you did enter it, then!
+Dialogue: 0,0:06:03.47,0:06:07.60,Default,Yuji,0,0,0,,{\i1}I might be digging my own grave by admitting I entered it...
+Dialogue: 0,0:06:03.47,0:06:05.14,Default,Yuji,0,0,164,,{\an8}Y-Yes.
+Dialogue: 0,0:06:07.89,0:06:09.06,Default,Yuji,0,0,0,,{\i1}Three:
+Dialogue: 0,0:06:09.06,0:06:13.31,Default,Yuji,0,0,0,,{\i1}if the evidence proves I not only entered it, but played the games,
+Dialogue: 0,0:06:13.31,0:06:15.02,Default,Yuji,0,0,0,,{\i1}I'm basically screwed.
+Dialogue: 0,0:06:15.35,0:06:16.31,Default,Yuji,0,0,164,,{\an8}I'm sorry...
+Dialogue: 0,0:06:16.31,0:06:19.36,Default,Yuji,0,0,0,,{\i1}Should I bet on confessing to lighten my crime?
+Dialogue: 0,0:06:19.36,0:06:22.53,Default,Yuji,0,0,0,,{\i1}Does this court even offer lighter or heavier punishments?
+Dialogue: 0,0:06:23.99,0:06:28.87,Default,Yuji,0,0,0,,I did enter the Maji Vegas gambling parlor,
+Dialogue: 0,0:06:29.41,0:06:33.04,Default,Yuji,0,0,0,,but only because I suddenly needed to poop \Nand had no choice but to borrow their bathroom!
+Dialogue: 0,0:06:34.37,0:06:35.54,Default,Higuruma,0,0,0,,Is that so?
+Dialogue: 0,0:06:35.92,0:06:37.63,Default,Yuji,0,0,0,,{\i1}I'm ditching option 3!
+Dialogue: 0,0:06:37.63,0:06:41.17,Default,Yuji,0,0,0,,{\i1}I don't know if this court \Naccepts extenuating circumstances,
+Dialogue: 0,0:06:41.17,0:06:43.55,Default,Yuji,0,0,0,,{\i1}but this will leave the best impression!
+Dialogue: 0,0:06:43.55,0:06:45.18,Default,Yuji,0,0,0,,{\i1}I think!
+Dialogue: 0,0:06:45.18,0:06:48.18,Default,Higuruma,0,0,0,,My turn, then.
+Dialogue: 0,0:06:51.93,0:06:56.06,Default,Higuruma,0,0,0,,This is from the antique shop near Maji Vegas on the day in question.
+Dialogue: 0,0:06:57.31,0:07:01.82,Default,Higuruma,0,0,0,,In essence, it's footage from \Nthe security camera of a cash exchange.
+Dialogue: 0,0:07:05.40,0:07:10.83,Default,Higuruma,0,0,0,,Would you agree the appearance and build all match Itadori Yuji here?
+Dialogue: 0,0:07:14.75,0:07:17.04,Default,Higuruma,0,0,0,,Since he just admitted to entering the parlor,
+Dialogue: 0,0:07:17.04,0:07:22.51,Default,Higuruma,0,0,0,,this photo makes it clear his bathroom excuse \Nthe isn't worth believing.
+Dialogue: 0,0:07:23.01,0:07:28.72,Default,Higuruma,0,0,0,,One can determine that despite being underage, \NItadori entered the parlor with the intent to play the games.
+Dialogue: 0,0:07:30.10,0:07:33.47,Default,Yuji,0,0,0,,What crime... would that be?
+Dialogue: 0,0:07:34.02,0:07:38.81,Default,Higuruma,0,0,0,,The parlor explicitly prohibits minors from entering,
+Dialogue: 0,0:07:39.27,0:07:41.48,Default,Higuruma,0,0,0,,so criminal trespassing. {illegal?}
+Dialogue: 0,0:07:42.36,0:07:44.03,Default,Higuruma,0,0,0,,Penal Code, Article 130.
+Dialogue: 0,0:07:44.49,0:07:48.32,Default,Higuruma,0,0,0,,The Businesses Affecting Public Morals Regulation Act doesn't punish minors, after all.
+Dialogue: 0,0:07:49.78,0:07:51.83,Default,Yuji,0,0,0,,That wasn't fair.
+Dialogue: 0,0:07:51.83,0:07:54.37,Default,Yuji,0,0,0,,There was no way to talk my way out of it.
+Dialogue: 0,0:07:54.37,0:07:56.12,Default,Yuji,0,0,0,,{\i1}Should I have gone with option 3?
+Dialogue: 0,0:07:56.12,0:07:58.04,Default,Higuruma,0,0,0,,What are you talking about?
+Dialogue: 0,0:07:58.04,0:08:03.13,Default,Higuruma,0,0,0,,Japan prohibits gambling, so parlors \Nand cash exchanges are separate legal entities.
+Dialogue: 0,0:08:03.55,0:08:06.42,Default,Higuruma,0,0,0,,Sometimes multiple parlors even share one.
+Dialogue: 0,0:08:06.42,0:08:11.05,Default,Higuruma,0,0,0,,You were only on trial for entry into Maji Vegas.
+Dialogue: 0,0:08:11.51,0:08:18.14,Default,Higuruma,0,0,0,,You simply needed to say, "I don't recognize \Nthat parlor," and deny the charge.
+Dialogue: 0,0:08:19.06,0:08:21.40,Default,Higuruma,0,0,0,,Wait, we haven't heard the verdict yet.
+Dialogue: 0,0:08:27.95,0:08:29.20,Default,Judgeman,0,0,0,,{\an8}Guilty.
+Dialogue: 0,0:08:29.20,0:08:30.70,Default,Judgeman,0,0,0,,{\an8}Confiscation.
+Dialogue: 0,0:08:33.78,0:08:36.20,Default,Yuji,0,0,0,,{\i1}We're back where we were?
+Dialogue: 0,0:08:36.20,0:08:39.71,Default,Yuji,0,0,0,,{\i1}I was declared guilty, but I don't feel any different.
+Dialogue: 0,0:08:39.71,0:08:39.83,Default,Yuji,0,0,0,,{\i1}I was declared guilty, but I don't feel any different.
+Dialogue: 0,0:08:39.83,0:08:39.96,Default,Yuji,0,0,0,,{\pos(1142,1040)}I was declared guilty, but I don't feel any different.
+Dialogue: 0,0:08:39.96,0:08:40.04,Default,Yuji,0,0,0,,{\pos(1379,1080)}I was declared guilty, but I don't feel any different.
+Dialogue: 0,0:08:48.92,0:08:50.09,Default,Yuji,0,0,0,,{\i1}That's...  {what the--}
+Dialogue: 0,0:08:54.81,0:09:00.94,Default,Yuji,0,0,0,,{\i1}Not only can he make that gavel \Nappear and disappear at will, he can alter its size too?!
+Dialogue: 0,0:09:01.35,0:09:02.94,Default,Yuji,0,0,0,,{\i1}No, more importantly... {there's a bigger problem...}
+Dialogue: 0,0:09:04.06,0:09:05.52,Default,Higuruma,0,0,0,,You're tough.
+Dialogue: 0,0:09:06.19,0:09:08.49,Default,Yuji,0,0,0,,That's the one thing I've got going for me.
+Dialogue: 0,0:09:12.66,0:09:14.58,Default,Yuji,0,0,0,,{\i1}I can't control cursed energy!
+Dialogue: 0,0:09:22.42,0:09:25.09,Default,Narrator,0,0,0,,Law apprenticeship period 59.
+Dialogue: 0,0:09:25.09,0:09:30.72,Default,Narrator,0,0,0,,Iwate Bar Association's Hiromi Higuruma, age 36.
+Dialogue: 0,0:09:31.72,0:09:34.01,Default,Narrator,0,0,0,,He straightforwardly cleared all obstacles,
+Dialogue: 0,0:09:34.01,0:09:37.56,Default,Narrator,0,0,0,,like the entry exam to Tokyo University's School of Law
+Dialogue: 0,0:09:37.56,0:09:40.48,Default,Narrator,0,0,0,,and the old bar exam that preceded \Nthe institution of the law school system.
+Dialogue: 0,0:09:41.48,0:09:50.24,Default,Narrator,0,0,0,,To Higuruma, that was all a simple task of inputting and outputting the necessary knowledge.
+Dialogue: 0,0:09:51.24,0:09:56.66,Default,Narrator,0,0,0,,His peers whispered that he was a genius.
+Dialogue: 0,0:09:56.66,0:10:04.17,Default,Narrator,0,0,0,,Yet the gem that shone brightest was his talent as a sorcerer.
+Dialogue: 0,0:10:06.50,0:10:10.01,Default,Narrator,0,0,0,,His technique came with his domain by default,
+Dialogue: 0,0:10:10.01,0:10:14.51,Default,Narrator,0,0,0,,but through analyzing that, \Nhe also learned the fundamentals of barriers.
+Dialogue: 0,0:10:16.30,0:10:18.93,Default,Narrator,0,0,0,,Then, working backwards from barriers,
+Dialogue: 0,0:10:18.93,0:10:22.31,Default,Narrator,0,0,0,,he intuitively grasped manipulating cursed energy for physical enhancement. {cursed energy reinforcement}
+Dialogue: 0,0:10:22.31,0:10:29.40,Default,Narrator,0,0,0,,Within twelve days of awakening, \Nhe had grown to match first-grade sorcerers.
+Dialogue: 0,0:10:30.15,0:10:34.45,Default,Narrator,0,0,0,,Before entering the colony, \Nhe exorcised many cursed spirits,
+Dialogue: 0,0:10:34.45,0:10:40.04,Default,Narrator,0,0,0,,and struck down over \Ntwenty players who attacked him.
+Dialogue: 0,0:11:17.24,0:11:19.91,Default,Higuruma,0,0,0,,You lost the ability to control cursed energy?
+Dialogue: 0,0:11:21.08,0:11:22.70,Default,Yuji,0,0,0,,Didn't you do this?!
+Dialogue: 0,0:11:24.20,0:11:29.34,Default,Higuruma,0,0,0,,The penalty of Confiscation makes it impossible to use one's cursed technique for some time.
+Dialogue: 0,0:11:29.79,0:11:33.42,Default,Higuruma,0,0,0,,I'm guessing you didn't have a cursed technique?
+Dialogue: 0,0:11:34.17,0:11:38.93,Default,Higuruma,0,0,0,,That must be why the penalty \Nswitched to blocking the use of cursed energy.
+Dialogue: 0,0:11:39.64,0:11:44.93,Default,Higuruma,0,0,0,,Coincidentally, Confiscation is generally a supplementary sentence that's never imposed on its own.
+Dialogue: 0,0:11:45.89,0:11:48.69,Default,Higuruma,0,0,0,,{\i1}It's terrifying to think about.
+Dialogue: 0,0:11:49.44,0:11:53.15,Default,Higuruma,0,0,0,,{\i1}How can he hold his own against me \Nwithout cursed energy?
+Dialogue: 0,0:11:53.82,0:11:57.40,Default,Higuruma,0,0,0,,{\i1}He's using his natural physical prowess, \Nnot his might as a sorcerer.
+Dialogue: 0,0:11:57.40,0:12:00.37,Default,Higuruma,0,0,0,,{\i1}He must have frighteningly high physical durability.
+Dialogue: 0,0:12:01.16,0:12:07.37,Default,Higuruma,0,0,0,,{\i1}Sorcerers often struggle with basic cursed energy control \Nwhen they lose the use of their technique.
+Dialogue: 0,0:12:07.92,0:12:10.50,Default,Higuruma,0,0,0,,{\i1}Their instincts probably dull over the long years.
+Dialogue: 0,0:12:10.50,0:12:14.38,Default,Higuruma,0,0,0,,{\i1}But the complete inability to use cursed energy \Nis even more disadvantageous!
+Dialogue: 0,0:12:14.84,0:12:17.72,Default,Higuruma,0,0,0,,{\i1}Yet it's true that he can fight \Nthis well under these circumstances.
+Dialogue: 0,0:12:18.38,0:12:22.60,Default,Higuruma,0,0,0,,{\i1}My first strike would have \Nsettled the battle against most foes.
+Dialogue: 0,0:12:23.60,0:12:25.81,Default,Higuruma,0,0,0,,{\i1}If I'm not careful, he'll trip me up.
+Dialogue: 0,0:12:26.98,0:12:28.52,Default,Higuruma,0,0,0,,{\i1}I'll crush him with my full might!
+Dialogue: 0,0:13:09.69,0:13:10.69,Default,Higuruma,0,0,0,,You're incredible!
+Dialogue: 0,0:13:11.44,0:13:14.40,Default,Higuruma,0,0,0,,{\i1}It's like I'm fighting an unbreakable doll.
+Dialogue: 0,0:13:14.98,0:13:16.94,Default,Yuji,0,0,0,,{\i1}Shit, shit, shit, shit, shit!
+Dialogue: 0,0:13:16.94,0:13:18.44,Default,Yuji,0,0,0,,{\i1}How long will this last?!
+Dialogue: 0,0:13:18.44,0:13:21.16,Default,Yuji,0,0,0,,{\i1}My cursed energy! \NHurry back to me, cursed energy!
+Dialogue: 0,0:13:21.66,0:13:23.12,Default,Yuji,0,0,0,,{\i1}This is such a strong ability!
+Dialogue: 0,0:13:23.12,0:13:27.16,Default,Yuji,0,0,0,,{\i1}There must be something! \NSomething that's a disadvantage for Higuruma!
+Dialogue: 0,0:13:28.70,0:13:29.91,Default,Yuji,0,0,0,,{\i1}Think!
+Dialogue: 0,0:13:29.91,0:13:31.12,Default,Yuji,0,0,0,,{\i1}Think, think!
+Dialogue: 0,0:13:32.12,0:13:34.13,Default,Yuji,0,0,0,,{\i1}A technique for court trials...
+Dialogue: 0,0:13:34.13,0:13:35.25,Default,Yuji,0,0,0,,{\i1}Trials!
+Dialogue: 0,0:13:43.01,0:13:44.26,Default,Yuji,0,0,0,,Higuruma!
+Dialogue: 0,0:13:44.26,0:13:46.72,Default,Yuji,0,0,0,,I want a retrial! One more time!
+Dialogue: 0,0:13:56.52,0:13:58.03,Default,Higuruma,0,0,0,,You figured it out?
+Dialogue: 0,0:14:00.44,0:14:01.95,Default,Yuji,0,0,0,,That was close.
+Dialogue: 0,0:14:01.95,0:14:04.49,Default,Yuji,0,0,0,,I-I get a second trial, right?
+Dialogue: 0,0:14:05.57,0:14:13.12,Default,Narrator,0,0,0,,As long as the one judged guilty and penalized \Nby Judgeman doesn't admit their guilt,
+Dialogue: 0,0:14:13.12,0:14:17.34,Default,Narrator,0,0,0,,they can demand up to two retrials.
+Dialogue: 0,0:14:17.84,0:14:21.55,Default,Narrator,0,0,0,,Judgeman cannot refuse them.
+Dialogue: 0,0:14:23.88,0:14:26.01,Default,Yuji,0,0,0,,All right, one more time!
+Dialogue: 0,0:14:29.10,0:14:31.27,Default,Judgeman,0,0,0,,Itadori Yuji
+Dialogue: 0,0:14:31.27,0:14:38.94,Default,Judgeman,0,0,0,,stands accused of mass murder in Shibuya \Non October 31st, 2018.
+Dialogue: 0,0:14:42.03,0:14:44.11,Default,Yuji,0,0,0,,Yeah, I killed them.
+Dialogue: 0,0:14:44.66,0:14:46.41,Default,Yuji,0,0,0,,It's true. I won't deny it.
+Dialogue: 0,0:14:49.24,0:14:50.79,Default,Judgeman,0,0,0,,{\an8}Guilty!
+Dialogue: 0,0:14:50.79,0:14:52.79,Default,Judgeman,0,0,0,,{\an8}Confiscation!
+Dialogue: 0,0:14:52.79,0:14:56.50,Default,Judgeman,0,0,0,,{\an8}Death Penalty!
+Dialogue: 0,0:14:59.25,0:15:00.55,Default,Yoshizawa,0,0,0,,Higuruma{**-kun}.
+Dialogue: 0,0:15:06.76,0:15:08.05,Default,Higuruma,0,0,164,,Yoshizawa{**-san}.
+Dialogue: 0,0:15:09.30,0:15:12.02,Default,Higuruma,0,0,164,,I've already submitted the proposal.
+Dialogue: 0,0:15:13.73,0:15:15.94,Default,Yoshizawa,0,0,164,,Oh, it's not about that.
+Dialogue: 0,0:15:15.94,0:15:18.86,Default,Yoshizawa,0,0,164,,I saw the documents. They were wonderful.
+Dialogue: 0,0:15:19.36,0:15:22.61,Default,Yoshizawa,0,0,164,,Good enough to be used as-is for sentencing.
+Dialogue: 0,0:15:24.11,0:15:28.70,Default,Yoshizawa,0,0,164,,You wanted to be either a public prosecutor \Nor a defense lawyer, right?
+Dialogue: 0,0:15:29.37,0:15:30.33,Default,Higuruma,0,0,164,,Yes.
+Dialogue: 0,0:15:30.95,0:15:32.24,Default,Yoshizawa,0,0,164,,What do you say?
+Dialogue: 0,0:15:33.62,0:15:36.25,Default,Yoshizawa,0,0,164,,Would you try aiming to become a judge?
+Dialogue: 0,0:15:45.67,0:15:49.97,Default,Narrator,0,0,0,,{\an8}This is the heaviest sentence Judgeman can impose.
+Dialogue: 0,0:15:49.97,0:15:54.22,Default,Narrator,0,0,0,,{\an8}Death Penalty accompanied by Confiscation.
+Dialogue: 0,0:15:55.93,0:16:03.78,Default,Narrator,0,0,0,,Confiscation makes it impossible to use one's technique, \Nor in Itadori's case, his cursed energy.
+Dialogue: 0,0:16:03.78,0:16:08.03,Default,Narrator,0,0,0,,At the same time, Higuruma is granted \Nthe Executioner's Sword.
+Dialogue: 0,0:16:08.57,0:16:16.33,Default,Narrator,0,0,0,,Anyone cut by the Executioner's Sword will, \Nwithout exception, meet their death.
+Dialogue: 0,0:16:17.29,0:16:23.17,Default,Higuruma,0,0,0,,{\i1}Empathizing with another's feelings means understanding their weakness.
+Dialogue: 0,0:16:23.67,0:16:27.55,Default,Higuruma,0,0,0,,{\i1}The weakness of victims, the weakness of criminals.
+Dialogue: 0,0:16:28.47,0:16:31.43,Default,Higuruma,0,0,0,,{\i1}Day after day after day...
+Dialogue: 0,0:16:32.30,0:16:34.35,Default,Higuruma,0,0,0,,{\i1}I was so fed up.
+Dialogue: 0,0:16:35.43,0:16:36.93,Default,Higuruma,0,0,0,,{\i1}"Unsightly." {CR: So ugly.}
+Dialogue: 0,0:16:36.93,0:16:41.44,Default,Higuruma,0,0,0,,{\i1}That's what I started to think every time I tried to help someone.
+Dialogue: 0,0:16:42.11,0:16:44.19,Default,Higuruma,0,0,0,,You're the same, Itadori!
+Dialogue: 0,0:16:46.44,0:16:48.95,Default,Higuruma,0,0,0,,All people are weak and ugly!
+Dialogue: 0,0:16:49.95,0:16:53.53,Default,Higuruma,0,0,0,,No matter how much you long for them \Nto have noble souls!
+Dialogue: 0,0:16:56.24,0:16:58.46,Default,Higuruma,0,0,0,,There's nothing for you down that path!
+Dialogue: 0,0:16:58.46,0:17:01.08,Default,Higuruma,0,0,0,,The darkness before you is just that!
+Dialogue: 0,0:17:02.17,0:17:07.05,Default,Higuruma,0,0,0,,Even if you shine a light on it, \Nyou'll just find blinding nothingness!
+Dialogue: 0,0:17:13.51,0:17:14.64,Default,Higuruma,0,0,164,,I'm sorry.
+Dialogue: 0,0:17:15.18,0:17:16.06,Default,Higuruma,0,0,164,,I won't become a judge.
+Dialogue: 0,0:17:16.06,0:17:17.77,Default,Higuruma,0,0,0,,I won't become a judge.
+Dialogue: 0,0:17:22.48,0:17:23.77,Default,Yoshizawa,0,0,0,,I see.
+Dialogue: 0,0:17:23.77,0:17:25.90,Default,Yoshizawa,0,0,0,,May I ask why not?
+Dialogue: 0,0:17:27.19,0:17:30.32,Default,Higuruma,0,0,0,,{\i1}All people are weak and ugly.
+Dialogue: 0,0:17:32.66,0:17:36.54,Default,Higuruma,0,0,0,,I'm not interested in promotions, \Nso I'm not cut out for it.
+Dialogue: 0,0:17:37.54,0:17:38.62,Default,Higuruma,0,0,0,,{\i1}However!
+Dialogue: 0,0:17:39.20,0:17:40.46,Default,Higuruma,0,0,0,,{\i1}At the time!
+Dialogue: 0,0:17:40.46,0:17:42.50,Default,Higuruma,0,0,0,,{\i1}At least up until that moment!
+Dialogue: 0,0:17:43.00,0:17:49.13,Default,Higuruma,0,0,0,,{\i1}I believed that very depravity, which no other \Ncreature possessed, was something to be cherished!
+Dialogue: 0,0:17:49.55,0:17:50.38,Default,Higuruma,0,0,0,,{\i1}Why?!
+Dialogue: 0,0:17:51.34,0:17:52.47,Default,Higuruma,0,0,0,,{\i1}Why, Itadori Yuji?!
+Dialogue: 0,0:17:53.18,0:17:55.26,Default,Higuruma,0,0,0,,{\i1}Why did you admit guilt?!
+Dialogue: 0,0:17:55.64,0:18:02.94,Default,Narrator,0,0,0,,The evidence that Judgeman submits \Nis shared with the sorcerer before it is opened.
+Dialogue: 0,0:18:03.35,0:18:08.82,Default,Higuruma,0,0,0,,{\i1}The evidence provided was about \Nthe demon harbored inside you called Sukuna!
+Dialogue: 0,0:18:09.53,0:18:10.78,Default,Higuruma,0,0,0,,{\i1}You didn't kill them!
+Dialogue: 0,0:18:11.86,0:18:13.82,Default,Higuruma,0,0,0,,{\i1}So why?! Why?!
+Dialogue: 0,0:18:34.09,0:18:34.89,Default,Yuji,0,0,0,,Hey!
+Dialogue: 0,0:18:36.30,0:18:39.60,Default,Higuruma,0,0,0,,Penal Code, Article 39, Clause 1.
+Dialogue: 0,0:18:40.72,0:18:47.31,Default,Higuruma,0,0,0,,Being deprived of either sound judgment or control \Nof one's actions qualifies as non compos mentis.
+Dialogue: 0,0:18:49.19,0:18:53.57,Default,Higuruma,0,0,0,,In Shibuya, Sukuna had taken control of your body.
+Dialogue: 0,0:18:53.57,0:18:55.49,Default,Yuji,0,0,0,,How do you know about Sukuna?
+Dialogue: 0,0:18:56.28,0:18:59.28,Default,Higuruma,0,0,0,,In other words, you lacked control of your actions.
+Dialogue: 0,0:18:59.28,0:19:03.41,Default,Higuruma,0,0,0,,You didn't voluntarily surrender control, either.
+Dialogue: 0,0:19:03.41,0:19:04.33,Default,Higuruma,0,0,0,,In other words,
+Dialogue: 0,0:19:05.12,0:19:06.21,Default,Higuruma,0,0,0,,you're innocent.
+Dialogue: 0,0:19:08.63,0:19:10.34,Default,Higuruma,0,0,0,,You've committed no crime.
+Dialogue: 0,0:19:12.55,0:19:15.18,Default,Yuji,0,0,0,,Even so, it's still my fault.
+Dialogue: 0,0:19:16.22,0:19:18.18,Default,Yuji,0,0,0,,Because I was too weak.
+Dialogue: 0,0:19:22.14,0:19:23.48,Default,Higuruma,0,0,0,,I see.
+Dialogue: 0,0:19:24.31,0:19:28.23,Default,Yuji,0,0,0,,Higuruma, why did you release your technique?
+Dialogue: 0,0:19:31.90,0:19:33.99,Default,Higuruma,0,0,0,,I returned to my roots.
+Dialogue: 0,0:19:35.86,0:19:42.95,Default,Higuruma,0,0,0,,Itadori, there may still be plenty of people \Nwho are weak like you.
+Dialogue: 0,0:19:44.62,0:19:46.12,Default,Higuruma,0,0,0,,Put your clothes on.
+Dialogue: 0,0:19:46.12,0:19:47.67,Default,Higuruma,0,0,0,,Then have a seat.
+Dialogue: 0,0:19:47.67,0:19:48.96,Default,Higuruma,0,0,0,,I'll give you my 100 points.
+Dialogue: 0,0:20:02.60,0:20:03.68,Default,Higuruma,0,0,0,,Itadori.
+Dialogue: 0,0:20:05.14,0:20:08.56,Default,Higuruma,0,0,0,,Have you ever killed someone of your own volition?
+Dialogue: 0,0:20:16.19,0:20:17.20,Default,Yuji,0,0,0,,I have.
+Dialogue: 0,0:20:23.16,0:20:24.08,Default,Higuruma,0,0,0,,I see.
+Dialogue: 0,0:20:26.25,0:20:28.42,Default,Higuruma,0,0,0,,It's the worst feeling in the world. {CR: It felt absolutely awful, didn't it?}
+Dialogue: 0,0:21:59.88,0:22:02.30,Default,Higuruma,0,0,0,,Kogane, add a rule.
+Dialogue: 0,0:22:03.22,0:22:07.10,Default,Higuruma,0,0,0,,Make it possible for players \Nto transfer points to one another.
+Dialogue: 0,0:22:07.93,0:22:12.73,Default,Higuruma,0,0,0,,Of course, this should count toward \Nthe "change in points" mentioned in Rule 8.
+Dialogue: 0,0:22:12.73,0:22:14.44,Default,Kogane,0,0,0,,Approved.
+Dialogue: 0,0:22:14.94,0:22:21.19,Default,Kogane,0,0,0,,Rule 10: Players may transfer a number of points \Nof their choosing to another player.
+Dialogue: 0,0:22:22.70,0:22:25.57,Default,Higuruma,0,0,0,,Kogane, give one of my points to Itadori.
+Dialogue: 0,0:22:26.12,0:22:27.70,Default,Kogane,0,0,0,,As you wish.
+Dialogue: 0,0:22:29.70,0:22:33.21,Default,Kogane,0,0,0,,You have been granted one point \Nby Higuruma Hiromi.
+Dialogue: 0,0:22:34.21,0:22:38.71,Default,Higuruma,0,0,0,,Now neither of us will have to worry about \Nour technique being stripped for nineteen days.
+Dialogue: 0,0:22:39.34,0:22:40.67,Default,Higuruma,0,0,0,,Take care.
+Dialogue: 0,0:22:41.26,0:22:42.59,Default,Yuji,0,0,0,,Higuruma!
+Dialogue: 0,0:22:42.59,0:22:44.63,Default,Yuji,0,0,0,,What are you planning to do now?
+Dialogue: 0,0:22:44.63,0:22:47.22,Default,Yuji,0,0,0,,Would you like to help us? {CR: You could help us if you're willing to.}
+Dialogue: 0,0:22:49.72,0:22:55.73,Default,Higuruma,0,0,0,,My two remaining points are from the judge and the prosecutor I killed before coming to Tokyo.
+Dialogue: 0,0:22:56.98,0:23:00.44,Default,Higuruma,0,0,0,,Once the barriers open up, I think I'll turn myself in.
+Dialogue: 0,0:23:01.32,0:23:04.74,Default,Higuruma,0,0,0,,Until then, I'll think about what I should I do.
+Dialogue: 0,0:23:05.45,0:23:10.08,Default,Higuruma,0,0,0,,Besides, if I stay with you, \NI'm likely to hate myself even more.
+Dialogue: 0,0:23:11.37,0:23:14.41,Default,Higuruma,0,0,0,,Sorry. I'm not criticizing you.
+Dialogue: 0,0:23:15.92,0:23:16.92,Default,Higuruma,0,0,0,,Later.
+Dialogue: 0,0:23:25.68,0:23:27.34,Default,Fushiguro,0,0,0,,{\an8}A new rule will be added soon.
+Dialogue: 0,0:23:27.34,0:23:30.14,Default,Kogane,0,0,0,,{\an8}...a number of points of their choosing to another player.
+Dialogue: 0,0:23:30.14,0:23:31.60,Default,Reggie,0,0,0,,{\an8}If you don't fight to kill...
+Dialogue: 0,0:23:31.60,0:23:32.43,Default,Fushiguro,0,0,0,,{\an8}You're okay with this?!
+Dialogue: 0,0:23:32.43,0:23:34.14,Default,Takaba,0,0,0,,{\an8}I don't want you as my Wi-Fi!
+Dialogue: 0,0:23:34.14,0:23:36.81,Default,Fushiguro,0,0,0,,{\an8}Hand over all of your points.
