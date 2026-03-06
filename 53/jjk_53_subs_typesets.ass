@@ -2744,7 +2744,7 @@ Dialogue: 1,0:08:45.46,0:08:45.50,Signs,,0,0,0,,{\fnMargarine\fs88\c&H211221&\b0
 Dialogue: 1,0:08:45.50,0:08:45.55,Signs,,0,0,0,,{\fnMargarine\fs88\c&H211221&\b0\blur0.5\pos(1790.18,796.29)\1a&HDC&}No way{\fs99}!
 Dialogue: 1,0:08:45.55,0:08:45.59,Signs,,0,0,0,,{\fnMargarine\fs88\c&H211221&\b0\blur0.5\pos(1804.57,792.06)\1a&HF2&}No way{\fs99}!
 Dialogue: 0,0:08:32.62,0:08:32.66,f0ld3r-invisible,,0,0,0,,{=2519}
-Dialogue: 0,0:21:03.24,0:21:05.54,f0ld3r-invisible,,0,0,0,,{=50}--New Rule
+Dialogue: 0,0:21:03.24,0:21:05.54,f0ld3r-invisible,,0,0,0,,{=50}--Rule 9
 Comment: 5,0:21:03.24,0:21:05.33,Signs,,0,0,0,,{\an8\blur0.5\fnA-OTF Antique Std AN DB\fs33\c&HEFEBE6&\pos(960,28.80)}Players who do not show any change in points within 19 days of joining or acquiring points \Nshall be stripped of their technique.
 Comment: 2,0:21:03.24,0:21:05.33,Signs,,0,0,0,,{\an5\blur0.5\fscx254\fscy55\c&H0000B0&\pos(1860.46,62.26)\p1}m 127.93 -62.29 l 130.23 -59.19 -350.54 -59.19 -348.24 -62.29 m 134.07 -68.53 l 132.21 -67.54 127.24 -66.84 125.15 -65.59 -345.49 -65.59 -347.55 -66.84 -352.53 -67.54 -354.38 -68.53
 Comment: 2,0:21:03.24,0:21:05.33,Signs,,0,0,0,,{\an5\blur0.5\fscx254\fscy55\fry180\frz180\c&H0000B0&\pos(1860.46,70.26)\p1}m 127.93 -62.29 l 130.23 -59.19 -350.54 -59.19 -348.24 -62.29 m 134.07 -68.53 l 132.21 -67.54 127.24 -66.84 125.15 -65.59 -345.49 -65.59 -347.55 -66.84 -352.53 -67.54 -354.38 -68.53
