@@ -233,9 +233,9 @@ Dialogue: 0,0:13:29.08,0:13:30.66,Default,Kirara,0,0,0,,You're incredible.
 Dialogue: 0,0:13:30.66,0:13:33.50,Default,Kirara,0,0,0,,You actually figured out my technique.
 Dialogue: 0,0:13:33.96,0:13:35.13,Default,Fushiguro,0,0,0,,Panda{**-senpai}!
 Dialogue: 0,0:13:41.72,0:13:43.47,Default,Panda,0,0,0,,Here we go!
-Dialogue: 0,0:13:49.60,0:13:53.40,Default,Narration,0,0,0,,The order follows the stars from nearest to farthest.
-Dialogue: 0,0:13:53.40,0:13:57.23,Default,Narration,0,0,0,,Constellations may look flat, \Nbut they do, of course, have depth.
-Dialogue: 0,0:13:57.23,0:14:00.53,Default,Narration,0,0,0,,Each star is a different distance from the Earth.
+Dialogue: 0,0:13:49.60,0:13:53.40,Default,Narrator,0,0,0,,The order follows the stars from nearest to farthest.
+Dialogue: 0,0:13:53.40,0:13:57.23,Default,Narrator,0,0,0,,Constellations may look flat, \Nbut they do, of course, have depth.
+Dialogue: 0,0:13:57.23,0:14:00.53,Default,Narrator,0,0,0,,Each star is a different distance from the Earth.
 Dialogue: 0,0:14:00.94,0:14:05.99,Default,Kirara,0,0,0,,Weren't you a little too quick to conclude \NI couldn't throw things at you?
 Dialogue: 0,0:14:05.99,0:14:09.75,Default,Kirara,0,0,0,,I can simply remove the Ginan star \Non my own cursed energy
 Dialogue: 0,0:14:09.75,0:14:13.12,Default,Kirara,0,0,0,,and mark things with the same \NAcrux star that's on you!
