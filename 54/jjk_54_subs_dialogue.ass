@@ -196,8 +196,9 @@ Dialogue: 0,0:09:53.74,0:09:54.70,Default,Both,0,0,0,,Yeah!
 Dialogue: 0,0:09:55.28,0:09:57.91,Default,Fushiguro,0,0,0,,The first thing we need to do \Nis deal with Rule 8.
 Dialogue: 0,0:09:57.91,0:09:58.37,Default,Yuji,0,0,0,,Huh?
 Dialogue: 0,0:09:58.74,0:10:01.21,Default,Panda,0,0,0,,What was Rule 8 again?
-Dialogue: 0,0:10:01.58,0:10:04.71,Default,Fushiguro,0,0,0,,{\blur1\q2\c&H000000&}It's the one that says if your points don't change within 19 days, \Nyour technique gets stripped, leading to death.
-Dialogue: 1,0:10:01.58,0:10:08.50,Default,Fushiguro,0,0,0,,{\q2}It's the one that says if your points don't change within 19 days, \Nyour technique gets stripped, leading to death.
+Dialogue: 0,0:10:01.21,0:10:04.71,Default,Fushiguro,0,0,0,,{\blur1\c&H000000&}It's the one that says if your points \Ndon't change within nineteen days,
+Dialogue: 1,0:10:01.21,0:10:04.71,Default,Fushiguro,0,0,0,,It's the one that says if your points \Ndon't change within nineteen days,
+Dialogue: 0,0:10:04.71,0:10:08.50,Default,Fushiguro,0,0,0,,your technique gets stripped, \Nleading to death.
 Dialogue: 0,0:10:08.50,0:10:14.26,Default,Fushiguro,0,0,0,,To counter that, we add a rule saying, \N"Players can transfer points to each other."
 Dialogue: 0,0:10:14.72,0:10:17.56,Default,Fushiguro,0,0,0,,Then we can keep passing points \Namong ourselves
 Dialogue: 0,0:10:17.56,0:10:20.85,Default,Fushiguro,0,0,0,,and avoid dying from \Nhaving our techniques stripped.
