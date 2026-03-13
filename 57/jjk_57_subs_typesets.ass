@@ -1,0 +1,51 @@
+﻿[Script Info]
+Title: Jujutsu Kaisen - 57 - Tokyo Colony No. 1, Part 4
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 1920
+PlayResY: 1080
+LayoutResX: 1920
+LayoutResY: 1080
+YCbCr Matrix: TV.709
+ScaledBorderAndShadow: yes
+
+[Aegisub Project Garbage]
+Video File: jjk_57_premux.mkv
+Audio File: jjk_57_premux.mkv
+Keyframes File: jjk_57_keyframes.txt
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Show_Title,Times New Roman,108,&H00000000,&H000000FF,&H0090D3CB,&H00000000,-1,0,0,0,100,150,0,0,1,6,0,8,30,30,54,1
+Style: Signs,Times New Roman,72,&H00FFFFFF,&H000000FF,&H00000000,&H3C000000,-1,0,0,0,100,100,0,0,1,0,0,2,30,30,120,1
+Style: Next_Ep_Title,Times New Roman,72,&H0AFFFFFF,&H000000FF,&H00000000,&H3C000000,-1,0,0,0,100,100,0,0,1,0,0,2,30,30,180,1
+Style: Sign_Basic,Trebuchet MS,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,6,3,2,30,30,54,1
+Style: Onscreen2,Times New Roman,48,&H00FFFFFF,&H000000FF,&H80000000,&H00000000,-1,0,0,0,100,100,0,0,1,9,0,2,30,30,30,1
+Style: Player_Info,Trebuchet MS,54,&H0028412C,&H000000FF,&H0056C794,&H00000000,-1,0,0,0,100,100,0,0,1,6,0,2,30,30,960,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:10.49,0:00:11.20,Show_Title,Screen,0,0,0,,{\c&H0200E9&\3c&H000000&}JUJUTSU KAISEN
+Dialogue: 0,0:00:34.48,0:00:38.69,Show_Title,Screen,0,0,0,,{\fad(0,650)\c&H2E2C2C&}JUJUTSU KAISEN\N{\fs36\c&HF3F3F3&\bord0\alpha&HFF&\t(237,736,1\alpha&H00&)}The Culling Game Part 1
+Dialogue: 0,0:01:29.99,0:01:32.99,Signs,Screen,0,0,0,,Episode 57\N{\fs90}Tokyo No. 1 Colony, Part 4
+Dialogue: 0,0:04:08.23,0:04:10.73,Sign_Basic,Screen,0,0,0,,{\pos(960,930)\fnTimes New Roman\b1\bord0\shad0\fs54\1a&H44&}Hazenoki Iori, Current Points: 35
+Dialogue: 0,0:04:39.13,0:04:40.93,Sign_Basic,Screen,0,0,0,,{\pos(960,930)\fnTimes New Roman\b1\bord0\shad0\fs54\1a&H44&}Reggie Star, Current Points: 41
+Dialogue: 0,0:05:53.79,0:05:58.38,Sign_Basic,Screen,0,0,0,,{\pos(960,930)\fnTimes New Roman\b1\bord3\shad0\fs54\1a&H44&\3a&H88&\be6}Hari Chizuru, Current Points: 28
+Dialogue: 0,0:06:07.51,0:06:07.87,Onscreen2,Screen,0,0,0,,{\an8\3a&H00&}9: Players shall be able to view the \Nfollowing information on other players:\Nname, points, number of \Nrules added, current Colony.
+Dialogue: 0,0:06:07.87,0:06:14.02,Onscreen2,Screen,0,0,0,,{\an8\fad(300,0)\3a&H00&}Rule 10: Players are able to\Ntransfer a number of points\Nof their choosing to other Players.
+Dialogue: 0,0:09:40.18,0:09:42.97,Show_Title,Takaba,0,0,0,,{\fad(1700,0)\3c&HBEDFD4&}JUJUTSU KAISEN
+Dialogue: 0,0:09:43.90,0:09:45.98,Show_Title,Takaba,0,0,0,,{\fad(1700,0)\3c&H66A8B0&\shad3\be3}JUJUTSU KAISEN
+Dialogue: 0,0:09:45.98,0:09:49.36,Sign_Basic,Screen,0,0,0,,{\pos(960,930)\fnTimes New Roman\b1\bord0\shad0\fs54\1a&H44&}Takaba Fumihiko, Current Points: 0
+Dialogue: 0,0:10:58.18,0:11:00.89,Sign_Basic,Screen,0,0,0,,{\c&H171417&\3c&HFFFFFF&\b1\pos(960,630)}Curse
+Dialogue: 0,0:11:04.52,0:11:06.65,Sign_Basic,Screen,0,0,0,,{\fad(0,425)\fs36\b1\c&H0C0B0C&\3c&HFFFFFF&\pos(930,888)}Curse
+Dialogue: 0,0:12:32.90,0:12:35.15,Player_Info,Screen,0,0,0,,{\an5\c&H508E69&\frx0\fry182\frz356\pos(956.001,132)\fs72}Search Results
+Dialogue: 0,0:12:32.90,0:12:35.15,Player_Info,Screen,0,0,0,,{\pos(1294.002,333.999)\an5\c&H508E69&\frx0\fry182\frz355}Higuruma Hiromi
+Dialogue: 0,0:12:32.90,0:12:35.15,Player_Info,Screen,0,0,0,,{\fs42\fry180\an5\pos(1002,351.999)\c&H37967E&\frz355}Points
+Dialogue: 0,0:12:32.90,0:12:35.15,Player_Info,Screen,0,0,0,,{\fs30\fry180\an5\c&H37967E&\frz355\pos(735.999,393.999)}Rule Added
+Dialogue: 0,0:12:32.90,0:12:35.15,Player_Info,Screen,0,0,0,,{\fs42\fry180\an5\frz355\pos(794.001,594)\c&H1A5C41&}Current Colony: Tokyo No. 1
+Dialogue: 0,0:12:35.15,0:12:36.90,Player_Info,Screen,0,0,0,,{\fs90\fry180\an5\c&H7BBAC3&\3c&HA5FFFB&\frz359.2\pos(933.999,517.998)}Points
+Dialogue: 0,0:13:28.87,0:13:30.79,Sign_Basic,Screen,0,0,0,,{\pos(948,594)\fs36\b1\c&H0C0B0C&\3c&HFFFFFF&}Curse
+Dialogue: 0,0:18:49.36,0:18:49.90,Sign_Basic,Screen,0,0,0,,{\fnArial\b1\fs48\pos(878.001,261.999)\shad0\c&H352D2B&\3c&H8F7D89&}Mobile Terrace
+Dialogue: 0,0:18:49.94,0:18:51.36,Sign_Basic,Screen,0,0,0,,{\fad(175,0)\fnArial\b1\fs30\shad0\c&HFFDFE6&\bord0\pos(956.001,397.998)\frz6.413}Monday, November 12th
+Dialogue: 0,0:21:41.82,0:21:44.57,Sign_Basic,Screen,0,0,0,,{\pos(960,930)\fnTimes New Roman\b1\bord0\shad0\fs54\1a&H44&}Domain Expansion: Chimera Shadow Garden
+Dialogue: 0,0:23:36.94,0:23:39.90,Next_Ep_Title,Screen,0,0,0,,Next Episode\N{\fs90}Tokyo No. 1 Colony, Part 5
