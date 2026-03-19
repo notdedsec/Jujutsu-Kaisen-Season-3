@@ -17,9 +17,9 @@ Video File: jjk_57_premux.mkv
 Keyframes File: jjk_57_keyframes.txt
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 241
-Active Line: 251
-Video Position: 30054
+Scroll Position: 128
+Active Line: 141
+Video Position: 16168
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -28,26 +28,31 @@ Style: Alt,Cabin F,71,&H00FFFFFF,&H000000FF,&H003C3900,&HA0000000,-1,0,0,0,100,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:01:35.37,0:01:41.37,Default,Reggie,0,0,0,,The bit in the rules about "long-lasting" \Nis just a cover for the real plan.
-Dialogue: 0,0:01:41.37,0:01:43.42,Default,Reggie,0,0,0,,Mark my words.
-Dialogue: 0,0:01:43.42,0:01:48.05,Default,Reggie,0,0,0,,Kenjaku is going to drop a bomb \Nwhen only the strongest remain.
-Dialogue: 0,0:01:48.05,0:01:51.30,Default,Reggie,0,0,0,,Only then will the Culling Game \Nhave served its purpose.
-Dialogue: 0,0:01:51.80,0:01:55.30,Default,Reggie,0,0,0,,I don't know what that bomb will be.
-Dialogue: 0,0:01:55.30,0:01:58.89,Default,Reggie,0,0,0,,Just that it will happen soon.
+Comment: 0,0:00:00.00,0:00:00.02,Default,chptr,0,0,0,opsync,{Opening}
+Comment: 0,0:01:29.99,0:01:30.03,Default,chptr,0,0,0,,{Part A}
+Comment: 0,0:09:42.98,0:09:43.02,Default,chptr,0,0,0,,{Part B}
+Comment: 0,0:21:54.96,0:21:55.00,Default,chptr,0,0,0,edsync,{Ending}
+Comment: 0,0:23:24.92,0:23:24.97,Default,chptr,0,0,0,,{Preview}
+Dialogue: 0,0:01:35.41,0:01:41.46,Default,Reggie,0,0,0,,The bit in the rules about "long-lasting" \Nis just a cover for the real plan.
+Dialogue: 0,0:01:41.46,0:01:43.54,Default,Reggie,0,0,0,,Mark my words.
+Dialogue: 0,0:01:43.54,0:01:48.09,Default,Reggie,0,0,0,,Kenjaku is going to drop a bomb \Nwhen only the strongest remain.
+Dialogue: 0,0:01:48.09,0:01:51.30,Default,Reggie,0,0,0,,Only then will the Culling Game \Nhave served its purpose.
+Dialogue: 0,0:01:51.84,0:01:55.35,Default,Reggie,0,0,0,,I don't know what that bomb will be.
+Dialogue: 0,0:01:55.35,0:01:58.89,Default,Reggie,0,0,0,,Just that it will happen soon.
 Dialogue: 0,0:01:58.89,0:02:01.06,Default,Reggie,0,0,0,,Any second now.
 Dialogue: 0,0:02:01.68,0:02:07.32,Default,Reggie,0,0,0,,That's why I'm recruiting strong allies\Nand building up points.
 Dialogue: 0,0:02:08.23,0:02:09.78,Default,Fushiguro,0,0,0,,I have a few questions.
-Dialogue: 0,0:02:10.90,0:02:13.49,Default,Fushiguro,0,0,0,,She doesn't look strong to me. {I doubt she's that strong.}
-Dialogue: 0,0:02:13.78,0:02:18.49,Default,Reggie,0,0,0,,That girl's just bait to lure other players here \Nwith whatever excuse works.
+Dialogue: 0,0:02:10.90,0:02:13.49,Default,Fushiguro,0,0,0,,She doesn't look strong to me.
+Dialogue: 0,0:02:13.49,0:02:18.49,Default,Reggie,0,0,0,,That girl's just bait to lure other players here \Nusing whatever excuse works.
 Dialogue: 0,0:02:18.49,0:02:21.25,Default,Reggie,0,0,0,,People tend to drop their \Nguard around women, you know.
 Dialogue: 0,0:02:22.21,0:02:25.63,Default,Fushiguro,0,0,0,,And when you're done using her, \Nyou can just kill her for her points, right?
 Dialogue: 0,0:02:27.29,0:02:28.92,Default,Reggie,0,0,0,,How can you say that? {What are you talking about?}
 Dialogue: 0,0:02:28.92,0:02:31.13,Default,Reggie,0,0,0,,I would never do such a thing. {I would never do that.}
-Dialogue: 0,0:02:31.67,0:02:34.63,Default,Remi,0,0,0,,Reggie{*-sama} is my true knight!
+Dialogue: 0,0:02:31.67,0:02:34.63,Default,Remi,0,0,0,,Reggie{**-sama} is my true knight!
 Dialogue: 0,0:02:35.01,0:02:38.22,Default,Remi,0,0,0,,So long as I serve him, he'll protect me!
 Dialogue: 0,0:02:38.64,0:02:40.31,Default,Fushiguro,0,0,0,,Keep telling yourself that. {How naive and stupid.}
 Dialogue: 0,0:02:40.81,0:02:44.44,Default,Fushiguro,0,0,0,,Do you and your allies have \Nat least 100 points between you?
-Dialogue: 0,0:02:45.81,0:02:47.19,Default,Reggie,0,0,0,,Of course.
+Dialogue: 0,0:02:45.81,0:02:47.19,Default,Reggie,0,0,0,,Why, of course.
 Dialogue: 0,0:02:47.77,0:02:50.27,Default,Fushiguro,0,0,0,,A new rule will be added soon.
 Dialogue: 0,0:02:50.27,0:02:54.20,Default,Fushiguro,0,0,0,,One that lets players transfer points to each other.
 Dialogue: 0,0:02:54.74,0:02:58.32,Default,Fushiguro,0,0,0,,Once that happens, \Nyou'll hand over all your points.
@@ -58,17 +63,17 @@ Dialogue: 0,0:03:11.34,0:03:11.84,Default,Fushiguro,0,0,0,,Nue!
 Dialogue: 0,0:03:12.92,0:03:13.71,Default,Reggie,0,0,0,,Whoa!
 Dialogue: 0,0:03:15.34,0:03:15.97,Default,Fushiguro,0,0,0,,Hey!
 Dialogue: 0,0:03:16.80,0:03:18.72,Default,Fushiguro,0,0,0,,Don't let me see your face again.
-Dialogue: 0,0:03:22.06,0:03:26.48,Default,Reggie,0,0,0,,Oh, I see what you're doing. {fuck you reggie}
-Dialogue: 0,0:03:27.15,0:03:28.81,Default,Reggie,0,0,0,,So you {\i1}were{\i0} holding back.
-Dialogue: 0,0:03:28.81,0:03:33.65,Default,Reggie,0,0,0,,Can't kill us, can you? \NYou want our points, after all.
-Dialogue: 0,0:03:33.65,0:03:34.94,Default,Reggie,0,0,0,,However,
+Dialogue: 0,0:03:22.06,0:03:26.48,Default,Reggie,0,0,0,,Oh, so that's your game. {fuck you reggie}
+Dialogue: 0,0:03:27.15,0:03:30.69,Default,Reggie,0,0,0,,You {\i1}were{\i0} holding back. Can't kill us, can you?
+Dialogue: 0,0:03:30.69,0:03:33.69,Default,Reggie,0,0,0,,You want our points, after all.
+Dialogue: 0,0:03:33.69,0:03:34.94,Default,Reggie,0,0,0,,However,
 Dialogue: 0,0:03:35.61,0:03:41.37,Default,Reggie,0,0,0,,if you don't fight to kill, \Nyou'll regret it once you're dead.
 Dialogue: 0,0:04:05.60,0:04:06.73,Default,Reggie,0,0,0,,Watch it!
-Dialogue: 0,0:04:06.73,0:04:08.81,Default,Reggie,0,0,5,,I'm down here, too!
-Dialogue: 0,0:04:09.35,0:04:10.73,Default,Iori,0,0,5,,He dead?
+Dialogue: 0,0:04:06.73,0:04:08.90,Default,Reggie,0,0,1,,I'm down here, too!
+Dialogue: 0,0:04:09.40,0:04:10.73,Default,Iori,0,0,1,,He dead?
 Dialogue: 0,0:04:19.16,0:04:20.49,Default,Fushiguro,0,0,0,,You're okay with this?!
 Dialogue: 0,0:04:23.49,0:04:24.29,Default,Fushiguro,0,0,0,,{\i1}This smell!
-Dialogue: 0,0:04:39.13,0:04:40.93,Default,Reggie,0,0,5,,Is it over?
+Dialogue: 0,0:04:39.13,0:04:40.93,Default,Reggie,0,0,1,,Is it over?
 Dialogue: 0,0:04:41.59,0:04:42.76,Default,Iori,0,0,0,,Not yet.
 Dialogue: 0,0:04:42.76,0:04:47.06,Default,Iori,0,0,0,,He ducked into a room \Nbefore the explosion, just like you.
 Dialogue: 0,0:04:47.68,0:04:50.31,Default,Reggie,0,0,0,,Hm. He's good.
@@ -78,17 +83,17 @@ Dialogue: 0,0:05:03.20,0:05:05.91,Default,Fushiguro,0,0,0,,They have no intentio
 Dialogue: 0,0:05:08.58,0:05:11.46,Default,Fushiguro,0,0,0,,If you understand that, then get lost.
 Dialogue: 0,0:05:19.17,0:05:20.88,Default,Fushiguro,0,0,0,,Give it a rest already.
 Dialogue: 0,0:05:21.88,0:05:24.80,Default,Remi,0,0,0,,Then say it.
-Dialogue: 0,0:05:26.14,0:05:28.72,Default,Remi,0,0,0,,Reggie{*-sama} said it! You say it too!
+Dialogue: 0,0:05:26.14,0:05:28.72,Default,Remi,0,0,0,,Reggie{**-sama} said it! You say it too!
 Dialogue: 0,0:05:28.72,0:05:30.77,Default,Remi,0,0,0,,Say you'll protect me!
 Dialogue: 0,0:05:30.77,0:05:32.90,Default,Remi,0,0,0,,Say you like me!
 Dialogue: 0,0:05:32.90,0:05:34.52,Default,Remi,0,0,0,,Say it!
 Dialogue: 0,0:05:40.28,0:05:42.15,Default,Fushiguro,0,0,0,,You're like that, huh?
 Dialogue: 0,0:05:42.70,0:05:48.70,Default,Fushiguro,0,0,0,,Trash who cares more about words than actions.
-Dialogue: 0,0:05:48.70,0:05:51.16,Default,Chizuru,0,0,0,,Not bad back there. {Thanks for that throw.}
-Dialogue: 0,0:05:52.08,0:05:54.46,Default,Chizuru,0,0,5,,Damn, you're in rough shape. {You're all roughed up now.} {Now you're all battered.}
-Dialogue: 0,0:05:54.46,0:05:57.00,Default,Chizuru,0,0,5,,It wasn't easy climbing up here. {all the way back}
-Dialogue: 0,0:05:57.00,0:05:59.55,Default,Fushiguro,0,0,5,,Should've taken the stairs, Neanderthal.
-Dialogue: 0,0:05:59.55,0:05:59.92,Default,Kogane,0,0,0,,{\an8}Ding-{\alpha&HFF&}dong, ding-dong, ding-dong, ding-dong, ding-dong!
+Dialogue: 0,0:05:48.70,0:05:51.16,Default,Chizuru,0,0,0,,{\an8}Nice throw back there.
+Dialogue: 0,0:05:52.08,0:05:53.79,Default,Chizuru,0,0,0,,{\an8}Damn, you're in rough shape. {You're all roughed up now.} {Now you're all battered.}
+Dialogue: 0,0:05:54.58,0:05:57.00,Default,Chizuru,0,0,0,,{\an8}It wasn't easy climbing back up here.
+Dialogue: 0,0:05:57.00,0:05:59.59,Default,Fushiguro,0,0,0,,{\an8}Should've taken the stairs, Neanderthal.
+Dialogue: 0,0:05:59.59,0:05:59.92,Default,Kogane,0,0,0,,{\an8}Ding-{\alpha&HFF&}dong, ding-dong, ding-dong, ding-dong, ding-dong!
 Dialogue: 0,0:05:59.92,0:06:00.17,Default,Kogane,0,0,0,,{\an8}Ding-dong, {\alpha&HFF&}ding-dong, ding-dong, ding-dong, ding-dong!
 Dialogue: 0,0:06:00.17,0:06:00.38,Default,Kogane,0,0,0,,{\an8}Ding-dong, ding-{\alpha&HFF&}dong, ding-dong, ding-dong, ding-dong!
 Dialogue: 0,0:06:00.38,0:06:00.59,Default,Kogane,0,0,0,,{\an8}Ding-dong, ding-dong, {\alpha&HFF&}ding-dong, ding-dong, ding-dong!
@@ -97,12 +102,12 @@ Dialogue: 0,0:06:00.80,0:06:01.01,Default,Kogane,0,0,0,,{\an8}Ding-dong, ding-do
 Dialogue: 0,0:06:01.01,0:06:01.22,Default,Kogane,0,0,0,,{\an8}Ding-dong, ding-dong, ding-dong, ding-{\alpha&HFF&}dong, ding-dong!
 Dialogue: 0,0:06:01.22,0:06:01.47,Default,Kogane,0,0,0,,{\an8}Ding-dong, ding-dong, ding-dong, ding-dong, {\alpha&HFF&}ding-dong!
 Dialogue: 0,0:06:01.47,0:06:01.84,Default,Kogane,0,0,0,,{\an8}Ding-dong, ding-dong, ding-dong, ding-dong, ding-{\alpha&HFF&}dong!
-Dialogue: 0,0:06:01.84,0:06:02.76,Default,Kogane,0,0,0,,{\an8}Ding-dong, ding-dong, ding-dong, ding-dong, ding-dong!
-Dialogue: 0,0:06:02.76,0:06:07.51,Default,Kogane,0,0,0,,{\an8}A player has added a new rule to the Culling Game!
+Dialogue: 0,0:06:01.84,0:06:02.80,Default,Kogane,0,0,0,,{\an8}Ding-dong, ding-dong, ding-dong, ding-dong, ding-dong!
+Dialogue: 0,0:06:02.80,0:06:07.51,Default,Kogane,0,0,0,,{\an8}A player has added a new rule to the Culling Game!
 Dialogue: 0,0:06:08.60,0:06:14.77,Default,Kogane,0,0,0,,Rule 10: Players may transfer a number of points \Nof their choosing to another player.
 Dialogue: 0,0:06:15.27,0:06:17.82,Default,Chizuru,0,0,0,,What kinda rule is that?
 Dialogue: 0,0:06:50.89,0:06:51.81,Default,Fushiguro,0,0,0,,Max Elephant!
-Dialogue: 0,0:06:55.06,0:06:56.65,Default,Chizuru,0,0,0,,Bastard did it again?!
+Dialogue: 0,0:06:55.06,0:06:56.65,Default,Chizuru,0,0,0,,Bastard threw me again?!
 Dialogue: 0,0:07:10.24,0:07:12.83,Default,Chizuru,0,0,0,,You asshole! How dare you...
 Dialogue: 0,0:07:19.09,0:07:21.71,Default,Fushiguro,0,0,0,,{\i1}What am I doing?
 Dialogue: 0,0:07:22.88,0:07:25.34,Default,Fushiguro,0,0,0,,{\i1}We'll still need points going forward.
@@ -138,8 +143,8 @@ Dialogue: 0,0:08:46.42,0:08:49.22,Default,Takaba,0,0,0,,That's right! Cowards!
 Dialogue: 0,0:08:49.22,0:08:52.30,Default,Takaba,0,0,0,,And cowardly attacks don't work on me!
 Dialogue: 0,0:08:52.30,0:08:53.76,Default,Takaba,0,0,0,,Behold!
 Dialogue: 0,0:08:55.43,0:08:58.93,Default,Takaba,0,0,0,,Zero damage!
-Dialogue: 0,0:09:47.11,0:09:49.36,Default,Takaba,0,0,5,,Young man! I'll help you. {how about: Young man! Allow me to assist you.}
-Dialogue: 0,0:09:49.36,0:09:51.36,Default,Takaba,0,0,0,,At the ripe age of 35,
+Dialogue: 0,0:09:47.11,0:09:49.36,Default,Takaba,0,0,0,,{\an8}Young man! I shall assist you!
+Dialogue: 0,0:09:49.65,0:09:51.36,Default,Takaba,0,0,0,,At the ripe age of 35,
 Dialogue: 0,0:09:51.36,0:09:54.99,Default,Takaba,0,0,0,,I can tell if someone's good or evil \Njust by one look at their fa—
 Dialogue: 0,0:09:57.62,0:09:58.54,Default,Fushiguro,0,0,0,,What?
 Dialogue: 0,0:09:58.91,0:10:02.33,Default,Takaba,0,0,0,,You've got quite the evil face yourself!
@@ -161,37 +166,37 @@ Dialogue: 0,0:10:39.83,0:10:42.29,Default,Hazenoki,0,0,0,,No. I'm asking what er
 Dialogue: 0,0:10:42.29,0:10:44.25,Default,Takaba,0,0,0,,Look at my costume!
 Dialogue: 0,0:10:44.25,0:10:49.55,Default,Takaba,0,0,0,,It's modeled after the hero \Nwho first made me laugh my guts out!
 Dialogue: 0,0:10:50.09,0:10:54.05,Default,Takaba,0,0,0,,On the honor of this costume, \NI can't let my jokes fall flat!
-Dialogue: 0,0:10:54.43,0:10:57.36,Default,Takaba,0,0,0,,Here's a gag I just thought of.
-Dialogue: 0,0:10:57.36,0:11:00.89,Default,Takaba,0,0,0,,Try using it on your sweetheart.
+Dialogue: 0,0:10:54.43,0:10:57.34,Default,Takaba,0,0,0,,Here's a gag I just thought of.
+Dialogue: 0,0:10:57.34,0:11:00.89,Default,Takaba,0,0,0,,Try using it on your sweetheart.
 Dialogue: 0,0:11:03.27,0:11:04.52,Default,Reggie,0,0,0,,Something's coming! Be ready!
-Dialogue: 0,0:11:12.28,0:11:15.32,Default,Takaba,0,0,0,,{\fad(0,200)}I don't want you as my Wi-Fi! {i doubt it needs to be said but here it is anyway: Wi-Fi is a play on wife} {he apparently came up with the idea for this joke when he got connected to a slow wifi in some cafe and was like thanks but no thanks}
+Dialogue: 0,0:11:12.32,0:11:15.40,Default,Takaba,0,0,0,,{\fad(0,300)}I don't want you as my Wi-Fi! {i doubt it needs to be said but here it is anyway: Wi-Fi is a play on wife} {he apparently came up with the idea for this joke when he got connected to a slow wifi in some cafe and was like thanks but no thanks}
 Dialogue: 0,0:11:23.91,0:11:26.79,Default,Takaba,0,0,0,,Tough fucking crowd!
 Dialogue: 0,0:11:27.04,0:11:28.29,Default,Takaba,0,0,0,,I know your type!
 Dialogue: 0,0:11:28.29,0:11:31.67,Default,Takaba,0,0,0,,Stiffs like you who were born without a funny bone!
-Dialogue: 0,0:11:31.67,0:11:34.76,Default,Takaba,0,0,0,,And you always sit in the front goddamn row!
+Dialogue: 0,0:11:31.67,0:11:34.76,Default,Takaba,0,0,0,,And yet you always sit in the front goddamn row!
 Dialogue: 0,0:11:34.76,0:11:36.55,Default,Fushiguro,0,0,0,,Maybe you're the problem.
 Dialogue: 0,0:11:36.93,0:11:38.05,Default,Takaba,0,0,0,,Nevertheless!
 Dialogue: 0,0:11:38.05,0:11:39.30,Default,Fushiguro,0,0,0,,{\i1}He reminds me of someone.
-Dialogue: 0,0:11:39.30,0:11:41.26,Default,Takaba,0,0,0,,I do what I do for you stiffs too!
+Dialogue: 0,0:11:39.30,0:11:41.22,Default,Takaba,0,0,0,,I do what I do for you stiffs too!
 Dialogue: 0,0:11:42.22,0:11:44.02,Default,Takaba,0,0,0,,Because!
 Dialogue: 0,0:11:46.27,0:11:47.90,Default,Takaba,0,0,0,,I'm a comedian!
 Dialogue: 0,0:11:54.69,0:11:55.69,Default,Reggie,0,0,0,,{\i1}He's fast!
 Dialogue: 0,0:11:55.69,0:11:57.40,Default,Reggie,0,0,0,,{\i1}His cursed energy skyrocketed!
 Dialogue: 0,0:11:57.40,0:11:59.57,Default,Reggie,0,0,0,,{\i1}The shift in output is massive!
 Dialogue: 0,0:11:59.57,0:12:01.58,Default,Reggie,0,0,0,,{\i1}This guy is strong!
-Dialogue: 0,0:12:01.58,0:12:02.83,Default,Takaba,0,0,0,,Be careful.
-Dialogue: 0,0:12:03.16,0:12:08.17,Default,Takaba,0,0,50,,I'm an old-school comedian who packs a kick! {I'm an old-school comedian who puts the slap in slapstick!} {hm he says it after landing a kick not a slap so idk if it works...} {packs a punch is the phrase but since he makes bad puns it makes sense?}
-Dialogue: 0,0:12:09.12,0:12:11.71,Default,Takaba,0,0,0,,Now, what will you do, young man?!
+Dialogue: 0,0:12:01.58,0:12:02.83,Default,Takaba,0,0,0,,Watch out!
+Dialogue: 0,0:12:03.16,0:12:08.17,Default,Takaba,0,0,40,,I'm an old-school comedian who packs a kick! {I'm an old-school comedian who puts the slap in slapstick!} {hm he says it after landing a kick not a slap so idk if it works...} {packs a punch is the phrase but since he makes bad puns it makes sense?}
+Dialogue: 0,0:12:09.12,0:12:11.71,Default,Takaba,0,0,0,,Now, what's your move, young man?!
 Dialogue: 0,0:12:16.67,0:12:18.59,Default,Fushiguro,0,0,0,,We'll keep them split.
 Dialogue: 0,0:12:19.09,0:12:23.06,Default,Fushiguro,0,0,0,,That other sorcerer's technique \Nlikely turns parts of his body into bombs.
-Dialogue: 0,0:12:23.39,0:12:25.68,Default,Fushiguro,0,0,0,,And he's using the reverse cursed technique—
+Dialogue: 0,0:12:23.39,0:12:25.68,Default,Fushiguro,0,0,0,,And he's using reverse cursed technique—
 Dialogue: 0,0:12:26.23,0:12:27.27,Default,Fushiguro,0,0,0,,You're too close!
 Dialogue: 0,0:12:27.73,0:12:28.52,Default,Fushiguro,0,0,0,,Kogane!
 Dialogue: 0,0:12:29.02,0:12:29.81,Default,Kogane,0,0,0,,Yes?
 Dialogue: 0,0:12:30.31,0:12:32.36,Default,Fushiguro,0,0,0,,Pull up Higuruma Hiromi's information.
 Dialogue: 0,0:12:32.90,0:12:35.15,Default,Fushiguro,0,0,0,,{\i1}Itadori's the one who added that rule.
 Dialogue: 0,0:12:37.40,0:12:39.99,Default,Fushiguro,0,0,0,,I'm done with this colony.
-Dialogue: 0,0:12:41.12,0:12:42.66,Default,Fushiguro,0,0,0,,Back off, and I'll let you go.
+Dialogue: 0,0:12:41.12,0:12:42.66,Default,Fushiguro,0,0,0,,Back off and I'll let you go.
 Dialogue: 0,0:12:43.91,0:12:47.33,Default,Reggie,0,0,0,,Huh?! Do you think you're \Nin any position to make demands?
 Dialogue: 0,0:12:47.33,0:12:51.29,Default,Reggie,0,0,0,,I need to make up for the points I lost \Nfrom you killing Hari!
 Dialogue: 0,0:12:51.29,0:12:52.33,Default,Fushiguro,0,0,0,,Hey, you.
@@ -206,20 +211,21 @@ Dialogue: 0,0:12:52.42,0:12:52.46,Default,Takaba,0,0,0,,{\pos(922,1015)\iclip(m 
 Dialogue: 0,0:12:52.46,0:12:52.50,Default,Takaba,0,0,0,,{\pos(947,1015)\iclip(m 437.91 912.94 l 441.37 928.19 444.84 969.09 450.47 1019.26 459.85 1080.55 814.81 1082.21 829.72 983.37 834.54 978.18 833.2 962 832.4 938.8 831.69 901.37)}It's Takaba!
 Dialogue: 0,0:12:52.50,0:12:52.54,Default,Takaba,0,0,0,,{\pos(957,1015)}It's Takaba!
 Dialogue: 0,0:12:52.54,0:12:53.67,Default,Takaba,0,0,0,,It's Takaba!
-Dialogue: 0,0:12:55.21,0:13:01.72,Default,Fushiguro,0,0,0,,If you're going to kill that bomb maniac, \Ntry to take his points first if you can.
+Dialogue: 0,0:12:55.21,0:12:57.88,Default,Fushiguro,0,0,0,,If you're going to kill that bomb maniac,
+Dialogue: 0,0:12:57.88,0:13:01.72,Default,Fushiguro,0,0,0,,try to take his points first if you can.
 Dialogue: 0,0:13:03.47,0:13:04.72,Default,Takaba,0,0,0,,Okay, young man.
 Dialogue: 0,0:13:05.31,0:13:07.98,Default,Takaba,0,0,0,,I accept your request.
-Dialogue: 0,0:13:12.81,0:13:14.61,Default,Takaba,0,0,0,,I'm a comedian, however.
+Dialogue: 0,0:13:12.86,0:13:14.61,Default,Takaba,0,0,0,,I'm a comedian, however.
 Dialogue: 0,0:13:15.61,0:13:18.61,Default,Takaba,0,0,0,,I would never rob someone of their ability to smile.
 Dialogue: 0,0:13:18.94,0:13:21.03,Default,Fushiguro,0,0,0,,As long as you win, I don't care.
-Dialogue: 0,0:13:29.54,0:13:30.79,Default,Takaba,0,0,0,,{\blur0.5\fnFOT-Seurat Pro B\bord3\yshad4\4c&H000000&\4a&H00&\c&H000000&}Sparking {\fax-0.25}!!
-Dialogue: 1,0:13:29.54,0:13:30.79,Default,Takaba,0,0,0,,{\blur0.5\fnFOT-Seurat Pro B\bord0\yshad3\4c&H000000&\4a&H00&\shad1.8\4a&HFF&}Sparking {\fax-0.25}!!
+Dialogue: 0,0:13:29.54,0:13:30.79,Default,Takaba,0,0,0,,{\blur0.5\bord3\yshad4\fnFOT-Seurat Pro B\c&H000000&\4c&H000000&\4a&H00&}Sparking {\fax-0.25}!!
+Dialogue: 1,0:13:29.54,0:13:30.79,Default,Takaba,0,0,0,,{\blur0.5\bord0\shad1.8\yshad3\fnFOT-Seurat Pro B\4c&H000000&\4a&H00&\4a&HFF&}Sparking {\fax-0.25}!!
 Dialogue: 0,0:13:36.34,0:13:38.09,Default,Takaba,0,0,0,,What a violent technique!
 Dialogue: 0,0:13:38.09,0:13:38.51,Default,Takaba,0,0,0,,Pew!
 Dialogue: 0,0:13:38.51,0:13:39.21,Default,Takaba,0,0,0,,Bam!
 Dialogue: 0,0:13:39.42,0:13:40.51,Default,Takaba,0,0,0,,Time for fireworks!
 Dialogue: 0,0:13:41.18,0:13:42.43,Default,Takaba,0,0,0,,However!
-Dialogue: 0,0:13:42.43,0:13:44.68,Default,Takaba,0,0,0,,In variety shows!
+Dialogue: 0,0:13:42.43,0:13:44.68,Default,Takaba,0,0,0,,On a TV show! {In variety shows!} {why not go all in on the joke?}
 Dialogue: 0,0:13:49.68,0:13:50.64,Default,Hazenoki,0,0,0,,He's gone?!
 Dialogue: 0,0:13:52.85,0:13:54.56,Default,Takaba,0,0,0,,We must keep it PG. {Red is forbidden.} {red = blood} {i.e. can't have too much violence} {We must keep it PG.} {would that be out of place in this sequence with the old school music playing and all} {it's the end of the section even the music is fading so i think we have some room here}
 Dialogue: 0,0:13:59.99,0:14:00.74,Default,Hazenoki,0,0,0,,Don't make light of me!
@@ -233,38 +239,38 @@ Dialogue: 0,0:14:18.96,0:14:20.30,Default,Reggie,0,0,0,,Aw.
 Dialogue: 0,0:14:20.30,0:14:22.38,Default,Reggie,0,0,0,,That guy's as good as dead.
 Dialogue: 0,0:14:22.38,0:14:25.93,Default,Reggie,0,0,0,,Hazenoki will get serious after all that mockery.
 Dialogue: 0,0:14:26.18,0:14:28.01,Default,Fushiguro,0,0,0,,Worry about yourself.
-Dialogue: 0,0:14:28.01,0:14:32.56,Default,Fushiguro,0,0,0,,Like I said, I'm done with what I came here to do.
+Dialogue: 0,0:14:28.01,0:14:32.14,Default,Fushiguro,0,0,0,,Like I said, I'm done with what I came here to do.
 Dialogue: 0,0:14:32.56,0:14:35.81,Default,Fushiguro,0,0,0,,I can fight for real. No holding back.
 Dialogue: 0,0:15:16.77,0:15:17.56,Default,Fushiguro,0,0,0,,Max Elephant!
 Dialogue: 0,0:15:24.03,0:15:26.53,Default,Reggie,0,0,0,,You even have one like that?!
 Dialogue: 0,0:16:51.70,0:16:55.04,Default,Reggie,0,0,0,,I see you've figured out my technique.
-Dialogue: 0,0:16:55.04,0:16:58.21,Default,Reggie,0,0,0,,But isn't drowning me a bit too on the nose?
-Dialogue: 0,0:17:03.75,0:17:06.34,Default,Fushiguro,0,0,0,,You manifest what's on those receipts,
-Dialogue: 0,0:17:06.34,0:17:08.84,Default,Fushiguro,0,0,0,,but that's not exactly right, is it?
+Dialogue: 0,0:16:55.04,0:16:58.21,Default,Reggie,0,0,0,,But did you really think \Ndrowning me would do the trick?
+Dialogue: 0,0:17:03.75,0:17:06.38,Default,Fushiguro,0,0,0,,You manifest what's on those receipts,
+Dialogue: 0,0:17:06.38,0:17:08.84,Default,Fushiguro,0,0,0,,but that's not entirely accurate, is it?
 Dialogue: 0,0:17:08.84,0:17:10.30,Default,Reggie,0,0,0,,You're right.
 Dialogue: 0,0:17:10.30,0:17:15.22,Default,Reggie,0,0,0,,It's hard to describe. Call it reenacting contracts.
 Dialogue: 0,0:17:15.22,0:17:17.98,Default,Reggie,0,0,0,,For example, I can do this.
 Dialogue: 0,0:17:17.98,0:17:20.85,Default,Reggie,0,0,0,,Contractual Re-Creation.
 Dialogue: 0,0:17:24.98,0:17:29.24,Default,Reggie,0,0,0,,The receipt I just used was \Nfrom a five-star inn called Starry Sky—
-Dialogue: 0,0:17:29.24,0:17:34.37,Default,Reggie,0,0,0,,two-nights, three-days, \Noil treatment included, the full package.
+Dialogue: 0,0:17:29.24,0:17:34.37,Default,Reggie,0,0,0,,two nights, three days, \Noil treatment included, the full package.
 Dialogue: 0,0:17:34.37,0:17:39.33,Default,Reggie,0,0,0,,In other words, my body is now \Nas refreshed as it would be
 Dialogue: 0,0:17:39.33,0:17:44.29,Default,Reggie,0,0,0,,after resting up and relaxing \Nin a hot spring for two days.
 Dialogue: 0,0:17:44.29,0:17:46.88,Default,Reggie,0,0,0,,Now, how are you faring in comparison?
 Dialogue: 0,0:17:46.88,0:17:49.13,Default,Reggie,0,0,0,,Injured from the fight earlier.
 Dialogue: 0,0:17:49.13,0:17:51.47,Default,Reggie,0,0,0,,Employing multiple {*}cursed beasts{*shikigami} at once.
-Dialogue: 0,0:17:51.47,0:17:53.51,Default,Reggie,0,0,0,,You must be exhausted.
+Dialogue: 0,0:17:51.47,0:17:53.51,Default,Reggie,0,0,0,,You must be exhausted!
 Dialogue: 0,0:17:54.01,0:17:56.39,Default,Fushiguro,0,0,0,,{\i1}I often employ multiple {*}cursed beasts{*shikigami} at once.
-Dialogue: 0,0:17:56.39,0:18:01.94,Default,Fushiguro,0,0,0,,{\i1}The problem is that one of those \Nwas Max Elephant, which I usually use alone.
-Dialogue: 0,0:18:02.81,0:18:06.69,Default,Reggie,0,0,0,,You can readily summon and dismiss \Nyour {*}cursed beasts{*shikigami},
+Dialogue: 0,0:17:56.39,0:18:01.56,Default,Fushiguro,0,0,0,,{\i1}The problem is that one of those \Nwas Max Elephant, which I usually use alone.
+Dialogue: 0,0:18:02.81,0:18:06.69,Default,Reggie,0,0,0,,You're constantly summoning \N\hand dismissing your {*}cursed beasts{*shikigami}, {he can't do that or he doesn't do that?} {dropping "can" makes it more like an observation} {how about this rewrite}
 Dialogue: 0,0:18:06.69,0:18:10.53,Default,Reggie,0,0,0,,but not once they're injured, is it?
 Dialogue: 0,0:18:10.53,0:18:14.20,Default,Reggie,0,0,0,,That's why you won't summon your dog \Nthat can run, attack, and defend. {pull out? your dog?}
 Dialogue: 0,0:18:14.20,0:18:19.33,Default,Reggie,0,0,0,,Because of that, you've been forced \Nto use multiple one-trick {*}cursed beasts{*shikigami} at once. {i think it's a play on one trick pony but idk if it works with "cursed beasts" it prolly works with shikigami tho}
-Dialogue: 0,0:18:19.33,0:18:23.92,Default,Reggie,0,0,0,,It's a battle of attrition where \Nneither of us have any big moves.
+Dialogue: 0,0:18:19.33,0:18:23.92,Default,Reggie,0,0,0,,It's a battle of attrition \Nwhere neither of us has any big moves.
 Dialogue: 0,0:18:23.92,0:18:27.71,Default,Reggie,0,0,0,,It's futile. You can't kill me.
 Dialogue: 0,0:18:29.80,0:18:31.13,Default,Fushiguro,0,0,0,,Fair enough. {That's true.}
 Dialogue: 0,0:18:31.13,0:18:32.51,Default,Fushiguro,0,0,0,,In which case, I'll run.
 Dialogue: 0,0:18:32.88,0:18:33.63,Default,Reggie,0,0,0,,Whoa!
-Dialogue: 0,0:18:42.89,0:18:44.98,Default,Reggie,0,0,0,,I won't let that happen.
+Dialogue: 0,0:18:42.89,0:18:44.60,Default,Reggie,0,0,0,,You can't shake me.
 Dialogue: 0,0:18:56.45,0:18:58.78,Default,Reggie,0,0,0,,A gymnasium?
 Dialogue: 0,0:18:58.78,0:19:01.91,Default,Reggie,0,0,0,,Did he flee inside? Or is he luring me in?
 Dialogue: 0,0:19:01.91,0:19:07.50,Default,Reggie,0,0,0,,I could smoke him out with fire, \Nbut getting into another chase would be annoying.
@@ -274,22 +280,23 @@ Dialogue: 0,0:19:14.30,0:19:16.13,Default,Fushiguro,0,0,0,,{\i1}This is the perf
 Dialogue: 0,0:19:17.30,0:19:21.52,Default,Reggie,0,0,0,,What are you scheming, you little brat? {add kun? make it some nickname?} {would be unnatural so let's leave it at this} {i hope honorific bros wont be mad}
 Dialogue: 0,0:19:22.81,0:19:26.06,Default,Fushiguro,0,0,0,,Aren't you the one who has something set up?
 Dialogue: 0,0:19:30.73,0:19:33.65,Default,Reggie,0,0,0,,Sorcerers are built on lies. {All sorcerers tell lies.} {doesn't quite capture it, it's more like "lying is part of the job"} {A sorcerer is nothing but a con artist.} {manga did a nice job but it also doesn't capture it} {A sorcerer is built on lies.} {Rebellions are built on hope!}
-Dialogue: 0,0:20:29.71,0:20:36.67,Default,Reggie,0,0,0,,The things I recreate are like {*}cursed beasts{*shikigami}, so I can give them simple commands.
+Dialogue: 0,0:20:29.71,0:20:33.50,Default,Reggie,0,0,0,,The things I recreate are like {*}cursed beasts{*shikigami},
+Dialogue: 0,0:20:33.50,0:20:36.67,Default,Reggie,0,0,0,,so I can give them simple commands.
 Dialogue: 0,0:20:36.67,0:20:39.55,Default,Reggie,0,0,0,,Knives normally don't fly, do they?
 Dialogue: 0,0:20:40.47,0:20:44.60,Default,Reggie,0,0,0,,Given your personality, \NI think it's pointless to ask, but I will anyway.
 Dialogue: 0,0:20:44.60,0:20:47.81,Default,Reggie,0,0,0,,Hand over your points and I'll give you a quick death.
 Dialogue: 0,0:20:49.06,0:20:52.36,Default,Fushiguro,0,0,0,,Barrier techniques are difficult, aren't they? {Barrier techniques sure are difficult.}
-Dialogue: 0,0:20:53.48,0:21:00.66,Default,Fushiguro,0,0,0,,I can never quite grasp the sensation of \Noverlaying an artificial space of different scale onto real space. {pseudo-space?}
-Dialogue: 0,0:21:00.66,0:21:01.78,Default,Fushiguro,0,0,0,,Which is why...
+Dialogue: 0,0:20:53.48,0:21:00.70,Default,Fushiguro,0,0,0,,I can never quite grasp the sensation of overlaying {\fscx98.4}an artificial space of different scale onto real space.
+Dialogue: 0,0:21:00.70,0:21:01.78,Default,Fushiguro,0,0,0,,Which is why...
 Dialogue: 0,0:21:02.70,0:21:04.08,Default,Reggie,0,0,0,,{\i1}Wait a minute... {No way...}
-Dialogue: 0,0:21:05.54,0:21:11.71,Default,Fushiguro,0,0,0,,I'll use this entire gymnasium directly to deploy my domain. {I'm using this gymnasium as-is to deploy my domain.} {is "as is" needed? or "directly"?}
-Dialogue: 0,0:21:12.04,0:21:13.46,Default,Reggie,0,0,0,,{\i1}He can use that?
+Dialogue: 0,0:21:05.54,0:21:11.71,Default,Fushiguro,0,0,0,,I'll use this gymnasium as-is to deploy my domain.
+Dialogue: 0,0:21:12.04,0:21:13.46,Default,Reggie,0,0,0,,{\i1}He can use {\i0}that{\i1}?
 Dialogue: 0,0:21:33.61,0:21:37.36,Default,Fushiguro,0,0,0,,Domain Expansion: Chimera Shadow Garden.
-Dialogue: 0,0:21:44.82,0:21:47.95,Default,Reggie,0,0,0,,{\i1}He's a sorcerer on that level?!
+Dialogue: 0,0:21:44.82,0:21:47.95,Default,Reggie,0,0,0,,{\i1}He's a sorcerer of that caliber?!
 Dialogue: 0,0:21:48.54,0:21:52.46,Default,Fushiguro,0,0,0,,I never said I didn't have any big moves.
-Dialogue: 0,0:23:26.13,0:23:29.35,Default,Fushiguro,0,0,0,,{\an8}Even if it's incomplete, \Na domain is still a domain!
-Dialogue: 0,0:23:29.35,0:23:31.60,Default,Reggie,0,0,0,,{\an8}I'm pulling out my trump \Ncard and activating it!
-Dialogue: 0,0:23:31.60,0:23:33.10,Default,Fushiguro,0,0,0,,{\an8}Not yet! Endure a little longer!
-Dialogue: 0,0:23:33.10,0:23:34.02,Default,Reggie,0,0,0,,{\an8}I acknowledge your strength.
+Dialogue: 0,0:23:26.13,0:23:29.30,Default,Fushiguro,0,0,0,,{\fad(0,100)\an8}Even if it's incomplete, a domain is still a domain!
+Dialogue: 0,0:23:29.30,0:23:31.60,Default,Reggie,0,0,0,,{\fad(100,100)\an8}Time to activate my trump card!
+Dialogue: 0,0:23:31.60,0:23:33.10,Default,Fushiguro,0,0,0,,{\fad(100,100)\an8}Not yet! Endure a little longer!
+Dialogue: 0,0:23:33.10,0:23:34.02,Default,Reggie,0,0,0,,{\fad(100,0)\an8}I acknowledge your strength.
 Dialogue: 0,0:23:34.02,0:23:35.94,Default,Fushiguro,0,0,0,,{\an8}Which of us will get crushed first?!
 Dialogue: 0,0:23:35.94,0:23:38.44,Default,Reggie,0,0,0,,{\an8}Get crushed!

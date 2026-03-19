@@ -17,7 +17,9 @@ Audio File: jjk_57_premux.mkv
 Video File: jjk_57_premux.mkv
 Keyframes File: jjk_57_keyframes.txt
 Video AR Value: 1.777778
-Video Zoom Percent: 0.375000
+Video Zoom Percent: 0.500000
+Active Line: 126
+Video Position: 15781
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -29,47 +31,47 @@ Style: f0ld3r-invisible,Cabin F,0,&HFFFFFFFF,&HFFFFFFFF,&HFFFFFFFF,&HFFFFFFFF,0,
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.00,0:00:00.00,f0ld3r-invisible,,0,0,0,,>Typesetting
 Dialogue: 0,0:01:29.99,0:01:32.99,f0ld3r-invisible,,0,0,0,,{=0}--Ep Title
-Dialogue: 1,0:01:29.99,0:01:32.99,jjk3-EpTitle,,0,0,0,,{\an5\blur3.6\fs64\alpha&H80&\pos(960,809)\fscx110\fscy110}Episode 57
-Dialogue: 2,0:01:29.99,0:01:32.99,jjk3-EpTitle,,0,0,0,,{\an5\blur0.85\fs64\pos(960,809)\fscx110\fscy110}Episode 57
-Dialogue: 1,0:01:29.99,0:01:32.99,jjk3-EpTitle,,0,0,0,,{\an5\blur4.8\fs91\alpha&H80&\pos(960,873)\fscx110\fscy110}Tokyo Colony No. 1, Part 4
-Dialogue: 2,0:01:29.99,0:01:32.99,jjk3-EpTitle,,0,0,0,,{\an5\blur0.85\fs91\pos(960,873)\fscx110\fscy110}Tokyo Colony No. 1, Part 4
+Dialogue: 1,0:01:29.99,0:01:32.99,jjk3-EpTitle,,0,0,0,,{\an5\blur2\fs64\fscx110\fscy110\alpha&H80&\pos(960,809)}Episode 57
+Dialogue: 2,0:01:29.99,0:01:32.99,jjk3-EpTitle,,0,0,0,,{\an5\blur0.85\fs64\fscx110\fscy110\pos(960,809)}Episode 57
+Dialogue: 1,0:01:29.99,0:01:32.99,jjk3-EpTitle,,0,0,0,,{\an5\blur3\fs91\fscx110\fscy110\alpha&H80&\pos(960,873)}Tokyo Colony No. 1, Part 4
+Dialogue: 2,0:01:29.99,0:01:32.99,jjk3-EpTitle,,0,0,0,,{\an5\blur0.85\fs91\fscx110\fscy110\pos(960,873)}Tokyo Colony No. 1, Part 4
 Dialogue: 0,0:01:29.99,0:01:32.99,f0ld3r-invisible,,0,0,0,,
-Dialogue: 0,0:01:29.99,0:01:32.99,jjk3-EpTitle,,0,0,0,shadow,{\an5\blur2\yshad1\fs64\fscy110\1a&HFE&\4a&HE6&\pos(960,807)\fscx110}Episode 57
-Dialogue: 0,0:01:29.99,0:01:32.99,jjk3-EpTitle,,0,0,0,shadow,{\an5\blur2.5\yshad2\fs64\fscy110.18\1a&HFE&\4a&HE7&\pos(960,807)\fscx110}Episode 57
-Dialogue: 0,0:01:29.99,0:01:32.99,jjk3-EpTitle,,0,0,0,shadow,{\an5\blur3\yshad3\fs64\fscy110.36\1a&HFE&\4a&HE9&\pos(960,807)\fscx110}Episode 57
-Dialogue: 0,0:01:29.99,0:01:32.99,jjk3-EpTitle,,0,0,0,shadow,{\an5\blur3.17\yshad4\fs64\fscy110.54\1a&HFE&\4a&HEB&\pos(960,807)\fscx110}Episode 57
-Dialogue: 0,0:01:29.99,0:01:32.99,jjk3-EpTitle,,0,0,0,shadow,{\an5\blur3.33\yshad5\fs64\fscy110.71\1a&HFE&\4a&HEC&\pos(960,807)\fscx110}Episode 57
-Dialogue: 0,0:01:29.99,0:01:32.99,jjk3-EpTitle,,0,0,0,shadow,{\an5\blur3.5\yshad6\fs64\fscy110.89\1a&HFE&\4a&HEE&\pos(960,807)\fscx110}Episode 57
-Dialogue: 0,0:01:29.99,0:01:32.99,jjk3-EpTitle,,0,0,0,shadow,{\an5\blur3.67\yshad7\fs64\fscy111.07\1a&HFE&\4a&HF0&\pos(960,807)\fscx110}Episode 57
-Dialogue: 0,0:01:29.99,0:01:32.99,jjk3-EpTitle,,0,0,0,shadow,{\an5\blur3.83\yshad8\fs64\fscy111.25\1a&HFE&\4a&HF2&\pos(960,807)\fscx110}Episode 57
-Dialogue: 0,0:01:29.99,0:01:32.99,jjk3-EpTitle,,0,0,0,shadow,{\an5\blur4\yshad9\fs64\fscy111.43\1a&HFE&\4a&HF3&\pos(960,807)\fscx110}Episode 57
-Dialogue: 0,0:01:29.99,0:01:32.99,jjk3-EpTitle,,0,0,0,shadow,{\an5\blur4.17\yshad10\fs64\fscy111.61\1a&HFE&\4a&HF5&\pos(960,807)\fscx110}Episode 57
-Dialogue: 0,0:01:29.99,0:01:32.99,jjk3-EpTitle,,0,0,0,shadow,{\an5\blur4.33\yshad11\fs64\fscy111.79\1a&HFE&\4a&HF7&\pos(960,807)\fscx110}Episode 57
-Dialogue: 0,0:01:29.99,0:01:32.99,jjk3-EpTitle,,0,0,0,shadow,{\an5\blur4.5\yshad12\fs64\fscy111.96\1a&HFE&\4a&HF8&\pos(960,807)\fscx110}Episode 57
-Dialogue: 0,0:01:29.99,0:01:32.99,jjk3-EpTitle,,0,0,0,shadow,{\an5\blur4.67\yshad13\fs64\fscy112.14\1a&HFE&\4a&HFA&\pos(960,807)\fscx110}Episode 57
-Dialogue: 0,0:01:29.99,0:01:32.99,jjk3-EpTitle,,0,0,0,shadow,{\an5\blur4.83\yshad14\fs64\fscy112.32\1a&HFE&\4a&HFC&\pos(960,807)\fscx110}Episode 57
-Dialogue: 0,0:01:29.99,0:01:32.99,jjk3-EpTitle,,0,0,0,shadow,{\an5\blur5\yshad15\fs64\fscy112.5\1a&HFE&\4a&HFE&\pos(960,807)\fscx110}Episode 57
+Dialogue: 0,0:01:29.99,0:01:32.99,jjk3-EpTitle,,0,0,0,shadow,{\an5\blur2\yshad1\fs64\fscx110\fscy110\1a&HFE&\4a&HE6&\pos(960,807)}Episode 57
+Dialogue: 0,0:01:29.99,0:01:32.99,jjk3-EpTitle,,0,0,0,shadow,{\an5\blur2.5\yshad2\fs64\fscx110\fscy110.18\1a&HFE&\4a&HE7&\pos(960,807)}Episode 57
+Dialogue: 0,0:01:29.99,0:01:32.99,jjk3-EpTitle,,0,0,0,shadow,{\an5\blur3\yshad3\fs64\fscx110\fscy110.36\1a&HFE&\4a&HE9&\pos(960,807)}Episode 57
+Dialogue: 0,0:01:29.99,0:01:32.99,jjk3-EpTitle,,0,0,0,shadow,{\an5\blur3.17\yshad4\fs64\fscx110\fscy110.54\1a&HFE&\4a&HEB&\pos(960,807)}Episode 57
+Dialogue: 0,0:01:29.99,0:01:32.99,jjk3-EpTitle,,0,0,0,shadow,{\an5\blur3.33\yshad5\fs64\fscx110\fscy110.71\1a&HFE&\4a&HEC&\pos(960,807)}Episode 57
+Dialogue: 0,0:01:29.99,0:01:32.99,jjk3-EpTitle,,0,0,0,shadow,{\an5\blur3.5\yshad6\fs64\fscx110\fscy110.89\1a&HFE&\4a&HEE&\pos(960,807)}Episode 57
+Dialogue: 0,0:01:29.99,0:01:32.99,jjk3-EpTitle,,0,0,0,shadow,{\an5\blur3.67\yshad7\fs64\fscx110\fscy111.07\1a&HFE&\4a&HF0&\pos(960,807)}Episode 57
+Dialogue: 0,0:01:29.99,0:01:32.99,jjk3-EpTitle,,0,0,0,shadow,{\an5\blur3.83\yshad8\fs64\fscx110\fscy111.25\1a&HFE&\4a&HF2&\pos(960,807)}Episode 57
+Dialogue: 0,0:01:29.99,0:01:32.99,jjk3-EpTitle,,0,0,0,shadow,{\an5\blur4\yshad9\fs64\fscx110\fscy111.43\1a&HFE&\4a&HF3&\pos(960,807)}Episode 57
+Dialogue: 0,0:01:29.99,0:01:32.99,jjk3-EpTitle,,0,0,0,shadow,{\an5\blur4.17\yshad10\fs64\fscx110\fscy111.61\1a&HFE&\4a&HF5&\pos(960,807)}Episode 57
+Dialogue: 0,0:01:29.99,0:01:32.99,jjk3-EpTitle,,0,0,0,shadow,{\an5\blur4.33\yshad11\fs64\fscx110\fscy111.79\1a&HFE&\4a&HF7&\pos(960,807)}Episode 57
+Dialogue: 0,0:01:29.99,0:01:32.99,jjk3-EpTitle,,0,0,0,shadow,{\an5\blur4.5\yshad12\fs64\fscx110\fscy111.96\1a&HFE&\4a&HF8&\pos(960,807)}Episode 57
+Dialogue: 0,0:01:29.99,0:01:32.99,jjk3-EpTitle,,0,0,0,shadow,{\an5\blur4.67\yshad13\fs64\fscx110\fscy112.14\1a&HFE&\4a&HFA&\pos(960,807)}Episode 57
+Dialogue: 0,0:01:29.99,0:01:32.99,jjk3-EpTitle,,0,0,0,shadow,{\an5\blur4.83\yshad14\fs64\fscx110\fscy112.32\1a&HFE&\4a&HFC&\pos(960,807)}Episode 57
+Dialogue: 0,0:01:29.99,0:01:32.99,jjk3-EpTitle,,0,0,0,shadow,{\an5\blur5\yshad15\fs64\fscx110\fscy112.5\1a&HFE&\4a&HFE&\pos(960,807)}Episode 57
 Dialogue: 0,0:01:29.99,0:01:32.99,f0ld3r-invisible,,0,0,0,,
-Dialogue: 0,0:01:29.99,0:01:32.99,jjk3-EpTitle,,0,0,0,shadow,{\an5\blur2\yshad1\fs91\1a&HFE&\4a&HEB&\pos(960,871)\fscx110\fscy110}Tokyo Colony No. 1, Part 4
-Dialogue: 0,0:01:29.99,0:01:32.99,jjk3-EpTitle,,0,0,0,shadow,{\an5\blur2.5\yshad2\fs91\fscy110.26\1a&HFE&\4a&HEC&\pos(960,871)\fscx110}Tokyo Colony No. 1, Part 4
-Dialogue: 0,0:01:29.99,0:01:32.99,jjk3-EpTitle,,0,0,0,shadow,{\an5\blur3\yshad3\fs91\fscy110.53\1a&HFE&\4a&HED&\pos(960,871)\fscx110}Tokyo Colony No. 1, Part 4
-Dialogue: 0,0:01:29.99,0:01:32.99,jjk3-EpTitle,,0,0,0,shadow,{\an5\blur3.12\yshad4\fs91\fscy110.79\1a&HFE&\4a&HEE&\pos(960,871)\fscx110}Tokyo Colony No. 1, Part 4
-Dialogue: 0,0:01:29.99,0:01:32.99,jjk3-EpTitle,,0,0,0,shadow,{\an5\blur3.23\yshad5\fs91\fscy111.05\1a&HFE&\4a&HEF&\pos(960,871)\fscx110}Tokyo Colony No. 1, Part 4
-Dialogue: 0,0:01:29.99,0:01:32.99,jjk3-EpTitle,,0,0,0,shadow,{\an5\blur3.35\yshad6\fs91\fscy111.32\1a&HFE&\4a&HF0&\pos(960,871)\fscx110}Tokyo Colony No. 1, Part 4
-Dialogue: 0,0:01:29.99,0:01:32.99,jjk3-EpTitle,,0,0,0,shadow,{\an5\blur3.47\yshad7\fs91\fscy111.58\1a&HFE&\4a&HF1&\pos(960,871)\fscx110}Tokyo Colony No. 1, Part 4
-Dialogue: 0,0:01:29.99,0:01:32.99,jjk3-EpTitle,,0,0,0,shadow,{\an5\blur3.59\yshad8\fs91\fscy111.84\1a&HFE&\4a&HF2&\pos(960,871)\fscx110}Tokyo Colony No. 1, Part 4
-Dialogue: 0,0:01:29.99,0:01:32.99,jjk3-EpTitle,,0,0,0,shadow,{\an5\blur3.71\yshad9\fs91\fscy112.11\1a&HFE&\4a&HF3&\pos(960,871)\fscx110}Tokyo Colony No. 1, Part 4
-Dialogue: 0,0:01:29.99,0:01:32.99,jjk3-EpTitle,,0,0,0,shadow,{\an5\blur3.82\yshad10\fs91\fscy112.37\1a&HFE&\4a&HF4&\pos(960,871)\fscx110}Tokyo Colony No. 1, Part 4
-Dialogue: 0,0:01:29.99,0:01:32.99,jjk3-EpTitle,,0,0,0,shadow,{\an5\blur3.94\yshad11\fs91\fscy112.63\1a&HFE&\4a&HF5&\pos(960,871)\fscx110}Tokyo Colony No. 1, Part 4
-Dialogue: 0,0:01:29.99,0:01:32.99,jjk3-EpTitle,,0,0,0,shadow,{\an5\blur4.06\yshad12\fs91\fscy112.9\1a&HFE&\4a&HF6&\pos(960,871)\fscx110}Tokyo Colony No. 1, Part 4
-Dialogue: 0,0:01:29.99,0:01:32.99,jjk3-EpTitle,,0,0,0,shadow,{\an5\blur4.18\yshad13\fs91\fscy113.16\1a&HFE&\4a&HF7&\pos(960,871)\fscx110}Tokyo Colony No. 1, Part 4
-Dialogue: 0,0:01:29.99,0:01:32.99,jjk3-EpTitle,,0,0,0,shadow,{\an5\blur4.29\yshad14\fs91\fscy113.42\1a&HFE&\4a&HF8&\pos(960,871)\fscx110}Tokyo Colony No. 1, Part 4
-Dialogue: 0,0:01:29.99,0:01:32.99,jjk3-EpTitle,,0,0,0,shadow,{\an5\blur4.41\yshad15\fs91\fscy113.68\1a&HFE&\4a&HF9&\pos(960,871)\fscx110}Tokyo Colony No. 1, Part 4
-Dialogue: 0,0:01:29.99,0:01:32.99,jjk3-EpTitle,,0,0,0,shadow,{\an5\blur4.53\yshad16\fs91\fscy113.95\1a&HFE&\4a&HFA&\pos(960,871)\fscx110}Tokyo Colony No. 1, Part 4
-Dialogue: 0,0:01:29.99,0:01:32.99,jjk3-EpTitle,,0,0,0,shadow,{\an5\blur4.65\yshad17\fs91\fscy114.21\1a&HFE&\4a&HFB&\pos(960,871)\fscx110}Tokyo Colony No. 1, Part 4
-Dialogue: 0,0:01:29.99,0:01:32.99,jjk3-EpTitle,,0,0,0,shadow,{\an5\blur4.76\yshad18\fs91\fscy114.47\1a&HFE&\4a&HFC&\pos(960,871)\fscx110}Tokyo Colony No. 1, Part 4
-Dialogue: 0,0:01:29.99,0:01:32.99,jjk3-EpTitle,,0,0,0,shadow,{\an5\blur4.88\yshad19\fs91\fscy114.74\1a&HFE&\4a&HFD&\pos(960,871)\fscx110}Tokyo Colony No. 1, Part 4
-Dialogue: 0,0:01:29.99,0:01:32.99,jjk3-EpTitle,,0,0,0,shadow,{\an5\blur5\yshad20\fs91\fscy115\1a&HFE&\4a&HFE&\pos(960,871)\fscx110}Tokyo Colony No. 1, Part 4
+Dialogue: 0,0:01:29.99,0:01:32.99,jjk3-EpTitle,,0,0,0,shadow,{\an5\blur2\yshad1\fs91\fscx110\fscy110\1a&HFE&\4a&HEB&\pos(960,871)}Tokyo Colony No. 1, Part 4
+Dialogue: 0,0:01:29.99,0:01:32.99,jjk3-EpTitle,,0,0,0,shadow,{\an5\blur2.5\yshad2\fs91\fscx110\fscy110.26\1a&HFE&\4a&HEC&\pos(960,871)}Tokyo Colony No. 1, Part 4
+Dialogue: 0,0:01:29.99,0:01:32.99,jjk3-EpTitle,,0,0,0,shadow,{\an5\blur3\yshad3\fs91\fscx110\fscy110.53\1a&HFE&\4a&HED&\pos(960,871)}Tokyo Colony No. 1, Part 4
+Dialogue: 0,0:01:29.99,0:01:32.99,jjk3-EpTitle,,0,0,0,shadow,{\an5\blur3.12\yshad4\fs91\fscx110\fscy110.79\1a&HFE&\4a&HEE&\pos(960,871)}Tokyo Colony No. 1, Part 4
+Dialogue: 0,0:01:29.99,0:01:32.99,jjk3-EpTitle,,0,0,0,shadow,{\an5\blur3.23\yshad5\fs91\fscx110\fscy111.05\1a&HFE&\4a&HEF&\pos(960,871)}Tokyo Colony No. 1, Part 4
+Dialogue: 0,0:01:29.99,0:01:32.99,jjk3-EpTitle,,0,0,0,shadow,{\an5\blur3.35\yshad6\fs91\fscx110\fscy111.32\1a&HFE&\4a&HF0&\pos(960,871)}Tokyo Colony No. 1, Part 4
+Dialogue: 0,0:01:29.99,0:01:32.99,jjk3-EpTitle,,0,0,0,shadow,{\an5\blur3.47\yshad7\fs91\fscx110\fscy111.58\1a&HFE&\4a&HF1&\pos(960,871)}Tokyo Colony No. 1, Part 4
+Dialogue: 0,0:01:29.99,0:01:32.99,jjk3-EpTitle,,0,0,0,shadow,{\an5\blur3.59\yshad8\fs91\fscx110\fscy111.84\1a&HFE&\4a&HF2&\pos(960,871)}Tokyo Colony No. 1, Part 4
+Dialogue: 0,0:01:29.99,0:01:32.99,jjk3-EpTitle,,0,0,0,shadow,{\an5\blur3.71\yshad9\fs91\fscx110\fscy112.11\1a&HFE&\4a&HF3&\pos(960,871)}Tokyo Colony No. 1, Part 4
+Dialogue: 0,0:01:29.99,0:01:32.99,jjk3-EpTitle,,0,0,0,shadow,{\an5\blur3.82\yshad10\fs91\fscx110\fscy112.37\1a&HFE&\4a&HF4&\pos(960,871)}Tokyo Colony No. 1, Part 4
+Dialogue: 0,0:01:29.99,0:01:32.99,jjk3-EpTitle,,0,0,0,shadow,{\an5\blur3.94\yshad11\fs91\fscx110\fscy112.63\1a&HFE&\4a&HF5&\pos(960,871)}Tokyo Colony No. 1, Part 4
+Dialogue: 0,0:01:29.99,0:01:32.99,jjk3-EpTitle,,0,0,0,shadow,{\an5\blur4.06\yshad12\fs91\fscx110\fscy112.9\1a&HFE&\4a&HF6&\pos(960,871)}Tokyo Colony No. 1, Part 4
+Dialogue: 0,0:01:29.99,0:01:32.99,jjk3-EpTitle,,0,0,0,shadow,{\an5\blur4.18\yshad13\fs91\fscx110\fscy113.16\1a&HFE&\4a&HF7&\pos(960,871)}Tokyo Colony No. 1, Part 4
+Dialogue: 0,0:01:29.99,0:01:32.99,jjk3-EpTitle,,0,0,0,shadow,{\an5\blur4.29\yshad14\fs91\fscx110\fscy113.42\1a&HFE&\4a&HF8&\pos(960,871)}Tokyo Colony No. 1, Part 4
+Dialogue: 0,0:01:29.99,0:01:32.99,jjk3-EpTitle,,0,0,0,shadow,{\an5\blur4.41\yshad15\fs91\fscx110\fscy113.68\1a&HFE&\4a&HF9&\pos(960,871)}Tokyo Colony No. 1, Part 4
+Dialogue: 0,0:01:29.99,0:01:32.99,jjk3-EpTitle,,0,0,0,shadow,{\an5\blur4.53\yshad16\fs91\fscx110\fscy113.95\1a&HFE&\4a&HFA&\pos(960,871)}Tokyo Colony No. 1, Part 4
+Dialogue: 0,0:01:29.99,0:01:32.99,jjk3-EpTitle,,0,0,0,shadow,{\an5\blur4.65\yshad17\fs91\fscx110\fscy114.21\1a&HFE&\4a&HFB&\pos(960,871)}Tokyo Colony No. 1, Part 4
+Dialogue: 0,0:01:29.99,0:01:32.99,jjk3-EpTitle,,0,0,0,shadow,{\an5\blur4.76\yshad18\fs91\fscx110\fscy114.47\1a&HFE&\4a&HFC&\pos(960,871)}Tokyo Colony No. 1, Part 4
+Dialogue: 0,0:01:29.99,0:01:32.99,jjk3-EpTitle,,0,0,0,shadow,{\an5\blur4.88\yshad19\fs91\fscx110\fscy114.74\1a&HFE&\4a&HFD&\pos(960,871)}Tokyo Colony No. 1, Part 4
+Dialogue: 0,0:01:29.99,0:01:32.99,jjk3-EpTitle,,0,0,0,shadow,{\an5\blur5\yshad20\fs91\fscx110\fscy115\1a&HFE&\4a&HFE&\pos(960,871)}Tokyo Colony No. 1, Part 4
 Dialogue: 0,0:01:29.99,0:01:32.99,f0ld3r-invisible,,0,0,0,,{=1}
 Dialogue: 0,0:23:36.94,0:23:39.94,f0ld3r-invisible,,0,0,0,,{=2}--Next Ep
 Dialogue: 0,0:23:36.94,0:23:39.94,Signs,Next,0,0,0,,{\blur6\bord6\fnFOT-TsukuMin Pr5 B Stripped\fs69\c&H000000&\3c&H000000&\alpha&H20&\pos(960,762)}Next Episode
@@ -79,65 +81,63 @@ Dialogue: 1,0:23:36.94,0:23:39.94,Signs,Next,0,0,0,,{\fnFOT-TsukuMin Pr5 B Strip
 Dialogue: 0,0:23:36.94,0:23:39.94,f0ld3r-invisible,,0,0,0,,{=3}
 Dialogue: 0,0:04:08.23,0:04:08.27,f0ld3r-invisible,,0,0,0,,{=26}--Bottom text
 Dialogue: 0,0:04:08.23,0:04:10.73,f0ld3r-invisible,,0,0,0,,
-Dialogue: 6,0:04:08.23,0:04:10.73,Signs,,0,0,0,,{\an2\blur0.64\fnKizaKinryou Std JJK B Strp\fs66\c&HF0F0F0&\alpha&H10&\pos(960,940)\b1}Hazenoki Iori, 35 Points
-Dialogue: 0,0:04:08.23,0:04:10.73,Signs,,0,0,0,shadow,{\an2\blur2\yshad1\fnKizaKinryou Std JJK B Strp\fs66\fscy102.5\c&HE6E6E6&\4c&HD3D5D6&\1a&HFE&\4a&HE1&\pos(960,940)\b1}Hazenoki Iori, 35 Points
-Dialogue: 0,0:04:08.23,0:04:10.73,Signs,,0,0,0,shadow,{\an2\blur2.5\yshad2\fnKizaKinryou Std JJK B Strp\fs66\fscy102.5\c&HE6E6E6&\4c&HD3D5D6&\1a&HFE&\4a&HE4&\pos(960,940)\b1}Hazenoki Iori, 35 Points
-Dialogue: 0,0:04:08.23,0:04:10.73,Signs,,0,0,0,shadow,{\an2\blur2.5\yshad3\fnKizaKinryou Std JJK B Strp\fs66\fscy102.5\c&HE6E6E6&\4c&HD3D5D6&\1a&HFE&\4a&HE8&\pos(960,940)\b1}Hazenoki Iori, 35 Points
-Dialogue: 0,0:04:08.23,0:04:10.73,Signs,,0,0,0,shadow,{\an2\blur2.5\yshad4\fnKizaKinryou Std JJK B Strp\fs66\fscy102.5\c&HE6E6E6&\4c&HD3D5D6&\1a&HFE&\4a&HEB&\pos(960,940)\b1}Hazenoki Iori, 35 Points
-Dialogue: 0,0:04:08.23,0:04:10.73,Signs,,0,0,0,shadow,{\an2\blur2.5\yshad5\fnKizaKinryou Std JJK B Strp\fs66\fscy102.5\c&HE6E6E6&\4c&HD3D5D6&\1a&HFE&\4a&HEF&\pos(960,940)\b1}Hazenoki Iori, 35 Points
-Dialogue: 0,0:04:08.23,0:04:10.73,Signs,,0,0,0,shadow,{\an2\blur2.5\yshad6\fnKizaKinryou Std JJK B Strp\fs66\fscy102.5\c&HE6E6E6&\4c&HD3D5D6&\1a&HFE&\4a&HF2&\pos(960,940)\b1}Hazenoki Iori, 35 Points
-Dialogue: 0,0:04:08.23,0:04:10.73,Signs,,0,0,0,shadow,{\an2\blur2.5\yshad7\fnKizaKinryou Std JJK B Strp\fs66\fscy102.5\c&HE6E6E6&\4c&HD3D5D6&\1a&HFE&\4a&HF6&\pos(960,940)\b1}Hazenoki Iori, 35 Points
-Dialogue: 0,0:04:08.23,0:04:10.73,Signs,,0,0,0,shadow,{\an2\blur2.5\yshad8\fnKizaKinryou Std JJK B Strp\fs66\fscy102.5\c&HE6E6E6&\4c&HD3D5D6&\1a&HFE&\4a&HFA&\pos(960,940)\b1}Hazenoki Iori, 35 Points
-Dialogue: 0,0:04:08.23,0:04:10.73,Signs,,0,0,0,shadow,{\an8\blur5\yshad4\fnKizaKinryou Std JJK B Strp\fs66\fscy110\c&HE6E6E6&\4c&HD3D5D6&\1a&HFE&\4a&HF0&\pos(959.56,860.9)\b1}Hazenoki Iori, 35 Points
+Dialogue: 6,0:04:08.23,0:04:10.73,Signs,,0,0,0,,{\an2\blur0.64\fnKizaKinryou Std JJK B Strp\fs66\c&HF0F0F0&\alpha&H10&\pos(960,945)\b1}Hazenoki Iori, 35 Points
+Dialogue: 0,0:04:08.23,0:04:10.73,Signs,,0,0,0,shadow,{\an2\blur2\yshad1\fnKizaKinryou Std JJK B Strp\fs66\fscy102.5\c&HE6E6E6&\4c&HD3D5D6&\1a&HFE&\4a&HE1&\pos(960,945)\b1}Hazenoki Iori, 35 Points
+Dialogue: 0,0:04:08.23,0:04:10.73,Signs,,0,0,0,shadow,{\an2\blur2.5\yshad2\fnKizaKinryou Std JJK B Strp\fs66\fscy102.5\c&HE6E6E6&\4c&HD3D5D6&\1a&HFE&\4a&HE4&\pos(960,945)\b1}Hazenoki Iori, 35 Points
+Dialogue: 0,0:04:08.23,0:04:10.73,Signs,,0,0,0,shadow,{\an2\blur2.5\yshad3\fnKizaKinryou Std JJK B Strp\fs66\fscy102.5\c&HE6E6E6&\4c&HD3D5D6&\1a&HFE&\4a&HE8&\pos(960,945)\b1}Hazenoki Iori, 35 Points
+Dialogue: 0,0:04:08.23,0:04:10.73,Signs,,0,0,0,shadow,{\an2\blur2.5\yshad4\fnKizaKinryou Std JJK B Strp\fs66\fscy102.5\c&HE6E6E6&\4c&HD3D5D6&\1a&HFE&\4a&HEB&\pos(960,945)\b1}Hazenoki Iori, 35 Points
+Dialogue: 0,0:04:08.23,0:04:10.73,Signs,,0,0,0,shadow,{\an2\blur2.5\yshad5\fnKizaKinryou Std JJK B Strp\fs66\fscy102.5\c&HE6E6E6&\4c&HD3D5D6&\1a&HFE&\4a&HEF&\pos(960,945)\b1}Hazenoki Iori, 35 Points
+Dialogue: 0,0:04:08.23,0:04:10.73,Signs,,0,0,0,shadow,{\an2\blur2.5\yshad6\fnKizaKinryou Std JJK B Strp\fs66\fscy102.5\c&HE6E6E6&\4c&HD3D5D6&\1a&HFE&\4a&HF2&\pos(960,945)\b1}Hazenoki Iori, 35 Points
+Dialogue: 0,0:04:08.23,0:04:10.73,Signs,,0,0,0,shadow,{\an2\blur2.5\yshad7\fnKizaKinryou Std JJK B Strp\fs66\fscy102.5\c&HE6E6E6&\4c&HD3D5D6&\1a&HFE&\4a&HF6&\pos(960,945)\b1}Hazenoki Iori, 35 Points
+Dialogue: 0,0:04:08.23,0:04:10.73,Signs,,0,0,0,shadow,{\an2\blur2.5\yshad8\fnKizaKinryou Std JJK B Strp\fs66\fscy102.5\c&HE6E6E6&\4c&HD3D5D6&\1a&HFE&\4a&HFA&\pos(960,945)\b1}Hazenoki Iori, 35 Points
+Dialogue: 0,0:04:08.23,0:04:10.73,Signs,,0,0,0,shadow,{\an8\blur5\yshad4\fnKizaKinryou Std JJK B Strp\fs66\fscy110\c&HE6E6E6&\4c&HD3D5D6&\1a&HFE&\4a&HF0&\pos(959.56,865.9)\b1}Hazenoki Iori, 35 Points
 Dialogue: 0,0:04:39.13,0:04:40.93,f0ld3r-invisible,,0,0,0,,
-Dialogue: 5,0:04:39.13,0:04:40.93,Signs,,0,0,0,,{\an2\blur2\fnKizaKinryou Std JJK B Strp\fs66\c&HF0F0F0&\alpha&HC0&\pos(960,940)\b1}Reggie Star, 41 Points
-Dialogue: 6,0:04:39.13,0:04:40.93,Signs,,0,0,0,,{\an2\blur0.67\fnKizaKinryou Std JJK B Strp\fs66\c&HF0F0F0&\alpha&H10&\pos(960,940)\b1}Reggie Star, 41 Points
-Dialogue: 0,0:04:39.13,0:04:40.93,Signs,,0,0,0,shadow,{\an2\blur2\yshad1\fnKizaKinryou Std JJK B Strp\fs66\fscy102.5\c&HE6E6E6&\4c&HD3D5D6&\1a&HFE&\4a&HE1&\pos(960,940)\b1}Reggie Star, 41 Points
-Dialogue: 0,0:04:39.13,0:04:40.93,Signs,,0,0,0,shadow,{\an2\blur2.5\yshad2\fnKizaKinryou Std JJK B Strp\fs66\fscy102.5\c&HE6E6E6&\4c&HD3D5D6&\1a&HFE&\4a&HE4&\pos(960,940)\b1}Reggie Star, 41 Points
-Dialogue: 0,0:04:39.13,0:04:40.93,Signs,,0,0,0,shadow,{\an2\blur2.5\yshad3\fnKizaKinryou Std JJK B Strp\fs66\fscy102.5\c&HE6E6E6&\4c&HD3D5D6&\1a&HFE&\4a&HE8&\pos(960,940)\b1}Reggie Star, 41 Points
-Dialogue: 0,0:04:39.13,0:04:40.93,Signs,,0,0,0,shadow,{\an2\blur2.5\yshad4\fnKizaKinryou Std JJK B Strp\fs66\fscy102.5\c&HE6E6E6&\4c&HD3D5D6&\1a&HFE&\4a&HEB&\pos(960,940)\b1}Reggie Star, 41 Points
-Dialogue: 0,0:04:39.13,0:04:40.93,Signs,,0,0,0,shadow,{\an2\blur2.5\yshad5\fnKizaKinryou Std JJK B Strp\fs66\fscy102.5\c&HE6E6E6&\4c&HD3D5D6&\1a&HFE&\4a&HEF&\pos(960,940)\b1}Reggie Star, 41 Points
-Dialogue: 0,0:04:39.13,0:04:40.93,Signs,,0,0,0,shadow,{\an2\blur2.5\yshad6\fnKizaKinryou Std JJK B Strp\fs66\fscy102.5\c&HE6E6E6&\4c&HD3D5D6&\1a&HFE&\4a&HF2&\pos(960,940)\b1}Reggie Star, 41 Points
-Dialogue: 0,0:04:39.13,0:04:40.93,Signs,,0,0,0,shadow,{\an2\blur2.5\yshad7\fnKizaKinryou Std JJK B Strp\fs66\fscy102.5\c&HE6E6E6&\4c&HD3D5D6&\1a&HFE&\4a&HF6&\pos(960,940)\b1}Reggie Star, 41 Points
-Dialogue: 0,0:04:39.13,0:04:40.93,Signs,,0,0,0,shadow,{\an2\blur2.5\yshad8\fnKizaKinryou Std JJK B Strp\fs66\fscy102.5\c&HE6E6E6&\4c&HD3D5D6&\1a&HFE&\4a&HFA&\pos(960,940)\b1}Reggie Star, 41 Points
-Dialogue: 0,0:04:39.13,0:04:40.93,Signs,,0,0,0,shadow,{\an8\blur5\yshad4\fnKizaKinryou Std JJK B Strp\fs66\fscy110\c&HE6E6E6&\4c&HD3D5D6&\1a&HFE&\4a&HF0&\pos(959.56,860.9)\b1}Reggie Star, 41 Points
+Dialogue: 5,0:04:39.13,0:04:40.93,Signs,,0,0,0,,{\an2\blur1\fnKizaKinryou Std JJK B Strp\fs66\c&HF0F0F0&\alpha&HC0&\pos(960,945)\b1}Reggie Star, 41 Points
+Dialogue: 6,0:04:39.13,0:04:40.93,Signs,,0,0,0,,{\an2\blur0.67\fnKizaKinryou Std JJK B Strp\fs66\c&HF8F0F0&\alpha&H10&\pos(960,945)\b1}Reggie Star, 41 Points
+Dialogue: 0,0:04:39.13,0:04:40.93,Signs,,0,0,0,shadow,{\an2\blur2\yshad1\fnKizaKinryou Std JJK B Strp\fs66\fscy102.5\c&HE6E6E6&\4c&HD3D5D6&\1a&HFE&\4a&HE1&\pos(960,945)\b1}Reggie Star, 41 Points
+Dialogue: 0,0:04:39.13,0:04:40.93,Signs,,0,0,0,shadow,{\an2\blur2.5\yshad2\fnKizaKinryou Std JJK B Strp\fs66\fscy102.5\c&HE6E6E6&\4c&HD3D5D6&\1a&HFE&\4a&HE4&\pos(960,945)\b1}Reggie Star, 41 Points
+Dialogue: 0,0:04:39.13,0:04:40.93,Signs,,0,0,0,shadow,{\an2\blur2.5\yshad3\fnKizaKinryou Std JJK B Strp\fs66\fscy102.5\c&HE6E6E6&\4c&HD3D5D6&\1a&HFE&\4a&HE8&\pos(960,945)\b1}Reggie Star, 41 Points
+Dialogue: 0,0:04:39.13,0:04:40.93,Signs,,0,0,0,shadow,{\an2\blur2.5\yshad4\fnKizaKinryou Std JJK B Strp\fs66\fscy102.5\c&HE6E6E6&\4c&HD3D5D6&\1a&HFE&\4a&HEB&\pos(960,945)\b1}Reggie Star, 41 Points
+Dialogue: 0,0:04:39.13,0:04:40.93,Signs,,0,0,0,shadow,{\an2\blur2.5\yshad5\fnKizaKinryou Std JJK B Strp\fs66\fscy102.5\c&HE6E6E6&\4c&HD3D5D6&\1a&HFE&\4a&HEF&\pos(960,945)\b1}Reggie Star, 41 Points
+Dialogue: 0,0:04:39.13,0:04:40.93,Signs,,0,0,0,shadow,{\an2\blur2.5\yshad6\fnKizaKinryou Std JJK B Strp\fs66\fscy102.5\c&HE6E6E6&\4c&HD3D5D6&\1a&HFE&\4a&HF2&\pos(960,945)\b1}Reggie Star, 41 Points
+Dialogue: 0,0:04:39.13,0:04:40.93,Signs,,0,0,0,shadow,{\an2\blur2.5\yshad7\fnKizaKinryou Std JJK B Strp\fs66\fscy102.5\c&HE6E6E6&\4c&HD3D5D6&\1a&HFE&\4a&HF6&\pos(960,945)\b1}Reggie Star, 41 Points
+Dialogue: 0,0:04:39.13,0:04:40.93,Signs,,0,0,0,shadow,{\an2\blur2.5\yshad8\fnKizaKinryou Std JJK B Strp\fs66\fscy102.5\c&HE6E6E6&\4c&HD3D5D6&\1a&HFE&\4a&HFA&\pos(960,945)\b1}Reggie Star, 41 Points
+Dialogue: 0,0:04:39.13,0:04:40.93,Signs,,0,0,0,shadow,{\an8\blur5\yshad4\fnKizaKinryou Std JJK B Strp\fs66\fscy110\c&HE6E6E6&\4c&HD3D5D6&\1a&HFE&\4a&HF0&\pos(959.56,865.9)\b1}Reggie Star, 41 Points
 Dialogue: 0,0:05:53.79,0:05:58.38,f0ld3r-invisible,,0,0,0,,
-Dialogue: 5,0:05:53.79,0:05:58.38,Signs,,0,0,0,,{\an2\blur12\fnKizaKinryou Std JJK B Strp\fs66\c&H000000&\pos(960,940)\b1}Hari Chizuru, 28 Points
-Dialogue: 5,0:05:53.79,0:05:58.38,Signs,,0,0,0,,{\an2\blur6\fnKizaKinryou Std JJK B Strp\fs66\c&H000000&\pos(960,940)\b1}Hari Chizuru, 28 Points
-Dialogue: 6,0:05:53.79,0:05:58.38,Signs,,0,0,0,,{\an2\blur0.67\fnKizaKinryou Std JJK B Strp\fs66\c&HF0F0F0&\alpha&H10&\pos(960,940)\b1}Hari Chizuru, 28 Points
-Dialogue: 0,0:05:53.79,0:05:58.38,Signs,,0,0,0,shadow,{\an2\blur2\yshad1\fnKizaKinryou Std JJK B Strp\fs66\fscy102.5\c&HE6E6E6&\4c&HD3D5D6&\1a&HFE&\4a&HE1&\pos(960,940)\b1}Hari Chizuru, 28 Points
-Dialogue: 0,0:05:53.79,0:05:58.38,Signs,,0,0,0,shadow,{\an2\blur2.5\yshad2\fnKizaKinryou Std JJK B Strp\fs66\fscy102.5\c&HE6E6E6&\4c&HD3D5D6&\1a&HFE&\4a&HE4&\pos(960,940)\b1}Hari Chizuru, 28 Points
-Dialogue: 0,0:05:53.79,0:05:58.38,Signs,,0,0,0,shadow,{\an2\blur2.5\yshad3\fnKizaKinryou Std JJK B Strp\fs66\fscy102.5\c&HE6E6E6&\4c&HD3D5D6&\1a&HFE&\4a&HE8&\pos(960,940)\b1}Hari Chizuru, 28 Points
-Dialogue: 0,0:05:53.79,0:05:58.38,Signs,,0,0,0,shadow,{\an2\blur2.5\yshad4\fnKizaKinryou Std JJK B Strp\fs66\fscy102.5\c&HE6E6E6&\4c&HD3D5D6&\1a&HFE&\4a&HEB&\pos(960,940)\b1}Hari Chizuru, 28 Points
-Dialogue: 0,0:05:53.79,0:05:58.38,Signs,,0,0,0,shadow,{\an2\blur2.5\yshad5\fnKizaKinryou Std JJK B Strp\fs66\fscy102.5\c&HE6E6E6&\4c&HD3D5D6&\1a&HFE&\4a&HEF&\pos(960,940)\b1}Hari Chizuru, 28 Points
-Dialogue: 0,0:05:53.79,0:05:58.38,Signs,,0,0,0,shadow,{\an2\blur2.5\yshad6\fnKizaKinryou Std JJK B Strp\fs66\fscy102.5\c&HE6E6E6&\4c&HD3D5D6&\1a&HFE&\4a&HF2&\pos(960,940)\b1}Hari Chizuru, 28 Points
-Dialogue: 0,0:05:53.79,0:05:58.38,Signs,,0,0,0,shadow,{\an2\blur2.5\yshad7\fnKizaKinryou Std JJK B Strp\fs66\fscy102.5\c&HE6E6E6&\4c&HD3D5D6&\1a&HFE&\4a&HF6&\pos(960,940)\b1}Hari Chizuru, 28 Points
-Dialogue: 0,0:05:53.79,0:05:58.38,Signs,,0,0,0,shadow,{\an2\blur2.5\yshad8\fnKizaKinryou Std JJK B Strp\fs66\fscy102.5\c&HE6E6E6&\4c&HD3D5D6&\1a&HFE&\4a&HFA&\pos(960,940)\b1}Hari Chizuru, 28 Points
-Dialogue: 0,0:05:53.79,0:05:58.38,Signs,,0,0,0,shadow,{\an8\blur5\yshad4\fnKizaKinryou Std JJK B Strp\fs66\fscy110\c&HE6E6E6&\4c&HD3D5D6&\1a&HFE&\4a&HF0&\pos(959.56,860.9)\b1}Hari Chizuru, 28 Points
+Dialogue: 5,0:05:53.79,0:05:58.38,Signs,,0,0,0,,{\an2\blur12\fnKizaKinryou Std JJK B Strp\fs66\c&H000000&\pos(960,945)\b1}Hari Chizuru, 28 Points
+Dialogue: 5,0:05:53.79,0:05:58.38,Signs,,0,0,0,,{\an2\blur6\fnKizaKinryou Std JJK B Strp\fs66\c&H000000&\pos(960,945)\b1}Hari Chizuru, 28 Points
+Dialogue: 6,0:05:53.79,0:05:58.38,Signs,,0,0,0,,{\an2\blur0.67\fnKizaKinryou Std JJK B Strp\fs66\c&HFFFFFF&\alpha&H10&\pos(960,945)\b1}Hari Chizuru, 28 Points
+Dialogue: 0,0:05:53.79,0:05:58.38,Signs,,0,0,0,shadow,{\an2\blur2\yshad1\fnKizaKinryou Std JJK B Strp\fs66\fscy102.5\c&HE6E6E6&\4c&HD3D5D6&\1a&HFE&\4a&HE1&\pos(960,945)\b1}Hari Chizuru, 28 Points
+Dialogue: 0,0:05:53.79,0:05:58.38,Signs,,0,0,0,shadow,{\an2\blur2.5\yshad2\fnKizaKinryou Std JJK B Strp\fs66\fscy102.5\c&HE6E6E6&\4c&HD3D5D6&\1a&HFE&\4a&HE4&\pos(960,945)\b1}Hari Chizuru, 28 Points
+Dialogue: 0,0:05:53.79,0:05:58.38,Signs,,0,0,0,shadow,{\an2\blur2.5\yshad3\fnKizaKinryou Std JJK B Strp\fs66\fscy102.5\c&HE6E6E6&\4c&HD3D5D6&\1a&HFE&\4a&HE8&\pos(960,945)\b1}Hari Chizuru, 28 Points
+Dialogue: 0,0:05:53.79,0:05:58.38,Signs,,0,0,0,shadow,{\an2\blur2.5\yshad4\fnKizaKinryou Std JJK B Strp\fs66\fscy102.5\c&HE6E6E6&\4c&HD3D5D6&\1a&HFE&\4a&HEB&\pos(960,945)\b1}Hari Chizuru, 28 Points
+Dialogue: 0,0:05:53.79,0:05:58.38,Signs,,0,0,0,shadow,{\an2\blur2.5\yshad5\fnKizaKinryou Std JJK B Strp\fs66\fscy102.5\c&HE6E6E6&\4c&HD3D5D6&\1a&HFE&\4a&HEF&\pos(960,945)\b1}Hari Chizuru, 28 Points
+Dialogue: 0,0:05:53.79,0:05:58.38,Signs,,0,0,0,shadow,{\an2\blur2.5\yshad6\fnKizaKinryou Std JJK B Strp\fs66\fscy102.5\c&HE6E6E6&\4c&HD3D5D6&\1a&HFE&\4a&HF2&\pos(960,945)\b1}Hari Chizuru, 28 Points
+Dialogue: 0,0:05:53.79,0:05:58.38,Signs,,0,0,0,shadow,{\an2\blur2.5\yshad7\fnKizaKinryou Std JJK B Strp\fs66\fscy102.5\c&HE6E6E6&\4c&HD3D5D6&\1a&HFE&\4a&HF6&\pos(960,945)\b1}Hari Chizuru, 28 Points
+Dialogue: 0,0:05:53.79,0:05:58.38,Signs,,0,0,0,shadow,{\an2\blur2.5\yshad8\fnKizaKinryou Std JJK B Strp\fs66\fscy102.5\c&HE6E6E6&\4c&HD3D5D6&\1a&HFE&\4a&HFA&\pos(960,945)\b1}Hari Chizuru, 28 Points
+Dialogue: 0,0:05:53.79,0:05:58.38,Signs,,0,0,0,shadow,{\an8\blur5\yshad4\fnKizaKinryou Std JJK B Strp\fs66\fscy110\c&HE6E6E6&\4c&HD3D5D6&\1a&HFE&\4a&HF0&\pos(959.56,865.9)\b1}Hari Chizuru, 28 Points
 Dialogue: 0,0:09:45.98,0:09:49.36,f0ld3r-invisible,,0,0,0,,
-Dialogue: 5,0:09:45.98,0:09:49.36,Signs,,0,0,0,,{\an2\blur1\fnKizaKinryou Std JJK B Strp\fs66\c&HF0F0F0&\alpha&HC0&\pos(960,940)\b1}Takaba Fumihiko, 0 Points
-Dialogue: 6,0:09:45.98,0:09:49.36,Signs,,0,0,0,,{\an2\blur0.67\fnKizaKinryou Std JJK B Strp\fs66\c&HF0F0F0&\alpha&H10&\pos(960,940)\b1}Takaba Fumihiko, 0 Points
-Dialogue: 0,0:09:45.98,0:09:49.36,Signs,,0,0,0,shadow,{\an2\blur2\yshad1\fnKizaKinryou Std JJK B Strp\fs66\fscy102.5\c&HE6E6E6&\4c&HD3D5D6&\1a&HFE&\4a&HE1&\pos(960,940)\b1}Takaba Fumihiko, 0 Points
-Dialogue: 0,0:09:45.98,0:09:49.36,Signs,,0,0,0,shadow,{\an2\blur2.5\yshad2\fnKizaKinryou Std JJK B Strp\fs66\fscy102.5\c&HE6E6E6&\4c&HD3D5D6&\1a&HFE&\4a&HE4&\pos(960,940)\b1}Takaba Fumihiko, 0 Points
-Dialogue: 0,0:09:45.98,0:09:49.36,Signs,,0,0,0,shadow,{\an2\blur2.5\yshad3\fnKizaKinryou Std JJK B Strp\fs66\fscy102.5\c&HE6E6E6&\4c&HD3D5D6&\1a&HFE&\4a&HE8&\pos(960,940)\b1}Takaba Fumihiko, 0 Points
-Dialogue: 0,0:09:45.98,0:09:49.36,Signs,,0,0,0,shadow,{\an2\blur2.5\yshad4\fnKizaKinryou Std JJK B Strp\fs66\fscy102.5\c&HE6E6E6&\4c&HD3D5D6&\1a&HFE&\4a&HEB&\pos(960,940)\b1}Takaba Fumihiko, 0 Points
-Dialogue: 0,0:09:45.98,0:09:49.36,Signs,,0,0,0,shadow,{\an2\blur2.5\yshad5\fnKizaKinryou Std JJK B Strp\fs66\fscy102.5\c&HE6E6E6&\4c&HD3D5D6&\1a&HFE&\4a&HEF&\pos(960,940)\b1}Takaba Fumihiko, 0 Points
-Dialogue: 0,0:09:45.98,0:09:49.36,Signs,,0,0,0,shadow,{\an2\blur2.5\yshad6\fnKizaKinryou Std JJK B Strp\fs66\fscy102.5\c&HE6E6E6&\4c&HD3D5D6&\1a&HFE&\4a&HF2&\pos(960,940)\b1}Takaba Fumihiko, 0 Points
-Dialogue: 0,0:09:45.98,0:09:49.36,Signs,,0,0,0,shadow,{\an2\blur2.5\yshad7\fnKizaKinryou Std JJK B Strp\fs66\fscy102.5\c&HE6E6E6&\4c&HD3D5D6&\1a&HFE&\4a&HF6&\pos(960,940)\b1}Takaba Fumihiko, 0 Points
-Dialogue: 0,0:09:45.98,0:09:49.36,Signs,,0,0,0,shadow,{\an2\blur2.5\yshad8\fnKizaKinryou Std JJK B Strp\fs66\fscy102.5\c&HE6E6E6&\4c&HD3D5D6&\1a&HFE&\4a&HFA&\pos(960,940)\b1}Takaba Fumihiko, 0 Points
-Dialogue: 0,0:09:45.98,0:09:49.36,Signs,,0,0,0,shadow,{\an8\blur5\yshad4\fnKizaKinryou Std JJK B Strp\fs66\fscy110\c&HE6E6E6&\4c&HD3D5D6&\1a&HFE&\4a&HF0&\pos(959.56,860.9)\b1}Takaba Fumihiko, 0 Points
+Dialogue: 6,0:09:45.98,0:09:49.36,Signs,,0,0,0,,{\an2\blur0.66\fnKizaKinryou Std JJK B Strp\fs66\c&HF0F0F0&\alpha&H10&\pos(960,945)\b1}Takaba Fumihiko, 0 Points
+Dialogue: 0,0:09:45.98,0:09:49.36,Signs,,0,0,0,shadow,{\an2\blur2\yshad1\fnKizaKinryou Std JJK B Strp\fs66\fscy102.5\c&HE6E6E6&\4c&HD3D5D6&\1a&HFE&\4a&HE1&\pos(960,945)\b1}Takaba Fumihiko, 0 Points
+Dialogue: 0,0:09:45.98,0:09:49.36,Signs,,0,0,0,shadow,{\an2\blur2.5\yshad2\fnKizaKinryou Std JJK B Strp\fs66\fscy102.5\c&HE6E6E6&\4c&HD3D5D6&\1a&HFE&\4a&HE4&\pos(960,945)\b1}Takaba Fumihiko, 0 Points
+Dialogue: 0,0:09:45.98,0:09:49.36,Signs,,0,0,0,shadow,{\an2\blur2.5\yshad3\fnKizaKinryou Std JJK B Strp\fs66\fscy102.5\c&HE6E6E6&\4c&HD3D5D6&\1a&HFE&\4a&HE8&\pos(960,945)\b1}Takaba Fumihiko, 0 Points
+Dialogue: 0,0:09:45.98,0:09:49.36,Signs,,0,0,0,shadow,{\an2\blur2.5\yshad4\fnKizaKinryou Std JJK B Strp\fs66\fscy102.5\c&HE6E6E6&\4c&HD3D5D6&\1a&HFE&\4a&HEB&\pos(960,945)\b1}Takaba Fumihiko, 0 Points
+Dialogue: 0,0:09:45.98,0:09:49.36,Signs,,0,0,0,shadow,{\an2\blur2.5\yshad5\fnKizaKinryou Std JJK B Strp\fs66\fscy102.5\c&HE6E6E6&\4c&HD3D5D6&\1a&HFE&\4a&HEF&\pos(960,945)\b1}Takaba Fumihiko, 0 Points
+Dialogue: 0,0:09:45.98,0:09:49.36,Signs,,0,0,0,shadow,{\an2\blur2.5\yshad6\fnKizaKinryou Std JJK B Strp\fs66\fscy102.5\c&HE6E6E6&\4c&HD3D5D6&\1a&HFE&\4a&HF2&\pos(960,945)\b1}Takaba Fumihiko, 0 Points
+Dialogue: 0,0:09:45.98,0:09:49.36,Signs,,0,0,0,shadow,{\an2\blur2.5\yshad7\fnKizaKinryou Std JJK B Strp\fs66\fscy102.5\c&HE6E6E6&\4c&HD3D5D6&\1a&HFE&\4a&HF6&\pos(960,945)\b1}Takaba Fumihiko, 0 Points
+Dialogue: 0,0:09:45.98,0:09:49.36,Signs,,0,0,0,shadow,{\an2\blur2.5\yshad8\fnKizaKinryou Std JJK B Strp\fs66\fscy102.5\c&HE6E6E6&\4c&HD3D5D6&\1a&HFE&\4a&HFA&\pos(960,945)\b1}Takaba Fumihiko, 0 Points
+Dialogue: 0,0:09:45.98,0:09:49.36,Signs,,0,0,0,shadow,{\an8\blur5\yshad4\fnKizaKinryou Std JJK B Strp\fs66\fscy110\c&HE6E6E6&\4c&HD3D5D6&\1a&HFE&\4a&HF0&\pos(959.56,865.9)\b1}Takaba Fumihiko, 0 Points
 Dialogue: 0,0:21:41.82,0:21:44.57,f0ld3r-invisible,,0,0,0,,
-Dialogue: 5,0:21:41.82,0:21:44.57,Signs,,0,0,0,,{\an2\blur2\fnKizaKinryou Std JJK B Strp\fs66\c&HF0F0F0&\alpha&HC0&\pos(960,940)\b1}Domain Expansion: Chimera Shadow Garden Points
-Dialogue: 6,0:21:41.82,0:21:44.57,Signs,,0,0,0,,{\an2\blur0.67\fnKizaKinryou Std JJK B Strp\fs66\c&HF0F0F0&\alpha&H10&\pos(960,940)\b1}Domain Expansion: Chimera Shadow Garden Points
-Dialogue: 0,0:21:41.82,0:21:44.57,Signs,,0,0,0,shadow,{\an2\blur2\yshad1\fnKizaKinryou Std JJK B Strp\fs66\fscy102.5\c&HE6E6E6&\4c&HD3D5D6&\1a&HFE&\4a&HE1&\pos(960,940)\b1}Domain Expansion: Chimera Shadow Garden Points
-Dialogue: 0,0:21:41.82,0:21:44.57,Signs,,0,0,0,shadow,{\an2\blur2.5\yshad2\fnKizaKinryou Std JJK B Strp\fs66\fscy102.5\c&HE6E6E6&\4c&HD3D5D6&\1a&HFE&\4a&HE4&\pos(960,940)\b1}Domain Expansion: Chimera Shadow Garden Points
-Dialogue: 0,0:21:41.82,0:21:44.57,Signs,,0,0,0,shadow,{\an2\blur2.5\yshad3\fnKizaKinryou Std JJK B Strp\fs66\fscy102.5\c&HE6E6E6&\4c&HD3D5D6&\1a&HFE&\4a&HE8&\pos(960,940)\b1}Domain Expansion: Chimera Shadow Garden Points
-Dialogue: 0,0:21:41.82,0:21:44.57,Signs,,0,0,0,shadow,{\an2\blur2.5\yshad4\fnKizaKinryou Std JJK B Strp\fs66\fscy102.5\c&HE6E6E6&\4c&HD3D5D6&\1a&HFE&\4a&HEB&\pos(960,940)\b1}Domain Expansion: Chimera Shadow Garden Points
-Dialogue: 0,0:21:41.82,0:21:44.57,Signs,,0,0,0,shadow,{\an2\blur2.5\yshad5\fnKizaKinryou Std JJK B Strp\fs66\fscy102.5\c&HE6E6E6&\4c&HD3D5D6&\1a&HFE&\4a&HEF&\pos(960,940)\b1}Domain Expansion: Chimera Shadow Garden Points
-Dialogue: 0,0:21:41.82,0:21:44.57,Signs,,0,0,0,shadow,{\an2\blur2.5\yshad6\fnKizaKinryou Std JJK B Strp\fs66\fscy102.5\c&HE6E6E6&\4c&HD3D5D6&\1a&HFE&\4a&HF2&\pos(960,940)\b1}Domain Expansion: Chimera Shadow Garden Points
-Dialogue: 0,0:21:41.82,0:21:44.57,Signs,,0,0,0,shadow,{\an2\blur2.5\yshad7\fnKizaKinryou Std JJK B Strp\fs66\fscy102.5\c&HE6E6E6&\4c&HD3D5D6&\1a&HFE&\4a&HF6&\pos(960,940)\b1}Domain Expansion: Chimera Shadow Garden Points
-Dialogue: 0,0:21:41.82,0:21:44.57,Signs,,0,0,0,shadow,{\an2\blur2.5\yshad8\fnKizaKinryou Std JJK B Strp\fs66\fscy102.5\c&HE6E6E6&\4c&HD3D5D6&\1a&HFE&\4a&HFA&\pos(960,940)\b1}Domain Expansion: Chimera Shadow Garden Points
-Dialogue: 0,0:21:41.82,0:21:44.57,Signs,,0,0,0,shadow,{\an8\blur5\yshad4\fnKizaKinryou Std JJK B Strp\fs66\fscy110\c&HE6E6E6&\4c&HD3D5D6&\1a&HFE&\4a&HF0&\pos(959.56,860.9)\b1}Domain Expansion: Chimera Shadow Garden Points
+Dialogue: 6,0:21:41.82,0:21:44.57,Signs,,0,0,0,,{\an2\blur0.67\fnKizaKinryou Std JJK B Strp\fs66\c&HF0F0F0&\alpha&H10&\pos(960,940)\b1}Domain Expansion: Chimera Shadow Garden
+Dialogue: 0,0:21:41.82,0:21:44.57,Signs,,0,0,0,shadow,{\an2\blur2\yshad1\fnKizaKinryou Std JJK B Strp\fs66\fscy102.5\c&HE6E6E6&\4c&HD3D5D6&\1a&HFE&\4a&HE1&\pos(960,940)\b1}Domain Expansion: Chimera Shadow Garden
+Dialogue: 0,0:21:41.82,0:21:44.57,Signs,,0,0,0,shadow,{\an2\blur2.5\yshad2\fnKizaKinryou Std JJK B Strp\fs66\fscy102.5\c&HE6E6E6&\4c&HD3D5D6&\1a&HFE&\4a&HE4&\pos(960,940)\b1}Domain Expansion: Chimera Shadow Garden
+Dialogue: 0,0:21:41.82,0:21:44.57,Signs,,0,0,0,shadow,{\an2\blur2.5\yshad3\fnKizaKinryou Std JJK B Strp\fs66\fscy102.5\c&HE6E6E6&\4c&HD3D5D6&\1a&HFE&\4a&HE8&\pos(960,940)\b1}Domain Expansion: Chimera Shadow Garden
+Dialogue: 0,0:21:41.82,0:21:44.57,Signs,,0,0,0,shadow,{\an2\blur2.5\yshad4\fnKizaKinryou Std JJK B Strp\fs66\fscy102.5\c&HE6E6E6&\4c&HD3D5D6&\1a&HFE&\4a&HEB&\pos(960,940)\b1}Domain Expansion: Chimera Shadow Garden
+Dialogue: 0,0:21:41.82,0:21:44.57,Signs,,0,0,0,shadow,{\an2\blur2.5\yshad5\fnKizaKinryou Std JJK B Strp\fs66\fscy102.5\c&HE6E6E6&\4c&HD3D5D6&\1a&HFE&\4a&HEF&\pos(960,940)\b1}Domain Expansion: Chimera Shadow Garden
+Dialogue: 0,0:21:41.82,0:21:44.57,Signs,,0,0,0,shadow,{\an2\blur2.5\yshad6\fnKizaKinryou Std JJK B Strp\fs66\fscy102.5\c&HE6E6E6&\4c&HD3D5D6&\1a&HFE&\4a&HF2&\pos(960,940)\b1}Domain Expansion: Chimera Shadow Garden
+Dialogue: 0,0:21:41.82,0:21:44.57,Signs,,0,0,0,shadow,{\an2\blur2.5\yshad7\fnKizaKinryou Std JJK B Strp\fs66\fscy102.5\c&HE6E6E6&\4c&HD3D5D6&\1a&HFE&\4a&HF6&\pos(960,940)\b1}Domain Expansion: Chimera Shadow Garden
+Dialogue: 0,0:21:41.82,0:21:44.57,Signs,,0,0,0,shadow,{\an2\blur2.5\yshad8\fnKizaKinryou Std JJK B Strp\fs66\fscy102.5\c&HE6E6E6&\4c&HD3D5D6&\1a&HFE&\4a&HFA&\pos(960,940)\b1}Domain Expansion: Chimera Shadow Garden
+Dialogue: 0,0:21:41.82,0:21:44.57,Signs,,0,0,0,shadow,{\an8\blur5\yshad4\fnKizaKinryou Std JJK B Strp\fs66\fscy110\c&HE6E6E6&\4c&HD3D5D6&\1a&HFE&\4a&HF0&\pos(959.56,860.9)\b1}Domain Expansion: Chimera Shadow Garden
 Dialogue: 0,0:04:08.23,0:04:08.27,f0ld3r-invisible,,0,0,0,,{=27}
 Dialogue: 0,0:06:07.51,0:06:07.56,f0ld3r-invisible,,0,0,0,,{=8}--Rule 10
 Dialogue: 5,0:06:07.51,0:06:07.81,Signs,,0,0,0,,{\fad(0,150)\an8\blur0.5\fnA-OTF Antique Std AN DB\fs33\c&HEFEBE6&\move(956,28.80,956,18.00,0,350)\t(0,500,\blur2)}Players shall be able to view the following information on other players: \Nname, points, number of rules added, and current colony.
@@ -147,7 +147,7 @@ Dialogue: 2,0:06:07.51,0:06:07.81,Signs,,0,0,0,,{\fad(0,150)\an5\blur0.5\fscx55\
 Dialogue: 2,0:06:07.51,0:06:07.81,Signs,,0,0,0,,{\fad(0,150)\an5\blur0.5\fscx55\fscy60\fry180\c&H0000B0&\move(282.9,66.26,282.9,60.26,0,350)\p1\t(0,500,\blur2)}m 25.02 17.16 l 24.55 19.16 23.02 20.8 11.46 3.88 9.96 3.88 35.04 41.04 34.25 42.65 8.34 3.88 5.49 3.88 37.41 53.54 37.73 52.62 38.97 51.38 39.52 51.54 54.28 74.3 39.52 97.05 38.97 97.21 36.75 96.05 35.53 94.24 34.25 95.49 33.59 98.16 0.85 143.38 1.27 143.98 4.5 143.57 31.88 106.33 32.67 107.49 5.96 144.14 6.73 145.04 19.18 127.66 20.71 129.29 21.18 131.26 8.02 148.2 -16.17 148.01 -18.45 146.67 -41.43 146.85 -43.35 145.57 -46.65 144.88 -45.53 143.57 -27.67 143.57 -28.06 141.63 -30.82 141.04 -32.76 140.13 -53.85 140.13 -54.29 139.57 -53.8 138.6 -8.02 138.6 3.57 121.73 5.17 121.16 13.02 110.54 2.53 112.23 -11.67 132.49 -12.02 132.01 2.13 111.86 13.78 109.91 20.35 100.6 22.68 98.16 23.28 98.74 21.64 101.02 14.38 111.41 23.33 110.83 32.86 98.02 32.96 96.13 32.01 94.66 32.45 93.99 28.2 88.21 24.55 93 23.67 92.95 23.64 96.55 22.95 98.69 22.69 98.3 23.25 96.07 23.25 92.91 22.53 92.86 22.97 89.99 26.33 85.69 17.95 74.3 26.33 62.9 23.47 58.54 23.65 56.25 24.14 55.93 24.27 50.98 25.05 50.87 25.1 55.57 28.2 60.4 32.45 54.61 32.01 53.93 33.86 51.9 35.08 51.9 29.78 43.76 28.85 43.58 24.59 37.02 16.05 36.21 23.11 46.94 24.66 50.38 23.99 50.62 22.07 47.79 15.37 37.83 4.86 36.9 -8.54 16.54 -8.26 15.99 5.16 36.4 14.87 37.28 8.68 27.88 7.09 27.44 -4.51 9.27 -50.45 9.27 -50.94 8.32 -50.51 7.74 -29.4 7.74 -27.48 6.82 -24.71 6.27 -24.09 4.68 -41.93 4.68 -43.13 3.88 -40.66 2.71 -38.74 1.43 -14.28 1.43 -11.45 -0.4 12.91 -0.4 m 13.92 111.99 l 6.64 121.86 6.36 123.27 -4.32 138.57 -2.93 138.57 8.71 122.02 11.18 126.71 13.38 123.91 14.49 123.02 22.9 111.38 m 28.88 87.16 l 33.11 92.96 34.64 90.66 30.4 84.8 m 37.38 56.73 l 48.89 74.3 37.38 91.88 38.23 92.94 50.43 74.3 38.23 55.65 m 31.21 65.05 l 37.18 74.3 31.21 83.55 35.43 89.41 45.37 74.3 35.43 59.18 m 19.53 74.3 l 27.03 84.61 28.55 82.27 22.74 74.3 28.55 66.32 27.03 64 m 24.56 74.3 l 29.39 81.02 33.78 74.3 29.39 67.57 m 28.88 61.43 l 30.4 63.79 34.64 57.94 33.11 55.65 m 9.11 25.05 l 9.3 25.9 15.77 35.69 24.21 36.51 14.37 21.52 14.06 23.08 13.38 24.69 12.54 25.83 10.78 24.98 0.57 9.27 -1.07 9.27
 Dialogue: 1,0:06:07.51,0:06:07.81,Signs,,0,0,0,,{\fad(0,150)\an7\blur0.5\fscx100\fscy100\c&H0E0E09&\1a&H32&\move(4,0.00,4,-6.00,0,350)\p1\t(0,500,\blur2)}m 311.42 27.08 l 1594.15 27.38 1616.19 65.12 1591.96 104.62 313.3 105.09 289.26 65.97
 Dialogue: 0,0:06:07.51,0:06:07.56,f0ld3r-invisible,,0,0,0,,
-Dialogue: 5,0:06:07.81,0:06:14.02,Signs,,0,0,0,,{\fnA-OTF Antique Std AN DB\fad(500,0)\an8\blur2\fs33\c&HEFEBE6&\move(960,33.6,960,44.8,0,500)\t(0,300,\blur0.5)}Players may transfer a number of points of their choosing to another player.
+Dialogue: 5,0:06:07.81,0:06:14.02,Signs,,0,0,0,,{\fad(500,0)\an8\blur2\fnA-OTF Antique Std AN DB\fs33\c&HEFEBE6&\move(960,33.6,960,44.8,0,500)\t(0,300,\blur0.5)}Players may transfer a number of points of their choosing to another player.
 Dialogue: 2,0:06:07.81,0:06:14.02,Signs,,0,0,0,,{\fad(300,0)\an5\blur2\fscx254\fscy55\c&H0000B0&\move(1860.46,56.26,1860.46,62.26,0,500)\p1\t(0,300,\blur0.5)}m 127.93 -62.29 l 130.23 -59.19 -350.54 -59.19 -348.24 -62.29 m 134.07 -68.53 l 132.21 -67.54 127.24 -66.84 125.15 -65.59 -345.49 -65.59 -347.55 -66.84 -352.53 -67.54 -354.38 -68.53
 Dialogue: 2,0:06:07.81,0:06:14.02,Signs,,0,0,0,,{\fad(300,0)\an5\blur2\fscx254\fscy55\fry180\frz180\c&H0000B0&\move(1860.46,64.26,1860.46,70.26,0,500)\p1\t(0,300,\blur0.5)}m 127.93 -62.29 l 130.23 -59.19 -350.54 -59.19 -348.24 -62.29 m 134.07 -68.53 l 132.21 -67.54 127.24 -66.84 125.15 -65.59 -345.49 -65.59 -347.55 -66.84 -352.53 -67.54 -354.38 -68.53
 Dialogue: 2,0:06:07.81,0:06:14.02,Signs,,0,0,0,,{\fad(300,0)\an5\blur2\fscx55\fscy60\c&H0000B0&\move(1633.46,60.26,1633.46,66.26,0,500)\p1\t(0,300,\blur0.5)}m 25.02 17.16 l 24.55 19.16 23.02 20.8 11.46 3.88 9.96 3.88 35.04 41.04 34.25 42.65 8.34 3.88 5.49 3.88 37.41 53.54 37.73 52.62 38.97 51.38 39.52 51.54 54.28 74.3 39.52 97.05 38.97 97.21 36.75 96.05 35.53 94.24 34.25 95.49 33.59 98.16 0.85 143.38 1.27 143.98 4.5 143.57 31.88 106.33 32.67 107.49 5.96 144.14 6.73 145.04 19.18 127.66 20.71 129.29 21.18 131.26 8.02 148.2 -16.17 148.01 -18.45 146.67 -41.43 146.85 -43.35 145.57 -46.65 144.88 -45.53 143.57 -27.67 143.57 -28.06 141.63 -30.82 141.04 -32.76 140.13 -53.85 140.13 -54.29 139.57 -53.8 138.6 -8.02 138.6 3.57 121.73 5.17 121.16 13.02 110.54 2.53 112.23 -11.67 132.49 -12.02 132.01 2.13 111.86 13.78 109.91 20.35 100.6 22.68 98.16 23.28 98.74 21.64 101.02 14.38 111.41 23.33 110.83 32.86 98.02 32.96 96.13 32.01 94.66 32.45 93.99 28.2 88.21 24.55 93 23.67 92.95 23.64 96.55 22.95 98.69 22.69 98.3 23.25 96.07 23.25 92.91 22.53 92.86 22.97 89.99 26.33 85.69 17.95 74.3 26.33 62.9 23.47 58.54 23.65 56.25 24.14 55.93 24.27 50.98 25.05 50.87 25.1 55.57 28.2 60.4 32.45 54.61 32.01 53.93 33.86 51.9 35.08 51.9 29.78 43.76 28.85 43.58 24.59 37.02 16.05 36.21 23.11 46.94 24.66 50.38 23.99 50.62 22.07 47.79 15.37 37.83 4.86 36.9 -8.54 16.54 -8.26 15.99 5.16 36.4 14.87 37.28 8.68 27.88 7.09 27.44 -4.51 9.27 -50.45 9.27 -50.94 8.32 -50.51 7.74 -29.4 7.74 -27.48 6.82 -24.71 6.27 -24.09 4.68 -41.93 4.68 -43.13 3.88 -40.66 2.71 -38.74 1.43 -14.28 1.43 -11.45 -0.4 12.91 -0.4 m 13.92 111.99 l 6.64 121.86 6.36 123.27 -4.32 138.57 -2.93 138.57 8.71 122.02 11.18 126.71 13.38 123.91 14.49 123.02 22.9 111.38 m 28.88 87.16 l 33.11 92.96 34.64 90.66 30.4 84.8 m 37.38 56.73 l 48.89 74.3 37.38 91.88 38.23 92.94 50.43 74.3 38.23 55.65 m 31.21 65.05 l 37.18 74.3 31.21 83.55 35.43 89.41 45.37 74.3 35.43 59.18 m 19.53 74.3 l 27.03 84.61 28.55 82.27 22.74 74.3 28.55 66.32 27.03 64 m 24.56 74.3 l 29.39 81.02 33.78 74.3 29.39 67.57 m 28.88 61.43 l 30.4 63.79 34.64 57.94 33.11 55.65 m 9.11 25.05 l 9.3 25.9 15.77 35.69 24.21 36.51 14.37 21.52 14.06 23.08 13.38 24.69 12.54 25.83 10.78 24.98 0.57 9.27 -1.07 9.27
@@ -167,91 +167,92 @@ Dialogue: 0,0:10:58.55,0:10:58.64,Signs,,0,0,0,,{=29}{\an7\blur2\c&HFBFAFA&\pos(
 Dialogue: 0,0:10:58.64,0:10:58.68,Signs,,0,0,0,,{=29}{\an7\blur2\fscx100.01\fscy100.01\c&HFBFAFA&\pos(-0.08,-24.4)\p1}m 882.03 701.28 l 881.4 670.71 915.71 650.12 941.29 651.99 958.75 630.16 989.94 628.28 1011.15 636.4 1024.87 640.76 1036.1 655.11 1049.82 683.19 1050.45 722.5 1059.18 754.32 1054.81 778.02 1048.58 793 1032.98 806.1 989.32 809.84 966.24 816.08 942.53 826.07 921.33 814.84 924.44 789.88 896.37 788.01 884.52 750.57
 Dialogue: 0,0:10:58.68,0:10:58.72,Signs,,0,0,0,,{=29}{\an7\blur2\fscx99.99\fscy99.99\c&HFBFAFA&\pos(0.09,-20.45)\p1}m 882.03 701.28 l 881.4 670.71 915.71 650.12 941.29 651.99 958.75 630.16 989.94 628.28 1011.15 636.4 1024.87 640.76 1036.1 655.11 1049.82 683.19 1050.45 722.5 1059.18 754.32 1054.81 778.02 1048.58 793 1032.98 806.1 989.32 809.84 966.24 816.08 942.53 826.07 921.33 814.84 924.44 789.88 896.37 788.01 884.52 750.57
 Dialogue: 0,0:10:58.72,0:11:00.89,Signs,,0,0,0,,{=29}{\an7\blur2\fscx99.99\fscy99.99\c&HFBFAFA&\pos(0.07,-20.46)\p1}m 882.03 701.28 l 881.4 670.71 915.71 650.12 941.29 651.99 958.75 630.16 989.94 628.28 1011.15 636.4 1024.87 640.76 1036.1 655.11 1049.82 683.19 1050.45 722.5 1059.18 754.32 1054.81 778.02 1048.58 793 1032.98 806.1 989.32 809.84 966.24 816.08 942.53 826.07 921.33 814.84 924.44 789.88 896.37 788.01 884.52 750.57
-Dialogue: 3,0:10:58.18,0:10:58.22,Signs,,0,0,0,,{=28}{\alpha&HC0&\blur1\fnBrush Strokes\fs99\fscx90\fscy100\c&HB5BE00&\pos(970,730)}Curse
-Dialogue: 3,0:10:58.22,0:10:58.26,Signs,,0,0,0,,{=28}{\alpha&HC0&\blur1\fnBrush Strokes\fs99\fscx90.01\fscy100.01\c&HB5BE00&\pos(970,726.15)}Curse
-Dialogue: 3,0:10:58.26,0:10:58.30,Signs,,0,0,0,,{=28}{\alpha&HC0&\blur1\fnBrush Strokes\fs99\fscx90\fscy100\c&HB5BE00&\pos(970,722.29)}Curse
-Dialogue: 3,0:10:58.30,0:10:58.35,Signs,,0,0,0,,{=28}{\alpha&HC0&\blur1\fnBrush Strokes\fs99\fscx89.99\fscy99.99\c&HB5BE00&\pos(970,718.46)}Curse
-Dialogue: 3,0:10:58.35,0:10:58.39,Signs,,0,0,0,,{=28}{\alpha&HC0&\blur1\fnBrush Strokes\fs99\fscx90\fscy100\c&HB5BE00&\pos(970,714.63)}Curse
-Dialogue: 3,0:10:58.39,0:10:58.43,Signs,,0,0,0,,{=28}{\alpha&HC0&\blur1\fnBrush Strokes\fs99\fscx90\fscy100\c&HB5BE00&\pos(970,710.77)}Curse
-Dialogue: 3,0:10:58.43,0:10:58.55,Signs,,0,0,0,,{=28}{\alpha&HC0&\blur1\fnBrush Strokes\fs99\fscx89.99\fscy99.99\c&HB5BE00&\pos(970,706.95)}Curse
-Dialogue: 3,0:10:58.55,0:10:58.64,Signs,,0,0,0,,{=28}{\alpha&HC0&\blur1\fnBrush Strokes\fs99\fscx90\fscy100\c&HB5BE00&\pos(970,705.66)}Curse
-Dialogue: 3,0:10:58.64,0:10:58.68,Signs,,0,0,0,,{=28}{\alpha&HC0&\blur1\fnBrush Strokes\fs99\fscx90.01\fscy100.01\c&HB5BE00&\pos(970,705.66)}Curse
-Dialogue: 3,0:10:58.68,0:10:58.72,Signs,,0,0,0,,{=28}{\alpha&HC0&\blur1\fnBrush Strokes\fs99\fscx89.99\fscy99.99\c&HB5BE00&\pos(970,709.48)}Curse
-Dialogue: 3,0:10:58.72,0:11:00.89,Signs,,0,0,0,,{=28}{\alpha&HC0&\blur1\fnBrush Strokes\fs99\fscx89.99\fscy99.99\c&HB5BE00&\pos(970,709.49)}Curse
-Dialogue: 4,0:10:58.18,0:10:58.22,Signs,,0,0,0,,{=28}{\alpha&HC0&\blur1\fnBrush Strokes\fs99\fscx90\fscy100\c&HC200D5&\pos(967,730)}Curse
-Dialogue: 4,0:10:58.22,0:10:58.26,Signs,,0,0,0,,{=28}{\alpha&HC0&\blur1\fnBrush Strokes\fs99\fscx90.01\fscy100.01\c&HC200D5&\pos(967,726.15)}Curse
-Dialogue: 4,0:10:58.26,0:10:58.30,Signs,,0,0,0,,{=28}{\alpha&HC0&\blur1\fnBrush Strokes\fs99\fscx90\fscy100\c&HC200D5&\pos(967,722.29)}Curse
-Dialogue: 4,0:10:58.30,0:10:58.35,Signs,,0,0,0,,{=28}{\alpha&HC0&\blur1\fnBrush Strokes\fs99\fscx89.99\fscy99.99\c&HC200D5&\pos(967,718.46)}Curse
-Dialogue: 4,0:10:58.35,0:10:58.39,Signs,,0,0,0,,{=28}{\alpha&HC0&\blur1\fnBrush Strokes\fs99\fscx90\fscy100\c&HC200D5&\pos(967,714.63)}Curse
-Dialogue: 4,0:10:58.39,0:10:58.43,Signs,,0,0,0,,{=28}{\alpha&HC0&\blur1\fnBrush Strokes\fs99\fscx90\fscy100\c&HC200D5&\pos(967,710.77)}Curse
-Dialogue: 4,0:10:58.43,0:10:58.55,Signs,,0,0,0,,{=28}{\alpha&HC0&\blur1\fnBrush Strokes\fs99\fscx89.99\fscy99.99\c&HC200D5&\pos(967,706.95)}Curse
-Dialogue: 4,0:10:58.55,0:10:58.64,Signs,,0,0,0,,{=28}{\alpha&HC0&\blur1\fnBrush Strokes\fs99\fscx90\fscy100\c&HC200D5&\pos(967,705.66)}Curse
-Dialogue: 4,0:10:58.64,0:10:58.68,Signs,,0,0,0,,{=28}{\alpha&HC0&\blur1\fnBrush Strokes\fs99\fscx90.01\fscy100.01\c&HC200D5&\pos(967,705.66)}Curse
-Dialogue: 4,0:10:58.68,0:10:58.72,Signs,,0,0,0,,{=28}{\alpha&HC0&\blur1\fnBrush Strokes\fs99\fscx89.99\fscy99.99\c&HC200D5&\pos(967,709.48)}Curse
-Dialogue: 4,0:10:58.72,0:11:00.89,Signs,,0,0,0,,{=28}{\alpha&HC0&\blur1\fnBrush Strokes\fs99\fscx89.99\fscy99.99\c&HC200D5&\pos(967,709.49)}Curse
-Dialogue: 5,0:10:58.18,0:10:58.22,Signs,,0,0,0,,{=28}{\blur0.8\fnBrush Strokes\fs99\fscx90\fscy100\c&H141315&\pos(968,730)}Curse
-Dialogue: 5,0:10:58.22,0:10:58.26,Signs,,0,0,0,,{=28}{\blur0.8\fnBrush Strokes\fs99\fscx90.01\fscy100.01\c&H141315&\pos(968,726.15)}Curse
-Dialogue: 5,0:10:58.26,0:10:58.30,Signs,,0,0,0,,{=28}{\blur0.8\fnBrush Strokes\fs99\fscx90\fscy100\c&H141315&\pos(968,722.29)}Curse
-Dialogue: 5,0:10:58.30,0:10:58.35,Signs,,0,0,0,,{=28}{\blur0.8\fnBrush Strokes\fs99\fscx89.99\fscy99.99\c&H141315&\pos(968,718.46)}Curse
-Dialogue: 5,0:10:58.35,0:10:58.39,Signs,,0,0,0,,{=28}{\blur0.8\fnBrush Strokes\fs99\fscx90\fscy100\c&H141315&\pos(968,714.63)}Curse
-Dialogue: 5,0:10:58.39,0:10:58.43,Signs,,0,0,0,,{=28}{\blur0.8\fnBrush Strokes\fs99\fscx90\fscy100\c&H141315&\pos(968,710.77)}Curse
-Dialogue: 5,0:10:58.43,0:10:58.55,Signs,,0,0,0,,{=28}{\blur0.8\fnBrush Strokes\fs99\fscx89.99\fscy99.99\c&H141315&\pos(968,706.95)}Curse
-Dialogue: 5,0:10:58.55,0:10:58.64,Signs,,0,0,0,,{=28}{\blur0.8\fnBrush Strokes\fs99\fscx90\fscy100\c&H141315&\pos(968,705.66)}Curse
-Dialogue: 5,0:10:58.64,0:10:58.68,Signs,,0,0,0,,{=28}{\blur0.8\fnBrush Strokes\fs99\fscx90.01\fscy100.01\c&H141315&\pos(968,705.66)}Curse
-Dialogue: 5,0:10:58.68,0:10:58.72,Signs,,0,0,0,,{=28}{\blur0.8\fnBrush Strokes\fs99\fscx89.99\fscy99.99\c&H141315&\pos(968,709.48)}Curse
-Dialogue: 5,0:10:58.72,0:11:00.89,Signs,,0,0,0,,{=28}{\blur0.8\fnBrush Strokes\fs99\fscx89.99\fscy99.99\c&H141315&\pos(968,709.49)}Curse
+Dialogue: 3,0:10:58.18,0:10:58.22,Signs,,0,0,0,,{=28}{\blur1\fnBrush Strokes\fs99\fscx90\fscy100\c&HB5BE00&\alpha&HC0&\pos(970,730)}Curse
+Dialogue: 3,0:10:58.22,0:10:58.26,Signs,,0,0,0,,{=28}{\blur1\fnBrush Strokes\fs99\fscx90.01\fscy100.01\c&HB5BE00&\alpha&HC0&\pos(970,726.15)}Curse
+Dialogue: 3,0:10:58.26,0:10:58.30,Signs,,0,0,0,,{=28}{\blur1\fnBrush Strokes\fs99\fscx90\fscy100\c&HB5BE00&\alpha&HC0&\pos(970,722.29)}Curse
+Dialogue: 3,0:10:58.30,0:10:58.35,Signs,,0,0,0,,{=28}{\blur1\fnBrush Strokes\fs99\fscx89.99\fscy99.99\c&HB5BE00&\alpha&HC0&\pos(970,718.46)}Curse
+Dialogue: 3,0:10:58.35,0:10:58.39,Signs,,0,0,0,,{=28}{\blur1\fnBrush Strokes\fs99\fscx90\fscy100\c&HB5BE00&\alpha&HC0&\pos(970,714.63)}Curse
+Dialogue: 3,0:10:58.39,0:10:58.43,Signs,,0,0,0,,{=28}{\blur1\fnBrush Strokes\fs99\fscx90\fscy100\c&HB5BE00&\alpha&HC0&\pos(970,710.77)}Curse
+Dialogue: 3,0:10:58.43,0:10:58.55,Signs,,0,0,0,,{=28}{\blur1\fnBrush Strokes\fs99\fscx89.99\fscy99.99\c&HB5BE00&\alpha&HC0&\pos(970,706.95)}Curse
+Dialogue: 3,0:10:58.55,0:10:58.64,Signs,,0,0,0,,{=28}{\blur1\fnBrush Strokes\fs99\fscx90\fscy100\c&HB5BE00&\alpha&HC0&\pos(970,705.66)}Curse
+Dialogue: 3,0:10:58.64,0:10:58.68,Signs,,0,0,0,,{=28}{\blur1\fnBrush Strokes\fs99\fscx90.01\fscy100.01\c&HB5BE00&\alpha&HC0&\pos(970,705.66)}Curse
+Dialogue: 3,0:10:58.68,0:10:58.72,Signs,,0,0,0,,{=28}{\blur1\fnBrush Strokes\fs99\fscx89.99\fscy99.99\c&HB5BE00&\alpha&HC0&\pos(970,709.48)}Curse
+Dialogue: 3,0:10:58.72,0:11:00.89,Signs,,0,0,0,,{=28}{\blur1\fnBrush Strokes\fs99\fscx89.99\fscy99.99\c&HB5BE00&\alpha&HC0&\pos(970,709.49)}Curse
+Dialogue: 4,0:10:58.18,0:10:58.22,Signs,,0,0,0,,{=28}{\blur1\fnBrush Strokes\fs99\fscx90\fscy100\c&HC200D5&\alpha&HC0&\pos(967,730)}Curse
+Dialogue: 4,0:10:58.22,0:10:58.26,Signs,,0,0,0,,{=28}{\blur1\fnBrush Strokes\fs99\fscx90.01\fscy100.01\c&HC200D5&\alpha&HC0&\pos(967,726.15)}Curse
+Dialogue: 4,0:10:58.26,0:10:58.30,Signs,,0,0,0,,{=28}{\blur1\fnBrush Strokes\fs99\fscx90\fscy100\c&HC200D5&\alpha&HC0&\pos(967,722.29)}Curse
+Dialogue: 4,0:10:58.30,0:10:58.35,Signs,,0,0,0,,{=28}{\blur1\fnBrush Strokes\fs99\fscx89.99\fscy99.99\c&HC200D5&\alpha&HC0&\pos(967,718.46)}Curse
+Dialogue: 4,0:10:58.35,0:10:58.39,Signs,,0,0,0,,{=28}{\blur1\fnBrush Strokes\fs99\fscx90\fscy100\c&HC200D5&\alpha&HC0&\pos(967,714.63)}Curse
+Dialogue: 4,0:10:58.39,0:10:58.43,Signs,,0,0,0,,{=28}{\blur1\fnBrush Strokes\fs99\fscx90\fscy100\c&HC200D5&\alpha&HC0&\pos(967,710.77)}Curse
+Dialogue: 4,0:10:58.43,0:10:58.55,Signs,,0,0,0,,{=28}{\blur1\fnBrush Strokes\fs99\fscx89.99\fscy99.99\c&HC200D5&\alpha&HC0&\pos(967,706.95)}Curse
+Dialogue: 4,0:10:58.55,0:10:58.64,Signs,,0,0,0,,{=28}{\blur1\fnBrush Strokes\fs99\fscx90\fscy100\c&HC200D5&\alpha&HC0&\pos(967,705.66)}Curse
+Dialogue: 4,0:10:58.64,0:10:58.68,Signs,,0,0,0,,{=28}{\blur1\fnBrush Strokes\fs99\fscx90.01\fscy100.01\c&HC200D5&\alpha&HC0&\pos(967,705.66)}Curse
+Dialogue: 4,0:10:58.68,0:10:58.72,Signs,,0,0,0,,{=28}{\blur1\fnBrush Strokes\fs99\fscx89.99\fscy99.99\c&HC200D5&\alpha&HC0&\pos(967,709.48)}Curse
+Dialogue: 4,0:10:58.72,0:11:00.89,Signs,,0,0,0,,{=28}{\blur1\fnBrush Strokes\fs99\fscx89.99\fscy99.99\c&HC200D5&\alpha&HC0&\pos(967,709.49)}Curse
+Dialogue: 5,0:10:58.18,0:10:58.22,Signs,,0,0,0,,{=28}{\blur0.7\fnBrush Strokes\fs99\fscx90\fscy100\c&H141315&\pos(968,730)}Curse
+Dialogue: 5,0:10:58.22,0:10:58.26,Signs,,0,0,0,,{=28}{\blur0.7\fnBrush Strokes\fs99\fscx90.01\fscy100.01\c&H141315&\pos(968,726.15)}Curse
+Dialogue: 5,0:10:58.26,0:10:58.30,Signs,,0,0,0,,{=28}{\blur0.7\fnBrush Strokes\fs99\fscx90\fscy100\c&H141315&\pos(968,722.29)}Curse
+Dialogue: 5,0:10:58.30,0:10:58.35,Signs,,0,0,0,,{=28}{\blur0.7\fnBrush Strokes\fs99\fscx89.99\fscy99.99\c&H141315&\pos(968,718.46)}Curse
+Dialogue: 5,0:10:58.35,0:10:58.39,Signs,,0,0,0,,{=28}{\blur0.7\fnBrush Strokes\fs99\fscx90\fscy100\c&H141315&\pos(968,714.63)}Curse
+Dialogue: 5,0:10:58.39,0:10:58.43,Signs,,0,0,0,,{=28}{\blur0.7\fnBrush Strokes\fs99\fscx90\fscy100\c&H141315&\pos(968,710.77)}Curse
+Dialogue: 5,0:10:58.43,0:10:58.55,Signs,,0,0,0,,{=28}{\blur0.7\fnBrush Strokes\fs99\fscx89.99\fscy99.99\c&H141315&\pos(968,706.95)}Curse
+Dialogue: 5,0:10:58.55,0:10:58.64,Signs,,0,0,0,,{=28}{\blur0.7\fnBrush Strokes\fs99\fscx90\fscy100\c&H141315&\pos(968,705.66)}Curse
+Dialogue: 5,0:10:58.64,0:10:58.68,Signs,,0,0,0,,{=28}{\blur0.7\fnBrush Strokes\fs99\fscx90.01\fscy100.01\c&H141315&\pos(968,705.66)}Curse
+Dialogue: 5,0:10:58.68,0:10:58.72,Signs,,0,0,0,,{=28}{\blur0.7\fnBrush Strokes\fs99\fscx89.99\fscy99.99\c&H141315&\pos(968,709.48)}Curse
+Dialogue: 5,0:10:58.72,0:11:00.89,Signs,,0,0,0,,{=28}{\blur0.7\fnBrush Strokes\fs99\fscx89.99\fscy99.99\c&H141315&\pos(968,709.49)}Curse
 Dialogue: 0,0:11:04.52,0:11:06.65,f0ld3r-invisible,,0,0,0,,
 Dialogue: 0,0:11:04.52,0:11:05.69,Signs,,0,0,0,,{=33}{\an7\blur1.5\c&HF1F1F0&\pos(0,0)\p1}m 896.73 924.27 l 898.67 911.81 907.24 904.02 923.59 901.3 931.38 893.9 951.24 897.4 960.19 903.63 968.37 921.15 967.98 939.84 966.42 952.69 964.87 959.7 952.8 965.93 919.7 970.21 904.51 960.48 895.56 937.12
 Dialogue: 0,0:11:05.69,0:11:06.27,Signs,,0,0,0,,{=33}{\an7\blur1.5\fscx99.97\fscy99.97\c&HF1F1F0&\pos(7.99,4.13)\p1}m 896.73 924.27 l 898.67 911.81 907.24 904.02 923.59 901.3 931.38 893.9 951.24 897.4 960.19 903.63 968.37 921.15 967.98 939.84 966.42 952.69 964.87 959.7 952.8 965.93 919.7 970.21 904.51 960.48 895.56 937.12
 Dialogue: 0,0:11:06.27,0:11:06.40,Signs,,0,0,0,,{=33}{\an7\blur1.5\fscx100.01\fscy100.01\c&HF1F1F0&\pos(73.86,17.75)\p1}m 896.73 924.27 l 898.67 911.81 907.24 904.02 923.59 901.3 931.38 893.9 951.24 897.4 960.19 903.63 968.37 921.15 967.98 939.84 966.42 952.69 964.87 959.7 952.8 965.93 919.7 970.21 904.51 960.48 895.56 937.12
 Dialogue: 0,0:11:06.40,0:11:06.52,Signs,,0,0,0,,{=33}{\an7\blur1.42\fscx94.92\fscy94.92\c&HF1F1F0&\pos(196.26,29.67)\p1}m 896.73 924.27 l 898.67 911.81 907.24 904.02 923.59 901.3 931.38 893.9 951.24 897.4 960.19 903.63 968.37 921.15 967.98 939.84 966.42 952.69 964.87 959.7 952.8 965.93 919.7 970.21 904.51 960.48 895.56 937.12
 Dialogue: 0,0:11:06.52,0:11:06.65,Signs,,0,0,0,,{=33}{\an7\blur1.43\fscx95.21\fscy95.21\c&HF4F5F3&\pos(269.24,-50)\p1}m 896.73 924.27 l 898.67 911.81 907.24 904.02 923.59 901.3 931.38 893.9 951.24 897.4 960.19 903.63 968.37 921.15 967.98 939.84 966.42 952.69 964.87 959.7 952.8 965.93 919.7 970.21 904.51 960.48 895.56 937.12
-Dialogue: 3,0:11:04.52,0:11:05.69,Signs,,0,0,0,,{=32}{\alpha&HE0&\blur0.8\fnBrush Strokes\fs39\c&HFFED00&\pos(934,934)\b1\fscy110}Curse
-Dialogue: 3,0:11:05.69,0:11:06.23,Signs,,0,0,0,,{=32}{\alpha&HE0&\blur0.8\fnBrush Strokes\fs39\fscx99.97\fscy109.97\c&HFFED00&\pos(941.69,937.82)\b1}Curse
-Dialogue: 3,0:11:06.23,0:11:06.27,Signs,,0,0,0,,{=32}{\alpha&HE0&\blur0.8\fnBrush Strokes\fs39\fscx99.97\fscy109.97\c&HFFED00&\pos(941.72,937.84)\b1}Curse
-Dialogue: 3,0:11:06.27,0:11:06.40,Signs,,0,0,0,,{=32}{\alpha&HE0&\blur0.8\fnBrush Strokes\fs39\fscx100.01\fscy110.01\c&HFFED00&\pos(1008,951.89)\b1}Curse
-Dialogue: 3,0:11:06.40,0:11:06.52,Signs,,0,0,0,,{=32}{\alpha&HE0&\blur0.8\fnBrush Strokes\fs39\fscx100.02\fscy110.02\c&HFFED00&\pos(1083.56,917.98)\b1}Curse
-Dialogue: 3,0:11:06.52,0:11:06.65,Signs,,0,0,0,,{=32}{\alpha&HE0&\blur0.8\fnBrush Strokes\fs39\fscx100.02\fscy110.02\c&HFFED00&\pos(1157.74,839.36)\b1}Curse
-Dialogue: 4,0:11:04.52,0:11:05.69,Signs,,0,0,0,,{=32}{\alpha&HE0&\blur0.8\fnBrush Strokes\fs39\c&HE900FF&\pos(932,934)\b1\fscy110}Curse
-Dialogue: 4,0:11:05.69,0:11:06.23,Signs,,0,0,0,,{=32}{\alpha&HE0&\blur0.8\fnBrush Strokes\fs39\fscx99.97\fscy109.97\c&HE900FF&\pos(939.69,937.82)\b1}Curse
-Dialogue: 4,0:11:06.23,0:11:06.27,Signs,,0,0,0,,{=32}{\alpha&HE0&\blur0.8\fnBrush Strokes\fs39\fscx99.97\fscy109.97\c&HE900FF&\pos(939.72,937.84)\b1}Curse
-Dialogue: 4,0:11:06.27,0:11:06.40,Signs,,0,0,0,,{=32}{\alpha&HE0&\blur0.8\fnBrush Strokes\fs39\fscx100.01\fscy110.01\c&HE900FF&\pos(1006,951.89)\b1}Curse
-Dialogue: 4,0:11:06.40,0:11:06.52,Signs,,0,0,0,,{=32}{\alpha&HE0&\blur0.8\fnBrush Strokes\fs39\fscx100.02\fscy110.02\c&HE900FF&\pos(1081.56,917.98)\b1}Curse
-Dialogue: 4,0:11:06.52,0:11:06.65,Signs,,0,0,0,,{=32}{\alpha&HE0&\blur0.8\fnBrush Strokes\fs39\fscx100.02\fscy110.02\c&HE900FF&\pos(1155.74,839.36)\b1}Curse
-Dialogue: 5,0:11:04.52,0:11:05.69,Signs,,0,0,0,,{=32}{\blur0.67\fnBrush Strokes\fs39\c&H0E100D&\pos(933,934)\b1\fscy110}Curse
-Dialogue: 5,0:11:05.69,0:11:06.23,Signs,,0,0,0,,{=32}{\blur0.67\fnBrush Strokes\fs39\fscx99.97\fscy109.97\c&H0E100D&\pos(940.69,937.82)\b1}Curse
-Dialogue: 5,0:11:06.23,0:11:06.27,Signs,,0,0,0,,{=32}{\blur0.67\fnBrush Strokes\fs39\fscx99.97\fscy109.97\c&H0E100D&\pos(940.72,937.84)\b1}Curse
-Dialogue: 5,0:11:06.27,0:11:06.40,Signs,,0,0,0,,{=32}{\blur0.67\fnBrush Strokes\fs39\fscx100.01\fscy110.01\c&H111310&\pos(1007,951.89)\b1}Curse
-Dialogue: 5,0:11:06.40,0:11:06.52,Signs,,0,0,0,,{=32}{\blur0.67\fnBrush Strokes\fs39\fscx100.02\fscy110.02\c&H191918&\pos(1082.56,917.98)\b1}Curse
-Dialogue: 5,0:11:06.52,0:11:06.65,Signs,,0,0,0,,{=32}{\blur0.67\fnBrush Strokes\fs39\fscx100.02\fscy110.02\c&H2F2F30&\pos(1156.74,839.36)\b1}Curse
+Dialogue: 3,0:11:04.52,0:11:05.69,Signs,,0,0,0,,{=32}{\blur0.8\fnBrush Strokes\fs39\fscy110\c&HFFED00&\alpha&HE0&\pos(934,934)\b1}Curse
+Dialogue: 3,0:11:05.69,0:11:06.23,Signs,,0,0,0,,{=32}{\blur0.8\fnBrush Strokes\fs39\fscx99.97\fscy109.97\c&HFFED00&\alpha&HE0&\pos(941.69,937.82)\b1}Curse
+Dialogue: 3,0:11:06.23,0:11:06.27,Signs,,0,0,0,,{=32}{\blur0.8\fnBrush Strokes\fs39\fscx99.97\fscy109.97\c&HFFED00&\alpha&HE0&\pos(941.72,937.84)\b1}Curse
+Dialogue: 3,0:11:06.27,0:11:06.40,Signs,,0,0,0,,{=32}{\blur0.8\fnBrush Strokes\fs39\fscx100.01\fscy110.01\c&HFFED00&\alpha&HE0&\pos(1008,951.89)\b1}Curse
+Dialogue: 3,0:11:06.40,0:11:06.52,Signs,,0,0,0,,{=32}{\blur0.8\fnBrush Strokes\fs39\fscx100.02\fscy110.02\c&HFFED00&\alpha&HE0&\pos(1083.56,917.98)\b1}Curse
+Dialogue: 3,0:11:06.52,0:11:06.65,Signs,,0,0,0,,{=32}{\blur0.8\fnBrush Strokes\fs39\fscx100.02\fscy110.02\c&HFFED00&\alpha&HE0&\pos(1157.74,839.36)\b1}Curse
+Dialogue: 4,0:11:04.52,0:11:05.69,Signs,,0,0,0,,{=32}{\blur0.8\fnBrush Strokes\fs39\fscy110\c&HE900FF&\alpha&HE0&\pos(932,934)\b1}Curse
+Dialogue: 4,0:11:05.69,0:11:06.23,Signs,,0,0,0,,{=32}{\blur0.8\fnBrush Strokes\fs39\fscx99.97\fscy109.97\c&HE900FF&\alpha&HE0&\pos(939.69,937.82)\b1}Curse
+Dialogue: 4,0:11:06.23,0:11:06.27,Signs,,0,0,0,,{=32}{\blur0.8\fnBrush Strokes\fs39\fscx99.97\fscy109.97\c&HE900FF&\alpha&HE0&\pos(939.72,937.84)\b1}Curse
+Dialogue: 4,0:11:06.27,0:11:06.40,Signs,,0,0,0,,{=32}{\blur0.8\fnBrush Strokes\fs39\fscx100.01\fscy110.01\c&HE900FF&\alpha&HE0&\pos(1006,951.89)\b1}Curse
+Dialogue: 4,0:11:06.40,0:11:06.52,Signs,,0,0,0,,{=32}{\blur0.8\fnBrush Strokes\fs39\fscx100.02\fscy110.02\c&HE900FF&\alpha&HE0&\pos(1081.56,917.98)\b1}Curse
+Dialogue: 4,0:11:06.52,0:11:06.65,Signs,,0,0,0,,{=32}{\blur0.8\fnBrush Strokes\fs39\fscx100.02\fscy110.02\c&HE900FF&\alpha&HE0&\pos(1155.74,839.36)\b1}Curse
+Dialogue: 5,0:11:04.52,0:11:05.69,Signs,,0,0,0,,{=32}{\blur0.67\fnBrush Strokes\fs39\fscy110\c&H0D1A16&\pos(933,934)\b1}Curse
+Dialogue: 5,0:11:05.69,0:11:06.23,Signs,,0,0,0,,{=32}{\blur0.67\fnBrush Strokes\fs39\fscx99.97\fscy109.97\c&H0D1A16&\pos(940.69,937.82)\b1}Curse
+Dialogue: 5,0:11:06.23,0:11:06.27,Signs,,0,0,0,,{=32}{\blur0.67\fnBrush Strokes\fs39\fscx99.97\fscy109.97\c&H0D1A16&\pos(940.72,937.84)\b1}Curse
+Dialogue: 5,0:11:06.27,0:11:06.40,Signs,,0,0,0,,{=32}{\blur0.67\fnBrush Strokes\fs39\fscx100.01\fscy110.01\c&H0D1A16&\pos(1007,951.89)\b1}Curse
+Dialogue: 5,0:11:06.40,0:11:06.52,Signs,,0,0,0,,{=32}{\blur0.67\fnBrush Strokes\fs39\fscx100.02\fscy110.02\c&H061D19&\pos(1082.56,917.98)\b1}Curse
+Dialogue: 5,0:11:06.52,0:11:06.65,Signs,,0,0,0,,{=32}{\blur0.67\fnBrush Strokes\fs39\fscx100.02\fscy110.02\c&H0F241F&\pos(1156.74,839.36)\b1}Curse
 Dialogue: 0,0:13:28.87,0:13:30.79,f0ld3r-invisible,,0,0,0,,
 Dialogue: 0,0:13:28.87,0:13:28.95,Signs,,0,0,0,,{\an7\blur2\c&HF7F6F7&\pos(0,0)\p1}m 907.78 633.67 l 911.33 615.89 935.12 609.33 947.42 598.94 972.03 603.31 980.78 607.69 981.33 621.36 987.62 639.69 993.63 656.92 991.99 678.79 987.34 685.08 959.45 688.37 942.23 694.38 931.29 694.93 923.91 680.71 912.7 675.79
 Dialogue: 0,0:13:28.95,0:13:29.12,Signs,,0,0,0,,{\an7\blur2\c&HF6F6F5&\pos(0,0)\p1}m 907.23 638.87 l 907.23 626.01 923.91 621.36 931.84 612.06 945.78 609.88 960 615.07 964.37 621.91 963.01 638.59 963.83 650.35 970.39 652.81 972.58 663.21 969.02 672.23 969.84 676.33 965.47 678.79 956.72 682.08 938.67 684.26 927.46 688.09 916.8 678.25 923.09 674.42 906.96 671.96 905.31 645.98
 Dialogue: 0,0:13:29.12,0:13:30.79,Signs,,0,0,0,,{\an7\blur2\c&HF5F7F7&\pos(0,2)\p1}m 907.23 638.87 l 907.23 626.01 923.91 621.36 931.84 612.06 945.78 609.88 960 615.07 964.37 621.91 963.01 638.59 963.83 650.35 970.39 652.81 972.58 663.21 969.02 672.23 969.84 676.33 965.47 678.79 956.72 682.08 938.67 684.26 927.46 688.09 916.8 678.25 923.09 674.42 906.96 671.96 905.31 645.98
-Dialogue: 3,0:13:28.87,0:13:28.95,Signs,,0,0,0,,{\alpha&HE0&\blur0.8\fnBrush Strokes\fs50\c&H8EFF00&\pos(951,650)\b1\fscy105}Curse
-Dialogue: 3,0:13:28.95,0:13:29.12,Signs,,0,0,0,,{\alpha&HE0&\blur0.8\fnBrush Strokes\fs42\c&H8EFF00&\pos(939,650)\b1\fscy105}Curse
-Dialogue: 3,0:13:29.12,0:13:29.20,Signs,,0,0,0,,{\alpha&HE0&\blur0.8\fnBrush Strokes\fs42\c&H8EFF00&\pos(939,652)\b1\fscy105}Curse
-Dialogue: 3,0:13:29.20,0:13:30.79,Signs,,0,0,0,,{\alpha&HE0&\blur0.8\fnBrush Strokes\fs42\c&H8EFF00&\pos(939,652)\b1\fscy105}Curse
-Dialogue: 4,0:13:28.87,0:13:28.95,Signs,,0,0,0,,{\alpha&HE0&\blur0.8\fnBrush Strokes\fs50\c&HE900FF&\pos(949,651)\b1\fscy105}Curse
-Dialogue: 4,0:13:28.95,0:13:29.12,Signs,,0,0,0,,{\alpha&HE0&\blur0.8\fnBrush Strokes\fs42\c&HE900FF&\pos(937,651)\b1\fscy105}Curse
-Dialogue: 4,0:13:29.12,0:13:29.20,Signs,,0,0,0,,{\alpha&HE0&\blur0.8\fnBrush Strokes\fs42\c&HE900FF&\pos(937,653)\b1\fscy105}Curse
-Dialogue: 4,0:13:29.20,0:13:30.79,Signs,,0,0,0,,{\alpha&HE0&\blur0.8\fnBrush Strokes\fs42\c&HE900FF&\pos(937,653)\b1\fscy105}Curse
-Dialogue: 5,0:13:28.87,0:13:28.95,Signs,,0,0,0,,{\blur0.6\fnBrush Strokes\fs50\c&H1D1D1D&\pos(950,651)\b1\fscy105}Curse
-Dialogue: 5,0:13:28.95,0:13:29.12,Signs,,0,0,0,,{\blur0.6\fnBrush Strokes\fs42\c&H1D1D1D&\pos(938,651)\b1\fscy105}Curse
-Dialogue: 5,0:13:29.12,0:13:29.20,Signs,,0,0,0,,{\blur0.6\fnBrush Strokes\fs42\c&H1D1D1D&\pos(938,653)\b1\fscy105}Curse
-Dialogue: 5,0:13:29.20,0:13:30.79,Signs,,0,0,0,,{\blur0.6\fnBrush Strokes\fs42\c&H272727&\pos(938,653)\b1\fscy105}Curse
+Dialogue: 3,0:13:28.87,0:13:28.95,Signs,,0,0,0,,{\blur0.8\fnBrush Strokes\fs50\fscy105\c&H8EFF00&\alpha&HE0&\pos(951,650)\b1}Curse
+Dialogue: 3,0:13:28.95,0:13:29.12,Signs,,0,0,0,,{\blur0.8\fnBrush Strokes\fs42\fscy105\c&H8EFF00&\alpha&HE0&\pos(939,650)\b1}Curse
+Dialogue: 3,0:13:29.12,0:13:29.20,Signs,,0,0,0,,{\blur0.8\fnBrush Strokes\fs42\fscy105\c&H8EFF00&\alpha&HE0&\pos(939,652)\b1}Curse
+Dialogue: 3,0:13:29.20,0:13:30.79,Signs,,0,0,0,,{\blur0.8\fnBrush Strokes\fs42\fscy105\c&H8EFF00&\alpha&HE0&\pos(939,652)\b1}Curse
+Dialogue: 4,0:13:28.87,0:13:28.95,Signs,,0,0,0,,{\blur0.8\fnBrush Strokes\fs50\fscy105\c&HE900FF&\alpha&HE0&\pos(949,651)\b1}Curse
+Dialogue: 4,0:13:28.95,0:13:29.12,Signs,,0,0,0,,{\blur0.8\fnBrush Strokes\fs42\fscy105\c&HE900FF&\alpha&HE0&\pos(937,651)\b1}Curse
+Dialogue: 4,0:13:29.12,0:13:29.20,Signs,,0,0,0,,{\blur0.8\fnBrush Strokes\fs42\fscy105\c&HE900FF&\alpha&HE0&\pos(937,653)\b1}Curse
+Dialogue: 4,0:13:29.20,0:13:30.79,Signs,,0,0,0,,{\blur0.8\fnBrush Strokes\fs42\fscy105\c&HE900FF&\alpha&HE0&\pos(937,653)\b1}Curse
+Dialogue: 5,0:13:28.87,0:13:28.95,Signs,,0,0,0,,{\blur0.6\fnBrush Strokes\fs50\fscy105\c&H131313&\pos(950,651)\b1}Curse
+Dialogue: 5,0:13:28.95,0:13:29.12,Signs,,0,0,0,,{\blur0.5\fnBrush Strokes\fs42\fscy105\c&H131313&\pos(938,651)\b1}Curse
+Dialogue: 5,0:13:29.12,0:13:29.20,Signs,,0,0,0,,{\blur0.5\fnBrush Strokes\fs42\fscy105\c&H131313&\pos(938,653)\b1}Curse
+Dialogue: 5,0:13:29.20,0:13:30.79,Signs,,0,0,0,,{\blur0.5\fnBrush Strokes\fs42\fscy105\c&H1C2727&\pos(938,653)\b1}Curse
 Dialogue: 0,0:10:58.18,0:11:00.89,f0ld3r-invisible,,0,0,0,,{=35}
 Dialogue: 0,0:12:32.90,0:12:35.15,f0ld3r-invisible,,0,0,0,,{=48}--Kogane: Search Results {let's just lazy this sign for now}
 Dialogue: 0,0:12:32.90,0:12:35.15,Signs,,0,0,0,,{\blur1\fnDisposableDroid BB\fs95\frx0\fry182\frz356\c&H0000FF&\alpha&HE0&\pos(958,110)\clip(m 707.62 70.3 l 714.5 70.54 732.76 86.86 749.91 97.65 794.72 106.51 825.7 103.46 851.98 98.48 876.32 81.33 888.77 69.99 903.97 88.6 915.08 99.79 931.27 106.07 948.24 110.49 982.33 113.57 1003.1 113.35 1022.55 109.02 1033.58 101.67 1071.23 82.02 1085.55 52.63 1160.85 80.35 1200.14 88.71 1222.71 93.44 1246.95 98.18 1273.71 101.53 1340.38 97.8 1357.34 152.56 608.07 219.97 607.36 110.7)\iclip(m 1232.31 71.1 l 1232.73 77.26 1238.59 76.86 1239.43 89.35 1233.57 89.76 1233.97 95.63 1216.24 96.98 1217.33 112.99 1240.92 111.28 1241.48 119.53 1215.84 121.41 1215.42 115.26 1209.44 115.69 1208.05 95.33 1214.04 94.91 1213.63 88.84 1231.28 87.61 1230.74 79.62 1207.18 81.24 1206.62 72.93 m 1172.59 124.59 l 1172.02 116.27 1189.39 115.01 1188.97 108.83 1165.02 110.64 1164.17 98.23 1170.85 97.76 1170.44 91.66 1188.71 90.39 1189.12 96.48 1195.77 96.01 1197.17 116.58 1190.52 117.06 1190.95 123.24 m 1188.29 98.86 l 1172 100.01 1172.41 105.92 1188.69 104.76 m 1145 93.43 l 1145.57 101.78 1128.03 103.02 1128.44 108.96 1152.69 107.24 1153.55 119.84 1146.84 120.33 1147.26 126.45 1121.97 128.3 1120.12 101.33 1126.87 100.86 1126.45 94.72 m 1129.15 119.37 l 1145.69 118.18 1145.26 111.97 1128.72 113.15 m 1107.37 96.15 l 1109.64 129.21 1101.4 129.81 1099.7 105.11 1083.43 106.26 1083.97 114.11 1076.14 114.67 1075.44 104.56 1082.26 104.08 1081.83 97.92 m 1058.57 99.45 l 1058.99 105.63 1065.84 105.15 1067.29 126.2 1060.45 126.7 1060.87 132.79 1035.08 134.68 1034.5 126.23 1059.27 124.43 1058.13 107.95 1033.35 109.7 1032.77 101.24 m 1018.17 85.32 l 1021.66 135.66 1013.25 136.28 1011.51 111.24 994.93 112.41 996.67 137.5 988.69 138.08 986.78 110.7 993.74 110.21 993.3 103.99 1010.93 102.76 1009.75 85.89 m 914.01 124.62 b 913.67 119.76 913.59 117.37 913.25 112.43 l 906.65 112.89 905.71 99.74 912.4 99.28 911.95 92.81 939.13 90.95 942.66 141.46 934.12 142.18 932.35 117.01 922.25 117.72 922.83 125.9 916.25 126.37 917.43 143.22 908.83 143.85 907.51 125.08 m 915.07 109.62 l 931.75 108.46 931.17 100.18 914.47 101.32 m 869.12 146.86 l 868.51 138.25 887.1 136.9 886.65 130.51 861 132.44 860.1 119.61 867.25 119.1 866.81 112.79 886.37 111.43 886.82 117.73 893.93 117.23 895.43 138.51 888.32 139.02 888.77 145.41 m 885.92 120.19 l 868.49 121.42 868.92 127.54 886.35 126.3 m 840.91 114.29 l 841.36 120.72 847.77 120.27 848.68 133.23 b 840.14 133.85 831.58 134.46 822.91 135.08 l 823.37 141.52 849.14 139.75 849.75 148.28 821.73 150.33 821.28 143.99 814.75 144.47 813.82 131.47 839.64 129.53 839.19 123.2 813.46 125.02 812.85 116.34 m 768.72 154.03 l 766.28 119.79 775.16 119.17 776.98 144.75 794.39 143.49 792.57 117.96 800.91 117.38 802.9 145.31 795.64 145.84 796.1 152.21 m 750.69 103.42 l 754.38 155.08 745.46 155.74 741.76 104.03 m 719.69 114.41 l 728.17 113.83 730.81 150.66 723.43 151.2 723.89 157.51 704.81 158.91 704.08 150.06 722.15 148.75 720.91 131.43 702.73 132.71 702.1 123.95 720.28 122.68 m 682.52 125.31 l 682.99 131.85 689.62 131.38 690.57 144.57 b 681.72 145.21 672.86 145.84 663.89 146.48 l 664.36 153.03 691.05 151.2 691.67 159.88 662.67 162 662.2 155.55 655.43 156.04 654.48 142.82 681.21 140.82 680.74 134.38 654.1 136.26 653.47 127.43)}Search Results
 Dialogue: 0,0:12:32.90,0:12:35.15,Signs,,0,0,0,,{\blur1\fnDisposableDroid BB\fs95\frx0\fry182\frz356\c&H00FF2C&\alpha&HE0&\pos(954,110)\clip(m 707.62 70.3 l 714.5 70.54 732.76 86.86 749.91 97.65 794.72 106.51 825.7 103.46 851.98 98.48 876.32 81.33 888.77 69.99 903.97 88.6 915.08 99.79 931.27 106.07 948.24 110.49 982.33 113.57 1003.1 113.35 1022.55 109.02 1033.58 101.67 1071.23 82.02 1085.55 52.63 1160.85 80.35 1200.14 88.71 1222.71 93.44 1246.95 98.18 1273.71 101.53 1340.38 97.8 1357.34 152.56 608.07 219.97 607.36 110.7)\iclip(m 1232.31 71.1 l 1232.73 77.26 1238.59 76.86 1239.43 89.35 1233.57 89.76 1233.97 95.63 1216.24 96.98 1217.33 112.99 1240.92 111.28 1241.48 119.53 1215.84 121.41 1215.42 115.26 1209.44 115.69 1208.05 95.33 1214.04 94.91 1213.63 88.84 1231.28 87.61 1230.74 79.62 1207.18 81.24 1206.62 72.93 m 1172.59 124.59 l 1172.02 116.27 1189.39 115.01 1188.97 108.83 1165.02 110.64 1164.17 98.23 1170.85 97.76 1170.44 91.66 1188.71 90.39 1189.12 96.48 1195.77 96.01 1197.17 116.58 1190.52 117.06 1190.95 123.24 m 1188.29 98.86 l 1172 100.01 1172.41 105.92 1188.69 104.76 m 1145 93.43 l 1145.57 101.78 1128.03 103.02 1128.44 108.96 1152.69 107.24 1153.55 119.84 1146.84 120.33 1147.26 126.45 1121.97 128.3 1120.12 101.33 1126.87 100.86 1126.45 94.72 m 1129.15 119.37 l 1145.69 118.18 1145.26 111.97 1128.72 113.15 m 1107.37 96.15 l 1109.64 129.21 1101.4 129.81 1099.7 105.11 1083.43 106.26 1083.97 114.11 1076.14 114.67 1075.44 104.56 1082.26 104.08 1081.83 97.92 m 1058.57 99.45 l 1058.99 105.63 1065.84 105.15 1067.29 126.2 1060.45 126.7 1060.87 132.79 1035.08 134.68 1034.5 126.23 1059.27 124.43 1058.13 107.95 1033.35 109.7 1032.77 101.24 m 1018.17 85.32 l 1021.66 135.66 1013.25 136.28 1011.51 111.24 994.93 112.41 996.67 137.5 988.69 138.08 986.78 110.7 993.74 110.21 993.3 103.99 1010.93 102.76 1009.75 85.89 m 914.01 124.62 b 913.67 119.76 913.59 117.37 913.25 112.43 l 906.65 112.89 905.71 99.74 912.4 99.28 911.95 92.81 939.13 90.95 942.66 141.46 934.12 142.18 932.35 117.01 922.25 117.72 922.83 125.9 916.25 126.37 917.43 143.22 908.83 143.85 907.51 125.08 m 915.07 109.62 l 931.75 108.46 931.17 100.18 914.47 101.32 m 869.12 146.86 l 868.51 138.25 887.1 136.9 886.65 130.51 861 132.44 860.1 119.61 867.25 119.1 866.81 112.79 886.37 111.43 886.82 117.73 893.93 117.23 895.43 138.51 888.32 139.02 888.77 145.41 m 885.92 120.19 l 868.49 121.42 868.92 127.54 886.35 126.3 m 840.91 114.29 l 841.36 120.72 847.77 120.27 848.68 133.23 b 840.14 133.85 831.58 134.46 822.91 135.08 l 823.37 141.52 849.14 139.75 849.75 148.28 821.73 150.33 821.28 143.99 814.75 144.47 813.82 131.47 839.64 129.53 839.19 123.2 813.46 125.02 812.85 116.34 m 768.72 154.03 l 766.28 119.79 775.16 119.17 776.98 144.75 794.39 143.49 792.57 117.96 800.91 117.38 802.9 145.31 795.64 145.84 796.1 152.21 m 750.69 103.42 l 754.38 155.08 745.46 155.74 741.76 104.03 m 719.69 114.41 l 728.17 113.83 730.81 150.66 723.43 151.2 723.89 157.51 704.81 158.91 704.08 150.06 722.15 148.75 720.91 131.43 702.73 132.71 702.1 123.95 720.28 122.68 m 682.52 125.31 l 682.99 131.85 689.62 131.38 690.57 144.57 b 681.72 145.21 672.86 145.84 663.89 146.48 l 664.36 153.03 691.05 151.2 691.67 159.88 662.67 162 662.2 155.55 655.43 156.04 654.48 142.82 681.21 140.82 680.74 134.38 654.1 136.26 653.47 127.43)}Search Results
 Dialogue: 1,0:12:32.90,0:12:35.15,Signs,,0,0,0,,{\blur1\fnDisposableDroid BB\fs95\frx0\fry182\frz356\c&H112914&\alpha&HA0&\pos(956,110)\clip(m 707.62 70.3 l 714.5 70.54 732.76 86.86 749.91 97.65 794.72 106.51 825.7 103.46 851.98 98.48 876.32 81.33 888.77 69.99 903.67 83.96 919.4 94.18 933.41 101.18 956.58 107.7 984.59 108.81 1004.29 106.92 1024.49 102.48 1040.36 96.38 1069.97 81.07 1085.55 52.63 1161.2 73.84 1200.49 82.2 1156.73 75.11 1158.31 80.44 1148.04 83.48 1151.49 107.89 1159.8 164.96 608.07 219.97 607.36 110.7)}Search Results
-Dialogue: 2,0:12:32.90,0:12:35.15,Signs,,0,0,0,,{\blur1.5\fnDisposableDroid BB\fs95\frx0\fry182\frz356\c&H291E11&\alpha&HC0&\pos(956,110)\clip(m 707.62 70.3 l 714.5 70.54 732.76 86.86 749.91 97.65 794.72 106.51 825.7 103.46 851.98 98.48 876.32 81.33 888.77 69.99 903.97 88.6 915.08 99.79 931.27 106.07 948.24 110.49 982.33 113.57 1003.1 113.35 1022.55 109.02 1033.58 101.67 1071.23 82.02 1085.55 52.63 1160.85 80.35 1200.14 88.71 1222.71 93.44 1246.95 98.18 1273.71 101.53 1340.38 97.8 1357.34 152.56 608.07 219.97 607.36 110.7)}Search Results
+Dialogue: 2,0:12:32.90,0:12:35.15,Signs,,0,0,0,,{\blur1.5\fnDisposableDroid BB\fs95\frx0\fry182\frz356\c&H391F00&\alpha&HC0&\pos(956,110)\clip(m 707.62 70.3 l 714.5 70.54 732.76 86.86 749.91 97.65 794.72 106.51 825.7 103.46 851.98 98.48 876.32 81.33 888.77 69.99 903.97 88.6 915.08 99.79 931.27 106.07 948.24 110.49 982.33 113.57 1003.1 113.35 1022.55 109.02 1033.58 101.67 1071.23 82.02 1085.55 52.63 1160.85 80.35 1200.14 88.71 1222.71 93.44 1246.95 98.18 1273.71 101.53 1340.38 97.8 1357.34 152.56 608.07 219.97 607.36 110.7)}Search Results
+Dialogue: 2,0:12:32.90,0:12:35.15,Signs,,0,0,0,,{\blur1.5\fnDisposableDroid BB\fs95\frx0\fry182\frz356\c&H562F00&\alpha&HE0&\1a&HF0&\pos(956,110)\clip(m 707.62 70.3 l 714.5 70.54 732.76 86.86 749.91 97.65 794.72 106.51 825.7 103.46 851.98 98.48 876.32 81.33 888.77 69.99 903.97 88.6 915.08 99.79 931.27 106.07 948.24 110.49 978.38 108.8 971.51 174.56 621.82 200.72 607.36 110.7)}Search Results
 Dialogue: 0,0:12:32.90,0:12:35.15,Signs,,0,0,0,,{\blur1.5\fnDisposableDroid BB\fs38\fscx96\frx0\fry182\frz355\fax0.08\c&H0000FF&\alpha&HD2&\pos(1408,523)}Higuruma Hiromi
 Dialogue: 0,0:12:32.90,0:12:35.15,Signs,,0,0,0,,{\blur1.5\fnDisposableDroid BB\fs38\fscx96\frx0\fry182\frz355\fax0.08\c&H00D620&\alpha&HC0&\pos(1404,523)}Higuruma Hiromi
 Dialogue: 1,0:12:32.90,0:12:35.15,Signs,,0,0,0,,{\blur1.5\fnDisposableDroid BB\fs38\fscx96\frx0\fry182\frz355\fax0.08\c&H4B8462&\pos(1406,523)}Higuruma Hiromi
 Dialogue: 0,0:12:32.90,0:12:35.15,Signs,,0,0,0,,{\blur1.5\fnDisposableDroid BB\fs32\fscx99\fry180\frz355\fax-0.02\c&H0000FF&\alpha&HD2&\pos(677,588)}Current Colony: Tokyo No. 1
 Dialogue: 0,0:12:32.90,0:12:35.15,Signs,,0,0,0,,{\blur1.5\fnDisposableDroid BB\fs32\fscx99\fry180\frz355\fax-0.02\c&H00FF32&\alpha&HC0&\pos(673,588)}Current Colony: Tokyo No. 1
-Dialogue: 1,0:12:32.90,0:12:35.15,Signs,,0,0,0,,{\blur1.5\fnDisposableDroid BB\fs32\fscx99\fry180\frz355\fax-0.02\c&H437657&\pos(675,588)}Current Colony: Tokyo No. 1
+Dialogue: 1,0:12:32.90,0:12:35.15,Signs,,0,0,0,,{\blur1.7\fnDisposableDroid BB\fs32\fscx99\fry180\frz355\fax-0.02\c&H437657&\pos(675,588)}Current Colony: Tokyo No. 1
 Dialogue: 0,0:12:32.90,0:12:35.15,Signs,,0,0,0,,{\blur2\fnDisposableDroid BB\fs31\fry180\frz355.2\c&H0000FF&\alpha&HE0&\pos(1020,377)}Points
 Dialogue: 0,0:12:32.90,0:12:35.15,Signs,,0,0,0,,{\blur2\fnDisposableDroid BB\fs31\fry180\frz355.2\c&H00FF32&\alpha&HE0&\pos(1016,377)}Points
 Dialogue: 1,0:12:32.90,0:12:35.15,Signs,,0,0,0,,{\blur2\fnDisposableDroid BB\fs31\fry180\frz355.2\c&H37967E&\pos(1018,377)}Points
@@ -259,124 +260,124 @@ Dialogue: 0,0:12:32.90,0:12:35.15,Signs,,0,0,0,,{\an4\blur1.2\fnDisposableDroid 
 Dialogue: 0,0:12:32.90,0:12:35.15,Signs,,0,0,0,,{\an4\blur1.2\fnDisposableDroid BB\fs25\fry180\frz356.5\c&H00FF32&\alpha&HE0&\pos(763,389)}Rules\NAdded
 Dialogue: 1,0:12:32.90,0:12:35.15,Signs,,0,0,0,,{\an4\blur1.4\fnDisposableDroid BB\fs25\fry180\frz356.5\c&H549372&\pos(765,389)}Rules\NAdded
 Dialogue: 0,0:12:32.90,0:12:35.15,f0ld3r-invisible,,0,0,0,,{=49}
-Dialogue: 0,0:12:35.15,0:12:36.90,f0ld3r-invisible,,0,0,0,,{=46}--Kogane: Search Results (zoom) {might remove since it covers his face}
-Dialogue: 3,0:12:35.15,0:12:36.90,Signs,,0,0,0,,{\an5\blur0.6\fnDisposableDroid BB\fs100\fscx101.89\fscy101.04\frx-0.0815\fry-180.1484\frz358.2\fax-0.001\c&H001E20&\alpha&HA0&\pos(923.36,504.76)\org(922.79,514.76)\1a&HB4&}Points
+Dialogue: 0,0:12:35.15,0:12:36.90,f0ld3r-invisible,,0,0,0,,{=46}--Kogane: Search Results (zoom) {might remove since it covers his face} {or not}
+Dialogue: 3,0:12:35.15,0:12:36.90,Signs,,0,0,0,,{\an5\blur0.6\fnDisposableDroid BB\fs100\fscx101.89\fscy101.04\frx-0.0815\fry-180.1484\frz358.2\fax-0.001\c&H001E20&\alpha&HA0&\1a&HB4&\pos(923.36,504.76)\org(922.79,514.76)}Points
 Dialogue: 0,0:12:35.15,0:12:36.90,Signs,,0,0,0,,{\an5\blur0.6\fnDisposableDroid BB\fs100\fscx101.89\fscy101.04\frx-0.0815\fry-180.1484\frz358.2\fax-0.001\c&H5DEE46&\alpha&HA0&\pos(918.36,504.76)\org(922.79,514.76)\iclip(m 1038.15 533.41 l 1037.56 515.61 1015.62 515.99 1015.33 507.4 1010.23 507.56 1009.58 487.56 1016.71 487.33 1016.49 480.36 b 1026.17 479.96 1035.86 479.74 1045.56 479.44 l 1047.33 533.21 m 1019.41 507.07 l 1037.26 506.51 1036.67 488.82 1018.82 489.39 m 991.18 498.97 l 991.4 505.74 998.94 505.5 999.68 528.03 992.14 528.27 992.36 534.93 971.55 535.58 971.34 528.92 963.8 529.16 963.07 506.63 970.6 506.39 970.38 499.62 m 990.35 508.09 l 971.81 508.68 972.39 526.45 990.93 525.87 m 948.18 500.59 l 949.33 536.07 940.16 536.36 939.01 500.88 m 947.59 482.54 l 947.88 491.53 938.72 491.82 938.42 482.83 m 924.33 501.17 l 925.5 537.02 916.33 537.31 915.46 510.48 897.44 511.05 898.3 537.87 889.65 538.14 888.71 508.89 896.25 508.66 896.03 501.97 m 865.31 494.03 l 873.96 493.76 875.19 532.02 867.65 532.26 867.86 538.82 848.44 539.43 848.05 530.25 866.46 529.68 865.88 511.7 847.36 512.28 847.07 503.2 865.59 502.61 m 827.26 503.84 l 827.47 510.58 834.18 510.37 834.61 524 b 825.67 524.28 816.72 524.56 807.67 524.84 l 807.88 531.61 834.83 530.86 835.12 539.85 805.84 540.76 805.63 534.09 798.81 534.3 798.38 520.68 825.31 519.74 825.1 513.07 798.26 513.92 797.97 504.84)}Points
 Dialogue: 0,0:12:35.15,0:12:36.90,Signs,,0,0,0,,{\an5\blur0.6\fnDisposableDroid BB\fs100\fscx101.89\fscy101.04\frx-0.0815\fry-180.1484\frz358.2\fax-0.001\c&H5151F2&\alpha&HA0&\pos(927.36,504.76)\org(922.79,514.76)\iclip(m 1038.15 533.41 l 1037.56 515.61 1015.62 515.99 1015.33 507.4 1010.23 507.56 1009.58 487.56 1016.71 487.33 1016.49 480.36 b 1026.17 479.96 1035.86 479.74 1045.56 479.44 l 1047.33 533.21 m 1019.41 507.07 l 1037.26 506.51 1036.67 488.82 1018.82 489.39 m 991.18 498.97 l 991.4 505.74 998.94 505.5 999.68 528.03 992.14 528.27 992.36 534.93 971.55 535.58 971.34 528.92 963.8 529.16 963.07 506.63 970.6 506.39 970.38 499.62 m 990.35 508.09 l 971.81 508.68 972.39 526.45 990.93 525.87 m 948.18 500.59 l 949.33 536.07 940.16 536.36 939.01 500.88 m 947.59 482.54 l 947.88 491.53 938.72 491.82 938.42 482.83 m 924.33 501.17 l 925.5 537.02 916.33 537.31 915.46 510.48 897.44 511.05 898.3 537.87 889.65 538.14 888.71 508.89 896.25 508.66 896.03 501.97 m 865.31 494.03 l 873.96 493.76 875.19 532.02 867.65 532.26 867.86 538.82 848.44 539.43 848.05 530.25 866.46 529.68 865.88 511.7 847.36 512.28 847.07 503.2 865.59 502.61 m 827.26 503.84 l 827.47 510.58 834.18 510.37 834.61 524 b 825.67 524.28 816.72 524.56 807.67 524.84 l 807.88 531.61 834.83 530.86 835.12 539.85 805.84 540.76 805.63 534.09 798.81 534.3 798.38 520.68 825.31 519.74 825.1 513.07 798.26 513.92 797.97 504.84)}Points
 Dialogue: 0,0:12:35.15,0:12:36.90,f0ld3r-invisible,,0,0,0,,{=47}
 Dialogue: 0,0:18:49.36,0:18:49.90,f0ld3r-invisible,,0,0,0,,{=87}--Phone Receipt
-Dialogue: 0,0:18:49.36,0:18:49.40,Signs,a1,0,0,0,,{\fscx100\pos(828.14,277.91)\org(828.14,277.91)\fscy100\frz-21.2\fry0\frx0\fax0.69\fnFOT Comet Std Stripped\fs33\b1\c&H292526&\blur0.9}Mobile
-Dialogue: 0,0:18:49.36,0:18:49.40,Signs,a2,0,0,0,,{\pos(944.51,274.15)\org(944.51,274.15)\fscx100\fscy100\frz32.29\fry0\frx0\fax-0.34\fnFOT Comet Std Stripped\fs31\b1\c&H292526&\blur0.9\clip(m 920.78 266.14 l 922.31 309.09 895.07 321.87 885.76 257.39)}Terrace
-Dialogue: 0,0:18:49.36,0:18:49.40,Signs,a2,0,0,0,,{\pos(944.51,274.15)\org(944.51,274.15)\fscx100\fscy100\frz32.29\fry0\frx0\fax-0.34\fnFOT Comet Std Stripped\fs31\b1\c&H3E3D40&\blur0.9\iclip(m 920.28 266.14 l 921.81 309.09 894.57 321.87 885.26 257.39)}Terrace
-Dialogue: 0,0:18:49.36,0:18:49.40,Signs,a1,0,0,0,,{\pos(883.58,408.01)\org(883.58,408.01)\fscx100\fscy90\frz-16.9\fax0.42\fnFOT-DotGothic16 Std FSN M Strp\fs19\fsp1\c&H292526&\blur0.9}Rec
-Dialogue: 0,0:18:49.36,0:18:49.40,Signs,a2,0,0,0,,{\pos(920.6,404.03)\org(916,404.03)\fscx96.76\fscy136.33\frz49.126\fry36.267\frx-39.423\fax-0.5\fnFOT-DotGothic16 Std FSN M Strp\fs19\fsp-1.2\c&H292526&\blur0.9}eipt
-Dialogue: 0,0:18:49.40,0:18:49.44,Signs,a1,0,0,0,,{\fscx100.02\pos(831.09,273.87)\org(831.09,273.87)\fscy100.02\frz-21.2\fry0\frx0\fax0.69\fnFOT Comet Std Stripped\fs33\b1\c&H292526&\blur0.9}Mobile
-Dialogue: 0,0:18:49.40,0:18:49.44,Signs,a2,0,0,0,,{\pos(947.48,270.11)\org(947.48,270.11)\fscx100.02\fscy100.02\frz32.29\fry0\frx0\fax-0.34\fnFOT Comet Std Stripped\fs31\b1\c&H292526&\blur0.9\clip(m 923.75 262.1 l 925.28 305.06 898.03 317.84 888.72 253.35)}Terrace
-Dialogue: 0,0:18:49.40,0:18:49.44,Signs,a2,0,0,0,,{\pos(947.48,270.11)\org(947.48,270.11)\fscx100.02\fscy100.02\frz32.29\fry0\frx0\fax-0.34\fnFOT Comet Std Stripped\fs31\b1\c&H3E3D40&\blur0.9\iclip(m 923.25 262.1 l 924.78 305.06 897.53 317.84 888.22 253.35)}Terrace
-Dialogue: 0,0:18:49.40,0:18:49.44,Signs,a1,0,0,0,,{\pos(886.54,404)\org(886.54,404)\fscx100.02\fscy90.02\frz-16.9\fax0.42\fnFOT-DotGothic16 Std FSN M Strp\fs19\fsp1\c&H292526&\blur0.9}Rec
-Dialogue: 0,0:18:49.40,0:18:49.44,Signs,a2,0,0,0,,{\pos(923.57,400.02)\org(918.97,400.02)\fscx96.78\fscy136.36\frz49.126\fry36.267\frx-39.423\fax-0.5\fnFOT-DotGothic16 Std FSN M Strp\fs19\fsp-1.2\c&H292526&\blur0.9}eipt
-Dialogue: 0,0:18:49.52,0:18:49.57,Signs,a1,0,0,0,,{\fscx100.02\pos(827.65,281.63)\org(827.65,281.63)\fscy100.02\frz-21.2\fry0\frx0\fax0.69\fnFOT Comet Std Stripped\fs33\b1\c&H292526&\blur0.9}Mobile
-Dialogue: 0,0:18:49.52,0:18:49.57,Signs,a2,0,0,0,,{\pos(944.05,277.87)\org(944.05,277.87)\fscx100.02\fscy100.02\frz32.29\fry0\frx0\fax-0.34\fnFOT Comet Std Stripped\fs31\b1\c&H292526&\blur0.9\clip(m 920.32 269.86 l 921.85 312.82 894.6 325.6 885.29 261.1)}Terrace
-Dialogue: 0,0:18:49.52,0:18:49.57,Signs,a2,0,0,0,,{\pos(944.05,277.87)\org(944.05,277.87)\fscx100.02\fscy100.02\frz32.29\fry0\frx0\fax-0.34\fnFOT Comet Std Stripped\fs31\b1\c&H3E3D40&\blur0.9\iclip(m 919.82 269.86 l 921.35 312.82 894.1 325.6 884.79 261.1)}Terrace
-Dialogue: 0,0:18:49.52,0:18:49.57,Signs,a1,0,0,0,,{\pos(883.11,411.76)\org(883.11,411.76)\fscx100.02\fscy90.02\frz-16.9\fax0.42\fnFOT-DotGothic16 Std FSN M Strp\fs19\fsp1\c&H292526&\blur0.9}Rec
-Dialogue: 0,0:18:49.52,0:18:49.57,Signs,a2,0,0,0,,{\pos(920.14,407.78)\org(915.53,407.78)\fscx96.78\fscy136.36\frz49.126\fry36.267\frx-39.423\fax-0.5\fnFOT-DotGothic16 Std FSN M Strp\fs19\fsp-1.2\c&H292526&\blur0.9}eipt
-Dialogue: 0,0:18:49.57,0:18:49.61,Signs,a1,0,0,0,,{\fscx100.05\pos(830.38,276.08)\org(830.38,276.08)\fscy100.05\frz-21.2\fry0\frx0\fax0.69\fnFOT Comet Std Stripped\fs33\b1\c&H292526&\blur0.9}Mobile
-Dialogue: 0,0:18:49.57,0:18:49.61,Signs,a2,0,0,0,,{\pos(946.81,272.32)\org(946.81,272.32)\fscx100.05\fscy100.05\frz32.29\fry0\frx0\fax-0.34\fnFOT Comet Std Stripped\fs31\b1\c&H292526&\blur0.9\clip(m 923.06 264.3 l 924.59 307.27 897.34 320.06 888.03 255.55)}Terrace
-Dialogue: 0,0:18:49.57,0:18:49.61,Signs,a2,0,0,0,,{\pos(946.81,272.32)\org(946.81,272.32)\fscx100.05\fscy100.05\frz32.29\fry0\frx0\fax-0.34\fnFOT Comet Std Stripped\fs31\b1\c&H3E3D40&\blur0.9\iclip(m 922.56 264.3 l 924.09 307.27 896.84 320.06 887.53 255.55)}Terrace
-Dialogue: 0,0:18:49.57,0:18:49.61,Signs,a1,0,0,0,,{\pos(885.85,406.24)\org(885.85,406.24)\fscx100.05\fscy90.04\frz-16.9\fax0.42\fnFOT-DotGothic16 Std FSN M Strp\fs19\fsp1\c&H292526&\blur0.9}Rec
-Dialogue: 0,0:18:49.57,0:18:49.61,Signs,a2,0,0,0,,{\pos(922.88,402.26)\org(918.28,402.26)\fscx96.81\fscy136.4\frz49.126\fry36.267\frx-39.423\fax-0.5\fnFOT-DotGothic16 Std FSN M Strp\fs19\fsp-1.2\c&H292526&\blur0.9}eipt
-Dialogue: 0,0:18:49.69,0:18:49.73,Signs,a1,0,0,0,,{\fscx100.02\pos(827.67,286.08)\org(827.67,286.08)\fscy100.02\frz-21.2\fry0\frx0\fax0.69\fnFOT Comet Std Stripped\fs33\b1\c&H292526&\blur0.9}Mobile
-Dialogue: 0,0:18:49.69,0:18:49.73,Signs,a2,0,0,0,,{\pos(944.07,282.32)\org(944.07,282.32)\fscx100.02\fscy100.02\frz32.29\fry0\frx0\fax-0.34\fnFOT Comet Std Stripped\fs31\b1\c&H292526&\blur0.9\clip(m 920.33 274.3 l 921.86 317.26 894.62 330.05 885.3 265.55)}Terrace
-Dialogue: 0,0:18:49.69,0:18:49.73,Signs,a2,0,0,0,,{\pos(944.07,282.32)\org(944.07,282.32)\fscx100.02\fscy100.02\frz32.29\fry0\frx0\fax-0.34\fnFOT Comet Std Stripped\fs31\b1\c&H3E3D40&\blur0.9\iclip(m 919.83 274.3 l 921.36 317.26 894.12 330.05 884.8 265.55)}Terrace
-Dialogue: 0,0:18:49.69,0:18:49.73,Signs,a1,0,0,0,,{\pos(883.12,416.2)\org(883.12,416.2)\fscx100.02\fscy90.02\frz-16.9\fax0.42\fnFOT-DotGothic16 Std FSN M Strp\fs19\fsp1\c&H292526&\blur0.9}Rec
-Dialogue: 0,0:18:49.69,0:18:49.73,Signs,a2,0,0,0,,{\pos(920.15,412.22)\org(915.55,412.22)\fscx96.78\fscy136.36\frz49.126\fry36.267\frx-39.423\fax-0.5\fnFOT-DotGothic16 Std FSN M Strp\fs19\fsp-1.2\c&H292526&\blur0.9}eipt
-Dialogue: 0,0:18:49.73,0:18:49.78,Signs,a1,0,0,0,,{\fscx100\pos(830.25,280.04)\org(830.25,280.04)\fscy100\frz-21.2\fry0\frx0\fax0.69\fnFOT Comet Std Stripped\fs33\b1\c&H292526&\blur0.9}Mobile
-Dialogue: 0,0:18:49.73,0:18:49.78,Signs,a2,0,0,0,,{\pos(946.63,276.28)\org(946.63,276.28)\fscx100\fscy100\frz32.29\fry0\frx0\fax-0.34\fnFOT Comet Std Stripped\fs31\b1\c&H292526&\blur0.9\clip(m 922.9 268.27 l 924.43 311.23 897.19 324.01 887.88 259.52)}Terrace
-Dialogue: 0,0:18:49.73,0:18:49.78,Signs,a2,0,0,0,,{\pos(946.63,276.28)\org(946.63,276.28)\fscx100\fscy100\frz32.29\fry0\frx0\fax-0.34\fnFOT Comet Std Stripped\fs31\b1\c&H3E3D40&\blur0.9\iclip(m 922.4 268.27 l 923.93 311.23 896.69 324.01 887.38 259.52)}Terrace
-Dialogue: 0,0:18:49.73,0:18:49.78,Signs,a1,0,0,0,,{\pos(885.7,410.15)\org(885.7,410.15)\fscx100\fscy90\frz-16.9\fax0.42\fnFOT-DotGothic16 Std FSN M Strp\fs19\fsp1\c&H292526&\blur0.9}Rec
-Dialogue: 0,0:18:49.73,0:18:49.78,Signs,a2,0,0,0,,{\pos(922.72,406.17)\org(918.12,406.17)\fscx96.76\fscy136.33\frz49.126\fry36.267\frx-39.423\fax-0.5\fnFOT-DotGothic16 Std FSN M Strp\fs19\fsp-1.2\c&H292526&\blur0.9}eipt
-Dialogue: 0,0:18:49.86,0:18:49.90,Signs,a1,0,0,0,,{\fscx99.99\pos(826.8,288.1)\org(826.8,288.1)\fscy99.99\frz-21.2\fry0\frx0\fax0.69\fnFOT Comet Std Stripped\fs33\b1\c&H292526&\blur0.9}Mobile
-Dialogue: 0,0:18:49.86,0:18:49.90,Signs,a2,0,0,0,,{\pos(943.16,284.34)\org(943.16,284.34)\fscx99.99\fscy99.99\frz32.29\fry0\frx0\fax-0.34\fnFOT Comet Std Stripped\fs31\b1\c&H292526&\blur0.9\clip(m 919.43 276.33 l 920.96 319.28 893.73 332.06 884.42 267.58)}Terrace
-Dialogue: 0,0:18:49.86,0:18:49.90,Signs,a2,0,0,0,,{\pos(943.16,284.34)\org(943.16,284.34)\fscx99.99\fscy99.99\frz32.29\fry0\frx0\fax-0.34\fnFOT Comet Std Stripped\fs31\b1\c&H3E3D40&\blur0.9\iclip(m 918.93 276.33 l 920.46 319.28 893.23 332.06 883.92 267.58)}Terrace
-Dialogue: 0,0:18:49.86,0:18:49.90,Signs,a1,0,0,0,,{\pos(882.24,418.19)\org(882.24,418.19)\fscx99.99\fscy89.99\frz-16.9\fax0.42\fnFOT-DotGothic16 Std FSN M Strp\fs19\fsp1\c&H292526&\blur0.9}Rec
-Dialogue: 0,0:18:49.86,0:18:49.90,Signs,a2,0,0,0,,{\pos(919.25,414.21)\org(914.65,414.21)\fscx96.75\fscy136.32\frz49.126\fry36.267\frx-39.423\fax-0.5\fnFOT-DotGothic16 Std FSN M Strp\fs19\fsp-1.2\c&H292526&\blur0.9}eipt
+Dialogue: 0,0:18:49.36,0:18:49.40,Signs,a1,0,0,0,,{\blur0.9\fnFOT Comet Std Stripped\fs33\fscx100\fscy100\frx0\fry0\frz-21.2\fax0.69\c&H292526&\pos(828.14,277.91)\org(828.14,277.91)\b1}Mobile
+Dialogue: 0,0:18:49.36,0:18:49.40,Signs,a2,0,0,0,,{\blur0.9\fnFOT Comet Std Stripped\fs31\fscx100\fscy100\frx0\fry0\frz32.29\fax-0.34\c&H292526&\pos(944.51,274.15)\org(944.51,274.15)\clip(m 920.78 266.14 l 922.31 309.09 895.07 321.87 885.76 257.39)\b1}Terrace
+Dialogue: 0,0:18:49.36,0:18:49.40,Signs,a2,0,0,0,,{\blur0.9\fnFOT Comet Std Stripped\fs31\fscx100\fscy100\frx0\fry0\frz32.29\fax-0.34\c&H3E3D40&\pos(944.51,274.15)\org(944.51,274.15)\iclip(m 920.28 266.14 l 921.81 309.09 894.57 321.87 885.26 257.39)\b1}Terrace
+Dialogue: 0,0:18:49.36,0:18:49.40,Signs,a1,0,0,0,,{\blur0.9\fnFOT-DotGothic16 Std FSN M Strp\fs19\fsp1\fscx100\fscy90\frz-16.9\fax0.42\c&H292526&\pos(883.58,408.01)\org(883.58,408.01)}Rec
+Dialogue: 0,0:18:49.36,0:18:49.40,Signs,a2,0,0,0,,{\blur0.9\fnFOT-DotGothic16 Std FSN M Strp\fs19\fsp-1.2\fscx96.76\fscy136.33\frx-39.423\fry36.267\frz49.126\fax-0.5\c&H292526&\pos(920.6,404.03)\org(916,404.03)}eipt
+Dialogue: 0,0:18:49.40,0:18:49.44,Signs,a1,0,0,0,,{\blur0.9\fnFOT Comet Std Stripped\fs33\fscx100.02\fscy100.02\frx0\fry0\frz-21.2\fax0.69\c&H292526&\pos(831.09,273.87)\org(831.09,273.87)\b1}Mobile
+Dialogue: 0,0:18:49.40,0:18:49.44,Signs,a2,0,0,0,,{\blur0.9\fnFOT Comet Std Stripped\fs31\fscx100.02\fscy100.02\frx0\fry0\frz32.29\fax-0.34\c&H292526&\pos(947.48,270.11)\org(947.48,270.11)\clip(m 923.75 262.1 l 925.28 305.06 898.03 317.84 888.72 253.35)\b1}Terrace
+Dialogue: 0,0:18:49.40,0:18:49.44,Signs,a2,0,0,0,,{\blur0.9\fnFOT Comet Std Stripped\fs31\fscx100.02\fscy100.02\frx0\fry0\frz32.29\fax-0.34\c&H3E3D40&\pos(947.48,270.11)\org(947.48,270.11)\iclip(m 923.25 262.1 l 924.78 305.06 897.53 317.84 888.22 253.35)\b1}Terrace
+Dialogue: 0,0:18:49.40,0:18:49.44,Signs,a1,0,0,0,,{\blur0.9\fnFOT-DotGothic16 Std FSN M Strp\fs19\fsp1\fscx100.02\fscy90.02\frz-16.9\fax0.42\c&H292526&\pos(886.54,404)\org(886.54,404)}Rec
+Dialogue: 0,0:18:49.40,0:18:49.44,Signs,a2,0,0,0,,{\blur0.9\fnFOT-DotGothic16 Std FSN M Strp\fs19\fsp-1.2\fscx96.78\fscy136.36\frx-39.423\fry36.267\frz49.126\fax-0.5\c&H292526&\pos(923.57,400.02)\org(918.97,400.02)}eipt
+Dialogue: 0,0:18:49.52,0:18:49.57,Signs,a1,0,0,0,,{\blur0.9\fnFOT Comet Std Stripped\fs33\fscx100.02\fscy100.02\frx0\fry0\frz-21.2\fax0.69\c&H292526&\pos(827.65,281.63)\org(827.65,281.63)\b1}Mobile
+Dialogue: 0,0:18:49.52,0:18:49.57,Signs,a2,0,0,0,,{\blur0.9\fnFOT Comet Std Stripped\fs31\fscx100.02\fscy100.02\frx0\fry0\frz32.29\fax-0.34\c&H292526&\pos(944.05,277.87)\org(944.05,277.87)\clip(m 920.32 269.86 l 921.85 312.82 894.6 325.6 885.29 261.1)\b1}Terrace
+Dialogue: 0,0:18:49.52,0:18:49.57,Signs,a2,0,0,0,,{\blur0.9\fnFOT Comet Std Stripped\fs31\fscx100.02\fscy100.02\frx0\fry0\frz32.29\fax-0.34\c&H3E3D40&\pos(944.05,277.87)\org(944.05,277.87)\iclip(m 919.82 269.86 l 921.35 312.82 894.1 325.6 884.79 261.1)\b1}Terrace
+Dialogue: 0,0:18:49.52,0:18:49.57,Signs,a1,0,0,0,,{\blur0.9\fnFOT-DotGothic16 Std FSN M Strp\fs19\fsp1\fscx100.02\fscy90.02\frz-16.9\fax0.42\c&H292526&\pos(883.11,411.76)\org(883.11,411.76)}Rec
+Dialogue: 0,0:18:49.52,0:18:49.57,Signs,a2,0,0,0,,{\blur0.9\fnFOT-DotGothic16 Std FSN M Strp\fs19\fsp-1.2\fscx96.78\fscy136.36\frx-39.423\fry36.267\frz49.126\fax-0.5\c&H292526&\pos(920.14,407.78)\org(915.53,407.78)}eipt
+Dialogue: 0,0:18:49.57,0:18:49.61,Signs,a1,0,0,0,,{\blur0.9\fnFOT Comet Std Stripped\fs33\fscx100.05\fscy100.05\frx0\fry0\frz-21.2\fax0.69\c&H292526&\pos(830.38,276.08)\org(830.38,276.08)\b1}Mobile
+Dialogue: 0,0:18:49.57,0:18:49.61,Signs,a2,0,0,0,,{\blur0.9\fnFOT Comet Std Stripped\fs31\fscx100.05\fscy100.05\frx0\fry0\frz32.29\fax-0.34\c&H292526&\pos(946.81,272.32)\org(946.81,272.32)\clip(m 923.06 264.3 l 924.59 307.27 897.34 320.06 888.03 255.55)\b1}Terrace
+Dialogue: 0,0:18:49.57,0:18:49.61,Signs,a2,0,0,0,,{\blur0.9\fnFOT Comet Std Stripped\fs31\fscx100.05\fscy100.05\frx0\fry0\frz32.29\fax-0.34\c&H3E3D40&\pos(946.81,272.32)\org(946.81,272.32)\iclip(m 922.56 264.3 l 924.09 307.27 896.84 320.06 887.53 255.55)\b1}Terrace
+Dialogue: 0,0:18:49.57,0:18:49.61,Signs,a1,0,0,0,,{\blur0.9\fnFOT-DotGothic16 Std FSN M Strp\fs19\fsp1\fscx100.05\fscy90.04\frz-16.9\fax0.42\c&H292526&\pos(885.85,406.24)\org(885.85,406.24)}Rec
+Dialogue: 0,0:18:49.57,0:18:49.61,Signs,a2,0,0,0,,{\blur0.9\fnFOT-DotGothic16 Std FSN M Strp\fs19\fsp-1.2\fscx96.81\fscy136.4\frx-39.423\fry36.267\frz49.126\fax-0.5\c&H292526&\pos(922.88,402.26)\org(918.28,402.26)}eipt
+Dialogue: 0,0:18:49.69,0:18:49.73,Signs,a1,0,0,0,,{\blur0.9\fnFOT Comet Std Stripped\fs33\fscx100.02\fscy100.02\frx0\fry0\frz-21.2\fax0.69\c&H292526&\pos(827.67,286.08)\org(827.67,286.08)\b1}Mobile
+Dialogue: 0,0:18:49.69,0:18:49.73,Signs,a2,0,0,0,,{\blur0.9\fnFOT Comet Std Stripped\fs31\fscx100.02\fscy100.02\frx0\fry0\frz32.29\fax-0.34\c&H292526&\pos(944.07,282.32)\org(944.07,282.32)\clip(m 920.33 274.3 l 921.86 317.26 894.62 330.05 885.3 265.55)\b1}Terrace
+Dialogue: 0,0:18:49.69,0:18:49.73,Signs,a2,0,0,0,,{\blur0.9\fnFOT Comet Std Stripped\fs31\fscx100.02\fscy100.02\frx0\fry0\frz32.29\fax-0.34\c&H3E3D40&\pos(944.07,282.32)\org(944.07,282.32)\iclip(m 919.83 274.3 l 921.36 317.26 894.12 330.05 884.8 265.55)\b1}Terrace
+Dialogue: 0,0:18:49.69,0:18:49.73,Signs,a1,0,0,0,,{\blur0.9\fnFOT-DotGothic16 Std FSN M Strp\fs19\fsp1\fscx100.02\fscy90.02\frz-16.9\fax0.42\c&H292526&\pos(883.12,416.2)\org(883.12,416.2)}Rec
+Dialogue: 0,0:18:49.69,0:18:49.73,Signs,a2,0,0,0,,{\blur0.9\fnFOT-DotGothic16 Std FSN M Strp\fs19\fsp-1.2\fscx96.78\fscy136.36\frx-39.423\fry36.267\frz49.126\fax-0.5\c&H292526&\pos(920.15,412.22)\org(915.55,412.22)}eipt
+Dialogue: 0,0:18:49.73,0:18:49.78,Signs,a1,0,0,0,,{\blur0.9\fnFOT Comet Std Stripped\fs33\fscx100\fscy100\frx0\fry0\frz-21.2\fax0.69\c&H292526&\pos(830.25,280.04)\org(830.25,280.04)\b1}Mobile
+Dialogue: 0,0:18:49.73,0:18:49.78,Signs,a2,0,0,0,,{\blur0.9\fnFOT Comet Std Stripped\fs31\fscx100\fscy100\frx0\fry0\frz32.29\fax-0.34\c&H292526&\pos(946.63,276.28)\org(946.63,276.28)\clip(m 922.9 268.27 l 924.43 311.23 897.19 324.01 887.88 259.52)\b1}Terrace
+Dialogue: 0,0:18:49.73,0:18:49.78,Signs,a2,0,0,0,,{\blur0.9\fnFOT Comet Std Stripped\fs31\fscx100\fscy100\frx0\fry0\frz32.29\fax-0.34\c&H3E3D40&\pos(946.63,276.28)\org(946.63,276.28)\iclip(m 922.4 268.27 l 923.93 311.23 896.69 324.01 887.38 259.52)\b1}Terrace
+Dialogue: 0,0:18:49.73,0:18:49.78,Signs,a1,0,0,0,,{\blur0.9\fnFOT-DotGothic16 Std FSN M Strp\fs19\fsp1\fscx100\fscy90\frz-16.9\fax0.42\c&H292526&\pos(885.7,410.15)\org(885.7,410.15)}Rec
+Dialogue: 0,0:18:49.73,0:18:49.78,Signs,a2,0,0,0,,{\blur0.9\fnFOT-DotGothic16 Std FSN M Strp\fs19\fsp-1.2\fscx96.76\fscy136.33\frx-39.423\fry36.267\frz49.126\fax-0.5\c&H292526&\pos(922.72,406.17)\org(918.12,406.17)}eipt
+Dialogue: 0,0:18:49.86,0:18:49.90,Signs,a1,0,0,0,,{\blur0.9\fnFOT Comet Std Stripped\fs33\fscx99.99\fscy99.99\frx0\fry0\frz-21.2\fax0.69\c&H292526&\pos(826.8,288.1)\org(826.8,288.1)\b1}Mobile
+Dialogue: 0,0:18:49.86,0:18:49.90,Signs,a2,0,0,0,,{\blur0.9\fnFOT Comet Std Stripped\fs31\fscx99.99\fscy99.99\frx0\fry0\frz32.29\fax-0.34\c&H292526&\pos(943.16,284.34)\org(943.16,284.34)\clip(m 919.43 276.33 l 920.96 319.28 893.73 332.06 884.42 267.58)\b1}Terrace
+Dialogue: 0,0:18:49.86,0:18:49.90,Signs,a2,0,0,0,,{\blur0.9\fnFOT Comet Std Stripped\fs31\fscx99.99\fscy99.99\frx0\fry0\frz32.29\fax-0.34\c&H3E3D40&\pos(943.16,284.34)\org(943.16,284.34)\iclip(m 918.93 276.33 l 920.46 319.28 893.23 332.06 883.92 267.58)\b1}Terrace
+Dialogue: 0,0:18:49.86,0:18:49.90,Signs,a1,0,0,0,,{\blur0.9\fnFOT-DotGothic16 Std FSN M Strp\fs19\fsp1\fscx99.99\fscy89.99\frz-16.9\fax0.42\c&H292526&\pos(882.24,418.19)\org(882.24,418.19)}Rec
+Dialogue: 0,0:18:49.86,0:18:49.90,Signs,a2,0,0,0,,{\blur0.9\fnFOT-DotGothic16 Std FSN M Strp\fs19\fsp-1.2\fscx96.75\fscy136.32\frx-39.423\fry36.267\frz49.126\fax-0.5\c&H292526&\pos(919.25,414.21)\org(914.65,414.21)}eipt
 Dialogue: 0,0:18:49.94,0:18:51.36,f0ld3r-invisible,,0,0,0,,
-Dialogue: 0,0:18:49.44,0:18:49.48,Signs,b1,0,0,0,,{\an4\pos(784.92,286.4)\org(848.5,286.4)\fscx101.23\fscy77.93\frz-36.285\fry9.497\frx6.345\fax0.957\fnFOT Comet Std Stripped\fs33\b1\c&H292526&\blur0.9}Mobile
-Dialogue: 0,0:18:49.44,0:18:49.48,Signs,b2,0,0,0,,{\an6\pos(983.66,286.07)\org(928.81,286.07)\fscx102.65\fscy115.83\frz40.236\fry-49.175\frx17.688\fax-0.04\fnFOT Comet Std Stripped\fs31\b1\c&H292526&\blur0.9}Terr{\c&H3E3D40&}ace
-Dialogue: 0,0:18:49.44,0:18:49.48,Signs,b1,0,0,0,,{\an4\pos(871.77,411.7)\org(892.09,411.7)\fscx102.08\fscy76.2\frz-27.546\fry-9.808\frx-2.071\fax0.595\fnFOT-DotGothic16 Std FSN M Strp\fs19\fsp1\c&H292526&\blur0.9}Rec
-Dialogue: 0,0:18:49.44,0:18:49.48,Signs,b2,0,0,0,,{\pos(926.91,408.61)\org(920.44,408.61)\fscx98.13\fscy98.47\frz43.29\fry6.018\frx-24.457\fax-0.693\fnFOT-DotGothic16 Std FSN M Strp\fs19\fsp-1.2\c&H292526&\blur0.9}eipt
-Dialogue: 0,0:18:49.48,0:18:49.52,Signs,b1,0,0,0,,{\an4\pos(782.12,281.11)\org(845.68,281.11)\fscx101.21\fscy77.91\frz-36.285\fry9.497\frx6.345\fax0.957\fnFOT Comet Std Stripped\fs33\b1\c&H292526&\blur0.9}Mobile
-Dialogue: 0,0:18:49.48,0:18:49.52,Signs,b2,0,0,0,,{\an6\pos(980.81,280.78)\org(925.97,280.78)\fscx102.63\fscy115.8\frz40.236\fry-49.175\frx17.688\fax-0.04\fnFOT Comet Std Stripped\fs31\b1\c&H292526&\blur0.9}Terr{\c&H3E3D40&}ace
-Dialogue: 0,0:18:49.48,0:18:49.52,Signs,b1,0,0,0,,{\an4\pos(868.95,406.38)\org(889.26,406.38)\fscx102.06\fscy76.18\frz-27.546\fry-9.808\frx-2.071\fax0.595\fnFOT-DotGothic16 Std FSN M Strp\fs19\fsp1\c&H292526&\blur0.9}Rec
-Dialogue: 0,0:18:49.48,0:18:49.52,Signs,b2,0,0,0,,{\pos(924.08,403.29)\org(917.61,403.29)\fscx98.11\fscy98.45\frz43.29\fry6.018\frx-24.457\fax-0.693\fnFOT-DotGothic16 Std FSN M Strp\fs19\fsp-1.2\c&H292526&\blur0.9}eipt
-Dialogue: 0,0:18:49.61,0:18:49.65,Signs,b1,0,0,0,,{\an4\pos(784.96,288.89)\org(848.53,288.89)\fscx101.21\fscy77.91\frz-36.285\fry9.497\frx6.345\fax0.957\fnFOT Comet Std Stripped\fs33\b1\c&H292526&\blur0.9}Mobile
-Dialogue: 0,0:18:49.61,0:18:49.65,Signs,b2,0,0,0,,{\an6\pos(983.66,288.56)\org(928.82,288.56)\fscx102.63\fscy115.81\frz40.236\fry-49.175\frx17.688\fax-0.04\fnFOT Comet Std Stripped\fs31\b1\c&H292526&\blur0.9}Terr{\c&H3E3D40&}ace
-Dialogue: 0,0:18:49.61,0:18:49.65,Signs,b1,0,0,0,,{\an4\pos(871.79,414.16)\org(892.11,414.16)\fscx102.06\fscy76.19\frz-27.546\fry-9.808\frx-2.071\fax0.595\fnFOT-DotGothic16 Std FSN M Strp\fs19\fsp1\c&H292526&\blur0.9}Rec
-Dialogue: 0,0:18:49.61,0:18:49.65,Signs,b2,0,0,0,,{\pos(926.92,411.07)\org(920.45,411.07)\fscx98.11\fscy98.45\frz43.29\fry6.018\frx-24.457\fax-0.693\fnFOT-DotGothic16 Std FSN M Strp\fs19\fsp-1.2\c&H292526&\blur0.9}eipt
-Dialogue: 0,0:18:49.65,0:18:49.69,Signs,b1,0,0,0,,{\an4\pos(781.62,283.37)\org(845.19,283.37)\fscx101.2\fscy77.91\frz-36.285\fry9.497\frx6.345\fax0.957\fnFOT Comet Std Stripped\fs33\b1\c&H292526&\blur0.9}Mobile
-Dialogue: 0,0:18:49.65,0:18:49.69,Signs,b2,0,0,0,,{\an6\pos(980.31,283.04)\org(925.47,283.04)\fscx102.62\fscy115.8\frz40.236\fry-49.175\frx17.688\fax-0.04\fnFOT Comet Std Stripped\fs31\b1\c&H292526&\blur0.9}Terr{\c&H3E3D40&}ace
-Dialogue: 0,0:18:49.65,0:18:49.69,Signs,b1,0,0,0,,{\an4\pos(868.45,408.63)\org(888.76,408.63)\fscx102.05\fscy76.18\frz-27.546\fry-9.808\frx-2.071\fax0.595\fnFOT-DotGothic16 Std FSN M Strp\fs19\fsp1\c&H292526&\blur0.9}Rec
-Dialogue: 0,0:18:49.65,0:18:49.69,Signs,b2,0,0,0,,{\pos(923.57,405.54)\org(917.1,405.54)\fscx98.1\fscy98.44\frz43.29\fry6.018\frx-24.457\fax-0.693\fnFOT-DotGothic16 Std FSN M Strp\fs19\fsp-1.2\c&H292526&\blur0.9}eipt
-Dialogue: 0,0:18:49.78,0:18:49.82,Signs,b1,0,0,0,,{\an4\pos(784.44,292.14)\org(848.01,292.14)\fscx101.22\fscy77.92\frz-36.285\fry9.497\frx6.345\fax0.957\fnFOT Comet Std Stripped\fs33\b1\c&H292526&\blur0.9}Mobile
-Dialogue: 0,0:18:49.78,0:18:49.82,Signs,b2,0,0,0,,{\an6\pos(983.15,291.81)\org(928.31,291.81)\fscx102.63\fscy115.81\frz40.236\fry-49.175\frx17.688\fax-0.04\fnFOT Comet Std Stripped\fs31\b1\c&H292526&\blur0.9}Terr{\c&H3E3D40&}ace
-Dialogue: 0,0:18:49.78,0:18:49.82,Signs,b1,0,0,0,,{\an4\pos(871.28,417.42)\org(891.59,417.42)\fscx102.06\fscy76.19\frz-27.546\fry-9.808\frx-2.071\fax0.595\fnFOT-DotGothic16 Std FSN M Strp\fs19\fsp1\c&H292526&\blur0.9}Rec
-Dialogue: 0,0:18:49.78,0:18:49.82,Signs,b2,0,0,0,,{\pos(926.41,414.33)\org(919.94,414.33)\fscx98.12\fscy98.46\frz43.29\fry6.018\frx-24.457\fax-0.693\fnFOT-DotGothic16 Std FSN M Strp\fs19\fsp-1.2\c&H292526&\blur0.9}eipt
-Dialogue: 0,0:18:49.82,0:18:49.86,Signs,b1,0,0,0,,{\an4\pos(780.92,286.21)\org(844.49,286.21)\fscx101.22\fscy77.93\frz-36.285\fry9.497\frx6.345\fax0.957\fnFOT Comet Std Stripped\fs33\b1\c&H292526&\blur0.9}Mobile
-Dialogue: 0,0:18:49.82,0:18:49.86,Signs,b2,0,0,0,,{\an6\pos(979.65,285.88)\org(924.8,285.88)\fscx102.64\fscy115.82\frz40.236\fry-49.175\frx17.688\fax-0.04\fnFOT Comet Std Stripped\fs31\b1\c&H292526&\blur0.9}Terr{\c&H3E3D40&}ace
-Dialogue: 0,0:18:49.82,0:18:49.86,Signs,b1,0,0,0,,{\an4\pos(867.76,411.5)\org(888.08,411.5)\fscx102.07\fscy76.2\frz-27.546\fry-9.808\frx-2.071\fax0.595\fnFOT-DotGothic16 Std FSN M Strp\fs19\fsp1\c&H292526&\blur0.9}Rec
-Dialogue: 0,0:18:49.82,0:18:49.86,Signs,b2,0,0,0,,{\pos(922.9,408.41)\org(916.43,408.41)\fscx98.12\fscy98.46\frz43.29\fry6.018\frx-24.457\fax-0.693\fnFOT-DotGothic16 Std FSN M Strp\fs19\fsp-1.2\c&H292526&\blur0.9}eipt
+Dialogue: 0,0:18:49.44,0:18:49.48,Signs,b1,0,0,0,,{\an4\blur0.9\fnFOT Comet Std Stripped\fs33\fscx101.23\fscy77.93\frx6.345\fry9.497\frz-36.285\fax0.957\c&H292526&\pos(784.92,286.4)\org(848.5,286.4)\b1}Mobile
+Dialogue: 0,0:18:49.44,0:18:49.48,Signs,b2,0,0,0,,{\an6\blur0.9\fnFOT Comet Std Stripped\fs31\fscx102.65\fscy115.83\frx17.688\fry-49.175\frz40.236\fax-0.04\c&H292526&\pos(983.66,286.07)\org(928.81,286.07)\b1}Terr{\c&H3E3D40&}ace
+Dialogue: 0,0:18:49.44,0:18:49.48,Signs,b1,0,0,0,,{\an4\blur0.9\fnFOT-DotGothic16 Std FSN M Strp\fs19\fsp1\fscx102.08\fscy76.2\frx-2.071\fry-9.808\frz-27.546\fax0.595\c&H292526&\pos(871.77,411.7)\org(892.09,411.7)}Rec
+Dialogue: 0,0:18:49.44,0:18:49.48,Signs,b2,0,0,0,,{\blur0.9\fnFOT-DotGothic16 Std FSN M Strp\fs19\fsp-1.2\fscx98.13\fscy98.47\frx-24.457\fry6.018\frz43.29\fax-0.693\c&H292526&\pos(926.91,408.61)\org(920.44,408.61)}eipt
+Dialogue: 0,0:18:49.48,0:18:49.52,Signs,b1,0,0,0,,{\an4\blur0.9\fnFOT Comet Std Stripped\fs33\fscx101.21\fscy77.91\frx6.345\fry9.497\frz-36.285\fax0.957\c&H292526&\pos(782.12,281.11)\org(845.68,281.11)\b1}Mobile
+Dialogue: 0,0:18:49.48,0:18:49.52,Signs,b2,0,0,0,,{\an6\blur0.9\fnFOT Comet Std Stripped\fs31\fscx102.63\fscy115.8\frx17.688\fry-49.175\frz40.236\fax-0.04\c&H292526&\pos(980.81,280.78)\org(925.97,280.78)\b1}Terr{\c&H3E3D40&}ace
+Dialogue: 0,0:18:49.48,0:18:49.52,Signs,b1,0,0,0,,{\an4\blur0.9\fnFOT-DotGothic16 Std FSN M Strp\fs19\fsp1\fscx102.06\fscy76.18\frx-2.071\fry-9.808\frz-27.546\fax0.595\c&H292526&\pos(868.95,406.38)\org(889.26,406.38)}Rec
+Dialogue: 0,0:18:49.48,0:18:49.52,Signs,b2,0,0,0,,{\blur0.9\fnFOT-DotGothic16 Std FSN M Strp\fs19\fsp-1.2\fscx98.11\fscy98.45\frx-24.457\fry6.018\frz43.29\fax-0.693\c&H292526&\pos(924.08,403.29)\org(917.61,403.29)}eipt
+Dialogue: 0,0:18:49.61,0:18:49.65,Signs,b1,0,0,0,,{\an4\blur0.9\fnFOT Comet Std Stripped\fs33\fscx101.21\fscy77.91\frx6.345\fry9.497\frz-36.285\fax0.957\c&H292526&\pos(784.96,288.89)\org(848.53,288.89)\b1}Mobile
+Dialogue: 0,0:18:49.61,0:18:49.65,Signs,b2,0,0,0,,{\an6\blur0.9\fnFOT Comet Std Stripped\fs31\fscx102.63\fscy115.81\frx17.688\fry-49.175\frz40.236\fax-0.04\c&H292526&\pos(983.66,288.56)\org(928.82,288.56)\b1}Terr{\c&H3E3D40&}ace
+Dialogue: 0,0:18:49.61,0:18:49.65,Signs,b1,0,0,0,,{\an4\blur0.9\fnFOT-DotGothic16 Std FSN M Strp\fs19\fsp1\fscx102.06\fscy76.19\frx-2.071\fry-9.808\frz-27.546\fax0.595\c&H292526&\pos(871.79,414.16)\org(892.11,414.16)}Rec
+Dialogue: 0,0:18:49.61,0:18:49.65,Signs,b2,0,0,0,,{\blur0.9\fnFOT-DotGothic16 Std FSN M Strp\fs19\fsp-1.2\fscx98.11\fscy98.45\frx-24.457\fry6.018\frz43.29\fax-0.693\c&H292526&\pos(926.92,411.07)\org(920.45,411.07)}eipt
+Dialogue: 0,0:18:49.65,0:18:49.69,Signs,b1,0,0,0,,{\an4\blur0.9\fnFOT Comet Std Stripped\fs33\fscx101.2\fscy77.91\frx6.345\fry9.497\frz-36.285\fax0.957\c&H292526&\pos(781.62,283.37)\org(845.19,283.37)\b1}Mobile
+Dialogue: 0,0:18:49.65,0:18:49.69,Signs,b2,0,0,0,,{\an6\blur0.9\fnFOT Comet Std Stripped\fs31\fscx102.62\fscy115.8\frx17.688\fry-49.175\frz40.236\fax-0.04\c&H292526&\pos(980.31,283.04)\org(925.47,283.04)\b1}Terr{\c&H3E3D40&}ace
+Dialogue: 0,0:18:49.65,0:18:49.69,Signs,b1,0,0,0,,{\an4\blur0.9\fnFOT-DotGothic16 Std FSN M Strp\fs19\fsp1\fscx102.05\fscy76.18\frx-2.071\fry-9.808\frz-27.546\fax0.595\c&H292526&\pos(868.45,408.63)\org(888.76,408.63)}Rec
+Dialogue: 0,0:18:49.65,0:18:49.69,Signs,b2,0,0,0,,{\blur0.9\fnFOT-DotGothic16 Std FSN M Strp\fs19\fsp-1.2\fscx98.1\fscy98.44\frx-24.457\fry6.018\frz43.29\fax-0.693\c&H292526&\pos(923.57,405.54)\org(917.1,405.54)}eipt
+Dialogue: 0,0:18:49.78,0:18:49.82,Signs,b1,0,0,0,,{\an4\blur0.9\fnFOT Comet Std Stripped\fs33\fscx101.22\fscy77.92\frx6.345\fry9.497\frz-36.285\fax0.957\c&H292526&\pos(784.44,292.14)\org(848.01,292.14)\b1}Mobile
+Dialogue: 0,0:18:49.78,0:18:49.82,Signs,b2,0,0,0,,{\an6\blur0.9\fnFOT Comet Std Stripped\fs31\fscx102.63\fscy115.81\frx17.688\fry-49.175\frz40.236\fax-0.04\c&H292526&\pos(983.15,291.81)\org(928.31,291.81)\b1}Terr{\c&H3E3D40&}ace
+Dialogue: 0,0:18:49.78,0:18:49.82,Signs,b1,0,0,0,,{\an4\blur0.9\fnFOT-DotGothic16 Std FSN M Strp\fs19\fsp1\fscx102.06\fscy76.19\frx-2.071\fry-9.808\frz-27.546\fax0.595\c&H292526&\pos(871.28,417.42)\org(891.59,417.42)}Rec
+Dialogue: 0,0:18:49.78,0:18:49.82,Signs,b2,0,0,0,,{\blur0.9\fnFOT-DotGothic16 Std FSN M Strp\fs19\fsp-1.2\fscx98.12\fscy98.46\frx-24.457\fry6.018\frz43.29\fax-0.693\c&H292526&\pos(926.41,414.33)\org(919.94,414.33)}eipt
+Dialogue: 0,0:18:49.82,0:18:49.86,Signs,b1,0,0,0,,{\an4\blur0.9\fnFOT Comet Std Stripped\fs33\fscx101.22\fscy77.93\frx6.345\fry9.497\frz-36.285\fax0.957\c&H292526&\pos(780.92,286.21)\org(844.49,286.21)\b1}Mobile
+Dialogue: 0,0:18:49.82,0:18:49.86,Signs,b2,0,0,0,,{\an6\blur0.9\fnFOT Comet Std Stripped\fs31\fscx102.64\fscy115.82\frx17.688\fry-49.175\frz40.236\fax-0.04\c&H292526&\pos(979.65,285.88)\org(924.8,285.88)\b1}Terr{\c&H3E3D40&}ace
+Dialogue: 0,0:18:49.82,0:18:49.86,Signs,b1,0,0,0,,{\an4\blur0.9\fnFOT-DotGothic16 Std FSN M Strp\fs19\fsp1\fscx102.07\fscy76.2\frx-2.071\fry-9.808\frz-27.546\fax0.595\c&H292526&\pos(867.76,411.5)\org(888.08,411.5)}Rec
+Dialogue: 0,0:18:49.82,0:18:49.86,Signs,b2,0,0,0,,{\blur0.9\fnFOT-DotGothic16 Std FSN M Strp\fs19\fsp-1.2\fscx98.12\fscy98.46\frx-24.457\fry6.018\frz43.29\fax-0.693\c&H292526&\pos(922.9,408.41)\org(916.43,408.41)}eipt
 Dialogue: 0,0:18:49.82,0:18:49.86,f0ld3r-invisible,,0,0,0,,{=88}
 Dialogue: 0,0:18:49.90,0:18:51.36,f0ld3r-invisible,,0,0,0,,{=89}--Phone
-Dialogue: 0,0:18:49.94,0:18:49.98,Signs,,0,0,0,,{=53}{\pos(933.47,399.32)\org(931.25,396.16)\fscx95.226\fscy94.255\fry-0.724\frx-5.083\fax0.067\fnFOT-Rodin Pro M Strp\fs26\c&HFDF0F6&\blur0.7\frz9.205\1a&HDC&\b1}Monday, November 12
-Dialogue: 0,0:18:49.98,0:18:50.03,Signs,,0,0,0,,{=54}{\pos(930.69,380.39)\org(928.6,375.93)\fscx97.329\fscy98.771\frz9.799\fry-4.044\frx-2.037\fax0.044\fnFOT-Rodin Pro M Strp\fs26\c&HFDF0F6&\blur0.7\1a&HA5&\b1}Monday, November 12
-Dialogue: 0,0:18:50.03,0:18:50.07,Signs,,0,0,0,,{=55}{\pos(929.97,386.97)\org(928.08,381.76)\fscx97.679\fscy101.328\frz9.728\fry-3.941\frx-0.398\fax0.038\fnFOT-Rodin Pro M Strp\fs26\c&HFDF0F6&\blur0.7\1a&H6E&\b1}Monday, November 12
-Dialogue: 0,0:18:50.07,0:18:50.11,Signs,,0,0,0,,{=56}{\pos(971.72,387.98)\org(969.79,383.15)\fscx99.104\fscy99.885\frz9.527\fry-0.133\frx-0.438\fax0.041\fnFOT-Rodin Pro M Strp\fs26\c&HFDF0F6&\blur0.7\1a&H37&\b1}Monday, November 12
-Dialogue: 0,0:18:50.11,0:18:50.15,Signs,,0,0,0,,{=57}{\pos(971.74,392.96)\org(969.85,388.16)\fscx98.933\fscy99.633\frz9.526\fry0.05\frx-1.46\fax0.038\fnFOT-Rodin Pro M Strp\fs26\c&HFDF0F6&\blur0.7\b1}Monday, November 12
-Dialogue: 0,0:18:50.15,0:18:50.19,Signs,,0,0,0,,{=58}{\pos(958.91,384.12)\org(957.62,379.18)\fscx99.355\fscy100.075\frz8.815\fry-0.078\frx-0.381\fax0.027\fnFOT-Rodin Pro M Strp\fs26\c&HFDF0F6&\blur0.7\b1}Monday, November 12
-Dialogue: 0,0:18:50.19,0:18:50.23,Signs,,0,0,0,,{=59}{\pos(958.42,389.45)\org(957.21,384.57)\fscx99.363\fscy99.861\frz8.795\fry-0.13\frx-0.297\fax0.024\fnFOT-Rodin Pro M Strp\fs26\c&HFDF0F6&\blur0.7\b1}Monday, November 12
-Dialogue: 0,0:18:50.23,0:18:50.28,Signs,,0,0,0,,{=60}{\pos(951.26,379.18)\org(950.64,374.3)\fscx99.623\fscy99.719\frz8.11\fry-0.068\frx-0.06\fax0.012\fnFOT-Rodin Pro M Strp\fs26\c&HFDF0F6&\blur0.7\b1}Monday, November 12
-Dialogue: 0,0:18:50.28,0:18:50.32,Signs,,0,0,0,,{=61}{\pos(950.87,383.84)\org(950.32,378.9)\fscx99.578\fscy99.898\frz8.111\fry-0.023\frx-0.174\fax0.009\fnFOT-Rodin Pro M Strp\fs26\c&HFDF0F6&\blur0.7\b1}Monday, November 12
-Dialogue: 0,0:18:50.32,0:18:50.36,Signs,,0,0,0,,{=62}{\pos(937.63,374.13)\org(937.63,369.13)\fscx99.89\fscy99.89\frz7.4\fry0\frx0\fax0\fnFOT-Rodin Pro M Strp\fs26\c&HFDF0F6&\blur0.7\b1}Monday, November 12
-Dialogue: 0,0:18:50.32,0:18:50.36,f0ld3r-invisible,,0,0,0,,
-Dialogue: 0,0:18:50.36,0:18:50.40,Signs,,0,0,0,,{=63}{\fscx99.89\fscy99.89\blur0.7\fs26\fnFOT-Rodin Pro M Strp\b0\frz7.4\c&HFDF0F6&\pos(937.39,379.13)\b1}Monday, November 12
-Dialogue: 0,0:18:50.40,0:18:50.44,Signs,,0,0,0,,{=64}{\fscx99.91\fscy99.91\blur0.7\fs26\fnFOT-Rodin Pro M Strp\b0\frz7.4\c&HFDF0F6&\pos(939.85,371.59)\b1}Monday, November 12
-Dialogue: 0,0:18:50.44,0:18:50.48,Signs,,0,0,0,,{=65}{\fscx99.9\fscy99.9\blur0.7\fs26\fnFOT-Rodin Pro M Strp\b0\frz7.4\c&HFDF0F6&\pos(940.13,375.58)\b1}Monday, November 12
-Dialogue: 0,0:18:50.48,0:18:50.53,Signs,,0,0,0,,{=66}{\fscx99.89\fscy99.89\blur0.7\fs26\fnFOT-Rodin Pro M Strp\b0\frz7.4\c&HFDF0F6&\pos(937.44,370.54)\b1}Monday, November 12
-Dialogue: 0,0:18:50.53,0:18:50.57,Signs,,0,0,0,,{=67}{\fscx99.91\fscy99.91\blur0.7\fs26\fnFOT-Rodin Pro M Strp\b0\frz7.4\c&HFDF0F6&\pos(936.63,373.62)\b1}Monday, November 12
-Dialogue: 0,0:18:50.57,0:18:50.61,Signs,,0,0,0,,{=68}{\fscx99.91\fscy99.91\blur0.7\fs26\fnFOT-Rodin Pro M Strp\b0\frz7.4\c&HFDF0F6&\pos(939.8,368.96)\b1}Monday, November 12
-Dialogue: 0,0:18:50.61,0:18:50.65,Signs,,0,0,0,,{=69}{\fscx99.91\fscy99.91\blur0.7\fs26\fnFOT-Rodin Pro M Strp\b0\frz7.4\c&HFDF0F6&\pos(940.16,372.95)\b1}Monday, November 12
-Dialogue: 0,0:18:50.65,0:18:50.69,Signs,,0,0,0,,{=70}{\fscx99.91\fscy99.91\blur0.7\fs26\fnFOT-Rodin Pro M Strp\b0\frz7.4\c&HFDF0F6&\pos(937.21,367.33)\b1}Monday, November 12
-Dialogue: 0,0:18:50.69,0:18:50.73,Signs,,0,0,0,,{=71}{\fscx99.91\fscy99.91\blur0.7\fs26\fnFOT-Rodin Pro M Strp\b0\frz7.4\c&HFDF0F6&\pos(937.24,373.61)\b1}Monday, November 12
-Dialogue: 0,0:18:50.73,0:18:50.78,Signs,,0,0,0,,{=72}{\fscx99.91\fscy99.91\blur0.7\fs26\fnFOT-Rodin Pro M Strp\b0\frz7.4\c&HFDF0F6&\pos(939.9,367.21)\b1}Monday, November 12
-Dialogue: 0,0:18:50.78,0:18:50.82,Signs,,0,0,0,,{=73}{\fscx99.92\fscy99.92\blur0.7\fs26\fnFOT-Rodin Pro M Strp\b0\frz7.4\c&HFDF0F6&\pos(940.55,372.66)\b1}Monday, November 12
-Dialogue: 0,0:18:50.82,0:18:50.86,Signs,,0,0,0,,{=74}{\fscx99.91\fscy99.91\blur0.7\fs26\fnFOT-Rodin Pro M Strp\b0\frz7.4\c&HFDF0F6&\pos(937.49,368.26)\b1}Monday, November 12
-Dialogue: 0,0:18:50.86,0:18:50.90,Signs,,0,0,0,,{=75}{\fscx99.92\fscy99.92\blur0.7\fs26\fnFOT-Rodin Pro M Strp\b0\frz7.4\c&HFDF0F6&\pos(938.04,375.06)\b1}Monday, November 12
-Dialogue: 0,0:18:50.90,0:18:50.94,Signs,,0,0,0,,{=76}{\fscx99.94\fscy99.94\blur0.7\fs26\fnFOT-Rodin Pro M Strp\b0\frz7.4\c&HFDF0F6&\pos(940.75,369.35)\b1}Monday, November 12
-Dialogue: 0,0:18:50.94,0:18:50.98,Signs,,0,0,0,,{=77}{\fscx99.93\fscy99.93\blur0.7\fs26\fnFOT-Rodin Pro M Strp\b0\frz7.4\c&HFDF0F6&\pos(941.26,375.3)\b1}Monday, November 12
-Dialogue: 0,0:18:50.98,0:18:51.03,Signs,,0,0,0,,{=78}{\fscx99.93\fscy99.93\blur0.7\fs26\fnFOT-Rodin Pro M Strp\b0\frz7.4\c&HFDF0F6&\pos(938.14,370.93)\b1}Monday, November 12
-Dialogue: 0,0:18:51.03,0:18:51.07,Signs,,0,0,0,,{=79}{\fscx99.93\fscy99.93\blur0.7\fs26\fnFOT-Rodin Pro M Strp\b0\frz7.4\c&HFDF0F6&\pos(938.67,376.94)\b1}Monday, November 12
-Dialogue: 0,0:18:51.07,0:18:51.11,Signs,,0,0,0,,{=80}{\fscx99.93\fscy99.93\blur0.7\fs26\fnFOT-Rodin Pro M Strp\b0\frz7.4\c&HFDF0F6&\pos(941.47,371.67)\b1}Monday, November 12
-Dialogue: 0,0:18:51.11,0:18:51.15,Signs,,0,0,0,,{=81}{\fscx99.94\fscy99.94\blur0.7\fs26\fnFOT-Rodin Pro M Strp\b0\frz7.4\c&HFDF0F6&\pos(941.65,378.94)\b1}Monday, November 12
-Dialogue: 0,0:18:51.15,0:18:51.19,Signs,,0,0,0,,{=82}{\fscx99.94\fscy99.94\blur0.7\fs26\fnFOT-Rodin Pro M Strp\b0\frz7.4\c&HFDF0F6&\pos(939.21,374)\b1}Monday, November 12
-Dialogue: 0,0:18:51.19,0:18:51.23,Signs,,0,0,0,,{=83}{\fscx99.94\fscy99.94\blur0.7\fs26\fnFOT-Rodin Pro M Strp\b0\frz7.4\c&HFDF0F6&\pos(939.52,380.05)\b1}Monday, November 12
-Dialogue: 0,0:18:51.23,0:18:51.28,Signs,,0,0,0,,{=84}{\fscx99.96\fscy99.96\blur0.7\fs26\fnFOT-Rodin Pro M Strp\b0\frz7.4\c&HFDF0F6&\pos(943.05,375.57)\b1}Monday, November 12
-Dialogue: 0,0:18:51.28,0:18:51.32,Signs,,0,0,0,,{=85}{\fscx99.98\fscy99.98\blur0.7\fs26\fnFOT-Rodin Pro M Strp\b0\frz7.4\c&HFDF0F6&\pos(942.65,381.77)\b1}Monday, November 12
-Dialogue: 0,0:18:51.32,0:18:51.36,Signs,,0,0,0,,{=86}{\fscx100\fscy100\blur0.7\fs26\fnFOT-Rodin Pro M Strp\b0\frz7.4\c&HFDF0F6&\pos(940.09,376.84)\b1}Monday, November 12
+Dialogue: 0,0:18:49.94,0:18:49.98,Signs,,0,0,0,,{=53}{\blur0.75\fnFOT-Rodin Pro M Strp\fs29\fscx95.226\fscy94.255\frx-5.083\fry-0.724\frz9.205\fax0.067\c&HFBE6F0&\1a&HDC&\pos(934.47,405.32)\org(931.25,396.16)\b1}Monday, November 12
+Dialogue: 0,0:18:49.98,0:18:50.03,Signs,,0,0,0,,{=54}{\blur0.75\fnFOT-Rodin Pro M Strp\fs29\fscx97.329\fscy98.771\frx-2.037\fry-4.044\frz9.799\fax0.044\c&HFBE6F0&\1a&HA5&\pos(931.69,386.39)\org(928.6,375.93)\b1}Monday, November 12
+Dialogue: 0,0:18:50.03,0:18:50.07,Signs,,0,0,0,,{=55}{\blur0.75\fnFOT-Rodin Pro M Strp\fs29\fscx97.679\fscy101.328\frx-0.398\fry-3.941\frz9.728\fax0.038\c&HFBE6F0&\1a&H6E&\pos(930.97,392.97)\org(928.08,381.76)\b1}Monday, November 12
+Dialogue: 0,0:18:50.07,0:18:50.11,Signs,,0,0,0,,{=56}{\blur0.75\fnFOT-Rodin Pro M Strp\fs29\fscx99.104\fscy99.885\frx-0.438\fry-0.133\frz9.527\fax0.041\c&HFBE6F0&\1a&H37&\pos(972.72,393.98)\org(969.79,383.15)\b1}Monday, November 12
+Dialogue: 0,0:18:50.11,0:18:50.15,Signs,,0,0,0,,{=57}{\blur0.75\fnFOT-Rodin Pro M Strp\fs29\fscx98.933\fscy99.633\frx-1.46\fry0.05\frz9.526\fax0.038\c&HFBE6F0&\pos(972.74,398.96)\org(969.85,388.16)\b1}Monday, November 12
+Dialogue: 0,0:18:50.15,0:18:50.19,Signs,,0,0,0,,{=58}{\blur0.75\fnFOT-Rodin Pro M Strp\fs29\fscx99.355\fscy100.075\frx-0.381\fry-0.078\frz8.815\fax0.027\c&HFBE6F0&\pos(959.91,390.12)\org(957.62,379.18)\b1}Monday, November 12
+Dialogue: 0,0:18:50.19,0:18:50.23,Signs,,0,0,0,,{=59}{\blur0.75\fnFOT-Rodin Pro M Strp\fs29\fscx99.363\fscy99.861\frx-0.297\fry-0.13\frz8.795\fax0.024\c&HFBE6F0&\pos(959.42,395.45)\org(957.21,384.57)\b1}Monday, November 12
+Dialogue: 0,0:18:50.23,0:18:50.28,Signs,,0,0,0,,{=60}{\blur0.75\fnFOT-Rodin Pro M Strp\fs29\fscx99.623\fscy99.719\frx-0.06\fry-0.068\frz8.11\fax0.012\c&HFBE6F0&\pos(952.26,385.18)\org(950.64,374.3)\b1}Monday, November 12
+Dialogue: 0,0:18:50.28,0:18:50.32,Signs,,0,0,0,,{=61}{\blur0.75\fnFOT-Rodin Pro M Strp\fs29\fscx99.578\fscy99.898\frx-0.174\fry-0.023\frz8.111\fax0.009\c&HFBE6F0&\pos(951.87,389.84)\org(950.32,378.9)\b1}Monday, November 12
+Dialogue: 0,0:18:50.32,0:18:50.36,Signs,,0,0,0,,{=62}{\blur0.75\fnFOT-Rodin Pro M Strp\fs29\fscx99.89\fscy99.89\frx0\fry0\frz7.4\fax0\c&HFBE6F0&\pos(938.63,380.13)\org(937.63,369.13)\b1}Monday, November 12
+Dialogue: 0,0:18:50.32,0:18:50.36,f0ld3r-invisible,,0,0,0,,{\fs3}
+Dialogue: 0,0:18:50.36,0:18:50.40,Signs,,0,0,0,,{=63}{\blur0.75\fnFOT-Rodin Pro M Strp\fs29\fscx99.89\fscy99.89\frz7.4\c&HFBE6F0&\pos(938.39,385.13)\b0\b1}Monday, November 12
+Dialogue: 0,0:18:50.40,0:18:50.44,Signs,,0,0,0,,{=64}{\blur0.75\fnFOT-Rodin Pro M Strp\fs29\fscx99.91\fscy99.91\frz7.4\c&HFBE6F0&\pos(940.85,377.59)\b0\b1}Monday, November 12
+Dialogue: 0,0:18:50.44,0:18:50.48,Signs,,0,0,0,,{=65}{\blur0.75\fnFOT-Rodin Pro M Strp\fs29\fscx99.9\fscy99.9\frz7.4\c&HFBE6F0&\pos(941.13,381.58)\b0\b1}Monday, November 12
+Dialogue: 0,0:18:50.48,0:18:50.53,Signs,,0,0,0,,{=66}{\blur0.75\fnFOT-Rodin Pro M Strp\fs29\fscx99.89\fscy99.89\frz7.4\c&HFBE6F0&\pos(938.44,376.54)\b0\b1}Monday, November 12
+Dialogue: 0,0:18:50.53,0:18:50.57,Signs,,0,0,0,,{=67}{\blur0.75\fnFOT-Rodin Pro M Strp\fs29\fscx99.91\fscy99.91\frz7.4\c&HFBE6F0&\pos(937.63,379.62)\b0\b1}Monday, November 12
+Dialogue: 0,0:18:50.57,0:18:50.61,Signs,,0,0,0,,{=68}{\blur0.75\fnFOT-Rodin Pro M Strp\fs29\fscx99.91\fscy99.91\frz7.4\c&HFBE6F0&\pos(940.8,374.96)\b0\b1}Monday, November 12
+Dialogue: 0,0:18:50.61,0:18:50.65,Signs,,0,0,0,,{=69}{\blur0.75\fnFOT-Rodin Pro M Strp\fs29\fscx99.91\fscy99.91\frz7.4\c&HFBE6F0&\pos(941.16,378.95)\b0\b1}Monday, November 12
+Dialogue: 0,0:18:50.65,0:18:50.69,Signs,,0,0,0,,{=70}{\blur0.75\fnFOT-Rodin Pro M Strp\fs29\fscx99.91\fscy99.91\frz7.4\c&HFBE6F0&\pos(938.21,373.33)\b0\b1}Monday, November 12
+Dialogue: 0,0:18:50.69,0:18:50.73,Signs,,0,0,0,,{=71}{\blur0.75\fnFOT-Rodin Pro M Strp\fs29\fscx99.91\fscy99.91\frz7.4\c&HFBE6F0&\pos(938.24,379.61)\b0\b1}Monday, November 12
+Dialogue: 0,0:18:50.73,0:18:50.78,Signs,,0,0,0,,{=72}{\blur0.75\fnFOT-Rodin Pro M Strp\fs29\fscx99.91\fscy99.91\frz7.4\c&HFBE6F0&\pos(940.9,373.21)\b0\b1}Monday, November 12
+Dialogue: 0,0:18:50.78,0:18:50.82,Signs,,0,0,0,,{=73}{\blur0.75\fnFOT-Rodin Pro M Strp\fs29\fscx99.92\fscy99.92\frz7.4\c&HFBE6F0&\pos(941.55,378.66)\b0\b1}Monday, November 12
+Dialogue: 0,0:18:50.82,0:18:50.86,Signs,,0,0,0,,{=74}{\blur0.75\fnFOT-Rodin Pro M Strp\fs29\fscx99.91\fscy99.91\frz7.4\c&HFBE6F0&\pos(938.49,374.26)\b0\b1}Monday, November 12
+Dialogue: 0,0:18:50.86,0:18:50.90,Signs,,0,0,0,,{=75}{\blur0.75\fnFOT-Rodin Pro M Strp\fs29\fscx99.92\fscy99.92\frz7.4\c&HFBE6F0&\pos(939.04,381.06)\b0\b1}Monday, November 12
+Dialogue: 0,0:18:50.90,0:18:50.94,Signs,,0,0,0,,{=76}{\blur0.75\fnFOT-Rodin Pro M Strp\fs29\fscx99.94\fscy99.94\frz7.4\c&HFBE6F0&\pos(941.75,375.35)\b0\b1}Monday, November 12
+Dialogue: 0,0:18:50.94,0:18:50.98,Signs,,0,0,0,,{=77}{\blur0.75\fnFOT-Rodin Pro M Strp\fs29\fscx99.93\fscy99.93\frz7.4\c&HFBE6F0&\pos(942.26,381.3)\b0\b1}Monday, November 12
+Dialogue: 0,0:18:50.98,0:18:51.03,Signs,,0,0,0,,{=78}{\blur0.75\fnFOT-Rodin Pro M Strp\fs29\fscx99.93\fscy99.93\frz7.4\c&HFBE6F0&\pos(939.14,376.93)\b0\b1}Monday, November 12
+Dialogue: 0,0:18:51.03,0:18:51.07,Signs,,0,0,0,,{=79}{\blur0.75\fnFOT-Rodin Pro M Strp\fs29\fscx99.93\fscy99.93\frz7.4\c&HFBE6F0&\pos(939.67,382.94)\b0\b1}Monday, November 12
+Dialogue: 0,0:18:51.07,0:18:51.11,Signs,,0,0,0,,{=80}{\blur0.75\fnFOT-Rodin Pro M Strp\fs29\fscx99.93\fscy99.93\frz7.4\c&HFBE6F0&\pos(942.47,377.67)\b0\b1}Monday, November 12
+Dialogue: 0,0:18:51.11,0:18:51.15,Signs,,0,0,0,,{=81}{\blur0.75\fnFOT-Rodin Pro M Strp\fs29\fscx99.94\fscy99.94\frz7.4\c&HFBE6F0&\pos(942.65,384.94)\b0\b1}Monday, November 12
+Dialogue: 0,0:18:51.15,0:18:51.19,Signs,,0,0,0,,{=82}{\blur0.75\fnFOT-Rodin Pro M Strp\fs29\fscx99.94\fscy99.94\frz7.4\c&HFBE6F0&\pos(940.21,380)\b0\b1}Monday, November 12
+Dialogue: 0,0:18:51.19,0:18:51.23,Signs,,0,0,0,,{=83}{\blur0.75\fnFOT-Rodin Pro M Strp\fs29\fscx99.94\fscy99.94\frz7.4\c&HFBE6F0&\pos(940.52,386.05)\b0\b1}Monday, November 12
+Dialogue: 0,0:18:51.23,0:18:51.28,Signs,,0,0,0,,{=84}{\blur0.75\fnFOT-Rodin Pro M Strp\fs29\fscx99.96\fscy99.96\frz7.4\c&HFBE6F0&\pos(944.05,381.57)\b0\b1}Monday, November 12
+Dialogue: 0,0:18:51.28,0:18:51.32,Signs,,0,0,0,,{=85}{\blur0.75\fnFOT-Rodin Pro M Strp\fs29\fscx99.98\fscy99.98\frz7.4\c&HFBE6F0&\pos(943.65,387.77)\b0\b1}Monday, November 12
+Dialogue: 0,0:18:51.32,0:18:51.36,Signs,,0,0,0,,{=86}{\blur0.75\fnFOT-Rodin Pro M Strp\fs29\fscx100\fscy100\frz7.4\c&HFBE6F0&\pos(941.09,382.84)\b0\b1}Monday, November 12
 Dialogue: 0,0:18:49.36,0:18:49.90,f0ld3r-invisible,,0,0,0,,{=90}
-Dialogue: 0,0:17:17.98,0:17:18.06,f0ld3r-invisible,,0,0,0,,{=44}--Hotel Receipt
-Dialogue: 0,0:17:17.98,0:17:21.48,Signs,,0,0,0,,{\blur0.78\fnLucida Calligraphy\fs22.5\fsp0.1\frz243.1\c&H131512&\1a&H00&\pos(830.8,656.39)}Starry Sky Inn
-Dialogue: 0,0:17:17.98,0:17:21.48,Signs,,0,0,0,,{\blur0.8\fnElephant\fs24\fsp1\c&H4C4C41&\pos(1080.63,619.25)\frz242.6}Receipt
+Dialogue: 0,0:17:17.98,0:17:18.06,f0ld3r-invisible,,0,0,0,,{=95}--Hotel Receipt
+Dialogue: 0,0:17:17.98,0:17:21.48,Signs,,0,0,0,,{\blur0.78\fnLucida Calligraphy\fs22.5\fsp0.1\frz243.1\c&H171512&\1a&H00&\pos(830.8,656.39)}Starry Sky Inn
+Dialogue: 0,0:17:17.98,0:17:21.48,Signs,,0,0,0,,{\blur0.8\fnElephant\fs24\fsp1\frz242.6\c&H4C4C41&\pos(1080.63,619.25)}Receipt
 Dialogue: 0,0:17:17.98,0:17:20.98,Signs,,0,0,0,,{\blur0.72\fnBodoni MT\fs14\frz239.2\fax0.05\c&H3D3930&\pos(1022.69,408.7)}Amount
 Dialogue: 0,0:17:20.98,0:17:21.10,Signs,,0,0,0,,{\blur2\fnBodoni MT\fs14\frz239.2\fax0.05\c&H3D3930&\pos(1022.69,408.7)}A{\blur1.5}m{\blur1.1}o{\blur0.72}unt
 Dialogue: 0,0:17:21.10,0:17:21.23,Signs,,0,0,0,,{\blur4\fnBodoni MT\fs14\frz239.2\fax0.05\c&H3D3930&\pos(1022.69,408.7)}Amount
-Dialogue: 0,0:17:17.98,0:17:20.73,Signs,,0,0,0,,{\blur0.72\fnBodoni MT\fs19\frz237.7\fax0.1\c&H3D3930&\pos(896.71,402)}Lodging fees {\frz239}duly received
-Dialogue: 0,0:17:20.73,0:17:20.85,Signs,,0,0,0,,{\blur2.5\fnBodoni MT\fs19\frz237.7\fax0.1\c&H3D3930&\pos(896.71,402)}Lo{\blur0.72}dging fees {\frz239}duly received
-Dialogue: 0,0:17:20.85,0:17:20.98,Signs,,0,0,0,,{\blur8\fnBodoni MT\fs19\frz237.7\fax0.1\c&H3D3930&\pos(896.71,402)}Lodging f{\blur1}e{\blur0.9}e{\blur0.72}s {\frz239}duly received
-Dialogue: 0,0:17:20.98,0:17:21.10,Signs,,0,0,0,,{\blur8\fnBodoni MT\fs19\frz237.7\fax0.1\c&H3D3930&\pos(896.71,402)}Lodging fees {\frz239}{\blur1.2}d{\blur0.72}uly received
-Dialogue: 0,0:17:21.10,0:17:21.23,Signs,,0,0,0,,{\blur8\fnBodoni MT\fs19\frz237.7\fax0.1\c&H3D3930&\pos(896.71,402)}Lodging fees {\frz239}dul{\blur1}y {\blur0.72}received
-Dialogue: 0,0:17:21.23,0:17:21.35,Signs,,0,0,0,,{\blur8\fnBodoni MT\fs19\frz237.7\fax0.1\c&H3D3930&\pos(896.71,402)}Lodging fees {\frz239}duly rece{\blur1}i{\blur0.72}ved
-Dialogue: 0,0:17:21.35,0:17:21.48,Signs,,0,0,0,,{\blur8\fnBodoni MT\fs19\frz237.7\fax0.1\c&H3D3930&\pos(896.71,402)}Lodging fees {\frz239}duly receive{\blur1}d
-Dialogue: 0,0:17:17.98,0:17:18.06,f0ld3r-invisible,,0,0,0,,{=45}
+Dialogue: 0,0:17:17.98,0:17:20.73,Signs,,0,0,0,,{\blur0.72\fnBodoni MT\fs19\frz237.7\fax0.1\c&H3D3930&\pos(893.71,400)}Lodging fees {\frz239}duly received
+Dialogue: 0,0:17:20.73,0:17:20.85,Signs,,0,0,0,,{\blur2.5\fnBodoni MT\fs19\frz237.7\fax0.1\c&H3D3930&\pos(893.71,400)}Lo{\blur0.72}dging fees {\frz239}duly received
+Dialogue: 0,0:17:20.85,0:17:20.98,Signs,,0,0,0,,{\blur8\fnBodoni MT\fs19\frz237.7\fax0.1\c&H3D3930&\pos(893.71,400)}Lodging f{\blur1}e{\blur0.9}e{\blur0.72}s {\frz239}duly received
+Dialogue: 0,0:17:20.98,0:17:21.10,Signs,,0,0,0,,{\blur8\fnBodoni MT\fs19\frz237.7\fax0.1\c&H3D3930&\pos(893.71,400)}Lodging fees {\frz239}{\blur1.2}d{\blur0.72}uly received
+Dialogue: 0,0:17:21.10,0:17:21.23,Signs,,0,0,0,,{\blur8\fnBodoni MT\fs19\frz237.7\fax0.1\c&H3D3930&\pos(893.71,400)}Lodging fees {\frz239}dul{\blur1}y {\blur0.72}received
+Dialogue: 0,0:17:21.23,0:17:21.35,Signs,,0,0,0,,{\blur8\fnBodoni MT\fs19\frz237.7\fax0.1\c&H3D3930&\pos(893.71,400)}Lodging fees {\frz239}duly rece{\blur1}i{\blur0.72}ved
+Dialogue: 0,0:17:21.35,0:17:21.48,Signs,,0,0,0,,{\blur8\fnBodoni MT\fs19\frz237.7\fax0.1\c&H3D3930&\pos(893.71,400)}Lodging fees {\frz239}duly receive{\blur1}d
+Dialogue: 0,0:17:17.98,0:17:18.06,f0ld3r-invisible,,0,0,0,,{=96}
 
 [Aegisub Extradata]
 Data: 0,_aegi_folddata,e0;1;1
@@ -393,16 +394,10 @@ Data: 32,a-mo,e{"uuid"#00"6f56536b-3859-43f2-961d-7cde7bf3a415"#00"originalText"
 Data: 33,a-mo,e{"uuid"#00"d5167da3-fc44-4aad-b011-0e81e3bc8c3e"#00"originalText"#00"{\\blur1.5\\an7\\pos(0#000)\\fscx100\\fscy100\\p1\\c&HF1F1F0&}m 896.73 924.27 l 898.67 911.81 907.24 904.02 923.59 901.3 931.38 893.9 951.24 897.4 960.19 903.63 968.37 921.15 967.98 939.84 966.42 952.69 964.87 959.7 952.8 965.93 919.7 970.21 904.51 960.48 895.56 937.12"}
 Data: 34,_aegi_folddata,e0;1;5
 Data: 35,_aegi_folddata,e1;1;5
-Data: 36,_aegi_folddata,e0;0;8
-Data: 37,_aegi_folddata,e1;0;8
-Data: 44,_aegi_folddata,e0;1;9
-Data: 45,_aegi_folddata,e1;1;9
 Data: 46,_aegi_folddata,e0;1;7
 Data: 47,_aegi_folddata,e1;1;7
 Data: 48,_aegi_folddata,e0;1;6
 Data: 49,_aegi_folddata,e1;1;6
-Data: 51,_aegi_folddata,e0;0;5
-Data: 52,_aegi_folddata,e1;0;5
 Data: 53,_aegi_folddata,e1;1;10
 Data: 54,_aegi_folddata,e1;1;11
 Data: 55,_aegi_folddata,e1;1;12
@@ -441,5 +436,11 @@ Data: 87,_aegi_folddata,e0;1;44
 Data: 88,_aegi_folddata,e1;1;44
 Data: 89,_aegi_folddata,e0;1;45
 Data: 90,_aegi_folddata,e1;1;45
-Data: 91,_aegi_folddata,e0;0;45
-Data: 92,_aegi_folddata,e1;0;45
+Data: 95,_aegi_folddata,e0;1;9
+Data: 96,_aegi_folddata,e1;1;9
+Data: 107,_aegi_folddata,e0;0;1
+Data: 108,_aegi_folddata,e1;0;1
+Data: 109,_aegi_folddata,e0;0;5
+Data: 110,_aegi_folddata,e1;0;5
+Data: 111,_aegi_folddata,e0;0;9
+Data: 112,_aegi_folddata,e1;0;9
