@@ -16,9 +16,10 @@ Audio File: jjk_58_premux.mkv
 Video File: jjk_58_premux.mkv
 Keyframes File: jjk_58_keyframes.txt
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Active Line: 6
-Video Position: 844
+Video Zoom Percent: 0.750000
+Scroll Position: 225
+Active Line: 230
+Video Position: 31456
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -34,263 +35,233 @@ Comment: 0,0:13:55.02,0:13:55.06,Default,chptr,0,0,0,,{Part C}
 Comment: 0,0:21:54.96,0:21:55.00,Default,chptr,0,0,0,edsync,{Ending}
 Comment: 0,0:23:24.92,0:23:24.97,Default,chptr,0,0,0,,{Preview}
 Dialogue: 0,0:00:05.99,0:00:09.78,Default,Fushiguro,0,0,0,,Domain Expansion: Chimera Shadow Garden.
-Dialogue: 0,0:00:16.33,0:00:18.87,Default,Reggie,0,0,0,,Esoteric Technique: Hollow Wicker Basket!
+Dialogue: 0,0:00:16.33,0:00:18.87,Default,Reggie,0,0,0,,Esoteric Technique: Hollow Wicker Basket! {supposed to be Secret Art? no that's a different word, maybe Esoteric Art?}
 Dialogue: 0,0:00:21.33,0:00:27.01,Default,Narrator,0,0,0,,Hollow Wicker Basket is the origin \Nof New Shadow Style's Simple Domain.
 Dialogue: 0,0:00:27.01,0:00:32.30,Default,Narrator,0,0,0,,It possesses the ability to neutralize a domain \Nand counter its sure-hit effect.
 Dialogue: 0,0:00:32.47,0:00:34.26,Default,Reggie,0,0,0,,Too bad!
-Comment: 0,0:00:35.35,0:00:38.73,Default,Narrator,0,0,0,,The Domain Extension used by Jogo and Hanami in Shibuya
-Comment: 0,0:00:38.73,0:00:43.27,Default,Narrator,0,0,0,,utilized a domain capable of harboring \Na sure-hit, sure-kill technique...
+Dialogue: 0,0:00:35.35,0:00:38.73,Default,Narrator,0,0,0,,The Domain Extension that \NJogo and Hanami used in Shibuya
+Dialogue: 0,0:00:38.73,0:00:42.94,Default,Narrator,0,0,0,,could have been infused \Nwith a sure-hit, sure-kill technique.
 Dialogue: 0,0:00:45.86,0:00:47.86,Default,Reggie,0,0,0,,{\i1}Why can he still hit me? {Why is it hitting me?!}
-Comment: 0,0:00:47.86,0:00:51.16,Default,Narrator,0,0,0,,...and intentionally left out their cursed techniques
-Comment: 0,0:00:51.16,0:00:55.08,Default,Narrator,0,0,0,,to leave space for Gojo's cursed technique to flow into,
-Comment: 0,0:00:55.08,0:00:57.16,Default,Narrator,0,0,0,,neutralizing his Limitless.
-Dialogue: 0,0:00:57.54,0:01:03.50,Default,Narrator,0,0,0,,However, Hollow Wicker Basket and Simple Domain \Ncannot neutralize cursed technique itself.
+Dialogue: 0,0:00:47.86,0:00:55.03,Default,Narrator,0,0,0,,By deliberately omitting one, \Nthey freed up capacity to channel Gojo's technique,
+Dialogue: 0,0:00:55.03,0:00:57.16,Default,Narrator,0,0,0,,neutralizing his Limitless. {Infinity?}
+Dialogue: 0,0:00:57.45,0:01:03.50,Default,Narrator,0,0,0,,However, Hollow Wicker Basket and Simple Domain \Ncannot neutralize the cursed technique itself.
 Dialogue: 0,0:01:03.96,0:01:12.43,Default,Narrator,0,0,0,,They neutralize the barrier infused with \Nthe technique to nullify the sure-hit effect.
 Dialogue: 0,0:01:15.01,0:01:18.39,Default,Narrator,0,0,0,,However, Fushiguro's domain is incomplete.
 Dialogue: 0,0:01:18.39,0:01:20.52,Default,Fushiguro,0,0,0,,Not sneering anymore, are you?
 Dialogue: 0,0:01:20.52,0:01:22.35,Default,Reggie,0,0,0,,You little shit!
 Dialogue: 0,0:01:24.11,0:01:29.40,Default,Narrator,0,0,0,,By transposing his domain \Nonto the space of the gymnasium,
-Dialogue: 0,0:01:29.40,0:01:31.74,Default,Narrator,0,0,0,,he managed to force it to close,
+Dialogue: 0,0:01:29.40,0:01:31.74,Default,Narrator,0,0,0,,he managed to force it closed,
 Dialogue: 0,0:01:31.74,0:01:34.62,Default,Narrator,0,0,0,,but it's not infused with a sure-hit technique.
 Dialogue: 0,0:01:36.24,0:01:37.87,Default,Reggie,0,0,0,,Don't think you've won!
 Dialogue: 0,0:01:39.58,0:01:41.25,Default,Reggie,0,0,0,,{\i1}Now I see.
-Dialogue: 0,0:01:41.25,0:01:47.17,Default,Narrator,0,0,0,,Chimera Shadow Garden currently \Njust extends his Ten Shadows Technique,
-Dialogue: 0,0:01:47.17,0:01:52.05,Default,Narrator,0,0,0,,and draws out 120% of his latent potential.
-Dialogue: 0,0:01:52.59,0:01:54.97,Default,Narrator,0,0,0,,However, that very imperfection
-Dialogue: 0,0:01:54.97,0:01:57.56,Default,Narrator,0,0,0,,is what caught Reggie Star off-guard.
+Dialogue: 0,0:01:41.25,0:01:47.17,Default,Narrator,0,0,0,,At the moment, Chimera Shadow Garden simply \Nextends his Ten Shadows Technique,
+Dialogue: 0,0:01:47.17,0:01:52.05,Default,Narrator,0,0,0,,drawing out 120% of his potential. {potential mentioned!!!}
+Dialogue: 0,0:01:52.63,0:01:57.56,Default,Narrator,0,0,0,,However, that very imperfection caught Reggie Star off-guard.
 Dialogue: 0,0:01:57.56,0:02:02.14,Default,Reggie,0,0,0,,{\i1}His clones and his {*}cursed beasts{*shikigami} \Ntook physical forms right before striking me.
-Dialogue: 0,0:02:02.14,0:02:06.15,Default,Reggie,0,0,0,,{\i1}That means this barrier isn't infused \Nwith a sure-hit technique!
-Dialogue: 0,0:02:06.52,0:02:10.61,Default,Reggie,0,0,0,,{\i1}The domain's buff to his technique's abilities is no joke, though.
-Dialogue: 0,0:02:10.61,0:02:13.99,Default,Reggie,0,0,0,,{\i1}This is even worse to deal with than a simple sure-hit domain!
-Dialogue: 0,0:02:13.99,0:02:17.83,Default,Reggie,0,0,0,,{\i1}If he pulls out that elephant here and drenches me in water,
-Dialogue: 0,0:02:17.83,0:02:20.95,Default,Reggie,0,0,0,,{\i1}it'll halve my options, and I'll probably lose.
-Dialogue: 0,0:02:28.59,0:02:29.96,Default,Reggie,0,0,0,,{\i1}But...
-Dialogue: 0,0:02:29.96,0:02:32.13,Default,Reggie,0,0,0,,{\i1}it's so like me
-Dialogue: 0,0:02:32.13,0:02:35.01,Default,Reggie,0,0,0,,{\i1}to make sure that won't happen.
-Dialogue: 0,0:02:35.97,0:02:37.01,Default,Fushiguro,0,0,0,,Nue!
-Dialogue: 0,0:02:41.81,0:02:43.35,Default,Reggie,0,0,0,,Too slow!
-Dialogue: 0,0:02:47.06,0:02:48.77,Default,Reggie,0,0,0,,I knew it.
-Dialogue: 0,0:02:50.98,0:02:53.32,Default,Reggie,0,0,0,,For a while now,
-Dialogue: 0,0:02:53.32,0:02:57.32,Default,Reggie,0,0,0,,I've had to reinforce my footing with cursed energy to avoid getting sucked in.
-Dialogue: 0,0:03:00.74,0:03:05.29,Default,Reggie,0,0,0,,The whole bottom of this domain is your shadow, right?
-Dialogue: 0,0:03:05.29,0:03:10.42,Default,Reggie,0,0,0,,Being able to store and remove yourself and objects is convenient, isn't it?
-Dialogue: 0,0:03:10.42,0:03:13.17,Default,Reggie,0,0,0,,But one thing nagged at me.
-Dialogue: 0,0:03:13.17,0:03:15.68,Default,Reggie,0,0,0,,"He doesn't have many weapons."
-Dialogue: 0,0:03:15.68,0:03:19.01,Default,Reggie,0,0,0,,I've only seen you use one paltry cursed tool.
-Dialogue: 0,0:03:19.01,0:03:20.64,Default,Reggie,0,0,0,,Either it has a low capacity
-Dialogue: 0,0:03:20.64,0:03:25.23,Default,Reggie,0,0,0,,and you need to reserve space for yourself at all times,
-Dialogue: 0,0:03:25.23,0:03:31.73,Default,Reggie,0,0,0,,or you're forced to bear the weight of things stored in your shadow yourself.
-Dialogue: 0,0:03:33.48,0:03:35.49,Default,Reggie,0,0,0,,Looks like the latter was spot-on!
-Dialogue: 0,0:03:35.90,0:03:39.49,Default,Reggie,0,0,0,,Now I've turned the design of your domain against you.
-Dialogue: 0,0:03:39.49,0:03:44.41,Default,Reggie,0,0,0,,With three passenger cars, your current weight is 2.4 tons.
-Dialogue: 0,0:03:44.83,0:03:47.21,Default,Reggie,0,0,0,,Looks like your clones weren't able to tolerate it,
-Dialogue: 0,0:03:47.21,0:03:50.42,Default,Reggie,0,0,0,,but can you still produce your {*}cursed beasts{*shikigami}?
-Dialogue: 0,0:03:51.17,0:03:54.46,Default,Reggie,0,0,0,,Either way, I'll just need to mind my footing
-Dialogue: 0,0:03:54.46,0:03:58.97,Default,Reggie,0,0,0,,as I keep adding weight until you're crushed under it.
-Dialogue: 0,0:04:01.47,0:04:03.77,Default,Fushiguro,0,0,0,,Are you stupid?
-Dialogue: 0,0:04:03.77,0:04:05.14,Default,Reggie,0,0,0,,Huh?
-Dialogue: 0,0:04:05.14,0:04:08.69,Default,Fushiguro,0,0,0,,Even if it's incomplete, a domain is still a domain!
-Dialogue: 0,0:04:10.36,0:04:12.94,Default,Fushiguro,0,0,0,,My shadow's above us, too!
-Dialogue: 0,0:04:24.74,0:04:27.21,Default,Fushiguro,0,0,0,,Which of us will get crushed first,
-Dialogue: 0,0:04:27.75,0:04:29.25,Default,Fushiguro,0,0,0,,Reggie?!
-Dialogue: 0,0:06:03.84,0:06:09.18,Default,Narrator,0,0,0,,It's said that a typical human will lose consciousness at five to six Gs.
-Dialogue: 0,0:06:09.85,0:06:11.56,Default,Narrator,0,0,0,,2.4 tons.
-Dialogue: 0,0:06:12.19,0:06:15.31,Default,Narrator,0,0,0,,As Fushiguro weighed 60 kilograms,
-Dialogue: 0,0:06:15.31,0:06:19.48,Default,Narrator,0,0,0,,that meant he was currently suffering 40 Gs.
-Dialogue: 0,0:06:20.28,0:06:24.07,Default,Narrator,0,0,0,,In order to prevent his blood from pooling in his legs from the high Gs
-Dialogue: 0,0:06:24.07,0:06:27.20,Default,Narrator,0,0,0,,and depriving his brain of blood flow,
-Dialogue: 0,0:06:27.20,0:06:29.62,Default,Narrator,0,0,0,,Fushiguro was lowering his posture
-Dialogue: 0,0:06:29.62,0:06:31.91,Default,Narrator,0,0,0,,and reinforcing his body with cursed energy,
+Dialogue: 0,0:02:02.14,0:02:06.15,Default,Reggie,0,0,0,,{\i1}So this barrier isn't infused with a sure-hit technique!
+Dialogue: 0,0:02:06.15,0:02:10.65,Default,Reggie,0,0,0,,{\i1}The buff to his technique is nothing to scoff at, though.
+Dialogue: 0,0:02:10.65,0:02:14.07,Default,Reggie,0,0,0,,{\i1}This is way worse than a regular sure-hit domain!
+Dialogue: 0,0:02:14.07,0:02:17.83,Default,Reggie,0,0,0,,{\i1}If he summons that elephant here \Nand drenches me in water,
+Dialogue: 0,0:02:17.83,0:02:20.87,Default,Reggie,0,0,0,,{\i1}it'll halve my options, and I might lose.
+Dialogue: 0,0:02:28.67,0:02:32.05,Default,Reggie,0,0,0,,{\i1}But I won't let that happen.
+Dialogue: 0,0:02:32.05,0:02:35.01,Default,Reggie,0,0,0,,{\i1}That's how I do things!
+Dialogue: 0,0:02:36.14,0:02:36.93,Default,Fushiguro,0,0,0,,Nue!
+Dialogue: 0,0:02:41.81,0:02:43.31,Default,Reggie,0,0,0,,Too slow!
+Dialogue: 0,0:02:47.27,0:02:48.77,Default,Reggie,0,0,0,,I knew it.
+Dialogue: 0,0:02:51.36,0:02:57.32,Default,Reggie,0,0,0,,I've been reinforcing my footing with cursed energy \N this whole time to avoid getting sucked in.
+Dialogue: 0,0:03:00.95,0:03:05.29,Default,Reggie,0,0,0,,Everything below the surface of this domain \Nis your shadow, isn't it? {surface but specifically ground surface}
+Dialogue: 0,0:03:05.29,0:03:10.67,Default,Reggie,0,0,0,,Being able to store and remove yourself and objects must be convenient. {Must be convenient being able to move things in and out, even yourself.}
+Dialogue: 0,0:03:10.67,0:03:13.30,Default,Reggie,0,0,0,,But one thing nagged at me.
+Dialogue: 0,0:03:13.30,0:03:15.72,Default,Reggie,0,0,0,,"He doesn't have many weapons."
+Dialogue: 0,0:03:15.72,0:03:19.01,Default,Reggie,0,0,0,,I've only seen you use one paltry cursed tool.
+Dialogue: 0,0:03:19.01,0:03:25.35,Default,Reggie,0,0,0,,Either it has a low capacity and you need to reserve space for yourself at all times, {Maybe it has...}
+Dialogue: 0,0:03:25.35,0:03:32.57,Default,Reggie,0,0,0,,or you're forced to bear the weight of things stored in your shadow yourself. {Or maybe you're...}
+Dialogue: 0,0:03:33.65,0:03:35.49,Default,Reggie,0,0,0,,Looks like the latter was spot-on!
+Dialogue: 0,0:03:36.03,0:03:39.49,Default,Reggie,0,0,0,,Now I've turned the design \Nof your domain against you.
+Dialogue: 0,0:03:39.82,0:03:44.83,Default,Reggie,0,0,0,,With three passenger cars, \Nyour current weight is 2.4 tons.
+Dialogue: 0,0:03:44.83,0:03:47.21,Default,Reggie,0,0,0,,Looks like your clones couldn't handle it.
+Dialogue: 0,0:03:47.21,0:03:50.34,Default,Reggie,0,0,0,,Maybe you can still use your {*}cursed beasts{*shikigami}?
+Dialogue: 0,0:03:51.34,0:03:56.72,Default,Reggie,0,0,0,,Either way, I simply need to \Nwatch my footing and keep piling on
+Dialogue: 0,0:03:56.72,0:03:58.97,Default,Reggie,0,0,0,,until you're crushed under your own weight.
+Dialogue: 0,0:04:01.55,0:04:03.77,Default,Fushiguro,0,0,0,,Are you stupid?
+Dialogue: 0,0:04:04.14,0:04:05.18,Default,Reggie,0,0,0,,Huh?
+Dialogue: 0,0:04:05.18,0:04:08.73,Default,Fushiguro,0,0,0,,An incomplete domain is still a domain!
+Dialogue: 0,0:04:10.69,0:04:12.94,Default,Fushiguro,0,0,0,,There's shadow above you too!
+Dialogue: 0,0:04:24.74,0:04:29.25,Default,Fushiguro,0,0,0,,Who's getting crushed first, Reggie?!
+Dialogue: 0,0:06:03.93,0:06:09.56,Default,Narrator,0,0,0,,It's said that an average human \Nloses consciousness at five to six Gs.
+Dialogue: 0,0:06:09.97,0:06:11.56,Default,Narrator,0,0,0,,2.4 tons.
+Dialogue: 0,0:06:12.19,0:06:19.48,Default,Narrator,0,0,0,,As Fushiguro weighed 60 kilograms, \Nthat meant he was currently under 40 Gs. {As Fushiguro weighs 60 kilograms, that means he's currently under 40 Gs.}
+Dialogue: 0,0:06:20.49,0:06:27.20,Default,Narrator,0,0,0,,In order to prevent his blood from pooling in his legs \Nand depriving his brain of blood flow,
+Dialogue: 0,0:06:27.20,0:06:31.91,Default,Narrator,0,0,0,,Fushiguro lowered his posture and \Nreinforced his body with cursed energy,
 Dialogue: 0,0:06:31.91,0:06:34.79,Default,Narrator,0,0,0,,paying special attention to his legs.
-Dialogue: 0,0:06:36.04,0:06:40.55,Default,Narrator,0,0,0,,A mature African elephant weighs three to six tons.
-Dialogue: 0,0:06:41.92,0:06:45.22,Default,Narrator,0,0,0,,With the domain's improvement to his technique's accuracy,
-Dialogue: 0,0:06:45.22,0:06:48.60,Default,Narrator,0,0,0,,Max Elephant accurately recreated its real weight.
-Dialogue: 0,0:06:48.93,0:06:54.81,Default,Narrator,0,0,0,,Under that weight, Reggie Star's right fibula and heel bone were cracked.
-Dialogue: 0,0:06:56.02,0:06:58.77,Default,Narrator,0,0,0,,Both of them faced
-Dialogue: 0,0:06:58.77,0:07:02.61,Default,Narrator,0,0,0,,the possibility of being crushed to death at any second.
-Dialogue: 0,0:07:04.07,0:07:05.99,Default,Reggie,0,0,0,,{\i1}I screwed up!
-Dialogue: 0,0:07:05.99,0:07:08.83,Default,Reggie,0,0,0,,{\i1}I could have won if I'd kept the trucks in reserve!
-Dialogue: 0,0:07:08.83,0:07:10.33,Default,Reggie,0,0,0,,{\i1}What do I do?
-Dialogue: 0,0:07:10.33,0:07:13.08,Default,Reggie,0,0,0,,{\i1}I got splashed with some water at the same time,
-Dialogue: 0,0:07:13.08,0:07:15.00,Default,Reggie,0,0,0,,{\i1}but my trump card's still safe.
-Dialogue: 0,0:07:15.00,0:07:19.04,Default,Reggie,0,0,0,,{\i1}I could slip into his shadow and recreate my trump card inside it.
-Dialogue: 0,0:07:19.04,0:07:21.42,Default,Reggie,0,0,0,,{\i1}That would crush him!
-Dialogue: 0,0:07:23.38,0:07:24.42,Default,Reggie,0,0,0,,{\i1}No...
-Dialogue: 0,0:07:24.42,0:07:26.80,Default,Reggie,0,0,0,,{\i1}If he's not dismissing his domain,
-Dialogue: 0,0:07:26.80,0:07:32.39,Default,Reggie,0,0,0,,{\i1}that means anything in his shadow is stuck there after he dismisses his domain!
-Dialogue: 0,0:07:32.85,0:07:36.94,Default,Reggie,0,0,0,,{\i1}What if I'm stuck in his shadow forever after he dies?
-Dialogue: 0,0:07:37.56,0:07:40.06,Default,Reggie,0,0,0,,{\i1}What's it like inside his shadow, anyway?
-Dialogue: 0,0:07:40.06,0:07:43.03,Default,Reggie,0,0,0,,{\i1}It looks like a liquid, but can I breathe in it?
-Dialogue: 0,0:07:43.03,0:07:44.07,Default,Reggie,0,0,0,,{\i1}Can I float?
-Dialogue: 0,0:07:44.53,0:07:48.57,Default,Reggie,0,0,0,,{\i1}No. Submerging into his shadow is too risky.
+Dialogue: 0,0:06:36.21,0:06:40.59,Default,Narrator,0,0,0,,A mature African elephant weighs three to six tons.
+Dialogue: 0,0:06:42.09,0:06:45.39,Default,Narrator,0,0,0,,With increased accuracy \Nof the technique due to his domain,
+Dialogue: 0,0:06:45.39,0:06:48.60,Default,Narrator,0,0,0,,Max Elephant's weight was accurately recreated.
+Dialogue: 0,0:06:49.01,0:06:54.81,Default,Narrator,0,0,0,,Under that weight, Reggie Star's \Nright fibula and heel bone fractured.
+Dialogue: 0,0:06:56.19,0:07:02.61,Default,Narrator,0,0,0,,Both of them faced the possibility \Nof being crushed to death at any second.
+Dialogue: 0,0:07:04.07,0:07:06.03,Default,Reggie,0,0,0,,{\i1}I screwed up!
+Dialogue: 0,0:07:06.03,0:07:08.91,Default,Reggie,0,0,0,,{\i1}I could have won if I'd kept the trucks in reserve!
+Dialogue: 0,0:07:08.91,0:07:10.37,Default,Reggie,0,0,0,,{\i1}What do I do?
+Dialogue: 0,0:07:10.37,0:07:15.08,Default,Reggie,0,0,0,,{\i1}I got splashed with some water, \Nbut I've still got my trump card.\h\h
+Dialogue: 0,0:07:15.08,0:07:19.13,Default,Reggie,0,0,0,,{\i1}I could slip into his shadow and \Nrecreate my trump card from the inside.
+Dialogue: 0,0:07:19.13,0:07:21.38,Default,Reggie,0,0,0,,{\i1}That would crush him!
+Dialogue: 0,0:07:23.46,0:07:24.42,Default,Reggie,0,0,0,,{\i1}No...
+Dialogue: 0,0:07:24.42,0:07:26.84,Default,Reggie,0,0,0,,{\i1}Since he's not dismissing his domain,
+Dialogue: 0,0:07:26.84,0:07:32.39,Default,Reggie,0,0,0,,{\i1}it's possible that anything swallowed by his shadow remains trapped even after the domain is dismissed! {shorter: it means anything in his shadow is stuck there after he dismisses his domain!}
+Dialogue: 0,0:07:33.02,0:07:36.94,Default,Reggie,0,0,0,,{\i1}What if I'm stuck in his shadow forever after he dies?
+Dialogue: 0,0:07:37.69,0:07:40.19,Default,Reggie,0,0,0,,{\i1}What's it like inside the shadow, anyway?
+Dialogue: 0,0:07:40.19,0:07:44.07,Default,Reggie,0,0,0,,{\i1}It looks like a liquid, but can I breathe in it? Will I float?
+Dialogue: 0,0:07:44.61,0:07:48.57,Default,Reggie,0,0,0,,{\i1}No. Submerging into his shadow is too risky.
 Dialogue: 0,0:07:48.57,0:07:51.37,Default,Reggie,0,0,0,,{\i1}So while stuck in this state...
-Dialogue: 0,0:07:52.16,0:07:55.54,Default,Reggie,0,0,0,,{\i1}I have to pull out my trump card and activate it!
-Dialogue: 0,0:07:59.50,0:08:02.63,Default,Reggie,0,0,0,,Contractual Re-Creation!
-Dialogue: 0,0:08:22.40,0:08:24.11,Default,Reggie,0,0,0,,{\i1}I didn't make it in time!
-Dialogue: 0,0:08:24.11,0:08:27.28,Default,Reggie,0,0,0,,{\i1}And there's no air inside his shadow!
-Dialogue: 0,0:08:28.70,0:08:31.53,Default,Reggie,0,0,0,,{\i1}No buoyancy or resistance, either!
-Dialogue: 0,0:08:34.24,0:08:38.92,Default,Reggie,0,0,0,,{\i1}I'm just... sinking!
-Dialogue: 0,0:08:40.04,0:08:43.80,Default,Reggie,0,0,0,,{\i1}My consciousness... is fading...
-Dialogue: 0,0:08:49.51,0:08:51.84,Default,Fushiguro,0,0,0,,{\i1}Not yet! Endure it a little longer!
-Dialogue: 0,0:08:51.84,0:08:54.72,Default,Fushiguro,0,0,0,,{\i1}Wait until I'm sure he's dead before dismissing the domain!
-Dialogue: 0,0:08:54.72,0:08:57.60,Default,Fushiguro,0,0,0,,{\i1}Then I can expel what's in my shadow!
-Dialogue: 0,0:09:30.17,0:09:32.72,Default,Reggie,0,0,0,,The things I recreate
-Dialogue: 0,0:09:32.72,0:09:36.93,Default,Reggie,0,0,0,,disappear soon after carrying out the command I give them.
-Dialogue: 0,0:09:36.93,0:09:40.18,Default,Reggie,0,0,0,,I hadn't given the cars I sank a command, though.
-Dialogue: 0,0:09:40.18,0:09:43.44,Default,Reggie,0,0,0,,I didn't want them disappearing, after all.
-Dialogue: 0,0:09:43.44,0:09:46.52,Default,Reggie,0,0,0,,That meant I could still issue them a command.
-Dialogue: 0,0:09:46.52,0:09:49.32,Default,Reggie,0,0,0,,"Take me and rise up!"
-Dialogue: 0,0:09:49.32,0:09:53.91,Default,Reggie,0,0,0,,The weight of one car is gone now, but that saved my life.
-Dialogue: 0,0:09:57.79,0:09:59.50,Default,Reggie,0,0,0,,I'll admit it.
-Dialogue: 0,0:09:59.50,0:10:01.46,Default,Reggie,0,0,0,,You're strong.
-Dialogue: 0,0:10:01.96,0:10:07.25,Default,Reggie,0,0,0,,But I'm stronger!
-Dialogue: 0,0:10:07.25,0:10:10.80,Default,Reggie,0,0,0,,Contractual Re-Creation!
-Dialogue: 0,0:10:15.89,0:10:21.35,Default,Reggie,0,0,0,,A 132-square-foot, two-story wooden frame structure!
-Dialogue: 0,0:10:21.35,0:10:24.77,Default,Reggie,0,0,0,,The framework alone weighs at least thirty tons!
+Dialogue: 0,0:07:52.33,0:07:55.54,Default,Reggie,0,0,0,,{\i1}I have to pull out my trump card and activate it!
+Dialogue: 0,0:07:59.71,0:08:02.63,Default,Reggie,0,0,0,,Contractual Re-Creation!
+Dialogue: 0,0:08:22.44,0:08:24.15,Default,Reggie,0,0,0,,{\i1}I didn't make it in time!
+Dialogue: 0,0:08:24.15,0:08:27.40,Default,Reggie,0,0,0,,{\i1}As I thought, there's no air inside the shadow!
+Dialogue: 0,0:08:28.86,0:08:31.57,Default,Reggie,0,0,0,,{\i1}No buoyancy or resistance, either!
+Dialogue: 0,0:08:34.33,0:08:38.92,Default,Reggie,0,0,0,,{\i1}I'm just... sinking!
+Dialogue: 0,0:08:40.17,0:08:43.80,Default,Reggie,0,0,0,,{\i1}My consciousness... is fading...
+Dialogue: 0,0:08:49.63,0:08:51.93,Default,Fushiguro,0,0,0,,{\i1}Not yet! Endure it a little longer!
+Dialogue: 0,0:08:51.93,0:08:54.85,Default,Fushiguro,0,0,0,,{\i1}Wait until he's dead before dismissing the domain!
+Dialogue: 0,0:08:54.85,0:08:57.64,Default,Fushiguro,0,0,0,,{\i1}Then I can expel whatever's in the shadow!
+Dialogue: 0,0:09:30.30,0:09:36.97,Default,Reggie,0,0,0,,The things I recreate disappear soon \Nafter carrying out the command I give them.
+Dialogue: 0,0:09:36.97,0:09:40.23,Default,Reggie,0,0,0,,I hadn't given the cars I sank a command, though.
+Dialogue: 0,0:09:40.23,0:09:43.44,Default,Reggie,0,0,0,,I didn't want them disappearing, after all.
+Dialogue: 0,0:09:43.44,0:09:46.65,Default,Reggie,0,0,0,,That meant I could still issue them a command.
+Dialogue: 0,0:09:46.65,0:09:49.11,Default,Reggie,0,0,0,,"Rise up and bring me to the surface!"
+Dialogue: 0,0:09:49.49,0:09:53.91,Default,Reggie,0,0,0,,The weight of one car is gone, \Nbut that saved my life.
+Dialogue: 0,0:09:57.95,0:10:01.46,Default,Reggie,0,0,0,,I'll admit it. You're strong.
+Dialogue: 0,0:10:02.08,0:10:07.34,Default,Reggie,0,0,0,,However, {\i1}I{\i0} am stronger!
+Dialogue: 0,0:10:07.34,0:10:10.80,Default,Reggie,0,0,0,,Contractual Re-Creation!
+Dialogue: 0,0:10:15.89,0:10:21.39,Default,Reggie,0,0,0,,A 132-square-foot, two-story wooden structure! {square-foot or square-meter} {remove comma?}
+Dialogue: 0,0:10:21.39,0:10:24.77,Default,Reggie,0,0,0,,The framework alone weighs at least thirty tons!
 Dialogue: 0,0:10:24.77,0:10:27.61,Default,Reggie,0,0,0,,Get crushed!
-Dialogue: 0,0:11:00.47,0:11:02.23,Default,Reggie,0,0,0,,{\i1}What happened?!
-Dialogue: 0,0:11:02.23,0:11:04.81,Default,Reggie,0,0,0,,{\i1}Did I fall into his shadow again?
-Dialogue: 0,0:11:06.10,0:11:07.48,Default,Reggie,0,0,0,,{\i1}No!
-Dialogue: 0,0:11:07.48,0:11:09.15,Default,Reggie,0,0,0,,{\i1}I'm in actual water!
-Dialogue: 0,0:11:09.15,0:11:10.15,Default,Reggie,0,0,0,,{\i1}How?!
-Dialogue: 0,0:11:11.19,0:11:12.32,Default,Reggie,0,0,0,,{\i1}It's heavy!
-Dialogue: 0,0:11:12.32,0:11:15.11,Default,Reggie,0,0,0,,{\i1}Is that brat trying to strangle me?
-Dialogue: 0,0:11:15.45,0:11:17.32,Default,Reggie,0,0,0,,{\i1}What power!
-Dialogue: 0,0:11:17.32,0:11:19.03,Default,Reggie,0,0,0,,{\i1}No, that's wrong!
-Dialogue: 0,0:11:19.03,0:11:22.41,Default,Reggie,0,0,0,,{\i1}It's from the weight of the two cars I added!
-Dialogue: 0,0:11:24.58,0:11:25.75,Default,Reggie,0,0,0,,{\i1}This is bad!
-Dialogue: 0,0:11:26.29,0:11:28.04,Default,Reggie,0,0,0,,{\i1}This time, I'm sinking!
-Dialogue: 0,0:11:28.71,0:11:31.96,Default,Reggie,0,0,0,,{\i1}I have to dismiss Contractual Re-Creation!
-Dialogue: 0,0:11:50.15,0:11:51.77,Default,Reggie,0,0,0,,{\i1}Right!
-Dialogue: 0,0:11:51.77,0:11:53.78,Default,Reggie,0,0,0,,{\i1}This is a community gymnasium!
-Dialogue: 0,0:11:53.78,0:11:56.99,Default,Reggie,0,0,0,,{\i1}And the gymnasium's basement is a heated swimming pool!
-Dialogue: 0,0:11:59.78,0:12:02.58,Default,Reggie,0,0,0,,{\i1}Did he flee into his shadow and dismiss his domain,
-Dialogue: 0,0:12:02.58,0:12:06.29,Default,Reggie,0,0,0,,{\i1}forcing me to destroy the floor and plunge into the pool?
-Dialogue: 0,0:12:09.75,0:12:13.09,Default,Fushiguro,0,0,0,,You can't use your receipts when they're that soaked, can you?
-Dialogue: 0,0:12:17.18,0:12:20.60,Default,Reggie,0,0,0,,{\i1}He waited instead of pursuing me immediately.
-Dialogue: 0,0:12:20.60,0:12:24.02,Default,Reggie,0,0,0,,{\i1}He let his technique recover after exhausting it with his domain, then?
-Dialogue: 0,0:12:24.85,0:12:27.98,Default,Reggie,0,0,0,,Are you sure about that?
-Dialogue: 0,0:12:28.73,0:12:32.48,Default,Reggie,0,0,0,,I'm betting you can't produce {*}cursed beasts{*shikigami} anymore either, right?
-Dialogue: 0,0:12:33.65,0:12:35.15,Default,Fushiguro,0,0,0,,That's true.
-Dialogue: 0,0:12:35.15,0:12:38.15,Default,Fushiguro,0,0,0,,You do understand what comes next, don't you?
-Dialogue: 0,0:12:39.66,0:12:43.24,Default,Reggie,0,0,0,,{\i1}He'll use a {*}cursed beast{*shikigami} other than that dog.
-Dialogue: 0,0:12:43.24,0:12:45.54,Default,Reggie,0,0,0,,{\i1}But none of them can deal a decisive blow.
-Dialogue: 0,0:12:45.54,0:12:47.33,Default,Reggie,0,0,0,,{\i1}So use it!
-Dialogue: 0,0:12:47.33,0:12:51.17,Default,Reggie,0,0,0,,{\i1}The moment you let up, I'll finish you with a counter!
-Dialogue: 0,0:13:41.59,0:13:46.39,Default,Fushiguro,0,0,0,,Demon Dogs isn't weak enough to let that stop it.
-Dialogue: 0,0:13:47.39,0:13:52.02,Default,Reggie,0,0,0,,Sorcerers are all liars, huh?
-Dialogue: 0,0:14:08.12,0:14:09.95,Default,Reggie,0,0,0,,The domain,
-Dialogue: 0,0:14:09.95,0:14:11.16,Default,Reggie,0,0,0,,the pool...
-Dialogue: 0,0:14:11.83,0:14:16.38,Default,Reggie,0,0,0,,All to convince me you couldn't use that dog anymore.
-Dialogue: 0,0:14:16.38,0:14:20.17,Default,Reggie,0,0,0,,You didn't flee into this gymnasium.
-Dialogue: 0,0:14:20.17,0:14:21.80,Default,Reggie,0,0,0,,You lured me into it.
-Dialogue: 0,0:14:22.38,0:14:24.47,Default,Reggie,0,0,0,,To think I'd let a modern sorcerer,
-Dialogue: 0,0:14:24.47,0:14:28.35,Default,Reggie,0,0,0,,and a brat at that, get the better of me.
-Dialogue: 0,0:14:30.02,0:14:33.81,Default,Fushiguro,0,0,0,,Even if I wanted to flee, Nue can't fly with someone for very long.
-Dialogue: 0,0:14:33.81,0:14:36.11,Default,Fushiguro,0,0,0,,I've struggled with that before.
-Dialogue: 0,0:14:41.82,0:14:45.70,Default,Fushiguro,0,0,0,,What's your relation to {*}Master Tengen{*Tengen-sama}?
+Dialogue: 0,0:11:00.60,0:11:02.31,Default,Reggie,0,0,0,,{\i1}What happened?!
+Dialogue: 0,0:11:02.31,0:11:04.81,Default,Reggie,0,0,0,,{\i1}Did I fall into his shadow again?
+Dialogue: 0,0:11:06.40,0:11:09.23,Default,Reggie,0,0,0,,{\i1}No! This is real water!
+Dialogue: 0,0:11:09.23,0:11:10.07,Default,Reggie,0,0,0,,{\i1}How?!
+Dialogue: 0,0:11:11.28,0:11:12.36,Default,Reggie,0,0,0,,{\i1}It's heavy!
+Dialogue: 0,0:11:12.36,0:11:15.11,Default,Reggie,0,0,0,,{\i1}Is that brat trying to strangle me?
+Dialogue: 0,0:11:15.11,0:11:17.41,Default,Reggie,0,0,0,,{\i1}What power! {ugh} {How strong is he?!}
+Dialogue: 0,0:11:17.41,0:11:19.12,Default,Reggie,0,0,0,,{\i1}No, that's not it!
+Dialogue: 0,0:11:19.12,0:11:22.83,Default,Reggie,0,0,0,,{\i1}It's from the weight of the two cars I added!
+Dialogue: 0,0:11:24.71,0:11:25.75,Default,Reggie,0,0,0,,{\i1}This is bad!
+Dialogue: 0,0:11:26.42,0:11:28.04,Default,Reggie,0,0,0,,{\i1}This time, I'm actually drowning!
+Dialogue: 0,0:11:28.84,0:11:31.96,Default,Reggie,0,0,0,,{\i1}I have to dismiss Contractual Re-Creation!
+Dialogue: 0,0:11:50.44,0:11:51.94,Default,Reggie,0,0,0,,{\i1}Right!
+Dialogue: 0,0:11:51.94,0:11:53.86,Default,Reggie,0,0,0,,{\i1}This is a community gymnasium!
+Dialogue: 0,0:11:53.86,0:11:56.99,Default,Reggie,0,0,0,,{\i1}And the basement level has a swimming pool! {heated}
+Dialogue: 0,0:11:59.95,0:12:02.53,Default,Reggie,0,0,0,,{\i1}He fled into his shadow and dismissed his domain,
+Dialogue: 0,0:12:02.53,0:12:06.29,Default,Reggie,0,0,0,,{\i1}which made me destroy the floor \Nand plunge into the pool?
+Dialogue: 0,0:12:09.88,0:12:13.09,Default,Fushiguro,0,0,0,,You can't use your receipts \Nwhen they're soaked, can you? {Now your receipts are too wet to use.}
+Dialogue: 0,0:12:17.34,0:12:20.60,Default,Reggie,0,0,0,,{\i1}He waited instead of immediately attacking me again.
+Dialogue: 0,0:12:20.60,0:12:24.02,Default,Reggie,0,0,0,,{\i1}He's recovering his technique \Nthat he exhausted with his domain, then?
+Dialogue: 0,0:12:25.02,0:12:27.98,Default,Reggie,0,0,0,,Are you sure about that?
+Dialogue: 0,0:12:28.89,0:12:32.48,Default,Reggie,0,0,0,,I'm betting you can't produce {*}cursed beasts{*shikigami} anymore either, right?
+Dialogue: 0,0:12:33.82,0:12:35.23,Default,Fushiguro,0,0,0,,That's true.
+Dialogue: 0,0:12:35.23,0:12:38.28,Default,Fushiguro,0,0,0,,You know what comes next, right?
+Dialogue: 0,0:12:39.66,0:12:43.37,Default,Reggie,0,0,0,,{\i1}He'll use a {*}cursed beast{*shikigami} other than that dog.
+Dialogue: 0,0:12:43.37,0:12:45.62,Default,Reggie,0,0,0,,{\i1}None of them can deal a decisive blow.
+Dialogue: 0,0:12:45.62,0:12:47.41,Default,Reggie,0,0,0,,{\i1}Go ahead and try!
+Dialogue: 0,0:12:47.41,0:12:51.17,Default,Reggie,0,0,0,,{\i1}The moment you let up, I'll finish you with a counter!
+Dialogue: 0,0:13:41.72,0:13:46.39,Default,Fushiguro,0,0,0,,That wasn't nearly enough to take out Divine Dog. {CR: Demon Dog isn't weak enough to let that stop it.} {that = knives}
+Dialogue: 0,0:13:47.51,0:13:51.98,Default,Reggie,0,0,0,,Sorcerers are built on lies, huh?
+Dialogue: 0,0:14:08.24,0:14:11.16,Default,Reggie,0,0,0,,The domain, the pool...
+Dialogue: 0,0:14:11.96,0:14:16.17,Default,Reggie,0,0,0,,It was all to convince me \Nyou couldn't use that dog anymore.
+Dialogue: 0,0:14:16.59,0:14:21.80,Default,Reggie,0,0,0,,Indeed you didn't flee into this gymnasium, \Nyou lured me into it.
+Dialogue: 0,0:14:22.55,0:14:28.35,Default,Reggie,0,0,0,,To think I'd let a modern sorcerer, \Nand a brat at that, get the better of me.
+Dialogue: 0,0:14:30.18,0:14:33.98,Default,Fushiguro,0,0,0,,Even if I wanted to flee, \NNue can't carry people for too long. {Nue can't fly while carrying people for too long.}
+Dialogue: 0,0:14:33.98,0:14:36.11,Default,Fushiguro,0,0,0,,I've struggled with that before.
+Dialogue: 0,0:14:41.99,0:14:45.78,Default,Fushiguro,0,0,0,,What's your relation to {*}Master Tengen{*Tengen-sama}?
 Dialogue: 0,0:14:49.62,0:14:51.41,Default,Reggie,0,0,0,,Tengen?
-Dialogue: 0,0:14:52.46,0:14:55.08,Default,Reggie,0,0,0,,Oh, right.
-Dialogue: 0,0:14:55.08,0:14:57.38,Default,Reggie,0,0,0,,They would still be alive, huh?
-Dialogue: 0,0:14:58.09,0:15:00.34,Default,Reggie,0,0,0,,That shut-in.
-Dialogue: 0,0:15:00.34,0:15:02.34,Default,Fushiguro,0,0,0,,Yeah? That's enough.
-Dialogue: 0,0:15:04.26,0:15:08.35,Default,Fushiguro,0,0,0,,{\i1}Reggie said {*}Master Tengen{*Tengen-sama}'s claims about the Culling Game's goals were a bluff.
-Dialogue: 0,0:15:09.22,0:15:12.35,Default,Fushiguro,0,0,0,,{\i1}I should probably consider the possibility that
-Dialogue: 0,0:15:12.35,0:15:16.31,Default,Fushiguro,0,0,0,,{\i1}{*}Master Tengen{*Tengen-sama} and Kenjaku are secretly connected and lied about their goal,
-Dialogue: 0,0:15:16.98,0:15:19.23,Default,Fushiguro,0,0,0,,{\i1}but that doesn't seem likely from his reaction.
-Dialogue: 0,0:15:23.40,0:15:28.87,Default,Reggie,0,0,0,,Kogane, give him all my points.
-Dialogue: 0,0:15:29.37,0:15:30.58,Default,Kogane,0,0,0,,Okay!
-Dialogue: 0,0:15:32.04,0:15:36.33,Default,Kogane,0,0,0,,You have received 41 points from Reggie Star.
-Dialogue: 0,0:15:36.33,0:15:37.83,Default,Fushiguro,0,0,0,,What are you plotting?
-Dialogue: 0,0:15:38.54,0:15:41.46,Default,Reggie,0,0,0,,That's an awful thing to say.
-Dialogue: 0,0:15:41.46,0:15:44.26,Default,Reggie,0,0,0,,It's my good deed before I die.
-Dialogue: 0,0:15:44.97,0:15:47.72,Default,Reggie,0,0,0,,I'm just a spectator.
-Dialogue: 0,0:15:47.72,0:15:50.35,Default,Reggie,0,0,0,,I was never close friends with Kenjaku.
-Dialogue: 0,0:15:50.89,0:15:54.43,Default,Reggie,0,0,0,,I think doing this will make things interesting.
-Dialogue: 0,0:15:54.93,0:15:56.81,Default,Reggie,0,0,0,,That's my intuition.
-Dialogue: 0,0:15:58.27,0:16:00.19,Default,Reggie,0,0,0,,Please.
-Dialogue: 0,0:16:00.19,0:16:02.65,Default,Reggie,0,0,0,,You did kill me, after all.
-Dialogue: 0,0:16:03.32,0:16:10.33,Default,Reggie,0,0,0,,Let fate toy with you a bit, and die a fool.
-Dialogue: 0,0:16:33.14,0:16:35.81,Default,Kogane,0,0,0,,You have gained five points.
-Dialogue: 0,0:16:48.86,0:16:50.20,Default,Hazenoki,0,0,0,,Did I get him?!
-Dialogue: 0,0:16:50.70,0:16:52.91,Default,Takaba,0,0,0,,No! Don't let your guard down!
-Dialogue: 0,0:16:54.41,0:16:55.83,Default,Takaba,0,0,0,,He's tough!
+Dialogue: 0,0:14:52.58,0:14:55.17,Default,Reggie,0,0,0,,Oh, right.
+Dialogue: 0,0:14:55.17,0:15:00.46,Default,Reggie,0,0,0,,Of course, that shut-in would still be alive.
+Dialogue: 0,0:15:00.46,0:15:02.34,Default,Fushiguro,0,0,0,,Yeah? That's enough. {why did he tell him to stop talking. it's more like he knows he wont speak so he makes him shut up. but he could've said sth...}
+Dialogue: 0,0:15:04.38,0:15:08.35,Default,Fushiguro,0,0,0,,{\i1}Reggie said {*}Master Tengen{*Tengen-sama}'s claims \Nabout the Culling Game's goals were a misdirect.
+Dialogue: 0,0:15:09.43,0:15:16.52,Default,Fushiguro,0,0,0,,{\i1}I should consider the possibility that {*}Master Tengen{*Tengen-sama} and \NKenjaku are connected and lied about their goal,
+Dialogue: 0,0:15:17.15,0:15:19.36,Default,Fushiguro,0,0,0,,{\i1}but that doesn't seem likely from his reaction.
+Dialogue: 0,0:15:23.49,0:15:28.82,Default,Reggie,0,0,0,,Kogane, give him all my points.
+Dialogue: 0,0:15:29.49,0:15:30.58,Default,Kogane,0,0,0,,Okay!
+Dialogue: 0,0:15:32.16,0:15:36.42,Default,Kogane,0,0,0,,You have received 41 points from Reggie Star.
+Dialogue: 0,0:15:36.42,0:15:37.83,Default,Fushiguro,0,0,0,,What are you plotting? {Why did you do that?}
+Dialogue: 0,0:15:38.58,0:15:41.30,Default,Reggie,0,0,0,,That's an awful thing to say.
+Dialogue: 0,0:15:41.63,0:15:44.26,Default,Reggie,0,0,0,,It's my good deed before I die. {last good deed}
+Dialogue: 0,0:15:45.17,0:15:47.80,Default,Reggie,0,0,0,,I'm just a spectator.
+Dialogue: 0,0:15:47.80,0:15:50.47,Default,Reggie,0,0,0,,I was never close with Kenjaku.
+Dialogue: 0,0:15:51.01,0:15:54.52,Default,Reggie,0,0,0,,I thought this whole thing might be interesting.
+Dialogue: 0,0:15:55.02,0:15:57.19,Default,Reggie,0,0,0,,Just a hunch, really.
+Dialogue: 0,0:15:58.44,0:16:02.65,Default,Reggie,0,0,0,,Will you do me a favor? You did kill me, after all.
+Dialogue: 0,0:16:03.44,0:16:10.62,Default,Reggie,0,0,0,,Let fate toy with you, turn you into a clown, and die. {CR: Let fate toy with you a bit, and die a fool.}
+Dialogue: 0,0:16:33.26,0:16:35.89,Default,Kogane,0,0,0,,You have scored five points.
+Dialogue: 0,0:16:49.15,0:16:50.28,Default,Hazenoki,0,0,0,,Did I get him?!
+Dialogue: 0,0:16:50.91,0:16:52.91,Default,Takaba,0,0,0,,No! Don't let your guard down!
+Dialogue: 0,0:16:54.58,0:16:55.83,Default,Takaba,0,0,0,,He's tough!
 Dialogue: 0,0:16:55.83,0:16:57.41,Default,Hazenoki,0,0,0,,What the hell?!
-Dialogue: 0,0:16:57.83,0:17:00.00,Default,Hazenoki,0,0,0,,Why are you covered in lotion?!
-Dialogue: 0,0:17:00.00,0:17:01.46,Default,Takaba,0,0,0,,It could be sauce.
-Dialogue: 0,0:17:01.46,0:17:02.92,Default,Hazenoki,0,0,0,,Shut up! Die!
-Dialogue: 0,0:17:04.46,0:17:07.13,Default,Hazenoki,0,0,0,,Wait, it really is sauce?!
-Dialogue: 0,0:17:07.38,0:17:08.17,Default,Hazenoki,0,0,0,,{\i1}Damn it!
-Dialogue: 0,0:17:08.17,0:17:10.09,Default,Hazenoki,0,0,0,,{\i1}Seriously, what's with this guy?!
-Dialogue: 0,0:17:10.09,0:17:12.22,Default,Hazenoki,0,0,0,,{\i1}I've blown him up several times!
-Dialogue: 0,0:17:12.22,0:17:14.43,Default,Hazenoki,0,0,0,,{\i1}I feel like I've killed him five times!
-Dialogue: 0,0:17:14.85,0:17:17.39,Default,Hazenoki,0,0,0,,{\i1}So how does he have so little damage?!
-Dialogue: 0,0:17:18.60,0:17:20.02,Default,Takaba,0,0,0,,You hate sauce?
-Dialogue: 0,0:17:20.52,0:17:23.23,Default,Hazenoki,0,0,0,,{\i1}His first injury healed at some point, too.
-Dialogue: 0,0:17:23.73,0:17:27.74,Default,Hazenoki,0,0,0,,{\i1}But he hasn't shown any signs of using reverse cursed techniques like I do.
-Dialogue: 0,0:17:28.36,0:17:30.49,Default,Hazenoki,0,0,0,,{\i1}I don't get it!
-Dialogue: 0,0:17:31.03,0:17:32.53,Default,Kogane,0,0,0,,Hazenoki{*}{*-sama}.
-Dialogue: 0,0:17:32.53,0:17:33.83,Default,Hazenoki,0,0,0,,What?
-Dialogue: 0,0:17:33.83,0:17:37.00,Default,Kogane,0,0,0,,Reggie Star{*}{*-sama} has just died.
-Dialogue: 0,0:17:40.67,0:17:42.21,Default,Takaba,0,0,0,,Oh? What happened?
-Dialogue: 0,0:17:42.21,0:17:43.54,Default,Hazenoki,0,0,0,,I'm going home.
-Dialogue: 0,0:17:43.54,0:17:44.92,Default,Hazenoki,0,0,0,,I'm sick of this.
-Dialogue: 0,0:17:44.92,0:17:46.00,Default,Takaba,0,0,0,,Okay!
-Dialogue: 0,0:17:46.00,0:17:47.13,Default,Takaba,0,0,0,,Take a bath!
-Dialogue: 0,0:17:47.13,0:17:48.46,Default,Takaba,0,0,0,,And brush your teeth!
-Dialogue: 0,0:17:51.34,0:17:54.01,Default,Takaba,0,0,0,,Hey, man! Give me your points!
-Dialogue: 0,0:17:54.43,0:17:55.68,Default,Hazenoki,0,0,0,,Stop following me.
-Dialogue: 0,0:17:55.68,0:17:59.35,Default,Takaba,0,0,0,,Please! Just think of it as going with the flow!
-Dialogue: 0,0:17:59.35,0:18:00.35,Default,Hazenoki,0,0,0,,Die.
-Dialogue: 0,0:18:00.64,0:18:03.40,Default,Narrator,0,0,0,,Takaba's cursed technique, Comedian,
-Dialogue: 0,0:18:03.40,0:18:07.78,Default,Narrator,0,0,0,,makes whatever he's convinced would be funny a reality.
-Dialogue: 0,0:18:07.78,0:18:11.86,Default,Narrator,0,0,0,,It's a technique capable of opposing even Gojo Satoru.
-Dialogue: 0,0:18:13.45,0:18:18.37,Default,Narrator,0,0,0,,Yet Takaba doesn't know anything about his own technique.
-Dialogue: 0,0:18:26.79,0:18:28.84,Default,Remi,0,0,0,,{\i1}I don't get it! I don't get it!
-Dialogue: 0,0:18:28.84,0:18:32.26,Default,Remi,0,0,0,,{\i1}Ever since I became an adult, I hardly understand anything!
-Dialogue: 0,0:18:37.93,0:18:40.77,Default,Remi,0,0,0,,{\i1}I've heard that all men are wolves,
-Dialogue: 0,0:18:40.77,0:18:44.94,Default,Remi,0,0,0,,{\i1}but it's always those wolves who take care of the confusing stuff for me!
-Dialogue: 0,0:18:49.15,0:18:51.82,Default,Remi,0,0,0,,{\i1}If those wolves will handle everything,
-Dialogue: 0,0:18:51.82,0:18:54.66,Default,Remi,0,0,0,,{\i1}then I don't need to think about anything!
-Dialogue: 0,0:18:54.66,0:18:57.37,Default,Remi,0,0,0,,{\i1}Because I'm so cute!
-Dialogue: 0,0:19:04.58,0:19:07.67,Default,Remi,0,0,0,,{\i1}Those wolves always... always...
-Dialogue: 0,0:19:16.30,0:19:18.72,Default,Tsumiki,0,0,0,,{\i1}Don't, Megumi.
-Dialogue: 0,0:19:25.98,0:19:27.15,Default,Remi,0,0,0,,You'll spare me?
-Dialogue: 0,0:19:35.53,0:19:37.16,Default,Fushiguro,0,0,0,,Shut up.
-Dialogue: 0,0:19:40.45,0:19:42.45,Default,Fushiguro,0,0,0,,Damn sister.
-Dialogue: 0,0:20:01.97,0:20:05.06,Default,Narrator,0,0,0,,Events progressed quickly in the Sendai Colony,
-Dialogue: 0,0:20:05.06,0:20:08.73,Default,Narrator,0,0,0,,far outstripping those of the Tokyo Colony
-Dialogue: 0,0:20:08.73,0:20:10.44,Default,Narrator,0,0,0,,and becoming especially fierce.
-Dialogue: 0,0:20:12.65,0:20:17.28,Default,Narrator,0,0,0,,Dhruv Lakdawalla. Current points: 91.
-Dialogue: 0,0:20:17.28,0:20:19.07,Default,Narrator,0,0,0,,This is his second incarnation.
-Dialogue: 0,0:20:19.78,0:20:22.49,Default,Narrator,0,0,0,,He's an old man who single-handedly conquered
-Dialogue: 0,0:20:22.49,0:20:25.29,Default,Narrator,0,0,0,,this archipelago during the Civil War of Wa.
-Dialogue: 0,0:20:25.87,0:20:28.33,Default,Narrator,0,0,0,,He possesses two autonomous {*}cursed beasts{*shikigami},
-Dialogue: 0,0:20:28.33,0:20:32.59,Default,Narrator,0,0,0,,and the orbit of those {*}cursed beasts{*shikigami} determines his domain.
-Dialogue: 0,0:20:35.51,0:20:40.01,Default,Narrator,0,0,0,,Ishigori Ryu. Current points: 77.
-Dialogue: 0,0:20:40.72,0:20:45.14,Default,Narrator,0,0,0,,He's the cannon with the greatest cursed energy output among the players.
-Dialogue: 0,0:20:46.77,0:20:50.44,Default,Narrator,0,0,0,,Uro Takako. Current points: 70.
-Dialogue: 0,0:20:51.15,0:20:54.11,Default,Narrator,0,0,0,,She was originally the captain of the Sun, Moon, and Stars Squad,
-Dialogue: 0,0:20:54.11,0:20:56.74,Default,Narrator,0,0,0,,a squad of assassins serving directly under the Fujiwara Clan.
-Dialogue: 0,0:20:57.28,0:21:00.53,Default,Narrator,0,0,0,,She possesses a technique that allows her to manipulate "the sky."
-Dialogue: 0,0:21:01.74,0:21:06.04,Default,Narrator,0,0,0,,Kurourushi. Current points: 54.
-Dialogue: 0,0:21:06.04,0:21:08.87,Default,Narrator,0,0,0,,It's a cockroach cursed spirit that Kenjaku freed
-Dialogue: 0,0:21:08.87,0:21:12.00,Default,Narrator,0,0,0,,from the control of cursed spirit manipulation.
-Dialogue: 0,0:21:12.00,0:21:15.88,Default,Narrator,0,0,0,,It ranks as a special-grade (already registered).
-Dialogue: 0,0:21:17.01,0:21:20.84,Default,Narrator,0,0,0,,It's currently lying dormant until certain conditions are met.
-Dialogue: 0,0:21:22.18,0:21:23.81,Default,Narrator,0,0,0,,There was no alliance between them,
-Dialogue: 0,0:21:23.81,0:21:27.60,Default,Narrator,0,0,0,,but their complex compatibility and opposing strength
-Dialogue: 0,0:21:27.60,0:21:30.06,Default,Narrator,0,0,0,,led them into a three—no, a four-way stalemate.
-Dialogue: 0,0:21:30.56,0:21:33.36,Default,Narrator,0,0,0,,But one of those pillars
-Dialogue: 0,0:21:34.77,0:21:36.15,Default,Narrator,0,0,0,,has fallen.
-Dialogue: 0,0:21:37.61,0:21:42.41,Default,Narrator,0,0,0,,Okkotsu Yuta. Current points: 35.
-Dialogue: 0,0:21:43.03,0:21:45.49,Default,Narrator,0,0,0,,Three months after the Night Parade of a Hundred Demons,
-Dialogue: 0,0:21:45.49,0:21:48.00,Default,Narrator,0,0,0,,he had blossomed as a special-grade sorcerer.
-Dialogue: 0,0:21:48.00,0:21:51.54,Default,Narrator,0,0,0,,He was a modern sorcerer rivaling Gojo Satoru
-Dialogue: 0,0:21:51.54,0:21:53.08,Default,Narrator,0,0,0,,in unusual abilities.
-Dialogue: 0,0:23:26.55,0:23:28.39,Default,Okkotsu,0,0,0,,I'll obtain 400 points on my own.
-Dialogue: 0,0:23:28.39,0:23:31.10,Default,Rika,0,0,0,,Yuta, which would you like?
-Dialogue: 0,0:23:31.10,0:23:32.31,Default,Kogane,0,0,0,,It's called Kurourushi!
-Dialogue: 0,0:23:32.31,0:23:32.81,Default,Okkotsu,0,0,0,,Give me everything.
-Dialogue: 0,0:23:32.81,0:23:35.35,Default,Rika,0,0,0,,Give me back Yuta!
-Dialogue: 0,0:23:35.35,0:23:38.44,Default,Okkotsu,0,0,0,,{*}Teach{*Sensei}, I won't let you kill your best friend twice.
+Dialogue: 0,0:16:58.00,0:17:00.04,Default,Hazenoki,0,0,0,,Why are you covered in lotion?!
+Dialogue: 0,0:17:00.04,0:17:01.54,Default,Takaba,0,0,0,,It could be sauce.
+Dialogue: 0,0:17:01.54,0:17:03.00,Default,Hazenoki,0,0,0,,Shut up and die!
+Dialogue: 0,0:17:04.63,0:17:07.13,Default,Hazenoki,0,0,0,,Wait, it really is sauce?!
+Dialogue: 0,0:17:07.13,0:17:10.22,Default,Hazenoki,0,0,0,,{\i1}Damn it! What's with this guy?!
+Dialogue: 0,0:17:10.22,0:17:12.39,Default,Hazenoki,0,0,0,,{\i1}I've blown him up so many times!
+Dialogue: 0,0:17:12.39,0:17:14.89,Default,Hazenoki,0,0,0,,{\i1}I feel like I've killed him five times over!
+Dialogue: 0,0:17:14.89,0:17:17.47,Default,Hazenoki,0,0,0,,{\i1}So why does he have barely any damage?!
+Dialogue: 0,0:17:18.73,0:17:20.02,Default,Takaba,0,0,0,,You don't like sauce?
+Dialogue: 0,0:17:20.69,0:17:23.27,Default,Hazenoki,0,0,0,,{\i1}His previous injuries have already healed, too.
+Dialogue: 0,0:17:23.94,0:17:27.78,Default,Hazenoki,0,0,0,,{\i1}But there's no sign of him\Nusing reverse cursed technique like I do.
+Dialogue: 0,0:17:28.69,0:17:30.49,Default,Hazenoki,0,0,0,,{\i1}It makes no sense! {I don't get it!}
+Dialogue: 0,0:17:31.20,0:17:32.53,Default,Kogane,0,0,0,,{*}Master Hazenoki{*Hazenoki-sama}.
+Dialogue: 0,0:17:32.53,0:17:33.83,Default,Hazenoki,0,0,0,,What is it?
+Dialogue: 0,0:17:33.83,0:17:37.04,Default,Kogane,0,0,0,,{*}Master Reggie Star{*Reggie Star-sama} has just died.
+Dialogue: 0,0:17:40.79,0:17:42.25,Default,Takaba,0,0,0,,Oh? What happened?
+Dialogue: 0,0:17:42.58,0:17:45.09,Default,Hazenoki,0,0,0,,I'm going home. I've had enough of this.
+Dialogue: 0,0:17:45.09,0:17:46.09,Default,Takaba,0,0,0,,Okay!
+Dialogue: 0,0:17:46.09,0:17:47.25,Default,Takaba,0,0,0,,Make sure you take a bath!
+Dialogue: 0,0:17:47.25,0:17:48.46,Default,Takaba,0,0,0,,And brush your teeth!
+Dialogue: 0,0:17:51.51,0:17:54.05,Default,Takaba,0,0,0,,Hey, man! Gimme your points!
+Dialogue: 0,0:17:54.51,0:17:55.80,Default,Hazenoki,0,0,0,,Stop following me.
+Dialogue: 0,0:17:55.80,0:17:59.14,Default,Takaba,0,0,0,,Please! Think of it as going with the flow! {manga: just for the fun of it}
+Dialogue: 0,0:17:59.52,0:18:00.35,Default,Hazenoki,0,0,0,,Die.
+Dialogue: 0,0:18:00.77,0:18:07.90,Default,Narrator,0,0,0,,Takaba's cursed technique, Comedian, \Nturns whatever he's convinced to be funny into reality.
+Dialogue: 0,0:18:07.90,0:18:11.86,Default,Narrator,0,0,0,,It's a technique capable of opposing even Gojo Satoru. {effective against?}
+Dialogue: 0,0:18:13.57,0:18:18.45,Default,Narrator,0,0,0,,Yet Takaba doesn't know anything \Nabout his own technique.
+Dialogue: 0,0:18:26.88,0:18:28.84,Default,Remi,0,0,0,,{\i1}I don't get it! I don't get it!
+Dialogue: 0,0:18:28.84,0:18:32.26,Default,Remi,0,0,0,,{\i1}Ever since I became an adult, \NI hardly understand anything!
+Dialogue: 0,0:18:38.06,0:18:40.77,Default,Remi,0,0,0,,{\i1}I've heard that all men are wolves,
+Dialogue: 0,0:18:40.77,0:18:44.94,Default,Remi,0,0,0,,{\i1}but it's always a wolf who takes care \Nof the confusing stuff for me!
+Dialogue: 0,0:18:49.19,0:18:54.70,Default,Remi,0,0,0,,{\i1}If a wolf will handle everything, \Nthen I don't need to worry about anything!
+Dialogue: 0,0:18:54.70,0:18:57.41,Default,Remi,0,0,0,,{\i1}Because I'm so cute!
+Dialogue: 0,0:19:04.58,0:19:06.71,Default,Remi,0,0,0,,{\i1}The wolf will always... {can we not use "..." here?}
+Dialogue: 0,0:19:06.71,0:19:07.67,Default,Remi,0,0,0,,{\i1}always...
+Dialogue: 0,0:19:16.59,0:19:18.85,Default,Tsumiki,0,0,0,,{\an8\i1}Don't, Megumi.
+Dialogue: 0,0:19:26.19,0:19:27.15,Default,Remi,0,0,0,,{\an8}You'll spare me?
+Dialogue: 0,0:19:35.57,0:19:37.16,Default,Fushiguro,0,0,0,,Shut up.
+Dialogue: 0,0:19:40.62,0:19:42.45,Default,Fushiguro,0,0,0,,Damn sister.
+Dialogue: 0,0:20:02.22,0:20:05.18,Default,Narrator,0,0,0,,{\an8}Things escalated quickly in Sendai Colony.
+Dialogue: 0,0:20:05.18,0:20:10.44,Default,Narrator,0,0,0,,{\an8}The situation became especially fierce, \Nfar surpassing those of the Tokyo Colony. {that? tokyo colony had two situations tho}
+Dialogue: 0,0:20:12.77,0:20:17.32,Default,Narrator,0,0,0,,Dhruv Lakdawalla. 91 points.
+Dialogue: 0,0:20:17.32,0:20:19.07,Default,Narrator,0,0,0,,A sorcerer incarnated for the second time. {wait how did he reincarnate twice?}
+Dialogue: 0,0:20:19.95,0:20:25.29,Default,Narrator,0,0,0,,He's an old man who single-handedly conquered \Nthe archipelago during the Civil War of Wa.
+Dialogue: 0,0:20:26.00,0:20:32.59,Default,Narrator,0,0,0,,He possesses two autonomous {*}cursed beasts{*shikigami}, \Nwhose orbits determine his domain.
+Dialogue: 0,0:20:35.67,0:20:40.01,Default,Narrator,0,0,0,,Ishigori Ryu. 77 points.
+Dialogue: 0,0:20:40.84,0:20:45.14,Default,Narrator,0,0,0,,He's the cannon with the greatest \Ncursed energy output among the players.
+Dialogue: 0,0:20:46.89,0:20:50.44,Default,Narrator,0,0,0,,Uro Takako. 70 points.
+Dialogue: 0,0:20:51.31,0:20:54.23,Default,Narrator,0,0,0,,She was the captain of \Nthe Sun, Moon, and Stars Squad.
+Dialogue: 0,0:20:54.23,0:20:57.28,Default,Narrator,0,0,0,,A squad of assassins serving directly \Nunder the Fujiwara Clan.
+Dialogue: 0,0:20:57.28,0:21:00.66,Default,Narrator,0,0,0,,She possesses a technique \Nthat allows her to manipulate the sky.
+Dialogue: 0,0:21:01.91,0:21:05.70,Default,Narrator,0,0,0,,Kurourushi. 54 points.
+Dialogue: 0,0:21:06.12,0:21:12.04,Default,Narrator,0,0,0,,It's a cockroach cursed spirit \Nthat Kenjaku freed from Curse Manipulation.
+Dialogue: 0,0:21:12.04,0:21:15.88,Default,Narrator,0,0,0,,It ranks as a special-grade, registered officially. {(already registered)} {(???)}
+Dialogue: 0,0:21:17.13,0:21:20.84,Default,Narrator,0,0,0,,It's lying dormant until certain conditions are met.
+Dialogue: 0,0:21:22.34,0:21:23.81,Default,Narrator,0,0,0,,There were no alliances.
+Dialogue: 0,0:21:23.81,0:21:30.14,Default,Narrator,0,0,0,,Their complex compatibility and evenly matched strength \Nlocked them in a four-way stalemate. {a three—no, }
+Dialogue: 0,0:21:30.64,0:21:33.36,Default,Narrator,0,0,0,,However, one of those pillars
+Dialogue: 0,0:21:34.86,0:21:36.15,Default,Narrator,0,0,0,,has fallen.
+Dialogue: 0,0:21:37.78,0:21:42.32,Default,Narrator,0,0,0,,Okkotsu Yuta. 35 points.
+Dialogue: 0,0:21:43.16,0:21:48.04,Default,Narrator,0,0,0,,Three months after the Night Parade of a Hundred Demons, \Nhe regained his special-grade status. {blossomed as a special-grade sorcerer.}
+Dialogue: 0,0:21:48.04,0:21:51.54,Default,Narrator,0,0,0,,Second only to Gojo Satoru \Nin the modern age— {In the modern age, \Nhe is second only to Gojo Satoru.} {CR: He was a modern sorcerer rivaling Gojo Satoru in unusual abilities.}
+Dialogue: 0,0:21:51.96,0:21:53.38,Default,Narrator,0,0,0,,A prodigy.
+Dialogue: 0,0:23:26.51,0:23:28.18,Default,Okkotsu,0,0,0,,{\an8}I will obtain 400 points by myself.
+Dialogue: 0,0:23:28.18,0:23:31.10,Default,Rika,0,0,0,,{\an8}Yuta, which would you like?
+Dialogue: 0,0:23:31.10,0:23:32.10,Default,Kogane,0,0,0,,{\an8}It's called Kurourushi!
+Dialogue: 0,0:23:32.10,0:23:32.81,Default,Okkotsu,0,0,0,,{\an8}Give me everything.
+Dialogue: 0,0:23:32.81,0:23:35.35,Default,Rika,0,0,0,,{\an8}Give Yuta back!
+Dialogue: 0,0:23:35.35,0:23:38.44,Default,Okkotsu,0,0,0,,{\an8}I won't let {*}Mr. Gojo{*Sensei} \Nkill his best friend a second time.
