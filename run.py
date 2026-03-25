@@ -4,6 +4,8 @@ from pathlib import Path
 project_root = Path(__file__).parent.resolve()
 sys.path.insert(0, str(project_root))
 
+import re
+
 import typer
 from rich.console import Console
 
@@ -125,11 +127,11 @@ def torrent(episode: str = typer.Argument(..., help=episode_help)):
 
 
 @app.command()
-def nyaa(episode: str = typer.Argument(..., help=episode_help)):
-    """Create torrent and upload to nyaa."""
-    from project_module.workflows import run_nyaa
+def release(episode: str = typer.Argument(..., help=episode_help)):
+    """Create torrent and upload to Nyaa and NekoBT."""
+    from project_module.workflows import run_release
 
-    process_episodes(episode, run_nyaa, 'nyaa upload')
+    process_episodes(episode, run_release, 'release')
 
 
 if __name__ == '__main__':

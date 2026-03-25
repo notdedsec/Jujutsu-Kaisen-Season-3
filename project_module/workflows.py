@@ -8,8 +8,9 @@ from vsmuxtools.utils.source import FileInfo, generate_keyframes
 
 from project_module.config import config
 from project_module.helpers import get_release
+from project_module.release.nekobt import upload_to_nekobt
 from project_module.release.nyaa import upload_to_nyaa
-from project_module.release.torrent import create_torrent
+from project_module.release.utils import create_torrent, get_mediainfo
 from project_module.source.getter import get_episode
 from project_module.subtitles.cleanup import get_cleanup_actions
 from project_module.subtitles.process_dialogue import remove_unwanted_lines, reverse_name_order, swap_honorifics, update_terminology
@@ -156,11 +157,21 @@ def run_torrent(ep: str):
     return torrent_file
 
 
-def run_nyaa(ep: str):
+def run_release(ep: str):
     episode = get_episode(ep)
+    muxfile = get_release(ep)
     torrent_file = run_torrent(ep)
+    mediainfo = get_mediainfo(muxfile)
+    description = episode.folder / config.description
+
     upload_to_nyaa(
         torrent_file=torrent_file,
         information=config.information,
-        description=episode.folder / config.description
+        description=description,
+    )
+
+    upload_to_nekobt(
+        torrent_file=torrent_file,
+        mediainfo=mediainfo,
+        description=description,
     )

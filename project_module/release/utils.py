@@ -1,3 +1,4 @@
+import subprocess
 from pathlib import Path
 
 from torf import Torrent
@@ -18,3 +19,8 @@ def create_torrent(file_path: Path | str, trackers: list[str] = config.trackers)
         torrent.write(torrent_path)
 
     return torrent_path
+
+
+def get_mediainfo(file: Path | str) -> str:
+    result = subprocess.run(['mediainfo', str(file)], capture_output=True, text=True)
+    return result.stdout
