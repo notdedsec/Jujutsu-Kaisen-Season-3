@@ -1,0 +1,41 @@
+﻿[Script Info]
+Title: Jujutsu Kaisen - 59 - Sendai Colony
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 1920
+PlayResY: 1080
+LayoutResX: 1920
+LayoutResY: 1080
+YCbCr Matrix: TV.709
+ScaledBorderAndShadow: yes
+
+[Aegisub Project Garbage]
+Video File: jjk_59_premux.mkv
+Audio File: jjk_59_premux.mkv
+Keyframes File: jjk_59_keyframes.txt
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Show_Title,Times New Roman,108,&H00000000,&H000000FF,&H0090D3CB,&H00000000,-1,0,0,0,100,150,0,0,1,6,0,8,30,30,54,1
+Style: Eyecatch_Title,Times New Roman,132,&H00070300,&H000000FF,&H009CE4E2,&H00000000,-1,0,0,0,100,150,0,0,1,6,0,8,30,30,54,1
+Style: Signs,Times New Roman,72,&H00FFFFFF,&H000000FF,&H00000000,&H3C000000,-1,0,0,0,100,100,0,0,1,0,0,2,30,30,120,1
+Style: Sign_Basic,Trebuchet MS,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,6,3,2,30,30,54,1
+Style: Onscreen2,Times New Roman,48,&H00FFFFFF,&H000000FF,&H80000000,&H00000000,-1,0,0,0,100,100,0,0,1,9,0,2,30,30,30,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:23.56,0:00:33.22,Onscreen2,Screen,0,0,0,,{\fad(1376,1200)\pos(1620,108)}1: Transfer Points
+Dialogue: 0,0:00:23.56,0:00:33.22,Onscreen2,Screen,0,0,0,,{\fad(1376,1200)\pos(1179,150)}2: Escape From\Nthe Culling Game
+Dialogue: 0,0:00:23.56,0:00:33.22,Onscreen2,Screen,0,0,0,,{\fad(1376,1200)\pos(729,150)}3: Passage In and\NOut of Colonies
+Dialogue: 0,0:00:23.56,0:00:33.22,Onscreen2,Screen,0,0,0,,{\fad(1376,1200)\pos(270,150)}4: Communication In \Nand Out of Colonies
+Dialogue: 0,0:00:49.90,0:00:52.90,Show_Title,Screen,0,0,0,,{\c&HE1008E&\3c&H000000&}JUJUTSU KAISEN
+Dialogue: 0,0:02:21.49,0:02:24.49,Signs,Screen,0,0,0,,Episode 59\N{\fs90}Sendai Colony
+Dialogue: 0,0:02:27.71,0:02:29.71,Sign_Basic,Screen,0,0,0,,{\pos(960,915)\bord0\shad0\fnTimes New Roman\b1\1a&H22&}Festering Life Sword
+Dialogue: 0,0:08:26.15,0:08:28.94,Eyecatch_Title,Screen,0,0,0,,{\fad(1625,0)\3c&HB7C4C2&}JUJUTSU KAISEN
+Dialogue: 0,0:14:14.03,0:14:15.45,Sign_Basic,Screen,0,0,0,,{\an8\fs90\b1\c&HCECECE&\shad0}Don't Move
+Dialogue: 0,0:16:24.79,0:16:27.79,Sign_Basic,Screen,0,0,0,,{\an1\fs42\fnTimes New Roman\b1}The Sun, Moon, and Stars Squad was\Nthe Fujiwara Clan's personal squad of assassins.\NWe lived in darkness and served with selfless devotion.\NWe were even forbidden from having our own names.
+Dialogue: 0,0:16:28.88,0:16:31.88,Sign_Basic,Screen,0,0,0,,{\an1\fs42\fnTimes New Roman\b1}Yet that man once granted me a name.\NSo he could execute me instead\Nfor his crime of slaying his own kin.
+Dialogue: 0,0:20:55.35,0:21:00.94,Sign_Basic,Screen,0,0,0,,{\fad(0,3425)\an8\fnTimes New Roman\b1\fs90\bord0\shad0}Let's let it all out!
+Dialogue: 0,0:26:17.60,0:26:20.84,Sign_Basic,Screen,0,0,0,,{\an8\fnTimes New Roman\b1\fs60\pos(960,600)}Through the transfer of Ishigori Ryu\Nand Uro Takako's points,
+Dialogue: 0,0:26:21.10,0:26:23.64,Sign_Basic,Screen,0,0,0,,{\an8\pos(960,600)\fnTimes New Roman\b1\fs60}Okkotsu Yuta came to possess 190 points.
+Dialogue: 0,0:26:56.88,0:26:59.89,Sign_Basic,Screen,0,0,0,,{\fnTimes New Roman\b1\fs54\pos(1755,900)\an3}To Be Continued
