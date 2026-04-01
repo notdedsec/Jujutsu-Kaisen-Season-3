@@ -16,10 +16,10 @@ Audio File: jjk_59_premux.mkv
 Video File: jjk_59_premux.mkv
 Keyframes File: jjk_59_keyframes.txt
 Video AR Value: 1.777778
-Video Zoom Percent: 0.750000
-Scroll Position: 297
-Active Line: 309
-Video Position: 38589
+Video Zoom Percent: 0.625000
+Scroll Position: 231
+Active Line: 234
+Video Position: 26394
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -29,8 +29,10 @@ Style: Alt,Cabin F,71,&H00FFFFFF,&H000000FF,&H003C3900,&HA0000000,-1,0,0,0,100,1
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.02,Default,chptr,0,0,0,,{Part A}
-Comment: 0,0:02:24.50,0:02:24.54,Default,chptr,0,0,0,,{Part B}
-Comment: 0,0:08:28.95,0:08:28.99,Default,chptr,0,0,0,,{Part C}
+Comment: 0,0:00:52.91,0:00:52.95,Default,chptr,0,0,0,,{Part B}
+Comment: 0,0:02:24.50,0:02:24.54,Default,chptr,0,0,0,,{Part C}
+Comment: 0,0:08:28.95,0:08:28.99,Default,chptr,0,0,0,,{Part D}
+Comment: 0,0:25:02.44,0:25:02.48,Default,chptr,0,0,0,,{Part E}
 Comment: 0,0:26:59.89,0:26:59.93,Default,chptr,0,0,0,edsync,{Ending}
 Dialogue: 0,0:00:03.15,0:00:05.24,Default,Okkotsu,0,0,164,,{\i1}With supplies being limited,
 Dialogue: 0,0:00:05.24,0:00:09.28,Default,Okkotsu,0,0,164,,{\fad(0,200)\i1}we'll need to add a rule allowing passage \Nin and out of the colonies.
@@ -51,7 +53,7 @@ Dialogue: 0,0:00:59.16,0:01:02.83,Default,Okkotsu,0,0,0,,Let's continue making o
 Dialogue: 0,0:01:02.83,0:01:04.54,Default,Daughter,0,0,0,,Carry me.
 Dialogue: 0,0:01:04.54,0:01:05.50,Default,Mother,0,0,0,,Hang in there, okay?
 Dialogue: 0,0:01:06.50,0:01:08.38,Default,Okkotsu,0,0,0,,Let's take a short break.
-Dialogue: 0,0:01:08.38,0:01:12.84,Default,Okkotsu,0,0,0,,This stadium was controlled \Nby a powerful sorcerer I just defeated.
+Dialogue: 0,0:01:08.38,0:01:12.84,Default,Okkotsu,0,0,0,,This stadium was held by \Na powerful sorcerer I just defeated.
 Dialogue: 0,0:01:12.84,0:01:16.51,Default,Okkotsu,0,0,0,,No one should come here for some time.
 Dialogue: 0,0:01:15.43,0:01:16.51,Alt,Oldman,0,0,0,,What's that sound?!
 Dialogue: 0,0:01:21.06,0:01:23.27,Default,Okkotsu,0,0,0,,Run into the stadium.
@@ -61,33 +63,33 @@ Dialogue: 0,0:01:40.66,0:01:43.04,Default,Okkotsu,0,0,0,,{\i1}Are these cockroac
 Dialogue: 0,0:01:45.08,0:01:45.54,Default,Okkotsu,0,0,0,,{\i1}Damn it!
 Dialogue: 0,0:01:52.18,0:01:53.51,Default,Okkotsu,0,0,0,,Rika! Knock it down!
 Dialogue: 0,0:01:53.51,0:01:54.47,Default,Man,0,0,0,,Hurry!
-Dialogue: 0,0:01:55.55,0:01:56.93,Default,Rika,0,0,55,,{\fnKG HAPPY Solid\fs81\fscx84\b0}Okay!
+Dialogue: 0,0:01:55.55,0:01:56.93,Default,Rika,0,0,58,,{\fnKG HAPPY Solid\fs81\fscx84\b0}Okay!
 Dialogue: 0,0:02:10.90,0:02:13.03,Default,Okkotsu,0,0,0,,Kogane, is that a player?
 Dialogue: 0,0:02:14.28,0:02:16.87,Default,Kogane,0,0,0,,Yes. It's called Kurourushi. {the jp script has double exclamations but the voice acting is quite flat?}
 Dialogue: 0,0:02:18.08,0:02:20.66,Default,Okkotsu,0,0,0,,So cursed spirits can be players too?
 Dialogue: 0,0:02:48.02,0:02:49.15,Default,Okkotsu,0,0,0,,{\i1}I'm being watched.
 Dialogue: 0,0:02:49.98,0:02:53.11,Default,Okkotsu,0,0,0,,{\i1}Likely by the other two players \Nwith high scores.
-Dialogue: 0,0:02:53.11,0:02:55.53,Default,Kurourushi,0,0,55,,{\fnKG HAPPY Solid\fs81\fscx84\b0}Why do you interfere?
+Dialogue: 0,0:02:53.11,0:02:55.53,Default,Kurourushi,0,0,58,,{\fnKG HAPPY Solid\fs81\fscx84\b0}Why do you interfere?
 Dialogue: 0,0:02:55.53,0:02:57.32,Default,Okkotsu,0,0,0,,{\i1}Kurourushi is a cursed spirit.
-Dialogue: 0,0:02:57.70,0:03:00.83,Default,Kurourushi,0,0,55,,{\fnKG HAPPY Solid\fs81\fscx84\b0}Why do you kill us?
+Dialogue: 0,0:02:57.70,0:03:00.83,Default,Kurourushi,0,0,58,,{\fnKG HAPPY Solid\fs81\fscx84\b0}Why do you kill us?
 Dialogue: 0,0:03:00.83,0:03:07.38,Default,Okkotsu,0,0,0,,{\i1}By channeling positive energy from \Nreverse cursed technique into its body, I can exorcise it.
 Dialogue: 0,0:03:07.83,0:03:09.88,Default,Okkotsu,0,0,0,,That's what I'd like to know.
 Dialogue: 0,0:03:10.42,0:03:11.09,Default,Okkotsu,0,0,0,,{\i1}However...
-Dialogue: 0,0:03:11.46,0:03:14.17,Default,Kurourushi,0,0,55,,{\fnKG HAPPY Solid\fs81\fscx84\b0}I like the taste of iron!
+Dialogue: 0,0:03:11.46,0:03:14.17,Default,Kurourushi,0,0,58,,{\fnKG HAPPY Solid\fs81\fscx84\b0}I like the taste of iron!
 Dialogue: 0,0:03:17.59,0:03:22.56,Default,Okkotsu,0,0,0,,{\i1}I don't want the other two to know \NI can use reverse cursed technique.\h
 Dialogue: 0,0:03:22.56,0:03:25.06,Default,Okkotsu,0,0,0,,{\i1}Rika is protecting everyone in the stadium.
 Dialogue: 0,0:03:25.39,0:03:29.27,Default,Okkotsu,0,0,0,,{\i1}I want to exorcise Kurourushi \Nwithout using Rika or reverse cursed technique.
-Dialogue: 0,0:03:35.40,0:03:36.78,Default,Kurourushi,0,0,55,,{\fnKG HAPPY Solid\fs81\fscx84\b0}Blind.
-Dialogue: 0,0:03:36.78,0:03:37.91,Default,Kurourushi,0,0,55,,{\fnKG HAPPY Solid\fs81\fscx84\b0}Blind. Blind.
-Dialogue: 0,0:03:37.91,0:03:39.03,Default,Kurourushi,0,0,55,,{\fnKG HAPPY Solid\fs81\fscx84\b0}Blind. Blind. Blind.
+Dialogue: 0,0:03:35.40,0:03:36.78,Default,Kurourushi,0,0,58,,{\fnKG HAPPY Solid\fs81\fscx84\b0}Blind.
+Dialogue: 0,0:03:36.78,0:03:37.91,Default,Kurourushi,0,0,58,,{\fnKG HAPPY Solid\fs81\fscx84\b0}Blind. Blind.
+Dialogue: 0,0:03:37.91,0:03:39.03,Default,Kurourushi,0,0,58,,{\fnKG HAPPY Solid\fs81\fscx84\b0}Blind. Blind. Blind.
 Dialogue: 0,0:04:51.94,0:04:54.36,Default,Kogane,0,0,0,,{\an8}You have scored five points.
 Dialogue: 0,0:04:54.36,0:04:56.32,Default,Uro,0,0,0,,I see you can use...
 Dialogue: 0,0:04:57.11,0:04:58.44,Default,Uro,0,0,0,,reverse cursed technique.
 Dialogue: 0,0:05:06.29,0:05:08.75,Default,Okkotsu,0,0,0,,What was that? A strike?
-Dialogue: 0,0:05:19.30,0:05:22.14,Default,Okkotsu,0,0,0,,{\i1}My arm is back to normal. Nothing's off.
-Dialogue: 0,0:05:22.14,0:05:25.26,Default,Okkotsu,0,0,0,,{\i1}I think her technique manipulates space.
+Dialogue: 0,0:05:19.30,0:05:22.13,Default,Okkotsu,0,0,0,,{\i1}My arm is back to normal. Nothing's off.
+Dialogue: 0,0:05:22.13,0:05:25.26,Default,Okkotsu,0,0,0,,{\i1}I think her technique manipulates space.
 Dialogue: 0,0:05:25.26,0:05:28.52,Default,Okkotsu,0,0,0,,{\i1}Looks like it can't crush opponents \Nwithin that space, though.
-Dialogue: 0,0:05:28.52,0:05:31.90,Default,Okkotsu,0,0,0,,{\i1}It's creating distortions, like a lens.
+Dialogue: 0,0:05:28.52,0:05:31.89,Default,Okkotsu,0,0,0,,{\i1}It's creating distortions, like a lens.
 Dialogue: 0,0:05:32.23,0:05:36.61,Default,Uro,0,0,0,,You see, my technique treats the sky as a surface.
 Dialogue: 0,0:05:38.53,0:05:40.11,Default,Uro,0,0,0,,Like this.
 Dialogue: 0,0:05:40.49,0:05:42.11,Default,Okkotsu,0,0,0,,{\i1}She's revealing her technique!
@@ -107,13 +109,13 @@ Dialogue: 0,0:06:22.86,0:06:25.99,Default,Uro,0,0,0,,Keep in mind, Kenjaku set t
 Dialogue: 0,0:06:25.99,0:06:29.70,Default,Uro,0,0,0,,We should be hoarding points \Nto prepare for whatever may happen.
 Dialogue: 0,0:06:30.37,0:06:33.29,Default,Okkotsu,0,0,0,,Don't you have any friends or a lover? {>lovers. lmao. it's supposed to be singular. what did crunchy mean by this?} {No bitches?}
 Dialogue: 0,0:06:35.29,0:06:36.04,Default,Uro,0,0,0,,Huh?
-Dialogue: 0,0:06:36.54,0:06:42.22,Default,Okkotsu,0,0,0,,I didn't have any friends until recently either, \Nbut I still can't relate.
+Dialogue: 0,0:06:36.54,0:06:42.21,Default,Okkotsu,0,0,0,,I didn't have any friends until recently either, \Nbut I still can't relate.
 Dialogue: 0,0:06:42.55,0:06:44.76,Default,Uro,0,0,0,,{\i1}Yeah, I know this feeling.
 Dialogue: 0,0:06:44.76,0:06:47.43,Default,Uro,0,0,0,,{\i1}He's brushing up against a nerve.
 Dialogue: 0,0:06:48.26,0:06:52.48,Default,Okkotsu,0,0,0,,Just because you have regrets, \Nyou're killing people even after all these years. {hundreds and thousands of}
 Dialogue: 0,0:06:52.89,0:06:55.98,Default,Okkotsu,0,0,0,,Why go so far just for yourself? {she misinterprets this line to be saying "someone like yourself" but yuta is saying sth that's more like "just for yourself"}
 Dialogue: 0,0:06:55.98,0:06:59.90,Default,Uro,0,0,0,,Are you... one of the Fujiwara?!
-Dialogue: 0,0:07:00.78,0:07:04.28,Default,Uro,0,0,0,,As if anyone from {\i1}your{\i0} bloodline would understand!
+Dialogue: 0,0:07:00.82,0:07:04.28,Default,Uro,0,0,0,,As if anyone from {\i1}your{\i0} bloodline would understand!
 Dialogue: 0,0:07:14.54,0:07:15.87,Default,Ishigori,0,0,0,,Granité Blast.
 Dialogue: 0,0:07:25.76,0:07:27.05,Default,Okkotsu,0,0,0,,{\i1}Ishigori?
 Dialogue: 0,0:07:27.51,0:07:31.06,Default,Uro,0,0,0,,{\i1}That rooftop? He's rather close.
@@ -130,36 +132,35 @@ Dialogue: 0,0:08:10.55,0:08:11.51,Default,Ishigori,0,0,0,,He's gone?
 Dialogue: 0,0:08:11.51,0:08:14.52,Default,Ishigori,0,0,0,,Right! He dug a hole there earlier!
 Dialogue: 0,0:08:19.23,0:08:21.86,Default,Okkotsu,0,0,0,,Could you keep the fighting a bit more contained?
 Dialogue: 0,0:08:21.86,0:08:25.94,Default,Ishigori,0,0,0,,Will that sate the hunger, Okkotsu?
-Dialogue: 0,0:08:30.32,0:08:36.08,Default,Ishigori,0,0,0,,Would you tell a kid with a feast before him \Nto slow down and take his time eating?
+Dialogue: 0,0:08:30.32,0:08:36.08,Default,Ishigori,0,0,0,,{\fad(50,0)}Would you tell a kid with a feast before him \Nto slow down and take his time eating?
 Dialogue: 0,0:08:37.58,0:08:39.33,Default,Okkotsu,0,0,0,,Wouldn't anyone?
 Dialogue: 0,0:08:40.25,0:08:43.21,Default,Ishigori,0,0,0,,Right. Most people would.
 Dialogue: 0,0:08:43.21,0:08:44.84,Default,Ishigori,0,0,0,,That was a bad example.
-Dialogue: 0,0:08:45.42,0:08:49.43,Default,Ishigori,0,0,0,,My first run at life was moderately filling. {ah yes the japanese concept of eating till you're "eighty percent full" but let's not be too literal}
-Dialogue: 0,0:08:50.05,0:08:52.47,Default,Ishigori,0,0,0,,I fought some worthy opponents. {CR: I fought some guys with real backbone.}
+Dialogue: 0,0:08:45.42,0:08:49.59,Default,Ishigori,0,0,0,,My first run at life was moderately filling. {ah yes the japanese concept of eating till you're "eighty percent full" but let's not be too literal}
+Dialogue: 0,0:08:50.09,0:08:52.47,Default,Ishigori,0,0,0,,I fought some worthy opponents. {CR: I fought some guys with real backbone.}
 Dialogue: 0,0:08:52.47,0:08:54.56,Default,Ishigori,0,0,0,,I met a nice woman, too.
 Dialogue: 0,0:08:55.10,0:08:59.23,Default,Ishigori,0,0,0,,Honestly, I can't say I have any regrets.
 Dialogue: 0,0:09:01.02,0:09:06.15,Default,Ishigori,0,0,0,,A craving you can't quite put your finger on \Nis the worst kind, Okkotsu.
 Dialogue: 0,0:09:06.15,0:09:10.07,Default,Ishigori,0,0,0,,Everyone gives me that \N"what've you got to complain about?" look.
-Dialogue: 0,0:09:11.86,0:09:15.83,Default,Ishigori,0,0,0,,Did you know these cigarettes leave \Na bit of a sweet aftertaste?
-Dialogue: 0,0:09:17.16,0:09:21.33,Default,Ishigori,0,0,0,,My life never had any dessert.
+Dialogue: 0,0:09:11.86,0:09:15.83,Default,Ishigori,0,0,0,,These cigarettes leave \Na bit of a sweet aftertaste, y'know.
+Dialogue: 0,0:09:17.16,0:09:21.42,Default,Ishigori,0,0,0,,My life never had any dessert.
 Dialogue: 0,0:09:22.37,0:09:23.21,Default,Okkotsu,0,0,0,,{\i1}Here it comes!
 Dialogue: 0,0:09:31.80,0:09:33.76,Default,Ishigori,0,0,0,,{\i1}Why am I not satisfied?!
 Dialogue: 0,0:09:34.64,0:09:36.39,Default,Ishigori,0,0,0,,{\i1}I think you know!
 Dialogue: 0,0:09:43.77,0:09:46.86,Default,Ishigori,0,0,0,,{\i1}I'm not satisfied because I'm not full!
 Dialogue: 0,0:10:01.33,0:10:02.96,Default,Ishigori,0,0,0,,You'd better not be crushed!
-Comment: 0,0:10:04.83,0:10:05.88,Default,Ishigori,0,0,0,,Whoa.
 Dialogue: 0,0:10:19.85,0:10:21.06,Default,Ishigori,0,0,0,,That hurt.
 Dialogue: 0,0:10:38.58,0:10:39.16,Default,Okkotsu,0,0,0,,Good.
 Dialogue: 0,0:10:46.17,0:10:48.25,Default,Ishigori,0,0,0,,Not gonna call your {*}cursed beast{*shikigami}?
 Dialogue: 0,0:10:49.75,0:10:51.09,Default,Okkotsu,0,0,0,,I can't.
-Dialogue: 0,0:10:51.88,0:10:53.68,Default,Okkotsu,0,0,0,,Not with you going wild.
+Dialogue: 0,0:10:51.88,0:10:53.67,Default,Okkotsu,0,0,0,,Not with you going wild.
 Dialogue: 0,0:10:54.05,0:10:55.84,Default,Ishigori,0,0,0,,Ain't that a shame.
 Dialogue: 0,0:10:58.97,0:11:00.97,Default,Okkotsu,0,0,0,,{\i1}He's trying to limit my options.
 Dialogue: 0,0:11:02.52,0:11:04.02,Default,Okkotsu,0,0,0,,{\i1}I'll push through.
 Dialogue: 0,0:11:04.94,0:11:06.19,Default,Okkotsu,0,0,0,,{\i1}Head-on!
 Dialogue: 0,0:11:07.44,0:11:08.69,Default,Ishigori,0,0,0,,Sweet!
 Dialogue: 0,0:11:08.69,0:11:11.65,Default,Ishigori,0,0,0,,Now we're talking, Okkotsu! Let's go, then!
-Dialogue: 0,0:11:14.65,0:11:16.82,Default,Okkotsu,0,0,0,,{\i1}His cursed energy is more precise! This is bad!
+Dialogue: 0,0:11:14.65,0:11:16.82,Default,Okkotsu,0,0,0,,{\i1}His blast is more concentrated! This is bad!
 Dialogue: 0,0:11:22.33,0:11:23.75,Default,Ishigori,0,0,0,,{\fad(0,80)}Well done! Here's your reward!
 Dialogue: 0,0:11:23.83,0:11:24.29,Default,Ishigori,0,0,0,,{\fad(0,80)}Well done! Here's your reward!
 Dialogue: 0,0:11:28.71,0:11:29.50,Default,Ishigori,0,0,0,,Whoops.
@@ -168,7 +169,7 @@ Dialogue: 0,0:11:40.89,0:11:42.56,Default,Ishigori,0,0,0,,You're good, Okkotsu!
 Dialogue: 0,0:11:42.97,0:11:46.31,Default,Ishigori,0,0,0,,Are you my dessert?! {this timing man...}
 Dialogue: 0,0:11:53.48,0:11:56.61,Default,Ishigori,0,0,0,,Man, you're the best!
 Dialogue: 0,0:12:01.66,0:12:05.50,Default,Uro,0,0,0,,{\i1}What I strike isn't my opponent, but the surface of the sky.
-Dialogue: 0,0:12:07.62,0:12:08.96,Default,Uro,0,0,0,,{\fad(0,100)}Thin Ice Breaker!
+Dialogue: 0,0:12:07.67,0:12:08.96,Default,Uro,0,0,0,,{\fad(0,100)}Thin Ice Breaker!
 Dialogue: 0,0:12:12.42,0:12:14.38,Default,Ishigori,0,0,0,,Outta the way, you pile of vomit!
 Dialogue: 0,0:12:17.63,0:12:20.39,Default,Uro,0,0,0,,Can it, dick cheese!
 Dialogue: 0,0:12:26.85,0:12:28.64,Default,Uro,0,0,0,,You're tough.
@@ -179,35 +180,59 @@ Dialogue: 0,0:12:38.99,0:12:43.66,Default,Ishigori,0,0,62,,{\i1}Reverse cursed t
 Dialogue: 0,0:12:46.12,0:12:49.87,Default,Ishigori,0,0,0,,We're finally seeing the bottom \Nof your reserves, Okkotsu.
 Dialogue: 0,0:12:50.25,0:12:56.76,Default,Ishigori,0,0,0,,{\fad(0,200)}No matter how fancy or delicious the shop is, \Nan empty display at closing time is always a letdown.
 Dialogue: 0,0:12:58.26,0:13:00.18,Default,Ishigori,0,0,0,,Guess it ain't you.
-Dialogue: 0,0:13:05.93,0:13:11.27,Default,Okkotsu,0,0,0,,{\i1}I wanted to gain more distance from \Nthe people in the stadium, but that seems unlikely. 
+Dialogue: 0,0:13:05.93,0:13:11.31,Default,Okkotsu,0,0,0,,{\i1}I wanted to gain more distance from \Nthe people in the stadium, but that seems unlikely.
 Dialogue: 0,0:13:16.53,0:13:18.36,Default,Okkotsu,0,0,0,,Come, Rika.
 Dialogue: 0,0:13:19.36,0:13:20.53,Default,Okkotsu,0,0,0,,Give me everything.
 Dialogue: 0,0:13:23.66,0:13:26.04,Default,Uro,0,0,0,,{\i1}He fully manifested his {*}cursed beast{*shikigami}?!
 Dialogue: 0,0:13:26.04,0:13:27.79,Default,Ishigori,0,0,0,,{\i1}How does that work?
 Dialogue: 0,0:13:27.79,0:13:30.71,Default,Ishigori,0,0,0,,{\i1}He's swelling with cursed energy again!
-Dialogue: 0,0:13:31.08,0:13:33.92,Default,Rika,0,0,55,,{\fnKG HAPPY Solid\fs81\fscx84\b0}Yuta, what'll it be?
+Dialogue: 0,0:13:31.08,0:13:33.92,Default,Rika,0,0,58,,{\fnKG HAPPY Solid\fs81\fscx84\b0}Yuta, what'll it be?
 Dialogue: 0,0:13:33.92,0:13:36.75,Default,Okkotsu,0,0,0,,Thank you. I'll take that one.
-Dialogue: 0,0:13:38.84,0:13:43.01,Default,Narration,0,0,0,,Rika is what remained with Okkotsu after Orimoto Rika passed on,
+Dialogue: 0,0:13:38.84,0:13:43.01,Default,Narration,0,0,0,,Rika is what remained with Okkotsu after Orimoto Rika passed on
 Dialogue: 0,0:13:43.01,0:13:46.56,Default,Narration,0,0,0,,as an external store of \Ncursed energy and cursed technique.
 Dialogue: 0,0:13:46.56,0:13:50.56,Default,Narration,0,0,0,,While connected to Rika through the ring, \NOkkotsu gains the following:
-Dialogue: 0,0:13:50.56,0:13:57.27,Default,Narration,0,0,0,,use of his cursed technique, full manifestation of Rika, \Nand cursed energy supplied by Rika.
+Dialogue: 0,0:13:50.56,0:13:57.27,Default,Narration,0,0,0,,use of his technique, full manifestation of Rika, \Nand cursed energy supplied by Rika.
 Dialogue: 0,0:13:58.07,0:14:02.20,Default,Narration,0,0,0,,He can remain connected for five minutes.
-Dialogue: 0,0:14:04.45,0:14:05.33,Default,Okkotsu,0,0,0,,All right.
+Dialogue: 0,0:14:04.45,0:14:05.32,Default,Okkotsu,0,0,0,,All right.
 Dialogue: 0,0:14:05.91,0:14:06.91,Default,Okkotsu,0,0,0,,Let's go.
 Dialogue: 0,0:14:08.08,0:14:09.20,Default,Uro,0,0,0,,{\i1}Don't get cocky!
-Dialogue: 0,0:14:13.92,0:14:15.50,Default,Okkotsu,0,0,0,,Don't move.
-Dialogue: 0,0:14:15.96,0:14:17.13,Default,Uro,0,0,0,,{\i1}Snake Eyes and Fangs!
+Comment: 0,0:14:13.25,0:14:13.92,Default,,0,0,0,,LARP!
+Dialogue: 0,0:14:13.92,0:14:15.50,Default,Okkotsu,0,0,0,,{\blur0.88\c&HFFFFFF&\3c&HFFFFFF&\4c&H000000&\1a&H00&}Don't move.
+Dialogue: 1,0:14:13.92,0:14:15.50,Default,Okkotsu,0,0,0,,{\blur0.88\bord0\shad0\c&H292929&\4c&H000000&\1a&H00&\4a&HFF&}Don't move.
+Dialogue: 3,0:14:15.96,0:14:16.00,Default,Uro,0,0,0,,{\1a&H60&\i1}Snake Eyes and Fangs!
+Dialogue: 3,0:14:16.00,0:14:16.09,Default,Uro,0,0,0,,{\1a&H20&\i1}Snake Eyes and Fangs!
+Dialogue: 0,0:14:16.04,0:14:16.13,Default,Uro,0,0,0,,{\i1\c&HFFFFFF&\bord5.5\shad0\1a&HFF&\3c&HFFF2A8&\3a&H3C&}Snake Eyes and Fangs!
+Dialogue: 0,0:14:16.13,0:14:16.21,Default,Uro,0,0,0,,{\i1\c&HFFFFFF&\bord5.5\shad0\1a&HFF&\3c&HBCE165&\3a&H3C&}Snake Eyes and Fangs!
+Dialogue: 0,0:14:16.21,0:14:16.25,Default,Uro,0,0,0,,{\i1\c&HFFFFFF&\bord5.5\shad0\1a&HFF&\3c&HFFF2A8&\3a&H78&}Snake Eyes and Fangs!
+Dialogue: 3,0:14:16.09,0:14:16.21,Default,Uro,0,0,0,,{\1a&H30&\i1}Snake Eyes and Fangs!
+Dialogue: 3,0:14:16.21,0:14:16.25,Default,Uro,0,0,0,,{\1a&H50&\i1}Snake Eyes and Fangs!
+Dialogue: 3,0:14:16.25,0:14:16.29,Default,Uro,0,0,0,,{\1a&H80&\i1}Snake Eyes and Fangs!
+Dialogue: 3,0:14:16.29,0:14:16.34,Default,Uro,0,0,0,,{\1a&H10&\i1}Snake Eyes and Fangs!
+Dialogue: 3,0:14:16.34,0:14:16.38,Default,Uro,0,0,0,,{\1a&H40&\i1}Snake Eyes and Fangs!
+Dialogue: 1,0:14:16.38,0:14:16.46,Default,Uro,0,0,0,,{\i1\c&HFFFFFF&\bord5.5\shad0\1a&HFF&\3c&HBCE165&\3a&H8C&}Snake Eyes and Fangs!
+Dialogue: 3,0:14:16.38,0:14:16.46,Default,Uro,0,0,0,,{\1a&H60&\i1}Snake Eyes and Fangs!
+Dialogue: 3,0:14:16.46,0:14:16.50,Default,Uro,0,0,0,,{\1a&H80&\i1}Snake Eyes and Fangs!
+Dialogue: 3,0:14:16.50,0:14:16.54,Default,Uro,0,0,0,,{\1a&H60&\i1}Snake Eyes and Fangs!
+Dialogue: 1,0:14:16.59,0:14:16.63,Default,Uro,0,0,0,,{\i1\c&HFFFFFF&\bord5.5\shad0\1a&HFF&\3c&HBCE165&\3a&H78&}Snake Eyes and Fangs!
+Dialogue: 3,0:14:16.54,0:14:16.63,Default,Uro,0,0,0,,{\1a&H10&\i1}Snake Eyes and Fangs!
+Dialogue: 3,0:14:16.63,0:14:16.84,Default,Uro,0,0,0,,{\1a&H30&\i1}Snake Eyes and Fangs!
+Dialogue: 3,0:14:16.84,0:14:16.88,Default,Uro,0,0,0,,{\1a&H80&\i1}Snake Eyes and Fangs!
+Dialogue: 3,0:14:16.88,0:14:16.92,Default,Uro,0,0,0,,{\1a&HA0&\i1}Snake Eyes and Fangs!
+Dialogue: 3,0:14:16.92,0:14:16.96,Default,Uro,0,0,0,,{\1a&H80&\i1}Snake Eyes and Fangs!
+Dialogue: 3,0:14:16.96,0:14:17.00,Default,Uro,0,0,0,,{\1a&H60&\i1}Snake Eyes and Fangs!
+Dialogue: 3,0:14:17.00,0:14:17.04,Default,Uro,0,0,0,,{\1a&H50&\i1}Snake Eyes and Fangs!
+Dialogue: 3,0:14:17.04,0:14:17.13,Default,Uro,0,0,0,,{\1a&H40&\i1}Snake Eyes and Fangs!
 Dialogue: 0,0:14:17.75,0:14:18.71,Default,Uro,0,0,0,,{\i1}I can't move!
 Dialogue: 0,0:14:24.05,0:14:25.43,Default,Ishigori,0,0,0,,Hey, now.
 Dialogue: 0,0:14:25.68,0:14:27.26,Default,Ishigori,0,0,0,,Ain't that sweet as hell?!
 Dialogue: 0,0:14:29.77,0:14:30.81,Default,Okkotsu,0,0,0,,Rika!
-Dialogue: 0,0:14:30.81,0:14:31.35,Default,Rika,0,0,57,,{\fnKG HAPPY Solid\fs81\fscx84\b0}Aye!
+Dialogue: 0,0:14:30.81,0:14:31.35,Default,Rika,0,0,58,,{\fnKG HAPPY Solid\fs81\fscx84\b0}Aye!
 Dialogue: 0,0:14:31.35,0:14:32.31,Default,Ishigori,0,0,0,,Bring it!
 Dialogue: 0,0:14:33.81,0:14:34.69,Default,Ishigori,0,0,0,,{\i1}It's tough!
 Dialogue: 0,0:14:40.40,0:14:41.78,Default,Ishigori,0,0,0,,That was close!
-Dialogue: 0,0:14:43.03,0:14:45.37,Default,Uro,0,0,0,,Don't act like you've won!
-Dialogue: 0,0:15:14.98,0:15:17.36,Default,Rika,0,0,55,,{\fnKG HAPPY Solid\fs81\fscx84\b0}You!
-Dialogue: 0,0:15:17.36,0:15:19.77,Default,Rika,0,0,55,,{\fnKG HAPPY Solid\fs81\fscx84\b0}You won't get away with that!
+Dialogue: 0,0:14:43.03,0:14:45.36,Default,Uro,0,0,0,,Don't act like you've won!
+Dialogue: 0,0:15:14.98,0:15:17.35,Default,Rika,0,0,58,,{\fnKG HAPPY Solid\fs81\fscx84\b0}You!
+Dialogue: 0,0:15:17.35,0:15:19.77,Default,Rika,0,0,58,,{\fnKG HAPPY Solid\fs81\fscx84\b0}You won't get away with that!
 Dialogue: 0,0:15:29.87,0:15:31.03,Default,Okkotsu,0,0,0,,{\i1}What's that? {so i'm assuming this is the moment where he gets the idea that his beam can be bent since the last time it happened he was knocked inside a building}
 Dialogue: 0,0:15:31.54,0:15:32.58,Default,Ishigori,0,0,0,,Let's go!
 Dialogue: 0,0:15:35.75,0:15:36.42,Default,Ishigori,0,0,0,,All right!
@@ -222,52 +247,53 @@ Dialogue: 0,0:16:40.77,0:16:42.52,Default,Ishigori,0,0,0,,Let's keep chowing dow
 Dialogue: 0,0:16:44.32,0:16:45.90,Default,Uro,0,0,0,,It's always you Fujiwara! {lol they probably added that comma by mistake}
 Dialogue: 0,0:16:46.32,0:16:48.53,Default,Uro,0,0,0,,You always get in my way!
 Dialogue: 0,0:16:48.53,0:16:50.66,Default,Uro,0,0,0,,Are you that afraid of me?!
-Dialogue: 0,0:16:50.66,0:16:53.41,Default,Uro,0,0,0,,Afraid of me becoming my own person?! {Afraid of me having an identity?!} {i think using "identity" or sth similar narrows it down too much, because the line could mean identity, worth, significance, purpose, all of it}
+Dialogue: 0,0:16:50.66,0:16:53.41,Default,Uro,0,0,0,,Afraid I might make something of myself?! {Afraid of me becoming my own person?!} {Afraid of me having an identity?!} {i think using "identity" or sth similar narrows it down too much, because the line could mean identity, worth, significance, purpose, all of it} {"make something of myself" doesn't sound clunky and is vague enough as well}
 Dialogue: 0,0:16:59.54,0:17:03.00,Default,Narration,0,0,0,,Okkotsu had defeated Dhruv Lakdawalla.
 Dialogue: 0,0:17:03.50,0:17:10.63,Default,Narration,0,0,0,,His technique turns the trajectories of his {*}cursed beasts{*shikigami} \Ninto his domain, slashing anything within.
 Dialogue: 0,0:17:13.64,0:17:16.64,Default,Uro,0,0,0,,{\i1}This is... Dhruv's technique!
-Dialogue: 0,0:17:17.14,0:17:20.27,Default,Uro,0,0,0,,{\i1}Okkotsu's technique is...
-Dialogue: 0,0:17:20.27,0:17:21.44,Default,Uro,0,0,0,,{\i1}Copy?!
+Dialogue: 0,0:17:17.14,0:17:20.27,Default,Uro,0,0,0,,{\i1}No way... Okkotsu's technique is...
+Dialogue: 0,0:17:20.27,0:17:21.44,Default,Uro,0,0,0,,{\i1}Copy?! {Larp!}
 Dialogue: 0,0:17:34.24,0:17:38.16,Default,Okkotsu,0,0,0,,I don't know what my ancestors did to you,
 Dialogue: 0,0:17:38.16,0:17:42.46,Default,Okkotsu,0,0,0,,but if you live solely for yourself \Nyou'll reach your limit someday.
 Dialogue: 0,0:17:42.79,0:17:43.67,Default,Uro,0,0,0,,Shut up!
 Dialogue: 0,0:17:43.67,0:17:46.13,Default,Uro,0,0,0,,"Live for the sake of others!"
-Dialogue: 0,0:17:46.13,0:17:48.30,Default,Uro,0,0,0,,"There's no need to be your own person!"
-Dialogue: 0,0:17:49.55,0:17:54.93,Default,Uro,0,0,0,,It's always the ones who already became someone \Nwho bark things like that! {It's always the ones who already are their own person \Nwho bark things like that!}
-Dialogue: 0,0:18:10.61,0:18:12.15,Default,Ishigori,0,0,0,,Enough of your yapping!
-Dialogue: 0,0:18:12.15,0:18:14.16,Default,Ishigori,0,0,0,,Words mean nothing at this point.
-Dialogue: 0,0:18:15.58,0:18:17.62,Default,Ishigori,0,0,0,,It's time for action!
+Dialogue: 0,0:17:46.13,0:17:48.30,Default,Uro,0,0,0,,"No need to make something of yourself." {"There's no need to be your own person!"}
+Dialogue: 0,0:17:49.55,0:17:54.93,Default,Uro,0,0,0,,It's always the ones who've already made \Nsomething of themselves who bark things like that! {It's always the ones who already became someone who bark things like that!} {It's always the ones who already are their own person who bark things like that!}
+Dialogue: 0,0:18:10.61,0:18:12.20,Default,Ishigori,0,0,0,,Enough fucking yapping!
+Dialogue: 0,0:18:12.20,0:18:14.16,Default,Ishigori,0,0,0,,Words mean nothing at this point.
+Dialogue: 0,0:18:15.57,0:18:17.62,Default,Ishigori,0,0,0,,It's time for action!
+Comment: 0,0:18:20.83,0:18:22.75,Default,,0,0,0,,WE CAN'T FUCKING READ!
 Dialogue: 0,0:18:22.75,0:18:24.37,Default,Uro,0,0,0,,{\fsp-1\fscx99\pos(330,1015)\c&HFEF0E1&}Domain Expansion!
 Dialogue: 0,0:18:22.75,0:18:24.37,Default,Okkotsu,0,0,0,,{\fsp-1\fscx99\c&HF0E5FE&}Domain Expansion.
 Dialogue: 0,0:18:22.75,0:18:24.37,Default,Ishigori,0,0,0,,{\fsp-1\fscx99\pos(1600,1015)\c&HD7FFFB&}Domain Expansion!
-Dialogue: 0,0:18:26.84,0:18:29.46,Default,Rika,0,0,55,,{\fnKG HAPPY Solid\fs81\fscx84\b0}Give Yuta back!
+Dialogue: 0,0:18:26.84,0:18:29.46,Default,Rika,0,0,58,,{\fnKG HAPPY Solid\fs81\fscx84\b0}Give Yuta back!
 Dialogue: 0,0:18:30.26,0:18:32.84,Default,Uro,0,0,0,,Even if it tries to break into the barriers! {context from manga: they need to keep Rika out}
 Dialogue: 0,0:18:32.84,0:18:34.93,Default,Ishigori,0,0,0,,I'm not gonna let this drag out!
-Dialogue: 0,0:18:34.93,0:18:37.31,Default,Ishigori,0,0,0,,Let's settle this nice and sweet!
+Dialogue: 0,0:18:34.93,0:18:37.30,Default,Ishigori,0,0,0,,Let's settle this nice and sweet!
 Dialogue: 0,0:18:39.18,0:18:43.48,Default,Narration,0,0,0,,At that moment, the black demon of the modern age...
-Dialogue: 0,0:18:43.48,0:18:47.36,Default,Kurourushi,0,0,55,,{\fnKG HAPPY Solid\fs81\fscx84\b0}I like the taste of iron!
+Dialogue: 0,0:18:43.48,0:18:47.36,Default,Kurourushi,0,0,58,,{\fnKG HAPPY Solid\fs81\fscx84\b0}I like the taste of iron!
 Dialogue: 0,0:18:47.36,0:18:49.40,Default,Narration,0,0,0,,...skittered into the barriers.
 Dialogue: 0,0:18:52.40,0:18:58.41,Default,Narration,0,0,0,,Kurourushi had completed parthenogenesis \Nbefore going dormant.
 Dialogue: 0,0:18:58.78,0:19:02.66,Default,Narration,0,0,0,,As a cursed spirit, Kurourushi was still alive. {more lines cut...} {context from manga: Even if Kurourushi the player had died...} {Although dead as a player, } {tempted to put this line into the subs anyway but whatever i'm not the writer}
-Dialogue: 0,0:19:03.16,0:19:06.92,Default,Narration,0,0,0,,The domains were locked in a complex three-way clash. {the cut line here is made up for by this cool new graphics}
-Dialogue: 0,0:19:07.96,0:19:11.34,Default,Narration,0,0,0,,{\fad(0,100)}But then came an unexpected intruder.
+Dialogue: 0,0:19:03.16,0:19:06.92,Default,Narration,0,0,36,,The domains were locked in a complex three-way clash. {the cut line here is made up for by this cool new graphics}
+Dialogue: 0,0:19:07.96,0:19:11.34,Default,Narration,0,0,36,,{\fad(0,100)}But then came an unexpected intruder.
 Dialogue: 0,0:19:12.05,0:19:13.72,Default,Narration,0,0,0,,And so the barriers
 Dialogue: 0,0:19:16.30,0:19:18.05,Default,Narration,0,0,0,,collapsed.
 Dialogue: 0,0:19:23.52,0:19:24.94,Default,Uro,0,0,0,,How is Kurourushi alive?!
-Dialogue: 0,0:19:30.28,0:19:31.44,Default,Uro,0,0,0,,{\i1}Damn it!
+Dialogue: 0,0:19:30.27,0:19:31.44,Default,Uro,0,0,0,,{\i1}Damn it!
 Dialogue: 0,0:19:31.44,0:19:34.03,Default,Uro,0,0,0,,{\i1}I can't use my technique \Nright after Domain Expansion!
-Dialogue: 0,0:19:40.79,0:19:42.91,Default,Uro,0,0,0,,How dare you take my arm?!
+Dialogue: 0,0:19:40.78,0:19:42.91,Default,Uro,0,0,0,,How dare you take my arm?!
 Dialogue: 0,0:19:42.91,0:19:44.37,Default,Uro,0,0,0,,Fujiwara!
 Dialogue: 0,0:19:44.37,0:19:46.75,Default,Ishigori,0,0,0,,That's enough, Uro.
-Dialogue: 0,0:19:47.42,0:19:50.30,Default,Ishigori,0,0,0,,You two aren't invited to this table.
+Dialogue: 0,0:19:47.42,0:19:50.29,Default,Ishigori,0,0,0,,You two aren't invited to this table.
 Dialogue: 0,0:19:52.30,0:19:52.88,Default,Ishigori,0,0,0,,{\fad(0,120)}Granité Blast.
 Dialogue: 0,0:19:52.92,0:19:53.55,Default,Ishigori,0,0,0,,{\fad(0,180)}Granité Blast.
 Dialogue: 0,0:19:57.51,0:20:01.30,Default,Narration,0,0,0,,Ishigori's technique is Cursed Energy Discharge.
 Dialogue: 0,0:20:01.30,0:20:03.77,Default,Narration,0,0,0,,It's an extremely simple attack,
-Dialogue: 0,0:20:03.77,0:20:08.56,Default,Narration,0,0,0,,but it performs just as well \Neven when his technique is burnt out.
+Dialogue: 0,0:20:03.77,0:20:08.98,Default,Narration,0,0,0,,but it performs just as well \Neven when his technique is exhausted.
 Dialogue: 0,0:20:16.99,0:20:18.03,Default,Ishigori,0,0,0,,Now,
 Dialogue: 0,0:20:21.37,0:20:23.29,Default,Ishigori,0,0,50,,have a seat at our table,
-Dialogue: 0,0:20:24.91,0:20:25.96,Default,Ishigori,0,0,0,,Okkotsu.
+Dialogue: 0,0:20:24.91,0:20:25.95,Default,Ishigori,0,0,0,,Okkotsu.
 Dialogue: 0,0:20:27.29,0:20:29.17,Default,Okkotsu,0,0,0,,Let's go, Rika.
 Dialogue: 0,0:20:34.00,0:20:40.84,Default,Narration,0,0,0,,While Rika is fully manifested, \NOkkotsu can discharge cursed energy at high levels.
 Dialogue: 0,0:20:40.84,0:20:44.93,Default,Narration,0,0,0,,However, his maximum output is slightly inferior to Ishigori's.
@@ -276,11 +302,11 @@ Dialogue: 0,0:20:52.81,0:20:54.44,Default,Narration,0,0,0,,At first.
 Dialogue: 0,0:20:57.78,0:21:03.45,Default,Narration,0,0,0,,Four hundred years of craving burned in Ishigori's gaze.
 Dialogue: 0,0:21:03.45,0:21:11.96,Default,Narration,0,0,0,,And though he would likely never find meaning in fighting, \Nit melted Okkotsu Yuta's heart.
 Dialogue: 0,0:21:13.08,0:21:14.96,Default,Okkotsu,0,0,0,,Just this once.
-Dialogue: 0,0:21:33.73,0:21:37.40,Default,Ishigori,0,0,0,,That was real sweet, Okkotsu!
+Dialogue: 0,0:21:33.73,0:21:37.40,Default,Ishigori,0,0,0,,That's real sweet, Okkotsu!
 Dialogue: 0,0:21:47.62,0:21:51.29,Default,Ishigori,0,0,0,,Hell yeah! Let's keep going!
 Dialogue: 0,0:21:55.04,0:21:57.38,Default,Ishigori,0,0,0,,{\i1}That big thing can fire it on its own?!
 Dialogue: 0,0:21:57.84,0:21:58.76,Default,Ishigori,0,0,0,,{\i1}But...
-Dialogue: 0,0:21:59.88,0:22:01.17,Default,Ishigori,0,0,0,,{\i1}the impact is weak!
+Dialogue: 0,0:21:59.88,0:22:01.59,Default,Ishigori,0,0,0,,{\i1}the impact is weak!
 Dialogue: 0,0:22:03.34,0:22:11.43,Default,Ishigori,0,0,0,,{\i1}Between the Domain Expansion and a meal with me, \Neven you couldn't have recovered just yet.
 Dialogue: 0,0:22:11.56,0:22:12.98,Default,Ishigori,0,0,0,,I'll settle this.
 Dialogue: 0,0:22:13.40,0:22:16.02,Default,Ishigori,0,0,0,,Granité Blast!
@@ -293,13 +319,13 @@ Dialogue: 0,0:22:38.42,0:22:39.80,Default,Ishigori,0,0,0,,{\i1}But I was wrong!
 Dialogue: 0,0:22:39.80,0:22:42.05,Default,Ishigori,0,0,0,,{\i1}Okkotsu's technique is Copy!
 Dialogue: 0,0:22:42.05,0:22:43.88,Default,Ishigori,0,0,0,,{\i1}It must have some serious conditions!
 Dialogue: 0,0:22:43.88,0:22:45.64,Default,Ishigori,0,0,0,,{\i1}When?! When did he satisfy those conditions?!
-Dialogue: 0,0:22:45.64,0:22:47.06,Default,Ishigori,0,0,0,,{\i1}While I wasn't looking?!
-Dialogue: 0,0:22:47.43,0:22:49.43,Default,Ishigori,0,0,0,,{\i1}Surely it's not unconditional?! {Don't tell me there are no conditions?!}
+Dialogue: 0,0:22:45.64,0:22:47.05,Default,Ishigori,0,0,0,,{\i1}While I wasn't looking?!
+Dialogue: 0,0:22:47.43,0:22:49.43,Default,Ishigori,0,0,0,,{\i1}There's gotta be conditions, right?! {Surely it's not unconditional?!} {Don't tell me there are no conditions?!}
 Dialogue: 0,0:22:53.69,0:22:55.44,Default,Ishigori,0,0,0,,{\i1}That's when he did it!
 Dialogue: 0,0:22:56.02,0:22:57.27,Default,Okkotsu,0,0,0,,Thin Ice Breaker!
 Dialogue: 0,0:23:08.58,0:23:09.58,Default,Narration,0,0,0,,Five minutes.
 Dialogue: 0,0:23:10.08,0:23:13.46,Default,Narration,0,0,0,,Okkotsu's connection to Rika was severed.
-Dialogue: 0,0:23:19.55,0:23:21.05,Default,Rika,0,0,55,,{\fnKG HAPPY Solid\fs81\fscx84\b0}Yuta!
+Dialogue: 0,0:23:19.54,0:23:21.05,Default,Rika,0,0,58,,{\fnKG HAPPY Solid\fs81\fscx84\b0}Yuta!
 Dialogue: 0,0:23:25.01,0:23:26.51,Default,Ishigori,0,0,0,,I had no idea there was more
 Dialogue: 0,0:23:30.35,0:23:33.14,Default,Ishigori,0,0,0,,after wringing out every last drop!
 Dialogue: 0,0:23:36.44,0:23:40.11,Default,Ishigori,0,0,0,,{\i1}This is my dessert!
@@ -312,7 +338,7 @@ Dialogue: 0,0:24:41.21,0:24:42.96,Default,Ishigori,0,0,0,,Thank you.
 Dialogue: 0,0:24:49.59,0:24:51.47,Default,Ishigori,0,0,0,,I'm full.
 Dialogue: 0,0:25:09.49,0:25:12.20,Default,Ishigori,0,0,0,,You're {\i1}too{\i0} sweet, Okkotsu.
 Dialogue: 0,0:25:12.87,0:25:14.78,Default,Ishigori,0,0,0,,That ain't a compliment.
-Dialogue: 0,0:25:14.78,0:25:16.95,Default,Ishigori,0,0,0,,Sparing someone who fought you to the death...
+Dialogue: 0,0:25:14.78,0:25:16.95,Default,Ishigori,0,0,0,,Sparing someone \Nwho fought you to the death...
 Dialogue: 0,0:25:16.95,0:25:19.79,Default,Okkotsu,0,0,0,,...doesn't do you any good.
 Dialogue: 0,0:25:19.79,0:25:21.08,Default,Okkotsu,0,0,0,,Uro{**-san} said the same thing.
 Dialogue: 0,0:25:21.58,0:25:23.75,Default,Ishigori,0,0,0,,She's still alive?
@@ -325,16 +351,16 @@ Dialogue: 0,0:25:38.35,0:25:41.44,Default,Okkotsu,0,0,0,,There's nothing I can s
 Dialogue: 0,0:25:42.35,0:25:44.86,Default,Okkotsu,0,0,0,,Anything I say will come across as an attack. {CR: Anything I say will lead to violence.} {i'm gonna bet on the idea that he's not referring to physical violence here but a metaphorical one, a slap in the face, so to speak}
 Dialogue: 0,0:25:45.61,0:25:47.82,Default,Okkotsu,0,0,0,,Because I'm blessed.
 Dialogue: 0,0:25:48.94,0:25:52.61,Default,Ishigori,0,0,0,,Is that how it works? I dunno.
-Dialogue: 0,0:25:53.78,0:25:55.24,Default,Okkotsu,0,0,0,,Regardless,
+Dialogue: 0,0:25:53.78,0:25:55.24,Default,Okkotsu,0,0,0,,Anyway,
 Dialogue: 0,0:25:55.87,0:25:57.41,Default,Okkotsu,0,0,0,,please give me your points.
 Dialogue: 0,0:26:00.50,0:26:02.21,Default,Ishigori,0,0,0,,So that's what it's about.
 Dialogue: 0,0:26:02.21,0:26:05.71,Default,Ishigori,0,0,0,,You would've killed us if not for this, huh?
-Dialogue: 0,0:26:07.17,0:26:09.13,Default,Okkotsu,0,0,0,,Would I, though?
-Dialogue: 0,0:26:11.88,0:26:14.60,Default,Okkotsu,0,0,0,,You should be grateful to my friends, then.
+Dialogue: 0,0:26:07.17,0:26:09.13,Default,Okkotsu,0,0,0,,Would I?
+Dialogue: 0,0:26:11.88,0:26:14.59,Default,Okkotsu,0,0,0,,You should be grateful to my friends, then.
 Dialogue: 0,0:26:26.19,0:26:29.11,Default,Uro,0,0,0,,You're the one who will reach your limit.
 Dialogue: 0,0:26:32.82,0:26:34.61,Default,Uro,0,0,0,,I have seen it.
 Dialogue: 0,0:26:37.99,0:26:43.37,Default,Uro,0,0,0,,What transcends sorcerers and cursed spirits—\Neven the very limits of strength—
 Comment: 0,0:26:43.37,0:26:44.63,Default,,0,0,0,,{\an8\fs40\bord2\shad1\fnRagnar\fscx110}TL Note: The narration stopped glazing the strong for one (1) second and they cut to a shot of Bumgumi. \NWhat did Gosso mean by this?
-Dialogue: 0,0:26:44.63,0:26:46.88,Default,Uro,0,0,0,,is an overwhelming ego. {Kenjaku and Sukuna in BLUELOCK confirmed???}
-Dialogue: 0,0:26:46.88,0:26:48.88,Default,Uro,0,0,0,,One that blinds them to everything else.
+Dialogue: 0,0:26:44.62,0:26:46.88,Default,Uro,0,0,0,,is an overwhelming ego. {Kenjaku and Sukuna in BLUELOCK confirmed???}
+Dialogue: 0,0:26:46.88,0:26:48.88,Default,Uro,0,0,0,,One that's blind to all else.
 Dialogue: 0,0:26:49.46,0:26:51.76,Default,Uro,0,0,0,,{\fad(200,0)}A calamity. {it's okay to have a mistimed line or two}
