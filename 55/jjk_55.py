@@ -14,4 +14,4 @@ grn = grain(dbn)
 
 
 if __name__ == '__main__':
-    run_encode(episode, grn)
+    run_encode(episode, dbn)
