@@ -1,9 +1,9 @@
 from vsmuxtools import FileInfo
 from vstools import match_clip, replace_ranges
 
-from project_module.source.getter import get_episode
-from project_module.video.encoder import run_encode
-from project_module.video.filters import antialias, deband, denoise, grain, merge, rescale
+from project_module.source.resolve import get_episode
+from project_module.encode.encoder import run_encode
+from project_module.encode.filters import antialias, deband, denoise, grain, merge, rescale
 
 episode = get_episode('49')
 

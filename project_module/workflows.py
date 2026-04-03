@@ -11,7 +11,7 @@ from project_module.helpers import get_release
 from project_module.release.nekobt import upload_to_nekobt
 from project_module.release.nyaa import upload_to_nyaa
 from project_module.release.utils import create_torrent, get_mediainfo
-from project_module.source.getter import get_episode
+from project_module.source.resolve import get_episode
 from project_module.subtitles.cleanup import get_cleanup_actions
 from project_module.subtitles.process_dialogue import remove_unwanted_lines, reverse_name_order, swap_honorifics, update_terminology
 from project_module.subtitles.process_typesets import style_title_signs
