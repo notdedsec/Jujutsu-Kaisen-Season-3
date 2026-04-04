@@ -257,9 +257,9 @@ Dialogue: 0,0:21:37.78,0:21:42.32,Default,Narrator,0,0,0,,Okkotsu Yuta. 35 point
 Dialogue: 0,0:21:43.16,0:21:48.04,Default,Narrator,0,0,0,,He regained his special-grade status \Nthree months after the Night Parade of a Hundred Demons. {blossomed as a special-grade sorcerer.} {special-grade "status" because he was not a special-grade sorcerer before, he was a special-grade cursed human. it's explicitly said he's a sorcerer now but adding that makes room for (mis)interpretation}
 Dialogue: 0,0:21:48.04,0:21:51.54,Default,Narrator,0,0,0,,In the modern age, his abilities are \Nsecond only to Gojo Satoru. {CR/manga: He was a modern sorcerer rivaling Gojo Satoru in unusual abilities.} {the narrator has always glazed people to be "second only to gojo satoru" but it always comes with an asterisk. in terms of speed? naobito. in terms of strength? yuki. in terms of potential? higuruma. and in terms of (supernatural) abilities? yuta. he's not the 2nd strongest in general, he just has the 2nd most cracked ability in the modern age: ungodly amount of cursed energy combined with his copy technique} {about supernatural/extraordinary: abilities are inherently extraordinary in jjk but his abilities are extraordinary even among the extraordinary. still, i dont wanna spell it out because the timing is tight and being second to gojo does the job}
 Dialogue: 0,0:21:51.92,0:21:53.38,Default,Narrator,0,0,0,,An anomaly. {this whole sequence is glazing yuta and the delivery calls for a mic drop closer so adding "A prodigy." does make sense?} {how about "An anomaly."} {wait that... that actually makes too much sense. because gojo has been referred to as an anomaly several times before, there's even a whole episode titled after this (which got translated as nonstandard but i'll have to fix that ig)}
-Dialogue: 0,0:23:26.51,0:23:28.18,Default,Okkotsu,0,0,0,,{\an8}I will obtain 400 points by myself.
-Dialogue: 0,0:23:28.18,0:23:31.10,Default,Rika,0,0,0,,{\an8}Yuta, which would you like?
-Dialogue: 0,0:23:31.10,0:23:32.10,Default,Kogane,0,0,0,,{\an8}It's called Kurourushi!
+Dialogue: 0,0:23:26.51,0:23:28.18,Default,Okkotsu,0,0,0,,{\an8}I'll obtain 400 points all by myself.
+Dialogue: 0,0:23:28.18,0:23:31.10,Default,Rika,0,0,58,,{\an8}{\fnKG HAPPY Solid\fs81\fscx84\b0}Yuta, what'll it be?
+Dialogue: 0,0:23:31.10,0:23:32.10,Default,Kogane,0,0,0,,{\an8}It's called Kurourushi.
 Dialogue: 0,0:23:32.10,0:23:32.81,Default,Okkotsu,0,0,0,,{\an8}Give me everything.
-Dialogue: 0,0:23:32.81,0:23:35.35,Default,Rika,0,0,0,,{\an8}Give Yuta back!
-Dialogue: 0,0:23:35.35,0:23:38.44,Default,Okkotsu,0,0,0,,{\an8}I won't let {*}Mr. Gojo{*Sensei} \Nkill his best friend a second time.
+Dialogue: 0,0:23:32.81,0:23:35.35,Default,Rika,0,0,58,,{\an8}{\fnKG HAPPY Solid\fs81\fscx84\b0}Give Yuta back!
+Dialogue: 0,0:23:35.35,0:23:38.44,Default,Okkotsu,0,0,0,,{\an8}I won't let you kill your best friend a second time.

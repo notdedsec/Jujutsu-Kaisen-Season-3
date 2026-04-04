@@ -294,9 +294,9 @@ Dialogue: 0,0:21:12.04,0:21:13.46,Default,Reggie,0,0,0,,{\i1}He can use {\i0}tha
 Dialogue: 0,0:21:33.61,0:21:37.36,Default,Fushiguro,0,0,0,,Domain Expansion: Chimera Shadow Garden.
 Dialogue: 0,0:21:44.82,0:21:47.95,Default,Reggie,0,0,0,,{\i1}He's a sorcerer of that caliber?!
 Dialogue: 0,0:21:48.54,0:21:52.46,Default,Fushiguro,0,0,0,,I never said I didn't have any big moves.
-Dialogue: 0,0:23:26.13,0:23:29.30,Default,Fushiguro,0,0,0,,{\fad(0,100)\an8}Even if it's incomplete, a domain is still a domain!
-Dialogue: 0,0:23:29.30,0:23:31.60,Default,Reggie,0,0,0,,{\fad(100,100)\an8}Time to activate my trump card!
-Dialogue: 0,0:23:31.60,0:23:33.10,Default,Fushiguro,0,0,0,,{\fad(100,100)\an8}Not yet! Endure a little longer!
-Dialogue: 0,0:23:33.10,0:23:34.02,Default,Reggie,0,0,0,,{\fad(100,0)\an8}I acknowledge your strength.
-Dialogue: 0,0:23:34.02,0:23:35.94,Default,Fushiguro,0,0,0,,{\an8}Which of us will get crushed first?!
+Dialogue: 0,0:23:26.13,0:23:29.30,Default,Fushiguro,0,0,0,,{\fad(0,100)\an8}An incomplete domain is still a domain!
+Dialogue: 0,0:23:29.30,0:23:31.60,Default,Reggie,0,0,0,,{\fad(100,100)\an8}I have to pull out my trump card and activate it!
+Dialogue: 0,0:23:31.60,0:23:33.10,Default,Fushiguro,0,0,0,,{\fad(100,100)\an8}Not yet! Keep enduring!
+Dialogue: 0,0:23:33.10,0:23:34.02,Default,Reggie,0,0,0,,{\fad(100,0)\an8}I'll admit it. You're strong.
+Dialogue: 0,0:23:34.02,0:23:35.94,Default,Fushiguro,0,0,0,,{\an8}Who's getting crushed first?!
 Dialogue: 0,0:23:35.94,0:23:38.44,Default,Reggie,0,0,0,,{\an8}Get crushed!
