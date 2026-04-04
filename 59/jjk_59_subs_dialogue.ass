@@ -188,11 +188,11 @@ Dialogue: 0,0:13:26.04,0:13:27.79,Default,Ishigori,0,0,0,,{\i1}How does that wor
 Dialogue: 0,0:13:27.79,0:13:30.71,Default,Ishigori,0,0,0,,{\i1}He's swelling with cursed energy again!
 Dialogue: 0,0:13:31.08,0:13:33.92,Default,Rika,0,0,58,,{\fnKG HAPPY Solid\fs81\fscx84\b0}Yuta, what'll it be?
 Dialogue: 0,0:13:33.92,0:13:36.75,Default,Okkotsu,0,0,0,,Thank you. I'll take that one.
-Dialogue: 0,0:13:38.84,0:13:43.01,Default,Narration,0,0,0,,Rika is what remained with Okkotsu after Orimoto Rika passed on
-Dialogue: 0,0:13:43.01,0:13:46.56,Default,Narration,0,0,0,,as an external store of \Ncursed energy and cursed technique.
-Dialogue: 0,0:13:46.56,0:13:50.56,Default,Narration,0,0,0,,While connected to Rika through the ring, \NOkkotsu gains the following:
-Dialogue: 0,0:13:50.56,0:13:57.27,Default,Narration,0,0,0,,use of his technique, full manifestation of Rika, \Nand cursed energy supplied by Rika.
-Dialogue: 0,0:13:58.07,0:14:02.20,Default,Narration,0,0,0,,He can remain connected for five minutes.
+Dialogue: 0,0:13:38.84,0:13:43.01,Default,Narrator,0,0,0,,Rika is what remained with Okkotsu after Orimoto Rika passed on
+Dialogue: 0,0:13:43.01,0:13:46.56,Default,Narrator,0,0,0,,as an external store of \Ncursed energy and cursed technique.
+Dialogue: 0,0:13:46.56,0:13:50.56,Default,Narrator,0,0,0,,While connected to Rika through the ring, \NOkkotsu gains the following:
+Dialogue: 0,0:13:50.56,0:13:57.27,Default,Narrator,0,0,0,,use of his technique, full manifestation of Rika, \Nand cursed energy supplied by Rika.
+Dialogue: 0,0:13:58.07,0:14:02.20,Default,Narrator,0,0,0,,He can remain connected for five minutes.
 Dialogue: 0,0:14:04.45,0:14:05.32,Default,Okkotsu,0,0,0,,All right.
 Dialogue: 0,0:14:05.91,0:14:06.91,Default,Okkotsu,0,0,0,,Let's go.
 Dialogue: 0,0:14:08.08,0:14:09.20,Default,Uro,0,0,0,,{\i1}Don't get cocky!
@@ -248,8 +248,8 @@ Dialogue: 0,0:16:44.32,0:16:45.90,Default,Uro,0,0,0,,It's always you Fujiwara! {
 Dialogue: 0,0:16:46.32,0:16:48.53,Default,Uro,0,0,0,,You always get in my way!
 Dialogue: 0,0:16:48.53,0:16:50.66,Default,Uro,0,0,0,,Are you that afraid of me?!
 Dialogue: 0,0:16:50.66,0:16:53.41,Default,Uro,0,0,0,,Afraid I might make something of myself?! {Afraid of me becoming my own person?!} {Afraid of me having an identity?!} {i think using "identity" or sth similar narrows it down too much, because the line could mean identity, worth, significance, purpose, all of it} {"make something of myself" doesn't sound clunky and is vague enough as well}
-Dialogue: 0,0:16:59.54,0:17:03.00,Default,Narration,0,0,0,,Okkotsu had defeated Dhruv Lakdawalla.
-Dialogue: 0,0:17:03.50,0:17:10.63,Default,Narration,0,0,0,,His technique turns the trajectories of his {*}cursed beasts{*shikigami} \Ninto his domain, slashing anything within.
+Dialogue: 0,0:16:59.54,0:17:03.00,Default,Narrator,0,0,0,,Okkotsu had defeated Dhruv Lakdawalla.
+Dialogue: 0,0:17:03.50,0:17:10.63,Default,Narrator,0,0,0,,His technique turns the trajectories of his {*}cursed beasts{*shikigami} \Ninto his domain, slashing anything within.
 Dialogue: 0,0:17:13.64,0:17:16.64,Default,Uro,0,0,0,,{\i1}This is... Dhruv's technique!
 Dialogue: 0,0:17:17.14,0:17:20.27,Default,Uro,0,0,0,,{\i1}No way... Okkotsu's technique is...
 Dialogue: 0,0:17:20.27,0:17:21.44,Default,Uro,0,0,0,,{\i1}Copy?! {Larp!}
@@ -270,15 +270,15 @@ Dialogue: 0,0:18:26.84,0:18:29.46,Default,Rika,0,0,58,,{\fnKG HAPPY Solid\fs81\f
 Dialogue: 0,0:18:30.26,0:18:32.84,Default,Uro,0,0,0,,Even if it tries to break into the barriers! {context from manga: they need to keep Rika out}
 Dialogue: 0,0:18:32.84,0:18:34.93,Default,Ishigori,0,0,0,,I'm not gonna let this drag out!
 Dialogue: 0,0:18:34.93,0:18:37.30,Default,Ishigori,0,0,0,,Let's settle this nice and sweet!
-Dialogue: 0,0:18:39.18,0:18:43.48,Default,Narration,0,0,0,,At that moment, the black demon of the modern age...
+Dialogue: 0,0:18:39.18,0:18:43.48,Default,Narrator,0,0,0,,At that moment, the black demon of the modern age...
 Dialogue: 0,0:18:43.48,0:18:47.36,Default,Kurourushi,0,0,58,,{\fnKG HAPPY Solid\fs81\fscx84\b0}I like the taste of iron!
-Dialogue: 0,0:18:47.36,0:18:49.40,Default,Narration,0,0,0,,...skittered into the barriers.
-Dialogue: 0,0:18:52.40,0:18:58.41,Default,Narration,0,0,0,,Kurourushi had completed parthenogenesis \Nbefore going dormant.
-Dialogue: 0,0:18:58.78,0:19:02.66,Default,Narration,0,0,0,,As a cursed spirit, Kurourushi was still alive. {more lines cut...} {context from manga: Even if Kurourushi the player had died...} {Although dead as a player, } {tempted to put this line into the subs anyway but whatever i'm not the writer}
-Dialogue: 0,0:19:03.16,0:19:06.92,Default,Narration,0,0,36,,The domains were locked in a complex three-way clash. {the cut line here is made up for by this cool new graphics}
-Dialogue: 0,0:19:07.96,0:19:11.34,Default,Narration,0,0,36,,{\fad(0,100)}But then came an unexpected intruder.
-Dialogue: 0,0:19:12.05,0:19:13.72,Default,Narration,0,0,0,,And so the barriers
-Dialogue: 0,0:19:16.30,0:19:18.05,Default,Narration,0,0,0,,collapsed.
+Dialogue: 0,0:18:47.36,0:18:49.40,Default,Narrator,0,0,0,,...skittered into the barriers.
+Dialogue: 0,0:18:52.40,0:18:58.41,Default,Narrator,0,0,0,,Kurourushi had completed parthenogenesis \Nbefore going dormant.
+Dialogue: 0,0:18:58.78,0:19:02.66,Default,Narrator,0,0,0,,As a cursed spirit, Kurourushi was still alive. {more lines cut...} {context from manga: Even if Kurourushi the player had died...} {Although dead as a player, } {tempted to put this line into the subs anyway but whatever i'm not the writer}
+Dialogue: 0,0:19:03.16,0:19:06.92,Default,Narrator,0,0,36,,The domains were locked in a complex three-way clash. {the cut line here is made up for by this cool new graphics}
+Dialogue: 0,0:19:07.96,0:19:11.34,Default,Narrator,0,0,36,,{\fad(0,100)}But then came an unexpected intruder.
+Dialogue: 0,0:19:12.05,0:19:13.72,Default,Narrator,0,0,0,,And so the barriers
+Dialogue: 0,0:19:16.30,0:19:18.05,Default,Narrator,0,0,0,,collapsed.
 Dialogue: 0,0:19:23.52,0:19:24.94,Default,Uro,0,0,0,,How is Kurourushi alive?!
 Dialogue: 0,0:19:30.27,0:19:31.44,Default,Uro,0,0,0,,{\i1}Damn it!
 Dialogue: 0,0:19:31.44,0:19:34.03,Default,Uro,0,0,0,,{\i1}I can't use my technique \Nright after Domain Expansion!
@@ -288,19 +288,19 @@ Dialogue: 0,0:19:44.37,0:19:46.75,Default,Ishigori,0,0,0,,That's enough, Uro.
 Dialogue: 0,0:19:47.42,0:19:50.29,Default,Ishigori,0,0,0,,You two aren't invited to this table.
 Dialogue: 0,0:19:52.30,0:19:52.88,Default,Ishigori,0,0,0,,{\fad(0,120)}Granité Blast.
 Dialogue: 0,0:19:52.92,0:19:53.55,Default,Ishigori,0,0,0,,{\fad(0,180)}Granité Blast.
-Dialogue: 0,0:19:57.51,0:20:01.30,Default,Narration,0,0,0,,Ishigori's technique is Cursed Energy Discharge.
-Dialogue: 0,0:20:01.30,0:20:03.77,Default,Narration,0,0,0,,It's an extremely simple attack,
-Dialogue: 0,0:20:03.77,0:20:08.98,Default,Narration,0,0,0,,but it performs just as well \Neven when his technique is exhausted.
+Dialogue: 0,0:19:57.51,0:20:01.30,Default,Narrator,0,0,0,,Ishigori's technique is Cursed Energy Discharge.
+Dialogue: 0,0:20:01.30,0:20:03.77,Default,Narrator,0,0,0,,It's an extremely simple attack,
+Dialogue: 0,0:20:03.77,0:20:08.98,Default,Narrator,0,0,0,,but it performs just as well \Neven when his technique is exhausted.
 Dialogue: 0,0:20:16.99,0:20:18.03,Default,Ishigori,0,0,0,,Now,
 Dialogue: 0,0:20:21.37,0:20:23.29,Default,Ishigori,0,0,50,,have a seat at our table,
 Dialogue: 0,0:20:24.91,0:20:25.95,Default,Ishigori,0,0,0,,Okkotsu.
 Dialogue: 0,0:20:27.29,0:20:29.17,Default,Okkotsu,0,0,0,,Let's go, Rika.
-Dialogue: 0,0:20:34.00,0:20:40.84,Default,Narration,0,0,0,,While Rika is fully manifested, \NOkkotsu can discharge cursed energy at high levels.
-Dialogue: 0,0:20:40.84,0:20:44.93,Default,Narration,0,0,0,,However, his maximum output is slightly inferior to Ishigori's.
-Dialogue: 0,0:20:46.31,0:20:52.02,Default,Narration,0,0,0,,So he planned to unleash his attack \Nbefore Ishigori reached maximum output.
-Dialogue: 0,0:20:52.81,0:20:54.44,Default,Narration,0,0,0,,At first.
-Dialogue: 0,0:20:57.78,0:21:03.45,Default,Narration,0,0,0,,Four hundred years of craving burned in Ishigori's gaze.
-Dialogue: 0,0:21:03.45,0:21:11.96,Default,Narration,0,0,0,,And though he would likely never find meaning in fighting, \Nit melted Okkotsu Yuta's heart.
+Dialogue: 0,0:20:34.00,0:20:40.84,Default,Narrator,0,0,0,,While Rika is fully manifested, \NOkkotsu can discharge cursed energy at high levels.
+Dialogue: 0,0:20:40.84,0:20:44.93,Default,Narrator,0,0,0,,However, his maximum output is slightly inferior to Ishigori's.
+Dialogue: 0,0:20:46.31,0:20:52.02,Default,Narrator,0,0,0,,So he planned to unleash his attack \Nbefore Ishigori reached maximum output.
+Dialogue: 0,0:20:52.81,0:20:54.44,Default,Narrator,0,0,0,,At first.
+Dialogue: 0,0:20:57.78,0:21:03.45,Default,Narrator,0,0,0,,Four hundred years of craving burned in Ishigori's gaze.
+Dialogue: 0,0:21:03.45,0:21:11.96,Default,Narrator,0,0,0,,And though he would likely never find meaning in fighting, \Nit melted Okkotsu Yuta's heart.
 Dialogue: 0,0:21:13.08,0:21:14.96,Default,Okkotsu,0,0,0,,Just this once.
 Dialogue: 0,0:21:33.73,0:21:37.40,Default,Ishigori,0,0,0,,That's real sweet, Okkotsu!
 Dialogue: 0,0:21:47.62,0:21:51.29,Default,Ishigori,0,0,0,,Hell yeah! Let's keep going!
@@ -310,8 +310,8 @@ Dialogue: 0,0:21:59.88,0:22:01.59,Default,Ishigori,0,0,0,,{\i1}the impact is wea
 Dialogue: 0,0:22:03.34,0:22:11.43,Default,Ishigori,0,0,0,,{\i1}Between the Domain Expansion and a meal with me, \Neven you couldn't have recovered just yet.
 Dialogue: 0,0:22:11.56,0:22:12.98,Default,Ishigori,0,0,0,,I'll settle this.
 Dialogue: 0,0:22:13.40,0:22:16.02,Default,Ishigori,0,0,0,,Granité Blast!
-Dialogue: 0,0:22:20.40,0:22:22.15,Default,Narration,0,0,0,,{\i1}Okkotsu's technique
-Dialogue: 0,0:22:23.53,0:22:25.78,Default,Narration,0,0,0,,{\i1}had already recovered.
+Dialogue: 0,0:22:20.40,0:22:22.15,Default,Narrator,0,0,0,,{\i1}Okkotsu's technique
+Dialogue: 0,0:22:23.53,0:22:25.78,Default,Narrator,0,0,0,,{\i1}had already recovered.
 Dialogue: 0,0:22:28.62,0:22:30.37,Default,Ishigori,0,0,0,,{\i1}Uro's technique?!
 Dialogue: 0,0:22:31.04,0:22:33.62,Default,Ishigori,0,0,0,,{\i1}I knew he wasn't just a Cursed Speech user!
 Dialogue: 0,0:22:33.62,0:22:38.42,Default,Ishigori,0,0,0,,{\i1}I thought that big thing had a technique of its own!
@@ -323,8 +323,8 @@ Dialogue: 0,0:22:45.64,0:22:47.05,Default,Ishigori,0,0,0,,{\i1}While I wasn't lo
 Dialogue: 0,0:22:47.43,0:22:49.43,Default,Ishigori,0,0,0,,{\i1}There's gotta be conditions, right?! {Surely it's not unconditional?!} {Don't tell me there are no conditions?!}
 Dialogue: 0,0:22:53.69,0:22:55.44,Default,Ishigori,0,0,0,,{\i1}That's when he did it!
 Dialogue: 0,0:22:56.02,0:22:57.27,Default,Okkotsu,0,0,0,,Thin Ice Breaker!
-Dialogue: 0,0:23:08.58,0:23:09.58,Default,Narration,0,0,0,,Five minutes.
-Dialogue: 0,0:23:10.08,0:23:13.46,Default,Narration,0,0,0,,Okkotsu's connection to Rika was severed.
+Dialogue: 0,0:23:08.58,0:23:09.58,Default,Narrator,0,0,0,,Five minutes.
+Dialogue: 0,0:23:10.08,0:23:13.46,Default,Narrator,0,0,0,,Okkotsu's connection to Rika was severed.
 Dialogue: 0,0:23:19.54,0:23:21.05,Default,Rika,0,0,58,,{\fnKG HAPPY Solid\fs81\fscx84\b0}Yuta!
 Dialogue: 0,0:23:25.01,0:23:26.51,Default,Ishigori,0,0,0,,I had no idea there was more
 Dialogue: 0,0:23:30.35,0:23:33.14,Default,Ishigori,0,0,0,,after wringing out every last drop!
