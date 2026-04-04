@@ -25,20 +25,22 @@ episode_help = 'Episode number or range (e.g., "50" or "48-60")'
 
 @app.callback()
 def main(
-    codec: str | None = typer.Option(None, '--codec', help='Override video codec for this run'),
-    format: str | None = typer.Option(None, '--format', help='Override format for this run'),
+    format: str | None = typer.Option(None, '--format', help='Override format for this run (WEB, BD)'),
+    codec: str | None = typer.Option(None, '--codec', help='Override video codec for this run (HEVC, AV1)'),
 ):
+    if format is not None:
+        format = format.upper()
+        if format not in ['WEB', 'BD']:
+            raise typer.BadParameter('Format must be WEB or BD.')
+        config.format = format
+
     if codec is not None:
         codec = codec.upper()
         if codec not in ['HEVC', 'AV1']:
             raise typer.BadParameter('Codec must be HEVC or AV1.')
         config.vcodec = codec
 
-    if format is not None:
-        format = format.upper()
-        if format not in ['WEB', 'BD']:
-            raise typer.BadParameter('Format must be WEB or BD.')
-        config.format = format
+    config.dual_encode = codec is None
 
 
 def process_episodes(episode_arg: str, process_func, operation: str, *args, **kwargs):

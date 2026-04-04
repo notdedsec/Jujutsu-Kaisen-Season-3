@@ -19,7 +19,7 @@ settings_av1 = settings_builder_5fish_svt_av1_psy(
 )
 
 
-def run_encode(episode: Episode, clip: vs.VideoNode, zones=None):
+def run_single_encode(episode: Episode, clip: vs.VideoNode, zones=None):
     clip = finalize_clip(clip)
 
     if config.vcodec == 'HEVC':
@@ -38,7 +38,7 @@ def run_encode(episode: Episode, clip: vs.VideoNode, zones=None):
     )
 
 
-def run_encodes(episode: Episode, clip: vs.VideoNode, zones=None):
+def run_dual_encodes(episode: Episode, clip: vs.VideoNode, zones=None):
     outfile_main = episode.folder / f'{config.show}_{episode.number}_premux.mkv'
     outfile_mini = episode.folder / f'{config.show}_{episode.number}_premux_mini.mkv'
 
@@ -63,3 +63,8 @@ def run_encodes(episode: Episode, clip: vs.VideoNode, zones=None):
         audio.to_track(f'Japanese 2.0 {config.acodec}', 'ja'),
         outfile=outfile_mini,
     )
+
+
+def run_encode(episode: Episode, clip: vs.VideoNode, zones=None):
+    runner = run_dual_encodes if config.dual_encode else run_single_encode
+    return runner(episode, clip, zones)

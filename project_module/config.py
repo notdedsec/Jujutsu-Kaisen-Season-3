@@ -18,6 +18,8 @@ class SetupConfig(BaseSettings):
     vcodec: Literal['HEVC', 'AV1'] = 'HEVC'
     acodec: Literal['EAC-3', 'AAC'] = 'EAC-3'
 
+    dual_encode: bool = True
+
     information: str = 'https://github.com/notdedsec/Jujutsu-Kaisen-Season-3'
     description: Path = Path('description.vm')
 
