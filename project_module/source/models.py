@@ -14,17 +14,30 @@ class Stream:
     title: str
     folder: Path = field(init=False)
     script: Path = field(init=False)
-    encode: Path = field(init=False)
     keyframes: Path = field(init=False)
 
     @property
     def number(self) -> str:
         return self.id
 
+    @property
+    def encode(self) -> Path:
+        premux = self.folder / f'{show}_{self.id}_premux.mkv'
+        if config.vcodec == 'AV1':
+            return premux.with_stem(f'{premux.stem}_mini')
+        return premux
+
+    @property
+    def release(self) -> Path:
+        return Path(f'[{config.group_tag}] {config.show_name} - {self.number} ({config.format} 1080p {config.vcodec} {config.acodec}) [#crc32#].mkv')
+
+    @property
+    def release_glob(self) -> str:
+        return f'*{config.group_tag}*{config.show_name}*{self.number}*{config.format}*{config.vcodec}*{config.acodec}*.mkv'
+
     def __post_init__(self):
         self.folder = Path(self.id)
         self.script = self.folder / f'{show}_{self.id}.py'
-        self.encode = self.folder / f'{show}_{self.id}_premux.mkv'
         self.keyframes = self.folder / f'{show}_{self.id}_keyframes.txt'
 
 

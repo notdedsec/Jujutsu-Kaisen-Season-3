@@ -1,4 +1,3 @@
-import subprocess
 from pathlib import Path
 
 from muxtools import GlobSearch
@@ -44,12 +43,16 @@ def get_source(ep: str, folder: str | None = None, release: str = '') -> Path:
 
 
 def get_release(ep: str) -> Path:
-    group_tag = config.group_tag
-    show_name = config.show_name.replace(' ', '*')
+    from project_module.source.resolve import get_episode
 
-    results = GlobSearch(f'*{group_tag}*{show_name}*{ep}*.mkv', dir='.', recursive=False).paths
+    episode = get_episode(ep)
+    results = GlobSearch(episode.release_glob, allow_multiple=True, dir='.', recursive=False).paths
+
     if not results:
         raise FileNotFoundError(f'No results found for episode {ep} in {Path(".").resolve()}')
+
+    if len(results) > 1:
+        raise ValueError(f'Multiple release files found for episode {ep}: {"\n".join(path.name for path in results)}')
 
     return results[0]
 
@@ -76,4 +79,3 @@ def parse_episode_arg(episode_arg: str) -> list[str]:
                 episodes.append(part)
 
     return episodes
-

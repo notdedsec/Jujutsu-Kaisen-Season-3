@@ -104,10 +104,11 @@ def run_mux(ep: str):
 
     muxfile = mux(
         Premux(episode.encode),
-        main_subs.to_track(f'{config.group_tag}', 'en', args=["--compression", f"0:zlib"]),
-        weeb_subs.to_track(f'{config.group_tag} (Honorifics)', 'enm', args=["--compression", f"0:zlib"]),
+        main_subs.to_track(config.group_tag, 'en', args=['--compression', '0:zlib']),
+        weeb_subs.to_track(config.group_tag + ' (Honorifics)', 'enm', args=['--compression', '0:zlib']),
         *fonts,
         chapters,
+        outfile=episode.release,
     )
 
     print(f'Muxed file: {muxfile}')
@@ -174,4 +175,5 @@ def run_release(ep: str):
         torrent_file=torrent_file,
         mediainfo=mediainfo,
         description=description,
+        group_id=config.nekobt_group_id,
     )
