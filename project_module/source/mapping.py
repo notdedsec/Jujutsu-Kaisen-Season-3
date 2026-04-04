@@ -16,7 +16,7 @@ E55 = Episode('55', OP=OP5, ED=ED5, title='Tokyo Colony No. 1, Part 2')
 E56 = Episode('56', OP=OP5, ED=ED5, title='Tokyo Colony No. 1, Part 3')
 E57 = Episode('57', OP=OP5, ED=ED5, title='Tokyo Colony No. 1, Part 4')
 E58 = Episode('58', OP=OP5, ED=ED5, title='Tokyo Colony No. 1, Part 5')
-E59 = Episode('59', OP=OP5, ED=ED5, title='Sendai Colony')
+E59 = Episode('59', OP=None,ED=ED5, title='Sendai Colony')
 
 E60 = Episode('60', OP=OP5, ED=ED5, title='')
 E61 = Episode('61', OP=OP6, ED=ED6, title='')
