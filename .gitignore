@@ -17,8 +17,6 @@
 *.m2ts
 *.vm
 
-private.properties
-
 _wip
 _temp
 _trash
@@ -27,15 +25,16 @@ _manga
 _memes
 _comps
 _workdir
+_release
 _binaries
 .vspreview
 .vsjet
 .vscode
-vspackages3.json
 *test.py
 *cc.ass
 *test.ass
 *dialogue.txt
+vspackages3.json
 
 fonts
 results
