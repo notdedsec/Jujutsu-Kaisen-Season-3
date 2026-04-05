@@ -25,22 +25,28 @@ episode_help = 'Episode number or range (e.g., "50" or "48-60")'
 
 @app.callback()
 def main(
-    format: str | None = typer.Option(None, '--format', help='Override format for this run (WEB, BD)'),
-    codec: str | None = typer.Option(None, '--codec', help='Override video codec for this run (HEVC, AV1)'),
+    web: bool = typer.Option(False, '--web', help='Use WEB format for this run.'),
+    bd: bool = typer.Option(False, '--bd', help='Use BD format for this run.'),
+    main: bool = typer.Option(False, '--main', help='Use only HEVC output for this run.'),
+    mini: bool = typer.Option(False, '--mini', help='Use only AV1 output for this run.'),
 ):
-    if format is not None:
-        format = format.upper()
-        if format not in ['WEB', 'BD']:
-            raise typer.BadParameter('Format must be WEB or BD.')
-        config.format = format
+    if web and bd:
+        raise typer.BadParameter('Use only one of --web or --bd.')
 
-    if codec is not None:
-        codec = codec.upper()
-        if codec not in ['HEVC', 'AV1']:
-            raise typer.BadParameter('Codec must be HEVC or AV1.')
-        config.vcodec = codec
+    if web:
+        config.format = 'WEB'
+    elif bd:
+        config.format = 'BD'
 
-    config.dual_encode = codec is None
+    if main and mini:
+        raise typer.BadParameter('Use only one of --main or --mini.')
+
+    if main:
+        config.vcodec = 'HEVC'
+    elif mini:
+        config.vcodec = 'AV1'
+
+    config.dual_encode = not (main or mini)
 
 
 def process_episodes(episode_arg: str, process_func, operation: str, *args, **kwargs):
