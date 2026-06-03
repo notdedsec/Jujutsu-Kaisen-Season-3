@@ -79,35 +79,49 @@ def run_demux(ep: str):
     save_subs(typesets, episode.subs_typesets)
 
 
-def run_mux(ep: str):
+def run_merge(ep: str, save=True):
     episode = get_episode(ep)
-    Setup(ep, mkv_title_naming=f'{config.show_name} - {episode.number} - {episode.title}')
+    Setup(ep)
 
     main_subs = SubFile(sorted(episode.folder.glob(f'{config.show}_{episode.number}_subs*.ass')))
 
     main_subs.change_layers()
 
     if episode.OP:
-        main_subs.merge(episode.OP.subs, 'opsync', 'sync', episode.OP.encode, 1000)
+        main_subs.merge(episode.OP.subs, 'opsync', 'sync', episode.OP.encode if episode.OP.encode.exists() else None, 1000)
 
     if episode.ED:
-        main_subs.merge(episode.ED.subs, 'edsync', 'sync', episode.ED.encode, 1000)
+        main_subs.merge(episode.ED.subs, 'edsync', 'sync', episode.ED.encode if episode.ED.encode.exists() else None, 1000)
 
     # if episode.EC:
     #     main_subs.merge(episode.EC.subs, 'ecsync')
 
     weeb_subs = main_subs.copy().autoswapper()
 
-    fonts = main_subs.collect_fonts()
+    if save:
+        save_subs(main_subs, episode.merged_subs)
+        save_subs(weeb_subs, episode.merged_subs_honorifics)
+
+    return main_subs, weeb_subs
+
+
+def run_mux(ep: str):
+    episode = get_episode(ep)
+
+    main_subs, weeb_subs = run_merge(ep, save=False)
+
+    Setup(ep, mkv_title_naming=f'{config.show_name} - {episode.number} - {episode.title}')
 
     chapters = Chapters.from_sub(main_subs, episode.encode, 1000, use_actor_field=True, _print=False)
+
+    fonts = main_subs.collect_fonts()
 
     muxfile = mux(
         Premux(episode.encode),
         main_subs.to_track(config.main_group_tag, 'en', args=['--compression', '0:zlib']),
         weeb_subs.to_track(config.main_group_tag + ' (Honorifics)', 'enm', args=['--compression', '0:zlib']),
-        *fonts,
         chapters,
+        *fonts,
         outfile=episode.release,
     )
 

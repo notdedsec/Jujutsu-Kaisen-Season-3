@@ -113,10 +113,18 @@ def demux(episode: str = typer.Argument(..., help=episode_help)):
 
 @app.command()
 def mux(episode: str = typer.Argument(..., help=episode_help)):
-    """Mux episode with processed subtitles and create final output."""
+    """Mux episode with merged subtitles and create final output."""
     from project_module.workflows import run_mux
 
     process_episodes(episode, run_mux, 'muxing')
+
+
+@app.command()
+def merge(episode: str = typer.Argument(..., help=episode_help)):
+    """Merge all subtitle files into a single file for the episode."""
+    from project_module.workflows import run_merge
+
+    process_episodes(episode, run_merge, 'subtitle merge')
 
 
 @app.command()

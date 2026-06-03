@@ -71,6 +71,14 @@ class Episode(Stream):
         self.subs_dialogue = self.folder / f'{show}_{self.id}_subs_dialogue.ass'
         self.subs_typesets = self.folder / f'{show}_{self.id}_subs_typesets.ass'
 
+    @property
+    def merged_subs(self) -> Path:
+        return Path(f'[{config.group_tag}] {config.show_name} - {self.number}.ass')
+
+    @property
+    def merged_subs_honorifics(self) -> Path:
+        return Path(f'[{config.group_tag}] {config.show_name} - {self.number} (Honorifics).ass')
+
     @cached_property
     def CR(self) -> Path | None:
         try:
