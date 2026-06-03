@@ -204,7 +204,7 @@ Dialogue: 0,0:10:14.72,0:10:17.56,Default,Fushiguro,0,0,0,,Then we can keep pass
 Dialogue: 0,0:10:17.56,0:10:20.85,Default,Fushiguro,0,0,0,,and avoid dying from \Nhaving our techniques stripped.
 Dialogue: 0,0:10:21.27,0:10:22.85,Default,Fushiguro,0,0,0,,If possible, we add one more.
 Dialogue: 0,0:10:22.85,0:10:28.27,Default,Fushiguro,0,0,0,,A rule that says, \N"Players may expend points to leave the Culling Game."
-Dialogue: 0,0:10:28.27,0:10:32.70,Default,Hakari,0,0,0,,Wouldn't that conflict with the rule \Nprohibiting any long-lasting effect? {when did hakari learn about the rules? did he watch that summary video they made?}
+Dialogue: 0,0:10:28.27,0:10:32.70,Default,Hakari,0,0,0,,Wouldn't that conflict with the continuation clause? {when did hakari learn about the rules? did he watch that summary video they made?}
 Dialogue: 0,0:10:32.70,0:10:34.41,Default,Fushiguro,0,0,0,,Yeah, I think it would.
 Dialogue: 0,0:10:34.41,0:10:40.83,Default,Fushiguro,0,0,0,,But if we add a condition like dragging a non-player \Ninto the Culling Game as a substitute, it might work.
 Dialogue: 0,0:10:40.83,0:10:42.58,Default,Hakari,0,0,0,,True.

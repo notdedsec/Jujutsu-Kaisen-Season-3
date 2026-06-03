@@ -163,7 +163,7 @@ Dialogue: 20,0:15:17.98,0:15:22.57,Signs,,0,0,0,,{\an4\blur2.5\fnAlegreya\fs52\f
 Dialogue: 20,0:15:17.98,0:15:22.57,Signs,,0,0,0,,{\an4\blur2.5\fnAlegreya\fs52\fscx98\c&H857258&\pos(224,581)\b0}Players may spend 100 points to negotiate with the Game Master to add one new rule to the Culling Game,
 Dialogue: 20,0:15:17.98,0:15:22.57,Signs,,0,0,0,,{\an4\blur2.5\fnAlegreya\fs52\fscx98\c&H857258&\pos(224,625)\b0}excluding the initial point value assigned to their own lives.
 Dialogue: 20,0:15:17.98,0:15:22.57,Signs,,0,0,0,,{\an4\blur2.5\fnAlegreya\fs52\fscx98\c&H857258&\pos(224,685)\b0}The Game Master must accept any proposed new rule in accordance with the previous rule
-Dialogue: 20,0:15:17.98,0:15:22.57,Signs,,0,0,0,,{\an4\blur2.5\fnAlegreya\fs52\fscx98\c&H857258&\pos(224,729)\b0}unless it would have a marked and long-lasting effect on the Culling Game.
+Dialogue: 20,0:15:17.98,0:15:22.57,Signs,,0,0,0,,{\an4\blur2.5\fnAlegreya\fs52\fscx98\c&H857258&\pos(224,729)\b0}unless it would significantly hinder the continuation of the Culling Game.
 Dialogue: 20,0:15:17.98,0:15:22.57,Signs,,0,0,0,,{\an4\blur2.5\fnAlegreya\fs52\fscx98\c&H857258&\pos(224,789)\b0}Players who do not show any change in points within 19 days of joining or acquiring points
 Dialogue: 20,0:15:17.98,0:15:22.57,Signs,,0,0,0,,{\an4\blur2.5\fnAlegreya\fs52\fscx98\c&H857258&\pos(224,833)\b0}shall be stripped of their technique.
 Dialogue: 21,0:15:17.98,0:15:22.57,Signs,,0,0,0,,{\an4\blur0.6\fnCleric SSi\fs55\pos(221,78)\b1}The Culling Game: Rules
@@ -186,7 +186,7 @@ Dialogue: 21,0:15:17.98,0:15:22.57,Signs,,0,0,0,,{\an4\blur0.4\fnAlegreya\fs52\f
 Dialogue: 21,0:15:17.98,0:15:22.57,Signs,,0,0,0,,{\an4\blur0.4\fnAlegreya\fs52\fscx98\pos(224,581)\b0}Players may spend 100 points to negotiate with the Game Master to add one new rule to the Culling Game,
 Dialogue: 21,0:15:17.98,0:15:22.57,Signs,,0,0,0,,{\an4\blur0.4\fnAlegreya\fs52\fscx98\pos(224,625)\b0}excluding the initial point value assigned to their own lives.
 Dialogue: 21,0:15:17.98,0:15:22.57,Signs,,0,0,0,,{\an4\blur0.4\fnAlegreya\fs52\fscx98\pos(224,685)\b0}The Game Master must accept any proposed new rule in accordance with the previous rule
-Dialogue: 21,0:15:17.98,0:15:22.57,Signs,,0,0,0,,{\an4\blur0.4\fnAlegreya\fs52\fscx98\pos(224,729)\b0}unless it would have a marked and long-lasting effect on the Culling Game.
+Dialogue: 21,0:15:17.98,0:15:22.57,Signs,,0,0,0,,{\an4\blur0.4\fnAlegreya\fs52\fscx98\pos(224,729)\b0}unless it would significantly hinder the continuation of the Culling Game.
 Dialogue: 21,0:15:17.98,0:15:22.57,Signs,,0,0,0,,{\an4\blur0.4\fnAlegreya\fs52\fscx98\pos(224,789)\b0}Players who do not show any change in points within 19 days of joining or acquiring points
 Dialogue: 21,0:15:17.98,0:15:22.57,Signs,,0,0,0,,{\an4\blur0.4\fnAlegreya\fs52\fscx98\pos(224,833)\b0}shall be stripped of their technique.
 Dialogue: 0,0:15:22.53,0:15:22.57,f0ld3r-invisible,,0,0,0,,
@@ -210,7 +210,7 @@ Dialogue: 20,0:15:23.36,0:15:23.57,Signs,,0,0,0,,{\an4\blur2.5\fnAlegreya\fs52\f
 Dialogue: 20,0:15:23.36,0:15:23.57,Signs,,0,0,0,,{\an4\blur2.5\fnAlegreya\fs52\fscx98\c&H857258&\pos(224,581)\b0}Players may spend 100 points to negotiate with the Game Master to add one new rule to the Culling Game,
 Dialogue: 20,0:15:23.36,0:15:23.57,Signs,,0,0,0,,{\an4\blur2.5\fnAlegreya\fs52\fscx98\c&H857258&\pos(224,625)\b0}excluding the initial point value assigned to their own lives.
 Dialogue: 20,0:15:23.36,0:15:23.57,Signs,,0,0,0,,{\an4\blur2.5\fnAlegreya\fs52\fscx98\c&H857258&\pos(224,685)\b0}The Game Master must accept any proposed new rule in accordance with the previous rule
-Dialogue: 20,0:15:23.36,0:15:23.57,Signs,,0,0,0,,{\an4\blur2.5\fnAlegreya\fs52\fscx98\c&H857258&\pos(224,729)\b0}unless it would have a marked and long-lasting effect on the Culling Game.
+Dialogue: 20,0:15:23.36,0:15:23.57,Signs,,0,0,0,,{\an4\blur2.5\fnAlegreya\fs52\fscx98\c&H857258&\pos(224,729)\b0}unless it would significantly hinder the continuation of the Culling Game.
 Dialogue: 20,0:15:23.36,0:15:23.57,Signs,,0,0,0,,{\an4\blur2.5\fnAlegreya\fs52\fscx98\c&H857258&\pos(224,789)\b0}Players who do not show any change in points within 19 days of joining or acquiring points
 Dialogue: 20,0:15:23.36,0:15:23.57,Signs,,0,0,0,,{\an4\blur2.5\fnAlegreya\fs52\fscx98\c&H857258&\pos(224,833)\b0}shall be stripped of their technique.
 Dialogue: 21,0:15:23.36,0:15:23.57,Signs,,0,0,0,,{\an4\blur0.6\fnCleric SSi\fs55\pos(221,78)\b1}The Culling Game: Rules
@@ -233,7 +233,7 @@ Dialogue: 21,0:15:23.36,0:15:23.57,Signs,,0,0,0,,{\an4\blur0.4\fnAlegreya\fs52\f
 Dialogue: 21,0:15:23.36,0:15:23.57,Signs,,0,0,0,,{\an4\blur0.4\fnAlegreya\fs52\fscx98\pos(224,581)\b0}Players may spend 100 points to negotiate with the Game Master to add one new rule to the Culling Game,
 Dialogue: 21,0:15:23.36,0:15:23.57,Signs,,0,0,0,,{\an4\blur0.4\fnAlegreya\fs52\fscx98\pos(224,625)\b0}excluding the initial point value assigned to their own lives.
 Dialogue: 21,0:15:23.36,0:15:23.57,Signs,,0,0,0,,{\an4\blur0.4\fnAlegreya\fs52\fscx98\pos(224,685)\b0}The Game Master must accept any proposed new rule in accordance with the previous rule
-Dialogue: 21,0:15:23.36,0:15:23.57,Signs,,0,0,0,,{\an4\blur0.4\fnAlegreya\fs52\fscx98\pos(224,729)\b0}unless it would have a marked and long-lasting effect on the Culling Game.
+Dialogue: 21,0:15:23.36,0:15:23.57,Signs,,0,0,0,,{\an4\blur0.4\fnAlegreya\fs52\fscx98\pos(224,729)\b0}unless it would significantly hinder the continuation of the Culling Game.
 Dialogue: 21,0:15:23.36,0:15:23.57,Signs,,0,0,0,,{\an4\blur0.4\fnAlegreya\fs52\fscx98\pos(224,789)\b0}Players who do not show any change in points within 19 days of joining or acquiring points
 Dialogue: 21,0:15:23.36,0:15:23.57,Signs,,0,0,0,,{\an4\blur0.4\fnAlegreya\fs52\fscx98\pos(224,833)\b0}shall be stripped of their technique.
 Dialogue: 0,0:15:23.36,0:15:23.57,f0ld3r-invisible,,0,0,0,,
@@ -257,7 +257,7 @@ Dialogue: 20,0:15:24.32,0:15:25.28,Signs,,0,0,0,,{\an4\blur2.5\fnAlegreya\fs52\f
 Dialogue: 20,0:15:24.32,0:15:25.28,Signs,,0,0,0,,{\an4\blur2.5\fnAlegreya\fs52\fscx98\c&H857258&\pos(224,581)\b0}Players may spend 100 points to negotiate with the Game Master to add one new rule to the Culling Game,
 Dialogue: 20,0:15:24.32,0:15:25.28,Signs,,0,0,0,,{\an4\blur2.5\fnAlegreya\fs52\fscx98\c&H857258&\pos(224,625)\b0}excluding the initial point value assigned to their own lives.
 Dialogue: 20,0:15:24.32,0:15:25.28,Signs,,0,0,0,,{\an4\blur2.5\fnAlegreya\fs52\fscx98\c&H857258&\pos(224,685)\b0}The Game Master must accept any proposed new rule in accordance with the previous rule
-Dialogue: 20,0:15:24.32,0:15:25.28,Signs,,0,0,0,,{\an4\blur2.5\fnAlegreya\fs52\fscx98\c&H857258&\pos(224,729)\b0}unless it would have a marked and long-lasting effect on the Culling Game.
+Dialogue: 20,0:15:24.32,0:15:25.28,Signs,,0,0,0,,{\an4\blur2.5\fnAlegreya\fs52\fscx98\c&H857258&\pos(224,729)\b0}unless it would significantly hinder the continuation of the Culling Game.
 Dialogue: 20,0:15:24.32,0:15:25.28,Signs,,0,0,0,,{\an4\blur2.5\fnAlegreya\fs52\fscx98\c&H857258&\pos(224,789)\b0}Players who do not show any change in points within 19 days of joining or acquiring points
 Dialogue: 20,0:15:24.32,0:15:25.28,Signs,,0,0,0,,{\an4\blur2.5\fnAlegreya\fs52\fscx98\c&H857258&\pos(224,833)\b0}shall be stripped of their technique.
 Dialogue: 21,0:15:24.32,0:15:25.28,Signs,,0,0,0,,{\an4\blur0.6\fnCleric SSi\fs55\pos(221,78)\b1}The Culling Game: Rules
@@ -280,7 +280,7 @@ Dialogue: 21,0:15:24.32,0:15:25.28,Signs,,0,0,0,,{\an4\blur0.4\fnAlegreya\fs52\f
 Dialogue: 21,0:15:24.32,0:15:25.28,Signs,,0,0,0,,{\an4\blur0.4\fnAlegreya\fs52\fscx98\pos(224,581)\b0}Players may spend 100 points to negotiate with the Game Master to add one new rule to the Culling Game,
 Dialogue: 21,0:15:24.32,0:15:25.28,Signs,,0,0,0,,{\an4\blur0.4\fnAlegreya\fs52\fscx98\pos(224,625)\b0}excluding the initial point value assigned to their own lives.
 Dialogue: 21,0:15:24.32,0:15:25.28,Signs,,0,0,0,,{\an4\blur0.4\fnAlegreya\fs52\fscx98\pos(224,685)\b0}The Game Master must accept any proposed new rule in accordance with the previous rule
-Dialogue: 21,0:15:24.32,0:15:25.28,Signs,,0,0,0,,{\an4\blur0.4\fnAlegreya\fs52\fscx98\pos(224,729)\b0}unless it would have a marked and long-lasting effect on the Culling Game.
+Dialogue: 21,0:15:24.32,0:15:25.28,Signs,,0,0,0,,{\an4\blur0.4\fnAlegreya\fs52\fscx98\pos(224,729)\b0}unless it would significantly hinder the continuation of the Culling Game.
 Dialogue: 21,0:15:24.32,0:15:25.28,Signs,,0,0,0,,{\an4\blur0.4\fnAlegreya\fs52\fscx98\pos(224,789)\b0}Players who do not show any change in points within 19 days of joining or acquiring points
 Dialogue: 21,0:15:24.32,0:15:25.28,Signs,,0,0,0,,{\an4\blur0.4\fnAlegreya\fs52\fscx98\pos(224,833)\b0}shall be stripped of their technique.
 Dialogue: 0,0:15:24.32,0:15:25.28,f0ld3r-invisible,,0,0,0,,
@@ -304,7 +304,7 @@ Dialogue: 20,0:15:26.24,0:15:26.95,Signs,,0,0,0,,{\an4\blur2.5\fnAlegreya\fs52\f
 Dialogue: 20,0:15:26.24,0:15:26.95,Signs,,0,0,0,,{\an4\blur2.5\fnAlegreya\fs52\fscx98\c&H857258&\pos(224,581)\b0}Players may spend 100 points to negotiate with the Game Master to add one new rule to the Culling Game,
 Dialogue: 20,0:15:26.24,0:15:26.95,Signs,,0,0,0,,{\an4\blur2.5\fnAlegreya\fs52\fscx98\c&H857258&\pos(224,625)\b0}excluding the initial point value assigned to their own lives.
 Dialogue: 20,0:15:26.24,0:15:26.95,Signs,,0,0,0,,{\an4\blur2.5\fnAlegreya\fs52\fscx98\c&H857258&\pos(224,685)\b0}The Game Master must accept any proposed new rule in accordance with the previous rule
-Dialogue: 20,0:15:26.24,0:15:26.95,Signs,,0,0,0,,{\an4\blur2.5\fnAlegreya\fs52\fscx98\c&H857258&\pos(224,729)\b0}unless it would have a marked and long-lasting effect on the Culling Game.
+Dialogue: 20,0:15:26.24,0:15:26.95,Signs,,0,0,0,,{\an4\blur2.5\fnAlegreya\fs52\fscx98\c&H857258&\pos(224,729)\b0}unless it would significantly hinder the continuation of the Culling Game.
 Dialogue: 20,0:15:26.24,0:15:26.95,Signs,,0,0,0,,{\an4\blur2.5\fnAlegreya\fs52\fscx98\c&H857258&\pos(224,789)\b0}Players who do not show any change in points within 19 days of joining or acquiring points
 Dialogue: 20,0:15:26.24,0:15:26.95,Signs,,0,0,0,,{\an4\blur2.5\fnAlegreya\fs52\fscx98\c&H857258&\pos(224,833)\b0}shall be stripped of their technique.
 Dialogue: 21,0:15:26.24,0:15:26.95,Signs,,0,0,0,,{\an4\blur0.6\fnCleric SSi\fs55\pos(221,78)\b1}The Culling Game: Rules
@@ -327,7 +327,7 @@ Dialogue: 21,0:15:26.24,0:15:26.95,Signs,,0,0,0,,{\an4\blur0.4\fnAlegreya\fs52\f
 Dialogue: 21,0:15:26.24,0:15:26.95,Signs,,0,0,0,,{\an4\blur0.4\fnAlegreya\fs52\fscx98\pos(224,581)\b0}Players may spend 100 points to negotiate with the Game Master to add one new rule to the Culling Game,
 Dialogue: 21,0:15:26.24,0:15:26.95,Signs,,0,0,0,,{\an4\blur0.4\fnAlegreya\fs52\fscx98\pos(224,625)\b0}excluding the initial point value assigned to their own lives.
 Dialogue: 21,0:15:26.24,0:15:26.95,Signs,,0,0,0,,{\an4\blur0.4\fnAlegreya\fs52\fscx98\pos(224,685)\b0}The Game Master must accept any proposed new rule in accordance with the previous rule
-Dialogue: 21,0:15:26.24,0:15:26.95,Signs,,0,0,0,,{\an4\blur0.4\fnAlegreya\fs52\fscx98\pos(224,729)\b0}unless it would have a marked and long-lasting effect on the Culling Game.
+Dialogue: 21,0:15:26.24,0:15:26.95,Signs,,0,0,0,,{\an4\blur0.4\fnAlegreya\fs52\fscx98\pos(224,729)\b0}unless it would significantly hinder the continuation of the Culling Game.
 Dialogue: 21,0:15:26.24,0:15:26.95,Signs,,0,0,0,,{\an4\blur0.4\fnAlegreya\fs52\fscx98\pos(224,789)\b0}Players who do not show any change in points within 19 days of joining or acquiring points
 Dialogue: 21,0:15:26.24,0:15:26.95,Signs,,0,0,0,,{\an4\blur0.4\fnAlegreya\fs52\fscx98\pos(224,833)\b0}shall be stripped of their technique.
 Dialogue: 0,0:15:26.24,0:15:26.95,f0ld3r-invisible,,0,0,0,,
@@ -351,7 +351,7 @@ Dialogue: 20,0:15:27.70,0:15:28.91,Signs,,0,0,0,,{\an4\blur2.5\fnAlegreya\fs52\f
 Dialogue: 20,0:15:27.70,0:15:28.91,Signs,,0,0,0,,{\an4\blur2.5\fnAlegreya\fs52\fscx98\c&H857258&\pos(224,581)\b0}Players may spend 100 points to negotiate with the Game Master to add one new rule to the Culling Game,
 Dialogue: 20,0:15:27.70,0:15:28.91,Signs,,0,0,0,,{\an4\blur2.5\fnAlegreya\fs52\fscx98\c&H857258&\pos(224,625)\b0}excluding the initial point value assigned to their own lives.
 Dialogue: 20,0:15:27.70,0:15:28.91,Signs,,0,0,0,,{\an4\blur2.5\fnAlegreya\fs52\fscx98\c&H857258&\pos(224,685)\b0}The Game Master must accept any proposed new rule in accordance with the previous rule
-Dialogue: 20,0:15:27.70,0:15:28.91,Signs,,0,0,0,,{\an4\blur2.5\fnAlegreya\fs52\fscx98\c&H857258&\pos(224,729)\b0}unless it would have a marked and long-lasting effect on the Culling Game.
+Dialogue: 20,0:15:27.70,0:15:28.91,Signs,,0,0,0,,{\an4\blur2.5\fnAlegreya\fs52\fscx98\c&H857258&\pos(224,729)\b0}unless it would significantly hinder the continuation of the Culling Game.
 Dialogue: 20,0:15:27.70,0:15:28.91,Signs,,0,0,0,,{\an4\blur2.5\fnAlegreya\fs52\fscx98\c&H857258&\pos(224,789)\b0}Players who do not show any change in points within 19 days of joining or acquiring points
 Dialogue: 20,0:15:27.70,0:15:28.91,Signs,,0,0,0,,{\an4\blur2.5\fnAlegreya\fs52\fscx98\c&H857258&\pos(224,833)\b0}shall be stripped of their technique.
 Dialogue: 21,0:15:27.70,0:15:28.91,Signs,,0,0,0,,{\an4\blur0.6\fnCleric SSi\fs55\pos(221,78)\b1}The Culling Game: Rules
@@ -374,7 +374,7 @@ Dialogue: 21,0:15:27.70,0:15:28.91,Signs,,0,0,0,,{\an4\blur0.4\fnAlegreya\fs52\f
 Dialogue: 21,0:15:27.70,0:15:28.91,Signs,,0,0,0,,{\an4\blur0.4\fnAlegreya\fs52\fscx98\pos(224,581)\b0}Players may spend 100 points to negotiate with the Game Master to add one new rule to the Culling Game,
 Dialogue: 21,0:15:27.70,0:15:28.91,Signs,,0,0,0,,{\an4\blur0.4\fnAlegreya\fs52\fscx98\pos(224,625)\b0}excluding the initial point value assigned to their own lives.
 Dialogue: 21,0:15:27.70,0:15:28.91,Signs,,0,0,0,,{\an4\blur0.4\fnAlegreya\fs52\fscx98\pos(224,685)\b0}The Game Master must accept any proposed new rule in accordance with the previous rule
-Dialogue: 21,0:15:27.70,0:15:28.91,Signs,,0,0,0,,{\an4\blur0.4\fnAlegreya\fs52\fscx98\pos(224,729)\b0}unless it would have a marked and long-lasting effect on the Culling Game.
+Dialogue: 21,0:15:27.70,0:15:28.91,Signs,,0,0,0,,{\an4\blur0.4\fnAlegreya\fs52\fscx98\pos(224,729)\b0}unless it would significantly hinder the continuation of the Culling Game.
 Dialogue: 21,0:15:27.70,0:15:28.91,Signs,,0,0,0,,{\an4\blur0.4\fnAlegreya\fs52\fscx98\pos(224,789)\b0}Players who do not show any change in points within 19 days of joining or acquiring points
 Dialogue: 21,0:15:27.70,0:15:28.91,Signs,,0,0,0,,{\an4\blur0.4\fnAlegreya\fs52\fscx98\pos(224,833)\b0}shall be stripped of their technique.
 Dialogue: 0,0:15:27.70,0:15:28.91,f0ld3r-invisible,,0,0,0,,
@@ -398,7 +398,7 @@ Dialogue: 20,0:15:29.58,0:15:30.53,Signs,,0,0,0,,{\an4\blur2.5\fnAlegreya\fs52\f
 Dialogue: 20,0:15:29.58,0:15:30.53,Signs,,0,0,0,,{\an4\blur2.5\fnAlegreya\fs52\fscx98\c&H857258&\pos(224,581)\b0}Players may spend 100 points to negotiate with the Game Master to add one new rule to the Culling Game,
 Dialogue: 20,0:15:29.58,0:15:30.53,Signs,,0,0,0,,{\an4\blur2.5\fnAlegreya\fs52\fscx98\c&H857258&\pos(224,625)\b0}excluding the initial point value assigned to their own lives.
 Dialogue: 20,0:15:29.58,0:15:30.53,Signs,,0,0,0,,{\an4\blur2.5\fnAlegreya\fs52\fscx98\c&H857258&\pos(224,685)\b0}The Game Master must accept any proposed new rule in accordance with the previous rule
-Dialogue: 20,0:15:29.58,0:15:30.53,Signs,,0,0,0,,{\an4\blur2.5\fnAlegreya\fs52\fscx98\c&H857258&\pos(224,729)\b0}unless it would have a marked and long-lasting effect on the Culling Game.
+Dialogue: 20,0:15:29.58,0:15:30.53,Signs,,0,0,0,,{\an4\blur2.5\fnAlegreya\fs52\fscx98\c&H857258&\pos(224,729)\b0}unless it would significantly hinder the continuation of the Culling Game.
 Dialogue: 20,0:15:29.58,0:15:30.53,Signs,,0,0,0,,{\an4\blur2.5\fnAlegreya\fs52\fscx98\c&H857258&\pos(224,789)\b0}Players who do not show any change in points within 19 days of joining or acquiring points
 Dialogue: 20,0:15:29.58,0:15:30.53,Signs,,0,0,0,,{\an4\blur2.5\fnAlegreya\fs52\fscx98\c&H857258&\pos(224,833)\b0}shall be stripped of their technique.
 Dialogue: 21,0:15:29.58,0:15:30.53,Signs,,0,0,0,,{\an4\blur0.6\fnCleric SSi\fs55\pos(221,78)\b1}The Culling Game: Rules
@@ -421,7 +421,7 @@ Dialogue: 21,0:15:29.58,0:15:30.53,Signs,,0,0,0,,{\an4\blur0.4\fnAlegreya\fs52\f
 Dialogue: 21,0:15:29.58,0:15:30.53,Signs,,0,0,0,,{\an4\blur0.4\fnAlegreya\fs52\fscx98\pos(224,581)\b0}Players may spend 100 points to negotiate with the Game Master to add one new rule to the Culling Game,
 Dialogue: 21,0:15:29.58,0:15:30.53,Signs,,0,0,0,,{\an4\blur0.4\fnAlegreya\fs52\fscx98\pos(224,625)\b0}excluding the initial point value assigned to their own lives.
 Dialogue: 21,0:15:29.58,0:15:30.53,Signs,,0,0,0,,{\an4\blur0.4\fnAlegreya\fs52\fscx98\pos(224,685)\b0}The Game Master must accept any proposed new rule in accordance with the previous rule
-Dialogue: 21,0:15:29.58,0:15:30.53,Signs,,0,0,0,,{\an4\blur0.4\fnAlegreya\fs52\fscx98\pos(224,729)\b0}unless it would have a marked and long-lasting effect on the Culling Game.
+Dialogue: 21,0:15:29.58,0:15:30.53,Signs,,0,0,0,,{\an4\blur0.4\fnAlegreya\fs52\fscx98\pos(224,729)\b0}unless it would significantly hinder the continuation of the Culling Game.
 Dialogue: 21,0:15:29.58,0:15:30.53,Signs,,0,0,0,,{\an4\blur0.4\fnAlegreya\fs52\fscx98\pos(224,789)\b0}Players who do not show any change in points within 19 days of joining or acquiring points
 Dialogue: 21,0:15:29.58,0:15:30.53,Signs,,0,0,0,,{\an4\blur0.4\fnAlegreya\fs52\fscx98\pos(224,833)\b0}shall be stripped of their technique.
 Dialogue: 0,0:15:29.58,0:15:30.53,f0ld3r-invisible,,0,0,0,,
@@ -445,7 +445,7 @@ Dialogue: 20,0:15:31.12,0:15:31.62,Signs,,0,0,0,,{\an4\blur2.5\fnAlegreya\fs52\f
 Dialogue: 20,0:15:31.12,0:15:31.62,Signs,,0,0,0,,{\an4\blur2.5\fnAlegreya\fs52\fscx98\c&H857258&\pos(224,581)\b0}Players may spend 100 points to negotiate with the Game Master to add one new rule to the Culling Game,
 Dialogue: 20,0:15:31.12,0:15:31.62,Signs,,0,0,0,,{\an4\blur2.5\fnAlegreya\fs52\fscx98\c&H857258&\pos(224,625)\b0}excluding the initial point value assigned to their own lives.
 Dialogue: 20,0:15:31.12,0:15:31.62,Signs,,0,0,0,,{\an4\blur2.5\fnAlegreya\fs52\fscx98\c&H857258&\pos(224,685)\b0}The Game Master must accept any proposed new rule in accordance with the previous rule
-Dialogue: 20,0:15:31.12,0:15:31.62,Signs,,0,0,0,,{\an4\blur2.5\fnAlegreya\fs52\fscx98\c&H857258&\pos(224,729)\b0}unless it would have a marked and long-lasting effect on the Culling Game.
+Dialogue: 20,0:15:31.12,0:15:31.62,Signs,,0,0,0,,{\an4\blur2.5\fnAlegreya\fs52\fscx98\c&H857258&\pos(224,729)\b0}unless it would significantly hinder the continuation of the Culling Game.
 Dialogue: 20,0:15:31.12,0:15:31.62,Signs,,0,0,0,,{\an4\blur2.5\fnAlegreya\fs52\fscx98\c&H857258&\pos(224,789)\b0}Players who do not show any change in points within 19 days of joining or acquiring points
 Dialogue: 20,0:15:31.12,0:15:31.62,Signs,,0,0,0,,{\an4\blur2.5\fnAlegreya\fs52\fscx98\c&H857258&\pos(224,833)\b0}shall be stripped of their technique.
 Dialogue: 21,0:15:31.12,0:15:31.62,Signs,,0,0,0,,{\an4\blur0.6\fnCleric SSi\fs55\pos(221,78)\b1}The Culling Game: Rules
@@ -468,7 +468,7 @@ Dialogue: 21,0:15:31.12,0:15:31.62,Signs,,0,0,0,,{\an4\blur0.4\fnAlegreya\fs52\f
 Dialogue: 21,0:15:31.12,0:15:31.62,Signs,,0,0,0,,{\an4\blur0.4\fnAlegreya\fs52\fscx98\pos(224,581)\b0}Players may spend 100 points to negotiate with the Game Master to add one new rule to the Culling Game,
 Dialogue: 21,0:15:31.12,0:15:31.62,Signs,,0,0,0,,{\an4\blur0.4\fnAlegreya\fs52\fscx98\pos(224,625)\b0}excluding the initial point value assigned to their own lives.
 Dialogue: 21,0:15:31.12,0:15:31.62,Signs,,0,0,0,,{\an4\blur0.4\fnAlegreya\fs52\fscx98\pos(224,685)\b0}The Game Master must accept any proposed new rule in accordance with the previous rule
-Dialogue: 21,0:15:31.12,0:15:31.62,Signs,,0,0,0,,{\an4\blur0.4\fnAlegreya\fs52\fscx98\pos(224,729)\b0}unless it would have a marked and long-lasting effect on the Culling Game.
+Dialogue: 21,0:15:31.12,0:15:31.62,Signs,,0,0,0,,{\an4\blur0.4\fnAlegreya\fs52\fscx98\pos(224,729)\b0}unless it would significantly hinder the continuation of the Culling Game.
 Dialogue: 21,0:15:31.12,0:15:31.62,Signs,,0,0,0,,{\an4\blur0.4\fnAlegreya\fs52\fscx98\pos(224,789)\b0}Players who do not show any change in points within 19 days of joining or acquiring points
 Dialogue: 21,0:15:31.12,0:15:31.62,Signs,,0,0,0,,{\an4\blur0.4\fnAlegreya\fs52\fscx98\pos(224,833)\b0}shall be stripped of their technique.
 Dialogue: 0,0:15:31.12,0:15:31.62,f0ld3r-invisible,,0,0,0,,
@@ -492,7 +492,7 @@ Dialogue: 20,0:15:32.12,0:15:38.00,Signs,,0,0,0,,{\an4\blur2.5\fnAlegreya\fs52\f
 Dialogue: 20,0:15:32.12,0:15:38.00,Signs,,0,0,0,,{\an4\blur2.5\fnAlegreya\fs52\fscx98\c&H857258&\pos(224,581)\b0}Players may spend 100 points to negotiate with the Game Master to add one new rule to the Culling Game,
 Dialogue: 20,0:15:32.12,0:15:38.00,Signs,,0,0,0,,{\an4\blur2.5\fnAlegreya\fs52\fscx98\c&H857258&\pos(224,625)\b0}excluding the initial point value assigned to their own lives.
 Dialogue: 20,0:15:32.12,0:15:38.00,Signs,,0,0,0,,{\an4\blur2.5\fnAlegreya\fs52\fscx98\c&H857258&\pos(224,685)\b0}The Game Master must accept any proposed new rule in accordance with the previous rule
-Dialogue: 20,0:15:32.12,0:15:38.00,Signs,,0,0,0,,{\an4\blur2.5\fnAlegreya\fs52\fscx98\c&H857258&\pos(224,729)\b0}unless it would have a marked and long-lasting effect on the Culling Game.
+Dialogue: 20,0:15:32.12,0:15:38.00,Signs,,0,0,0,,{\an4\blur2.5\fnAlegreya\fs52\fscx98\c&H857258&\pos(224,729)\b0}unless it would significantly hinder the continuation of the Culling Game.
 Dialogue: 20,0:15:32.12,0:15:38.00,Signs,,0,0,0,,{\an4\blur2.5\fnAlegreya\fs52\fscx98\c&H857258&\pos(224,789)\b0}Players who do not show any change in points within 19 days of joining or acquiring points
 Dialogue: 20,0:15:32.12,0:15:38.00,Signs,,0,0,0,,{\an4\blur2.5\fnAlegreya\fs52\fscx98\c&H857258&\pos(224,833)\b0}shall be stripped of their technique.
 Dialogue: 21,0:15:32.12,0:15:38.00,Signs,,0,0,0,,{\an4\blur0.6\fnCleric SSi\fs55\pos(221,78)\b1}The Culling Game: Rules
@@ -515,7 +515,7 @@ Dialogue: 21,0:15:32.12,0:15:38.00,Signs,,0,0,0,,{\an4\blur0.4\fnAlegreya\fs52\f
 Dialogue: 21,0:15:32.12,0:15:38.00,Signs,,0,0,0,,{\an4\blur0.4\fnAlegreya\fs52\fscx98\pos(224,581)\b0}Players may spend 100 points to negotiate with the Game Master to add one new rule to the Culling Game,
 Dialogue: 21,0:15:32.12,0:15:38.00,Signs,,0,0,0,,{\an4\blur0.4\fnAlegreya\fs52\fscx98\pos(224,625)\b0}excluding the initial point value assigned to their own lives.
 Dialogue: 21,0:15:32.12,0:15:38.00,Signs,,0,0,0,,{\an4\blur0.4\fnAlegreya\fs52\fscx98\pos(224,685)\b0}The Game Master must accept any proposed new rule in accordance with the previous rule
-Dialogue: 21,0:15:32.12,0:15:38.00,Signs,,0,0,0,,{\an4\blur0.4\fnAlegreya\fs52\fscx98\pos(224,729)\b0}unless it would have a marked and long-lasting effect on the Culling Game.
+Dialogue: 21,0:15:32.12,0:15:38.00,Signs,,0,0,0,,{\an4\blur0.4\fnAlegreya\fs52\fscx98\pos(224,729)\b0}unless it would significantly hinder the continuation of the Culling Game.
 Dialogue: 21,0:15:32.12,0:15:38.00,Signs,,0,0,0,,{\an4\blur0.4\fnAlegreya\fs52\fscx98\pos(224,789)\b0}Players who do not show any change in points within 19 days of joining or acquiring points
 Dialogue: 21,0:15:32.12,0:15:38.00,Signs,,0,0,0,,{\an4\blur0.4\fnAlegreya\fs52\fscx98\pos(224,833)\b0}shall be stripped of their technique.
 Dialogue: 0,0:15:32.12,0:15:38.00,f0ld3r-invisible,,0,0,0,,
