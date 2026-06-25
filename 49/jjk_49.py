@@ -3,11 +3,11 @@ from vstools import match_clip, replace_ranges
 
 from project_module.source.resolve import get_episode
 from project_module.encode.encoder import run_encode
-from project_module.encode.filters import antialias, deband, denoise, grain, merge, rescale
+from project_module.encode.filters import antialias, deband, denoise, get_src, grain, rescale
 
 episode = get_episode('49')
 
-src = merge(episode)
+src = get_src(episode)
 
 MASK = FileInfo('49\\jjk_49_22010_clean.png')
 mask = match_clip(MASK.init(), src, length=True)

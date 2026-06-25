@@ -5,15 +5,28 @@ from vsdenoise import MVToolsPreset, Prefilter, bm3d, mc_degrain, nl_means
 from vskernels import Bilinear, Hermite
 from vsmasktools import Morpho
 from vsmuxtools import FileInfo
-from vspreview import is_preview
+from vspreview import is_preview, set_output
 from vsrgtools import MeanMode
 from vsscale import ArtCNN, Rescale
-from vstools import core, replace_ranges, set_output, vs
+from vstools import core, replace_ranges, vs
 
+from project_module.config import config
 from project_module.source.models import Episode
 
 FrameRanges = list[tuple[int, int]] | None
 SceneRanges = dict[tuple[int, int], dict] | None
+
+
+def get_src(episode: Episode) -> vs.VideoNode:
+    if config.format == 'BD':
+        bd = FileInfo(episode.BD).init_cut()
+
+        if is_preview():
+            set_output(bd, 'jpbd')
+
+        return bd
+
+    return merge(episode)
 
 
 def merge(episode: Episode) -> vs.VideoNode:

@@ -1,10 +1,10 @@
 from project_module.source.resolve import get_episode
 from project_module.encode.encoder import run_encode
-from project_module.encode.filters import antialias, deband, denoise, grain, merge, rescale
+from project_module.encode.filters import antialias, deband, denoise, get_src, grain, rescale
 
 episode = get_episode('53')
 
-src = merge(episode)
+src = get_src(episode)
 
 rsc = rescale(src)
 dns = denoise(rsc)
