@@ -10,11 +10,13 @@
 *.lnk
 *.csv
 *.bat
+*.txt
+*.webm
+*.flac
+*.m2ts
 *.index
 *.ffindex
 *.torrent
-*.webm
-*.m2ts
 *.vm
 
 _wip
