@@ -1,4 +1,4 @@
-from vsmuxtools import FFV1, IntermediaryEncoder, LosslessPreset, SVTAV1, do_audio, mux, settings_builder_5fish_svt_av1_psy, settings_builder_x265, src_file, x265
+from vsmuxtools import FFV1, IntermediaryEncoder, LosslessPreset, SVTAV1, do_audio, mux, qAAC, settings_builder_5fish_svt_av1_psy, settings_builder_x265, src_file, x265
 from vstools import finalize_clip, vs
 
 from project_module.config import config
@@ -25,11 +25,14 @@ def run_single_encode(episode: Episode, clip: vs.VideoNode, zones=None):
     if config.vcodec == 'HEVC':
         video = x265(settings_x265, zones).encode(grain(clip))
     elif config.vcodec == 'AV1':
-        video = SVTAV1(src_file(episode.CR), **settings_av1).encode(clip)
+        video = SVTAV1(src_file(episode.video_source), **settings_av1).encode(clip)
     else:
         raise ValueError(f'Unsupported video codec: {config.vcodec}')
 
-    audio = do_audio(episode.AZ)
+    audio = do_audio(
+        episode.audio_source,
+        encoder=qAAC() if config.format == 'BD' else None,
+    )
 
     mux(
         video.to_track(f'{config.format} 1080p {config.vcodec} [dedsec]'),
@@ -46,11 +49,14 @@ def run_dual_encodes(episode: Episode, clip: vs.VideoNode, zones=None):
         FFV1(LosslessPreset.SPEED),
         [
             (x265(settings_x265, zones), grain),
-            SVTAV1(src_file(episode.CR), **settings_av1),
+            SVTAV1(src_file(episode.video_source), **settings_av1),
         ],
     ).encode(finalize_clip(clip))
 
-    audio = do_audio(episode.AZ)
+    audio = do_audio(
+        episode.audio_source,
+        encoder=qAAC() if config.format == 'BD' else None,
+    )
 
     mux(
         video_main.to_track(f'{config.format} 1080p HEVC [dedsec]'),

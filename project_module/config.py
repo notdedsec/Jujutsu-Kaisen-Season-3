@@ -14,9 +14,9 @@ class SetupConfig(BaseSettings):
     show_name: str = 'Jujutsu Kaisen'
     shorthand: str = 'jjk'
 
-    format: Literal['WEB', 'BD'] = 'WEB'
+    format: Literal['WEB', 'BD'] = 'BD'
     vcodec: Literal['HEVC', 'AV1'] = 'HEVC'
-    acodec: Literal['EAC-3', 'AAC'] = 'EAC-3'
+    acodec: Literal['EAC-3', 'AAC'] = 'AAC'
 
     dual_encode: bool = True
 

@@ -35,8 +35,10 @@ def main(
 
     if web:
         config.format = 'WEB'
+        config.acodec = 'EAC-3'
     elif bd:
         config.format = 'BD'
+        config.acodec = 'AAC'
 
     if main and mini:
         raise typer.BadParameter('Use only one of --main or --mini.')

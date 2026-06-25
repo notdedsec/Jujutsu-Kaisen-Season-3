@@ -61,7 +61,8 @@ class Bonus(Stream):
 class Episode(Stream):
     OP: Bonus | None = None
     ED: Bonus | None = None
-    # EC: Path | None = None
+    EC1: str | None = None
+    EC2: str | None = None
     subs_dialogue: Path = field(init=False)
     subs_typesets: Path = field(init=False)
 
@@ -78,6 +79,18 @@ class Episode(Stream):
     @property
     def merged_subs_honorifics(self) -> Path:
         return Path(f'[{config.group_tag}] {config.show_name} - {self.number} (Honorifics).ass')
+
+    @property
+    def video_source(self) -> Path:
+        return self.BD if config.format == 'BD' else self.CR
+
+    @property
+    def audio_source(self) -> Path:
+        return self.BD if config.format == 'BD' else self.AZ
+
+    @cached_property
+    def BD(self) -> Path:
+        return get_source(self.id, 'JPBD')
 
     @cached_property
     def CR(self) -> Path | None:

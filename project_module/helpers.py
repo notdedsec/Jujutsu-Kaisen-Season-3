@@ -52,7 +52,7 @@ def get_release(ep: str) -> Path:
         raise FileNotFoundError(f'No results found for episode {ep} in {Path(".").resolve()}')
 
     if len(results) > 1:
-        raise ValueError(f'Multiple release files found for episode {ep}: {"\n".join(path.name for path in results)}')
+        raise ValueError(f'Multiple release files found for episode {ep}: {", ".join(path.name for path in results)}')
 
     return results[0]
 
