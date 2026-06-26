@@ -4,8 +4,6 @@ from pathlib import Path
 project_root = Path(__file__).parent.resolve()
 sys.path.insert(0, str(project_root))
 
-import re
-
 import typer
 from rich.console import Console
 
@@ -20,7 +18,7 @@ app = typer.Typer(
 
 console = Console()
 
-episode_help = 'Episode number or range (e.g., "50" or "48-60")'
+episode_help = 'Episode number or range (e.g., "50" or "48-50")'
 
 
 @app.callback()

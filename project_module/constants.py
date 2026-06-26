@@ -1,7 +1,7 @@
 SEASON_EPISODE_MAP = {
     1: range(1, 25),
     2: range(25, 48),
-    3: range(48, 74),
+    3: range(48, 60),
 }
 
 HONORIFIC_REPLACEMENTS = {
