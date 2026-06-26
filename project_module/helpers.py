@@ -8,6 +8,10 @@ from project_module.constants import SEASON_EPISODE_MAP
 source_folder = Path(__file__).parent.parent / 'sources'
 
 
+def if_exists(path: Path) -> Path | None:
+    return path if path.exists() else None
+
+
 def get_season(ep: str) -> str:
     for season, episodes in SEASON_EPISODE_MAP.items():
         if int(ep) in episodes:
@@ -71,7 +75,7 @@ def parse_episode_arg(episode_arg: str) -> list[str]:
                 end_ep = int(end.strip())
                 episodes.extend([f'{ep:02d}' for ep in range(start_ep, end_ep + 1)])
             except ValueError:
-                raise ValueError(f'Invalid range format: {part}. Use format like "48-60".')
+                raise ValueError(f'Invalid range format: {part}. Use format like "48-50"')
         else:
             if part.isdigit():
                 episodes.append(f'{int(part):02d}')

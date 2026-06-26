@@ -58,11 +58,23 @@ class Bonus(Stream):
 
 
 @dataclass
+class Eyecatch:
+    id: str
+    title: str
+    subs: Path = field(init=False)
+    encode: Path = field(init=False)
+
+    def __post_init__(self):
+        self.subs = Path(f'common/{show}_eyecatch_{self.id}_subs.ass')
+        self.encode = Path(f'common/{show}_eyecatch_{self.id}.mkv')
+
+
+@dataclass
 class Episode(Stream):
     OP: Bonus | None = None
     ED: Bonus | None = None
-    EC1: str | None = None
-    EC2: str | None = None
+    EC1: Eyecatch | None = None
+    EC2: Eyecatch | None = None
     subs_dialogue: Path = field(init=False)
     subs_typesets: Path = field(init=False)
 

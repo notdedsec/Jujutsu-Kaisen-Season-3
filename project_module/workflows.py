@@ -7,7 +7,7 @@ from muxtools.subtitle import _Line
 from vsmuxtools.utils.source import FileInfo, generate_keyframes
 
 from project_module.config import config
-from project_module.helpers import get_release
+from project_module.helpers import get_release, if_exists
 from project_module.release.nekobt import upload_to_nekobt
 from project_module.release.nyaa import upload_to_nyaa
 from project_module.release.utils import create_torrent, get_mediainfo
@@ -88,13 +88,16 @@ def run_merge(ep: str, save=True):
     main_subs.change_layers()
 
     if episode.OP:
-        main_subs.merge(episode.OP.subs, 'opsync', 'sync', episode.OP.encode if episode.OP.encode.exists() else None, 1000)
+        main_subs.merge(episode.OP.subs, 'opsync', 'sync', if_exists(episode.OP.encode), 1000)
 
     if episode.ED:
-        main_subs.merge(episode.ED.subs, 'edsync', 'sync', episode.ED.encode if episode.ED.encode.exists() else None, 1000)
+        main_subs.merge(episode.ED.subs, 'edsync', 'sync', if_exists(episode.ED.encode), 1000)
 
-    # if episode.EC:
-    #     main_subs.merge(episode.EC.subs, 'ecsync')
+    if episode.EC1:
+        main_subs.merge(episode.EC1.subs, 'ec1sync', 'sync', if_exists(episode.EC1.encode), 1000)
+
+    if episode.EC2:
+        main_subs.merge(episode.EC2.subs, 'ec2sync', 'sync', if_exists(episode.EC2.encode), 1000)
 
     weeb_subs = main_subs.copy().autoswapper()
 
