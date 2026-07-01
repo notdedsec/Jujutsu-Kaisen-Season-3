@@ -17,9 +17,9 @@ Video File: jjk_50_premux.mkv
 Keyframes File: jjk_50_keyframes.txt
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 288
-Active Line: 299
-Video Position: 30438
+Scroll Position: 15
+Active Line: 21
+Video Position: 3234
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -48,8 +48,8 @@ Dialogue: 0,0:01:55.30,0:01:59.14,Default,Tengen,0,0,0,,I was wary of you being 
 Dialogue: 0,0:01:59.14,0:02:03.10,Default,Tengen,0,0,0,,I can't tell what's in people's hearts, after all.
 Dialogue: 0,0:02:03.10,0:02:04.35,Default,Tsukumo,0,0,0,,Kenjaku?
 Dialogue: 0,0:02:05.52,0:02:11.40,Default,Tengen,0,0,0,,The sorcerer once known as Kamo Noritoshi, \Nwho now inhabits Geto Suguru's body.
-Dialogue: 0,0:02:11.40,0:02:14.78,Default,Tsukumo,0,0,0,,A blade of mercy, a plan of salvation, huh? {very 1:1} {the idea to be conveyed here is "he sees killing as mercy, and his plan as salvation" which is encoded in a pair of metaphors} {Compassion with a blade, salvation on a leash, huh?} {Violence as compassion, control as salvation, huh?} {Mercy is the blade. Salvation is the plan.} {CR: A net of compassion and a rope of salvation, huh?}
-Dialogue: 0,0:02:14.78,0:02:16.95,Default,Tsukumo,0,0,0,,The name's a bit too on-the-nose. {Not a hint of irony in that name.} {He didn't even try for sarcasm with that name.}
+Dialogue: 0,0:02:11.40,0:02:14.86,Default,Tsukumo,0,0,0,,A snare of mercy, a leash of salvation, huh? {his name evokes buddhist sounding ideas of compassion and salvation but the actual imagery is capture and restraint}
+Dialogue: 0,0:02:14.86,0:02:16.95,Default,Tsukumo,0,0,0,,It's not even ironic. {she is saying the name's supposed benevolence is so warped by who he actaully is that it doesn't even work as irony}
 Dialogue: 0,0:02:17.95,0:02:20.24,Default,Yuji,0,0,0,,Why do you look like that, {*}Master Tengen{*Tengen-sama}?
 Dialogue: 0,0:02:20.24,0:02:23.16,Default,Fushiguro,0,0,0,,{\i1}He's got some nerve, \Ncutting in on an important discussion.
 Dialogue: 0,0:02:23.96,0:02:27.00,Default,Tengen,0,0,0,,I'm immortal, but not eternally young.
@@ -254,7 +254,7 @@ Dialogue: 0,0:16:11.03,0:16:14.45,Default,Yuji,0,0,0,,Using "a general rule" wit
 Dialogue: 0,0:16:15.08,0:16:16.33,Default,Yuji,0,0,0,,Something wrong, Fushiguro?
 Dialogue: 0,0:16:16.79,0:16:17.92,Default,Fushiguro,0,0,0,,Just wondering... {It's nothing.}
 Dialogue: 0,0:16:17.92,0:16:21.59,Default,Fushiguro,0,0,0,,{*}Master Tengen{*Tengen-sama}, who is this Game Master?
-Dialogue: 0,0:16:22.13,0:16:26.30,Default,Tengen,0,0,0,,It's a {*}cursed beast{*shikigami} given to each player called Kogane.
+Dialogue: 0,0:16:22.13,0:16:26.30,Default,Tengen,0,0,0,,Each player is given a {*}cursed beast{*shikigami} called Kogane.
 Dialogue: 0,0:16:26.80,0:16:31.97,Default,Tengen,0,0,0,,To be precise, Kogane isn't the Game Master—it's an interface.
 Dialogue: 0,0:16:32.72,0:16:37.73,Default,Tengen,0,0,0,,You can think of the Game Master \Nas the Culling Game system itself.
 Dialogue: 0,0:16:37.73,0:16:39.23,Default,Yuji,0,0,0,,I see? {i don't get it}
@@ -327,7 +327,7 @@ Dialogue: 0,0:20:58.53,0:21:00.20,Default,Entertainer,0,0,164,,Happens {\i1}all{
 Dialogue: 0,0:21:00.20,0:21:03.07,Default,Entertainer,0,0,164,,But none of 'em suddenly got {\i1}funnier{\i0}.
 Dialogue: 0,0:21:03.07,0:21:06.29,Default,Entertainer,0,0,164,,They were always funny, just waitin' to be discovered.
 Dialogue: 0,0:21:07.20,0:21:08.96,Default,Entertainer,0,0,164,,And that ain't the case for you!
-Dialogue: 0,0:21:09.50,0:21:11.46,Default,Entertainer,0,0,164,,Look what happened to Tokyo. {why'd he start talking about tokyo all of a sudden how does this tie into the convo} {he's just telling him the general state of the country ig}
+Dialogue: 0,0:21:09.50,0:21:11.46,Default,Entertainer,0,0,164,,Tokyo's a mess right now. {why'd he start talking about tokyo all of a sudden how does this tie into the convo} {he's just telling him the general state of the country ig} {this reads more like a general statement}
 Dialogue: 0,0:21:11.46,0:21:13.00,Default,Entertainer,0,0,164,,I'm sayin' this for your own good. {this line feels off} {fixed}
 Dialogue: 0,0:21:13.00,0:21:15.50,Default,Entertainer,0,0,164,,Go do something you're actually suited for.
 Dialogue: 0,0:21:18.59,0:21:21.93,Default,Ken,0,0,164,,I never disliked your comedy, Takaba.
