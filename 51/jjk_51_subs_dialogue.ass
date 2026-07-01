@@ -118,8 +118,8 @@ Dialogue: 0,0:07:16.04,0:07:18.71,Default,Ogi,0,0,0,,I'm not a swordsman. I'm a 
 Dialogue: 0,0:07:18.71,0:07:23.17,Default,Ogi,0,0,0,,Do not presume to judge me \Nby the standards of a failure. It's absurd. {CR: Trying to gauge me by the standards of such a failure is absolutely ridiculous!}
 Dialogue: 0,0:07:23.17,0:07:25.01,Default,Ogi,0,0,0,,I'll say it as many times as I must.
 Dialogue: 0,0:07:25.01,0:07:29.68,Default,Ogi,0,0,0,,I wasn't chosen as the head of the clan \Nbecause of you two. {Getting chosen as the "former head" is kind of a hilarious position. "I wasn't chosen as the head of the clan" is enough past tense, no? Or "I wasn't chosen as the head of the clan at that time because of you two"} {right. still there's ambiguity if we drop "former" bc then it could mean he was competing with naoya. well, i'll just let context handle it}
-Dialogue: 0,0:07:29.68,0:07:32.60,Default,Ogi,0,0,0,,My older brother's technique\Nhad a shallow history.
-Dialogue: 0,0:07:32.60,0:07:36.52,Default,Ogi,0,0,0,,The techniques we inherited \Nwere never the point of contention.
+Dialogue: 0,0:07:29.68,0:07:32.60,Default,Ogi,0,0,0,,My older brother's technique\Nhad a shallow history,
+Dialogue: 0,0:07:32.60,0:07:36.52,Default,Ogi,0,0,0,,so its inheritance wasn't really \Nthe point of contention.
 Dialogue: 0,0:07:36.52,0:07:42.27,Default,Ogi,0,0,0,,As a sorcerer, I never lagged behind him\Nin any respect but one:
 Dialogue: 0,0:07:42.82,0:07:45.49,Default,Ogi,0,0,0,,the quality of my children!
 Dialogue: 0,0:07:46.28,0:07:50.49,Default,Ogi,0,0,0,,Children must never drag their parents down!
