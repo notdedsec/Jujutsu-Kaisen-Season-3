@@ -228,7 +228,7 @@ Dialogue: 0,0:12:56.46,0:12:59.63,Default,Fushiguro,0,0,0,,{\i1}That means no la
 Dialogue: 0,0:13:01.18,0:13:03.72,Default,Fushiguro,0,0,0,,{\i1}Once I touch that, I can approach Kirara{**-san}!
 Dialogue: 0,0:13:05.76,0:13:08.06,Default,Narrator,0,0,0,,Fushiguro's hypothesis was correct.
 Dialogue: 0,0:13:09.06,0:13:11.81,Default,Narrator,0,0,0,,Kirara's cursed technique, \NLove Rendezvous,
-Dialogue: 0,0:13:11.81,0:13:17.82,Default,Narrator,0,0,0,,apportions five stars to targets' cursed energy \Nwith the Southern Cross as a base.
+Dialogue: 0,0:13:11.81,0:13:17.82,Default,Narrator,0,0,0,,assigns five stars to targets' cursed energy \Nwith the Southern Cross as a base.
 Dialogue: 0,0:13:18.82,0:13:24.49,Default,Narrator,0,0,0,,For one star to approach another, \Nit must follow a predetermined order.
 Dialogue: 0,0:13:24.49,0:13:28.12,Default,Narrator,0,0,0,,And things marked with \Nthe same star attract each other.
 Dialogue: 0,0:13:29.08,0:13:30.66,Default,Kirara,0,0,0,,You're incredible.
@@ -312,7 +312,7 @@ Dialogue: 0,0:19:12.01,0:19:14.30,Default,Hakari,0,0,0,,What are you made of?
 Dialogue: 0,0:19:14.72,0:19:16.68,Default,Yuji,0,0,0,,I'm a cog.
 Dialogue: 0,0:19:16.68,0:19:18.93,Default,Yuji,0,0,0,,Cogs have a function.
 Dialogue: 0,0:19:19.85,0:19:22.97,Default,Yuji,0,0,0,,My function is to keep exorcising curses.
-Dialogue: 0,0:19:22.97,0:19:28.86,Default,Yuji,0,0,0,,If I need you for that, \Nthen I won't back down until you say yes.
+Dialogue: 0,0:19:22.97,0:19:28.86,Default,Yuji,0,0,0,,If you're necessary for that, \Nthen I won't back down until you say yes.
 Dialogue: 0,0:19:42.79,0:19:44.00,Default,Yuji,0,0,0,,Tell me, {*}Hakari{*Senpai}.
 Dialogue: 0,0:19:44.58,0:19:46.96,Default,Yuji,0,0,0,,What is {\i1}your{\i0} function?
 Dialogue: 0,0:19:47.62,0:19:48.92,Default,Hakari,0,0,0,,{\i1}This kid...
