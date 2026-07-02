@@ -16,10 +16,10 @@ Audio File: jjk_54_premux.mkv
 Video File: jjk_54_premux.mkv
 Keyframes File: jjk_54_keyframes.txt
 Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Scroll Position: 204
-Active Line: 218
-Video Position: 17746
+Video Zoom Percent: 0.750000
+Scroll Position: 231
+Active Line: 240
+Video Position: 19195
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -55,8 +55,9 @@ Dialogue: 0,0:01:08.97,0:01:10.09,Default,Kenjaku,0,0,0,,Would you like to?
 Dialogue: 0,0:01:10.63,0:01:12.84,Default,Sasaki,0,0,0,,Wake up?
 Dialogue: 0,0:01:14.47,0:01:16.22,Default,Sasaki,0,0,0,,Is this a dream?
 Comment: 0,0:01:16.22,0:01:20.52,Default,Kenjaku,0,0,0,,The space between dreams and reality is a curse. {this line doesn't flow at all as the response to her question}
-Comment: 0,0:01:16.22,0:01:20.52,Default,Kenjaku,0,0,0,,{\fad(0,100)}This is the space between \Ndreams and reality—call it magic. {this is him trying to explain what a curse is to people who don't know what curses are without making it sound ominous, so he uses a simpler and neutral term for it}
-Dialogue: 0,0:01:16.22,0:01:20.52,Default,Kenjaku,0,0,0,,{\fad(0,100)}This is the space between \Ndreams and reality. It's a curse. {i don't think we should change this tbh, he's just saying "curse (neutral)" but at the end of the day it's still a curse}
+Comment: 0,0:01:16.22,0:01:20.52,Default,Kenjaku,0,0,0,,{\fad(0,100)}This is the space between \Ndreams and reality—call it magic. {this is him trying to explain what a curse is to people who don't know what curses are without making it sound ominous, so he uses a simpler and neutral term for it} {this sounds goofy}
+Comment: 0,0:01:16.22,0:01:20.52,Default,Kenjaku,0,0,0,,{\fad(0,100)}This is the space between \Ndreams and reality. It's a curse. {using a loaded term like "curse" actively undermines the intention of using a different reading}
+Dialogue: 0,0:01:16.22,0:01:20.52,Default,Kenjaku,0,0,0,,{\fad(0,100)}This is the space between \Ndreams and reality. It's a spell. {this makes most sense to me since we see kenny escort sasaki out of the culling game barrier while she's in a semi-dream-like state... as if under a spell}
 Comment: 0,0:01:16.22,0:01:19.02,Default,Kenjaku,0,0,0,,This is the space between dreams and reality.
 Comment: 0,0:01:19.02,0:01:20.52,Default,Kenjaku,0,0,0,,{\fad(0,100)}It's a curse.
 Dialogue: 0,0:01:25.57,0:01:26.90,Default,Kenjaku,0,0,0,,Be careful.
@@ -184,9 +185,9 @@ Dialogue: 0,0:09:06.23,0:09:10.61,Default,Fushiguro,0,0,0,,Kogane, can you show 
 Dialogue: 0,0:09:10.61,0:09:14.74,Default,Kogane,0,0,0,,Well, I'm assigned to Itadori Yuji, so...
 Dialogue: 0,0:09:14.74,0:09:16.37,Default,Yuji,0,0,0,,Oh, it's fine.
 Dialogue: 0,0:09:16.37,0:09:18.25,Default,Yuji,0,0,0,,Go ahead and do what he asked.
-Dialogue: 0,0:09:20.25,0:09:25.80,Default,Fushiguro,0,0,0,,Aside from people like Tsumiki who got caught up in this and are in a rush to escape, {basically he says there are two types of players: ones who got dragged into this and just wanna gtfo, and ones who joined in willingly by forging a binding vow with kenny in the past}
-Dialogue: 0,0:09:25.80,0:09:31.18,Default,Fushiguro,0,0,0,,the incarnated sorcerers from the past must have had \Ntheir own motives for contracting with Kenjaku.
-Dialogue: 0,0:09:31.18,0:09:34.18,Default,Fushiguro,0,0,0,,They don't have any real reason to add rules.
+Dialogue: 0,0:09:20.25,0:09:25.80,Default,Fushiguro,0,0,0,,People like Tsumiki who got caught up in this \Nmay not engage unless they're desperate to escape.
+Dialogue: 0,0:09:25.80,0:09:31.18,Default,Fushiguro,0,0,0,,The incarnated sorcerers must have had \Ntheir own reasons for contracting with Kenjaku.
+Dialogue: 0,0:09:31.18,0:09:34.18,Default,Fushiguro,0,0,0,,None of them are especially motivated to add rules.
 Dialogue: 0,0:09:34.55,0:09:38.60,Default,Fushiguro,0,0,0,,If there's anyone else like Kashimo \Nsitting on an excess of points...
 Dialogue: 0,0:09:38.60,0:09:39.98,Default,Yuji,0,0,0,,Oh, I get it!
 Dialogue: 0,0:09:39.98,0:09:45.27,Default,Yuji,0,0,0,,We find someone with 100 points or more \Nwho has no interest in adding rules...
