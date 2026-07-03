@@ -288,7 +288,7 @@ Dialogue: 0,0:20:36.67,0:20:39.55,Default,Reggie,0,0,0,,Knives normally don't fl
 Dialogue: 0,0:20:40.47,0:20:44.60,Default,Reggie,0,0,0,,Given your personality, \NI think it's pointless to ask, but I will anyway.
 Dialogue: 0,0:20:44.60,0:20:47.81,Default,Reggie,0,0,0,,Hand over your points and I'll give you a quick death.
 Dialogue: 0,0:20:49.06,0:20:52.36,Default,Fushiguro,0,0,0,,Barrier techniques are difficult, aren't they? {Barrier techniques sure are difficult.}
-Dialogue: 0,0:20:53.48,0:21:00.70,Default,Fushiguro,0,0,0,,I can never quite grasp the sensation of overlaying {\fscx98.4}an artificial space of different scale onto real space.
+Dialogue: 0,0:20:53.48,0:21:00.70,Default,Fushiguro,0,0,0,,{\q2}I've never quite been able to grasp the sensation of overlaying \Nan artificial space of a different scale onto real space.
 Dialogue: 0,0:21:00.70,0:21:01.78,Default,Fushiguro,0,0,0,,Which is why...
 Dialogue: 0,0:21:02.70,0:21:04.08,Default,Reggie,0,0,0,,{\i1}Wait a minute... {No way...}
 Dialogue: 0,0:21:05.54,0:21:11.71,Default,Fushiguro,0,0,0,,I'll use this gymnasium as-is to deploy my domain.
