@@ -57,9 +57,9 @@ Dialogue: 0,0:01:36.24,0:01:37.87,Default,Reggie,0,0,0,,Don't think you've won!
 Dialogue: 0,0:01:39.58,0:01:41.25,Default,Reggie,0,0,0,,{\i1}Now I see.
 Dialogue: 0,0:01:41.25,0:01:47.17,Default,Narrator,0,0,0,,At the moment, Chimera Shadow Garden simply \Nextends his Ten Shadows Technique,
 Dialogue: 0,0:01:47.17,0:01:52.05,Default,Narrator,0,0,0,,drawing out 120% of his potential. {potential mentioned!!!}
-Dialogue: 0,0:01:52.72,0:01:57.56,Default,Narrator,0,0,0,,However, that very imperfection \Nwas what caught Reggie Star off-guard.
-Dialogue: 0,0:01:57.56,0:02:02.14,Default,Reggie,0,0,0,,{\i1}His clones and his {*}cursed beasts{*shikigami} \Nhad to take physical forms to strike me. {how does this lead to his conclusion on the next line?} {he sees them materialize before the hit, which means there's no sure-hit, because in a sure-hit domain attacks land automatically without physically reaching you, i think} {this should flow better}
-Dialogue: 0,0:02:02.14,0:02:06.15,Default,Reggie,0,0,0,,{\i1}So this barrier isn't infused with a sure-hit technique!
+Dialogue: 0,0:01:52.68,0:01:57.56,Default,Narrator,0,0,0,,However, that very imperfection \Nwas what caught Reggie Star off-guard.
+Dialogue: 0,0:01:57.56,0:02:02.14,Default,Reggie,0,0,0,,{\i1}His clones and his {*}cursed beasts{*shikigami} \Nalready had physical forms before they hit me. {how does this lead to his conclusion on the next line?} {he sees them materialize before the hit, which means there's no sure-hit, because in a sure-hit domain attacks land automatically without physically reaching you, i think} {ok so he doesn't exactly seem them materialize before the hit, he observes that they already have tangible bodies before impact, and that leads to him concluding that there's no sure-hit effect}
+Dialogue: 0,0:02:02.14,0:02:06.15,Default,Reggie,0,0,0,,{\i1}Which means this barrier \Nisn't infused with a sure-hit technique!
 Dialogue: 0,0:02:06.15,0:02:10.65,Default,Reggie,0,0,0,,{\i1}The buff to his technique is nothing to scoff at, though.
 Dialogue: 0,0:02:10.65,0:02:14.07,Default,Reggie,0,0,0,,{\i1}This is way worse than a regular sure-hit domain!
 Dialogue: 0,0:02:14.07,0:02:17.83,Default,Reggie,0,0,0,,{\i1}If he summons that elephant here \Nand drenches me in water,
@@ -155,11 +155,11 @@ Dialogue: 0,0:12:02.53,0:12:06.33,Default,Reggie,0,0,0,,{\i1}forcing me to destr
 Dialogue: 0,0:12:09.88,0:12:13.09,Default,Fushiguro,0,0,0,,You can't use your receipts \Nwhen they're soaked, can you? {Now your receipts are too wet to use.}
 Dialogue: 0,0:12:17.34,0:12:20.60,Default,Reggie,0,0,0,,{\i1}He waited instead of immediately attacking again.
 Dialogue: 0,0:12:20.60,0:12:24.02,Default,Reggie,0,0,0,,{\i1}He's recovering his technique \Nthat he exhausted with his domain, then?
-Dialogue: 0,0:12:25.02,0:12:27.98,Default,Reggie,0,0,0,,Are you sure about that?
-Dialogue: 0,0:12:28.89,0:12:32.48,Default,Reggie,0,0,0,,I'm betting you can't summon \N{*}cursed beasts{*shikigami} anymore either, right?
+Dialogue: 0,0:12:25.02,0:12:27.94,Default,Reggie,0,0,0,,Who knows?
+Dialogue: 0,0:12:28.85,0:12:32.48,Default,Reggie,0,0,0,,I'm betting you can't summon \N{*}cursed beasts{*shikigami} anymore either, right?
 Dialogue: 0,0:12:33.82,0:12:35.23,Default,Fushiguro,0,0,0,,That's true.
 Dialogue: 0,0:12:35.23,0:12:38.28,Default,Fushiguro,0,0,0,,You know what comes next, right?
-Dialogue: 0,0:12:39.66,0:12:43.37,Default,Reggie,0,0,0,,{\i1}He'll use a {*}cursed beast{*shikigami} other than that dog.
+Dialogue: 0,0:12:39.66,0:12:43.37,Default,Reggie,0,0,0,,{\i1}He'll use a {*}cursed beast{*shikigami}. \NSomething other than that dog.
 Dialogue: 0,0:12:43.37,0:12:45.62,Default,Reggie,0,0,0,,{\i1}None of them can deal a decisive blow.
 Dialogue: 0,0:12:45.62,0:12:47.41,Default,Reggie,0,0,0,,{\i1}Go ahead and try!
 Dialogue: 0,0:12:47.41,0:12:51.17,Default,Reggie,0,0,0,,{\i1}The moment you let up, I'll finish you with a counter!
@@ -187,9 +187,9 @@ Dialogue: 0,0:15:38.58,0:15:41.30,Default,Reggie,0,0,0,,Such an awful thing to s
 Dialogue: 0,0:15:41.63,0:15:44.26,Default,Reggie,0,0,0,,Consider it my last good deed. {It's my good deed before I die.}
 Dialogue: 0,0:15:45.17,0:15:47.80,Default,Reggie,0,0,0,,I'm just a spectator.
 Dialogue: 0,0:15:47.80,0:15:50.47,Default,Reggie,0,0,0,,I was never close with Kenjaku.
-Dialogue: 0,0:15:51.01,0:15:54.52,Default,Reggie,0,0,0,,I thought this whole thing might be interesting. {I have a feeling this'll make things more interesting.} {is he talking about joining the culling game here? or transferring his points?} {could be either. grammatically it leans towards points. thematically tho, it only makes sense for him to reflect on why he agreed to reincarnate in the first place} {besides he answered that points question 3 lines ago}
+Dialogue: 0,0:15:51.01,0:15:54.52,Default,Reggie,0,0,0,,I have a feeling this'll make things more interesting. {I thought this whole thing might be interesting.} {is he talking about joining the culling game here? or transferring his points?} {could be either. grammatically it leans towards points. thematically tho, it only makes sense for him to reflect on why he agreed to reincarnate in the first place} {besides he answered that points question 3 lines ago} {correction from the future: while this reading makes a ton of thematic sense, it is, in fact, incorrect. on the verge of death, he is not talking about his life choices, but the fucking points giveaway} {maybe the point of the line is to show his "spectator" nature. maybe he signed up for the culling game for similar reasons: curiosity}
 Dialogue: 0,0:15:55.02,0:15:57.19,Default,Reggie,0,0,0,,Just a hunch, really.
-Dialogue: 0,0:15:58.44,0:16:02.65,Default,Reggie,0,0,0,,Will you do me a favor? You did kill me, after all. {he's saying "you killed someone like me" a neutral, curious bystander who just wanted to see how things played out (in the culling game? or after the point transfer?) and even gave you his points on the way out!} {this also supports both readings lmao fuck you gege why are you vagueposting}
+Dialogue: 0,0:15:58.44,0:16:02.65,Default,Reggie,0,0,0,,Do me a favor, would you? You did kill me, after all. {he's saying "you killed someone like me" a neutral, curious bystander who just wanted to see how things played out (in the culling game? or after the point transfer?) and even gave you his points on the way out!} {this also supports both readings lmao fuck you gege why are you vagueposting} {i take that back gege i was not familiar with your game}
 Dialogue: 0,0:16:03.44,0:16:10.62,Default,Reggie,0,0,0,,Let fate toy with you until you become the fool and die. {it's like reggie is projecting his own fate onto megumi. he joined the culling game because he thought it might be interesting, but ended up a pawn toyed with in kenny's game, humiliated himself like a fool losing to a brat, and died} {CR: Let fate toy with you a bit, and die a fool.} {Let fate toy with you, turn you into a clown, and die.} {clown is not the right word here}
 Dialogue: 0,0:16:33.26,0:16:35.89,Default,Kogane,0,0,0,,You have scored five points.
 Dialogue: 0,0:16:49.15,0:16:50.28,Default,Hazenoki,0,0,0,,Did I get him?!
@@ -234,12 +234,12 @@ Dialogue: 0,0:19:06.71,0:19:07.67,Default,Remi,0,0,0,,{\i1}always...
 Dialogue: 0,0:19:16.59,0:19:18.85,Default,Tsumiki,0,0,0,,{\an8\i1}Don't, Megumi.
 Dialogue: 0,0:19:26.19,0:19:27.15,Default,Remi,0,0,0,,{\an8}You'll spare me?
 Dialogue: 0,0:19:35.57,0:19:37.16,Default,Fushiguro,0,0,0,,Shut up.
-Dialogue: 0,0:19:40.62,0:19:42.45,Default,Fushiguro,0,0,0,,Damn sister. {this line just doesn't sit right with me. in s1 he passed out in a similar way after using his domain and called her "stupid sister" (which we changed to "dummy" and might wanna revert) this time he is clearly pissed off, but that still doesn't warrant this i feel.} {i dont wanna think about this rn. later.}
+Dialogue: 0,0:19:40.62,0:19:42.49,Default,Fushiguro,0,0,0,,Stupid sister. {this line just doesn't sit right with me. in s1 he passed out in a similar way after using his domain and called her "stupid sister" (which we changed to "dummy" and might wanna revert) this time he is clearly pissed off, but that still doesn't warrant this i feel.} {i dont wanna think about this rn. later.} {it is now later. i've decided it should just be "stupid sister." s1 will be updated to "stupid sis." it's similar but different enough.}
 Dialogue: 0,0:20:02.22,0:20:05.18,Default,Narrator,0,0,0,,{\an8}Things escalated quickly in Sendai Colony.
 Dialogue: 0,0:20:05.18,0:20:10.44,Default,Narrator,0,0,0,,{\an8}Far more intense, too, \Nthan anything in the Tokyo Colony.
 Dialogue: 0,0:20:12.77,0:20:17.32,Default,Narrator,0,0,0,,Dhruv Lakdawalla. 91 points.
 Dialogue: 0,0:20:17.32,0:20:19.07,Default,Narrator,0,0,0,,A sorcerer incarnated for the second time. {wait how did he reincarnate twice?}
-Dialogue: 0,0:20:19.95,0:20:25.29,Default,Narrator,0,0,0,,He's an old man who single-handedly conquered \Nthe archipelago during the Civil War of Wa.
+Dialogue: 0,0:20:19.95,0:20:25.29,Default,Narrator,0,0,0,,He's a veteran who single-handedly conquered \Nthe archipelago during the Civil War of Wa.
 Dialogue: 0,0:20:26.00,0:20:32.59,Default,Narrator,0,0,0,,He possesses two autonomous {*}cursed beasts{*shikigami} \Nwhose trajectories define his domain. {the space enclosed by their movement paths becomes his domain.} {we don't know if his domain has a sure-hit attack because back then domains were generally used to enforce rules. still, bro was incarnated once before so he might have picked up that skill. we just don't know for sure.}
 Dialogue: 0,0:20:35.67,0:20:40.01,Default,Narrator,0,0,0,,Ishigori Ryu. 77 points.
 Dialogue: 0,0:20:40.84,0:20:45.14,Default,Narrator,0,0,0,,He's the cannon with the greatest \Ncursed energy output among the players.
