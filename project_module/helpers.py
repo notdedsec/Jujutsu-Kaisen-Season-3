@@ -30,18 +30,18 @@ def absolute_to_seasonal(ep: str) -> str:
     return seasonal
 
 
-def get_source(ep: str, folder: str | None = None, release: str = '') -> Path:
+def get_source(ep: str, folder: str) -> Path:
+    show = config.show_name.replace(' ', '*')
     season = get_season(ep)
     episode = absolute_to_seasonal(ep)
-    show = config.show_name.replace(' ', '*')
-    search_folder = source_folder if folder is None else source_folder / Path(folder)
 
-    search_a = GlobSearch(f'{show}*S{season}E{episode}*{release}*mkv', dir=search_folder)
-    search_b = GlobSearch(f'*{release}*{show}*{ep}*mkv', dir=search_folder)
+    search_dir = source_folder / Path(folder)
+    search_a = GlobSearch(f'*{show}*S{season}E{episode}*.mkv', dir=search_dir)
+    search_b = GlobSearch(f'*{show}*{ep}*.mkv', dir=search_dir)
 
     results = search_a.paths or search_b.paths
     if not results:
-        raise FileNotFoundError(f'No results found for episode {ep} in {search_folder.resolve()}')
+        raise FileNotFoundError(f'No results found for episode {ep} in {search_dir.resolve()}')
 
     return results[0]
 
