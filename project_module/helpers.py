@@ -3,13 +3,17 @@ from pathlib import Path
 from muxtools import GlobSearch
 
 from project_module.config import config
-from project_module.constants import SEASON_EPISODE_MAP
+from project_module.constants import BD_TRIMS, SEASON_EPISODE_MAP
 
 source_folder = Path(__file__).parent.parent / 'sources'
 
 
 def if_exists(path: Path) -> Path | None:
     return path if path.exists() else None
+
+
+def get_bd_trim(ep: str) -> tuple[int | None, int | None]:
+    return BD_TRIMS.get(int(ep), (None, None))
 
 
 def get_season(ep: str) -> str:
