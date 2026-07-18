@@ -5,18 +5,18 @@ SEASON_EPISODE_MAP = {
 }
 
 BD_TRIMS = {
-    48: (None, -26),
-    49: (None, -25),
-    50: (None, -26),
-    51: (None, -12),
-    52: (-12,  -14),
-    53: (-12,  -25),
-    54: (None, -26),
-    55: (None, -26),
-    56: (None, -27),
-    57: (None, None),
-    58: (None, None),
-    59: (None, None),
+    '48': (None, -26),
+    '49': (None, -25),
+    '50': (None, -26),
+    '51': (None, -12),
+    '52': (-12,  -14),
+    '53': (-12,  -25),
+    '54': (None, -26),
+    '55': (None, -26),
+    '56': (None, -27),
+    '57': (None, None),
+    '58': (None, None),
+    '59': (None, None),
 }
 
 HONORIFIC_REPLACEMENTS = {

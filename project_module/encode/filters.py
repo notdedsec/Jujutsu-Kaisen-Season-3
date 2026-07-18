@@ -19,7 +19,7 @@ SceneRanges = dict[tuple[int, int], dict] | None
 
 def get_src(episode: Episode) -> vs.VideoNode:
     if config.format == 'BD':
-        bd = FileInfo(episode.BD).init_cut()
+        bd = FileInfo(episode.BD, trim=episode.trim).init_cut()
 
         if is_preview():
             set_output(bd, 'jpbd')

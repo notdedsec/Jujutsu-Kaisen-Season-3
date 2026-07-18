@@ -25,12 +25,12 @@ def run_single_encode(episode: Episode, clip: vs.VideoNode, zones=None):
     if config.vcodec == 'HEVC':
         video = x265(settings_x265, zones).encode(grain(clip))
     elif config.vcodec == 'AV1':
-        video = SVTAV1(src_file(episode.video_source), **settings_av1).encode(clip)
+        video = SVTAV1(src_file(episode.video_source, trim=episode.trim), **settings_av1).encode(clip)
     else:
         raise ValueError(f'Unsupported video codec: {config.vcodec}')
 
     audio = do_audio(
-        episode.audio_source,
+        src_file(episode.audio_source, trim=episode.trim),
         encoder=qAAC() if config.format == 'BD' else None,
     )
 
@@ -49,12 +49,12 @@ def run_dual_encodes(episode: Episode, clip: vs.VideoNode, zones=None):
         FFV1(LosslessPreset.SPEED),
         [
             (x265(settings_x265, zones), grain),
-            SVTAV1(src_file(episode.video_source), **settings_av1),
+            SVTAV1(src_file(episode.video_source, trim=episode.trim), **settings_av1),
         ],
     ).encode(finalize_clip(clip))
 
     audio = do_audio(
-        episode.audio_source,
+        src_file(episode.audio_source, trim=episode.trim),
         encoder=qAAC() if config.format == 'BD' else None,
     )
 

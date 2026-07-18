@@ -2,8 +2,10 @@ from dataclasses import dataclass, field
 from functools import cached_property
 from pathlib import Path
 
+from muxtools.utils.types import Trim
+
 from project_module.config import config
-from project_module.helpers import get_source
+from project_module.helpers import get_source, get_trim
 
 show = config.shorthand
 
@@ -19,6 +21,10 @@ class Stream:
     @property
     def number(self) -> str:
         return self.id
+
+    @property
+    def trim(self) -> Trim | None:
+        return get_trim(self.id)
 
     @property
     def encode(self) -> Path:
