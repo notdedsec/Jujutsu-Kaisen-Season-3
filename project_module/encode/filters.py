@@ -59,10 +59,10 @@ def rescale(clip: vs.VideoNode, skip_ranges: FrameRanges = None) -> vs.VideoNode
     r.doubled = fine_dehalo(
         r.doubled,
         ss=1,
-        darkstr=0.25,
-        brightstr=0.75,
-        thmi=40,
-        thlimi=16,
+        darkstr=0.5,
+        brightstr=1.0,
+        contra=1.5,
+        edgeproc=0.5,
         exclude=False,
     )
 
