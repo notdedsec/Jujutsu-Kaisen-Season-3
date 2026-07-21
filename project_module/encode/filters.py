@@ -8,7 +8,7 @@ from vsmuxtools import FileInfo
 from vspreview import is_preview, set_output
 from vsrgtools import MeanMode
 from vsscale import ArtCNN, Rescale
-from vstools import core, replace_ranges, vs
+from vstools import core, join, replace_ranges, vs
 
 from project_module.config import config
 from project_module.source.models import Episode
@@ -20,29 +20,27 @@ SceneRanges = dict[tuple[int, int], dict] | None
 def get_src(episode: Episode) -> vs.VideoNode:
     if config.format == 'BD':
         bd = FileInfo(episode.BD, trim=episode.trim).init_cut()
+        cr = FileInfo(episode.CR).init_cut()
+        out = join(bd, cr)
 
-        if is_preview():
-            set_output(bd, 'jpbd')
+    else:
+        cr = FileInfo(episode.CR).init_cut()
+        az = FileInfo(episode.AZ).init_cut()
+        dp = FileInfo(episode.DP, trim=(24, None)).init_cut()
+        nf = FileInfo(episode.NF, trim=(24, None)).init_cut()
+        out = MeanMode.LEHMER(cr, dp, nf, planes=[0])
 
-        return bd
-
-    return merge(episode)
-
-
-def merge(episode: Episode) -> vs.VideoNode:
-    cr = FileInfo(episode.CR).init_cut()
-    az = FileInfo(episode.AZ).init_cut()
-    dp = FileInfo(episode.DP, trim=(24, None)).init_cut()
-    nf = FileInfo(episode.NF, trim=(24, None)).init_cut()
-
-    out = MeanMode.LEHMER(cr, dp, nf, planes=[0])
-
-    if is_preview():
+    if is_preview() and config.format == 'BD':
+        set_output(bd, 'jpbd')
         set_output(cr, 'crunchyroll')
-        # set_output(az, 'amazon')
+        set_output(out, 'src')
+
+    if is_preview() and config.format == 'WEB':
+        set_output(cr, 'crunchyroll')
+        set_output(az, 'amazon')
         set_output(dp, 'disney+')
         set_output(nf, 'netflix')
-        set_output(out, 'merge')
+        set_output(out, 'src')
 
     return out
 
